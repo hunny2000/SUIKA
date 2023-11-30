@@ -838,10 +838,10 @@ class Room extends PIXI.Container {
                 }
                 ct.pixiApp.renderer.backgroundColor = ct.u.hexToPixi(this.template.backgroundColor);
             }
-            if (this === ct.room) {
+            ct.fittoscreen();
+if (this === ct.room) {
     ct.place.tileGrid = {};
 }
-ct.fittoscreen();
 if (this === ct.room) {
   ct.room.matterEngine = Matter.Engine.create();
   ct.room.matterWorld = ct.room.matterEngine.world;
@@ -1277,7 +1277,17 @@ ct.rooms.beforeDraw = function beforeDraw() {
 
 };
 ct.rooms.afterDraw = function afterDraw() {
-    for (const pointer of ct.pointer.down) {
+    ct.keyboard.clear();
+if (ct.sound.follow && !ct.sound.follow.kill) {
+    ct.sound.howler.pos(
+        ct.sound.follow.x,
+        ct.sound.follow.y,
+        ct.sound.useDepth ? ct.sound.follow.z : 0
+    );
+} else if (ct.sound.manageListenerPosition) {
+    ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
+}
+for (const pointer of ct.pointer.down) {
     pointer.xprev = pointer.x;
     pointer.yprev = pointer.y;
     pointer.xuiprev = pointer.x;
@@ -1292,16 +1302,6 @@ for (const pointer of ct.pointer.hover) {
 ct.inputs.registry['pointer.Wheel'] = 0;
 ct.pointer.clearReleased();
 ct.pointer.xmovement = ct.pointer.ymovement = 0;
-ct.keyboard.clear();
-if (ct.sound.follow && !ct.sound.follow.kill) {
-    ct.sound.howler.pos(
-        ct.sound.follow.x,
-        ct.sound.follow.y,
-        ct.sound.useDepth ? ct.sound.follow.z : 0
-    );
-} else if (ct.sound.manageListenerPosition) {
-    ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
-}
 
 };
 ct.rooms.rootRoomOnCreate = function rootRoomOnCreate() {
@@ -12650,15 +12650,13 @@ function initPort(e) {
     // if (e.origin !== "https://suika-solo.vercel.app" && e.origin !== "https://merzi.playzap.games" && e.origin!== 'http://localhost:5173') return;
     
     // console.log(e.data);
-    Unity.call(e.data);
     if (e.data === "init") 
     {
-        ct.rooms.switch('GameScene');
-        Unity.call(console.log(e.data));
         // console.log(e.data);
-        // window.parent.postMessage('initParent', '*', [channel.port2]);
+        window.parent.postMessage('initParent', '*', [channel.port2]);
         
-        window.postMessage('initParent', '*', [channel.port2]);
+        // window.postMessage('initParent', '*', [channel.port2]);
+        ct.rooms.switch('GameScene');
 
         // window.ReactNativeWebView ? 
         //     window.ReactNativeWebView.postMessage('initParent', '*', [channel.port2]) 
