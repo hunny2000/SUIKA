@@ -12499,8 +12499,7 @@ ct.tween.easeInOutQuad = ct.tween.ease;
 
             Promise.all(loadingPromises)
             .then(() => {
-                ct.pointer.setupListeners();
-Object.defineProperty(ct.templates.Copy.prototype, 'cgroup', {
+                Object.defineProperty(ct.templates.Copy.prototype, 'cgroup', {
     set: function (value) {
         this.$cgroup = value;
     },
@@ -12549,6 +12548,7 @@ Object.defineProperty(ct.templates.Tilemap.prototype, 'enableCollisions', {
         ct.place.enableTilemapCollisions(this, cgroup);
     }
 });
+ct.pointer.setupListeners();
 
                 loadingScreen.classList.add('hidden');
                 ct.pixiApp.ticker.add(ct.loop);
@@ -12650,19 +12650,21 @@ function initPort(e) {
     // if (e.origin !== "https://suika-solo.vercel.app" && e.origin !== "https://merzi.playzap.games" && e.origin!== 'http://localhost:5173') return;
     
     // console.log(e.data);
+    Unity.call(e.data);
     if (e.data === "init") 
     {
+        ct.rooms.switch('GameScene');
+        Unity.call(console.log(e.data));
         // console.log(e.data);
-        window.parent.postMessage('initParent', '*', [channel.port2]);
+        // window.parent.postMessage('initParent', '*', [channel.port2]);
         
-        // window.postMessage('initParent', '*', [channel.port2]);
+        window.postMessage('initParent', '*', [channel.port2]);
 
         // window.ReactNativeWebView ? 
         //     window.ReactNativeWebView.postMessage('initParent', '*', [channel.port2]) 
         //     :
         //     window.parent.postMessage('initParent', '*', [channel.port2]);
         
-        ct.rooms.switch('GameScene');
     } 
     if (e.data === "stop") 
     {
