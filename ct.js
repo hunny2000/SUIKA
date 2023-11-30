@@ -838,10 +838,10 @@ class Room extends PIXI.Container {
                 }
                 ct.pixiApp.renderer.backgroundColor = ct.u.hexToPixi(this.template.backgroundColor);
             }
-            ct.fittoscreen();
-if (this === ct.room) {
+            if (this === ct.room) {
     ct.place.tileGrid = {};
 }
+ct.fittoscreen();
 if (this === ct.room) {
   ct.room.matterEngine = Matter.Engine.create();
   ct.room.matterWorld = ct.room.matterEngine.world;
@@ -1277,17 +1277,7 @@ ct.rooms.beforeDraw = function beforeDraw() {
 
 };
 ct.rooms.afterDraw = function afterDraw() {
-    if (ct.sound.follow && !ct.sound.follow.kill) {
-    ct.sound.howler.pos(
-        ct.sound.follow.x,
-        ct.sound.follow.y,
-        ct.sound.useDepth ? ct.sound.follow.z : 0
-    );
-} else if (ct.sound.manageListenerPosition) {
-    ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
-}
-ct.keyboard.clear();
-for (const pointer of ct.pointer.down) {
+    for (const pointer of ct.pointer.down) {
     pointer.xprev = pointer.x;
     pointer.yprev = pointer.y;
     pointer.xuiprev = pointer.x;
@@ -1302,6 +1292,16 @@ for (const pointer of ct.pointer.hover) {
 ct.inputs.registry['pointer.Wheel'] = 0;
 ct.pointer.clearReleased();
 ct.pointer.xmovement = ct.pointer.ymovement = 0;
+ct.keyboard.clear();
+if (ct.sound.follow && !ct.sound.follow.kill) {
+    ct.sound.howler.pos(
+        ct.sound.follow.x,
+        ct.sound.follow.y,
+        ct.sound.useDepth ? ct.sound.follow.z : 0
+    );
+} else if (ct.sound.manageListenerPosition) {
+    ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
+}
 
 };
 ct.rooms.rootRoomOnCreate = function rootRoomOnCreate() {
@@ -12499,7 +12499,8 @@ ct.tween.easeInOutQuad = ct.tween.ease;
 
             Promise.all(loadingPromises)
             .then(() => {
-                Object.defineProperty(ct.templates.Copy.prototype, 'cgroup', {
+                ct.pointer.setupListeners();
+Object.defineProperty(ct.templates.Copy.prototype, 'cgroup', {
     set: function (value) {
         this.$cgroup = value;
     },
@@ -12548,7 +12549,6 @@ Object.defineProperty(ct.templates.Tilemap.prototype, 'enableCollisions', {
         ct.place.enableTilemapCollisions(this, cgroup);
     }
 });
-ct.pointer.setupListeners();
 
                 loadingScreen.classList.add('hidden');
                 ct.pixiApp.ticker.add(ct.loop);
@@ -12655,7 +12655,7 @@ function initPort(e) {
         // console.log(e.data);
         window.parent.postMessage('initParent', '*', [channel.port2]);
         
-        window.postMessage('initParent', '*', [channel.port2]);
+        // window.postMessage('initParent', '*', [channel.port2]);
 
         // window.ReactNativeWebView ? 
         //     window.ReactNativeWebView.postMessage('initParent', '*', [channel.port2]) 
