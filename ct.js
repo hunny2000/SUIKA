@@ -1292,7 +1292,6 @@ for (const pointer of ct.pointer.hover) {
 ct.inputs.registry['pointer.Wheel'] = 0;
 ct.pointer.clearReleased();
 ct.pointer.xmovement = ct.pointer.ymovement = 0;
-ct.keyboard.clear();
 if (ct.sound.follow && !ct.sound.follow.kill) {
     ct.sound.howler.pos(
         ct.sound.follow.x,
@@ -1302,6 +1301,7 @@ if (ct.sound.follow && !ct.sound.follow.kill) {
 } else if (ct.sound.manageListenerPosition) {
     ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
 }
+ct.keyboard.clear();
 
 };
 ct.rooms.rootRoomOnCreate = function rootRoomOnCreate() {
@@ -12653,9 +12653,9 @@ function initPort(e) {
     if (e.data === "init") 
     {
         // console.log(e.data);
-        window.parent.postMessage('initParent', '*', [channel.port2]);
+        // window.parent.postMessage('initParent', '*', [channel.port2]);
         
-        window.postMessage('initParent', '*', [channel.port2]);
+        // window.postMessage('initParent', '*', [channel.port2]);
 
         window.ReactNativeWebView ? 
             window.ReactNativeWebView.postMessage('initParent', '*', [channel.port2]) 
