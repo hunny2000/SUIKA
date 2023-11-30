@@ -1,1 +1,12808 @@
-const _0x280885=_0x4d4f;(function(_0x4e05d2,_0x34e524){const _0x14394c=_0x4d4f,_0x38661c=_0x4e05d2();while(!![]){try{const _0x4b74bd=parseInt(_0x14394c(0x4a6))/0x1*(-parseInt(_0x14394c(0x534))/0x2)+parseInt(_0x14394c(0x14d))/0x3+-parseInt(_0x14394c(0x2e0))/0x4*(-parseInt(_0x14394c(0x198))/0x5)+-parseInt(_0x14394c(0x41f))/0x6*(-parseInt(_0x14394c(0x577))/0x7)+-parseInt(_0x14394c(0x580))/0x8+-parseInt(_0x14394c(0x527))/0x9+parseInt(_0x14394c(0x30e))/0xa;if(_0x4b74bd===_0x34e524)break;else _0x38661c['push'](_0x38661c['shift']());}catch(_0x449d6d){_0x38661c['push'](_0x38661c['shift']());}}}(_0x1557,0x3dc2f));function _0x4d4f(_0x22b960,_0xf0a9b9){const _0x155761=_0x1557();return _0x4d4f=function(_0x4d4ff9,_0x17dc85){_0x4d4ff9=_0x4d4ff9-0xec;let _0x47a6bf=_0x155761[_0x4d4ff9];return _0x47a6bf;},_0x4d4f(_0x22b960,_0xf0a9b9);}try{require('electron');}catch{location['protocol']===_0x280885(0x4b9)&&alert(_0x280885(0x558));}const deadPool=[],copyTypeSymbol=Symbol(_0x280885(0x4da));setInterval(function cleanDeadPool(){const _0x924b2f=_0x280885;deadPool[_0x924b2f(0x44c)]=0x0;},0x3e8*0x3c);const ct={'speed':[0x3c][0x0]||0x3c,'templates':{},'snd':{},'stack':[],'fps':[0x3c][0x0]||0x3c,'delta':0x1,'deltaUi':0x1,'camera':null,'version':_0x280885(0x204),'meta':[{'name':'SUIKA','author':_0x280885(0x187),'site':'','version':_0x280885(0x351)}][0x0],get 'width'(){const _0xd084cf=_0x280885;return ct[_0xd084cf(0x181)][_0xd084cf(0x52d)]['view']['width'];},set 'width'(_0x1d1066){const _0x20ddfa=_0x280885;return ct[_0x20ddfa(0x29d)][_0x20ddfa(0x4f4)]=ct[_0x20ddfa(0x1bd)]=_0x1d1066,(!ct[_0x20ddfa(0x32d)]||ct[_0x20ddfa(0x32d)]['mode']===_0x20ddfa(0x165))&&ct[_0x20ddfa(0x181)][_0x20ddfa(0x52d)]['resize'](_0x1d1066,ct[_0x20ddfa(0x370)]),ct[_0x20ddfa(0x32d)]&&ct[_0x20ddfa(0x32d)](),_0x1d1066;},get 'height'(){const _0x54f878=_0x280885;return ct[_0x54f878(0x181)][_0x54f878(0x52d)][_0x54f878(0x33d)]['height'];},set 'height'(_0x2ac86a){const _0x333175=_0x280885;return ct[_0x333175(0x29d)]['height']=ct['roomHeight']=_0x2ac86a,(!ct[_0x333175(0x32d)]||ct[_0x333175(0x32d)][_0x333175(0x474)]===_0x333175(0x165))&&ct[_0x333175(0x181)][_0x333175(0x52d)][_0x333175(0x499)](ct[_0x333175(0x4f4)],_0x2ac86a),ct['fittoscreen']&&ct[_0x333175(0x32d)](),_0x2ac86a;}};console[_0x280885(0xff)](_0x280885(0x3ec)+ct[_0x280885(0x28a)]+_0x280885(0x2ba),'background:\x20#446adb;\x20color:\x20#fff;\x20padding:\x200.5em\x200;',_0x280885(0x16f),_0x280885(0x222),'background:\x20#5144db;\x20color:\x20#fff;\x20padding:\x200.5em\x200;'),ct[_0x280885(0x280)]=[!![]][0x0];function _0x1557(){const _0x430b78=['beginFill','\x20inside\x20an\x20invalid\x20room.\x20Room\x27s\x20value\x20provided:\x20','loadGame','createElement','[ct.rooms]\x20prepend\x20failed:\x20the\x20room\x20','occupiedMultiple','customProperties','\x22\x20already\x20exists,\x20can\x27t\x20add\x20a\x20new\x20one\x20with\x20the\x20same\x20name.','slice','afterStep','matterWorld','enableCollisions','ROUND_PIXELS','setPosition','collisionEnd','func','forEach','.png','FFFFFF','iPhone','onUp','ImpactArea','exists','setFullScreen','xmovement','complex','transform','I\x20am\x20a\x20ct.js\x20copy','download','types','Vector','extend','KeyO','rootRoomOnCreate','render','particles','ctrl','line','[ct.templates]\x20An\x20attempt\x20to\x20create\x20a\x20copy\x20of\x20a\x20non-existent\x20template\x20`','delete','score','prevValue','Base','includes','keyup','U+001D','AltLeft','label','bgs','Digit0','ext','textures','./img/a1.json','width','alpha','settled','ControlLeft','function','Minus','test_collision','Sound_BombDrop','Mon_Trail_','.ct-aLoadingBar','identifyKey','updateOwnerPos','Copy\x20is\x20killed','FlyScore','./img/a0.json','strip','rotation','altKey','ios','pointer.Secondary','DisplayObject','exitFullscreen','BLEND_MODES','[ct.inputs]\x20An\x20attempt\x20to\x20change\x20multiplier\x20of\x20a\x20non-existent\x20method\x20\x22','mozRequestPointerLock','music','down','OldFilm','CapsLock','_currentLocalID','room','innerWidth','starting','loadAtlas','pointerenter','Tilemap','U+001E','parse','Sound_6','updateTimers','Quote','lastPosX','NonConvert','KeyY','KeyU','Mon_Explode_Bomb','targetX','Mon_Explode_3','PrintScreen','max','Mon_05','4223214WbXNeZ','Digit5','getTopLeftCorner','ceil','get_p1','[ct.js]\x20Something\x20bad\x20has\x20just\x20happened.\x20This\x20is\x20usually\x20due\x20to\x20hardware\x20problems.\x20I\x27ll\x20try\x20to\x20fix\x20them\x20now,\x20but\x20if\x20the\x20game\x20still\x20doesn\x27t\x20run,\x20try\x20including\x20a\x20legacy\x20renderer\x20in\x20the\x20project\x27s\x20settings.','renderer','registry','launch','Emboss','computedY','forceSwitch','pointerout','83098HueIGG','F15','matterFriction','blendMode','inputs','ColorOverlay','maxY','BrowserHome','warn','bolder','[ct.place]\x20The\x20tilemap\x20already\x20has\x20collisions\x20enabled.','Emitter','useDepth','Sound_OnStart','ShiftLeft','Mon_Trail_Bomb','MuteMusic','promiseReject','Bevel','sound','collide','setAngularVelocity','Armature','7AE292','Wheel','gotoAndStop','Mon_0','[ct.tiles]\x20Attempt\x20to\x20cache\x20an\x20already\x20cached\x20tilemap.','methodCodes','LaunchApp1','Prime','ct.res.loadTexture','Noise','repeat-x','ZoomToggle','ct.tween','Your\x20game\x20won\x27t\x20work\x20like\x20this\x20because\x0aWeb\x20👏\x20builds\x20👏\x20require\x20👏\x20a\x20web\x20👏\x20server!\x0a\x0aConsider\x20using\x20a\x20desktop\x20build,\x20or\x20upload\x20your\x20web\x20build\x20to\x20itch.io,\x20GameJolt\x20or\x20your\x20own\x20website.\x0a\x0aIf\x20you\x20haven\x27t\x20created\x20this\x20game,\x20please\x20contact\x20the\x20developer\x20about\x20this\x20issue.\x0a\x0a\x20Also\x20note\x20that\x20ct.js\x20games\x20do\x20not\x20work\x20inside\x20the\x20itch\x20app;\x20you\x20will\x20need\x20to\x20open\x20the\x20game\x20with\x20your\x20browser\x20of\x20choice.','./snd/6B6NQDJQn6WrkR.mp3','poolSize','floor','anchor','Graphics','spritesheet','full','multiply','clientX','uiTandems','ct.res.loadBitmapFont','frozen','movementY','Mon_Explode_Bomb_Fuse','script','interpolatedShiftY','linux','grid','Sound_9','min','Music','startsWith','BracketRight','minY','exitPointerLock','Placeholder','iPod','keyCap','Mon_Explode_','parseDragonBonesData','491029whdUwC','DOMMouseScroll','requestPointerLock','postMessage','mozFullScreenElement','shake','maxX','point','easeOutQuart','1526208pDjXyx','switching','timeLeftOriginal','381200','AudioVolumeMute','pessimistic','Illegal\x20constructor','Digit4','methodExists','playing','resume','__points','ldx','SCORE','.mp3','CrSel','soundsLoaded','[ct.rooms]\x20An\x20attempt\x20to\x20remove\x20a\x20room\x20that\x20is\x20not\x20actually\x20a\x20room!\x20Provided\x20value:','coneInnerAngle','Print','GetTexture','obj','PanX','moz-win','Engine','normal','BlurFilter','log','Meta','angle','matterRestitution','wait','getBoundingBox','Backspace','TRAIL_TIME','Mon_01','Mon_Trail_1','switch','get_p2','AnimatedSprite','./snd/8FGRTnzB6pHdQK.mp3','Bloom','addChild','EEFF00','$chashes','moz','sign','ct.res.loadScript','manageStage','scaleFill','appendChild','Restart','win','tandems','clearReleased','deltaUi','shared','matterEnable','BrowserRefresh','wheelDelta','Bomb','interpolatedShiftX','Tab','maxFPS','keyboard','lineTo','COLLISION_SOUNDS_ALLOWED','ended','TiltShift','move','./snd/9hkLG4Kh1Nb1Lk.mp3','mozRequestFullScreen','Fuse','cells','yprev','7BF7ED','innerHeight','yui','getRoom','createStaticTilemap','Win','F6E6BA','port1','anchorX','INVLULERABLE_TIME','\x20at\x20animation\x20','round','twist','requestFullscreen','BrowserForward','KeyC','pointer','EventObject','toString','F4C952','traceRect','addMethod','string','intersects','invert','\x0aShape:\x20','sin','$cDebugCollision','head','EMPTY','303684IgfQpz','collisionStart','Function','MergeCheck','F21','computedX','right','Not\x20initialized','ForceArea','U+00A3','initialDeltaPos','MultiColorReplace','matterStatic','ungrouped','MuteSound','removeChildren','bgmusic','enableTilemapCollisions','ColorMatrix','#ffffff','electron','repeat-y','safari','[{\x22x\x22:906,\x22y\x22:766.00292969,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:0.5625,\x22y\x22:16.56240845},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:-6,\x22y\x22:766.00292969,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:0.5625,\x22y\x22:16.56240845},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:450,\x22y\x22:1392,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:14.8125,\x22y\x22:3.75},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:-106.5,\x22y\x22:-36,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:17.4375,\x22y\x22:4.21875},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22Placeholder\x22},{\x22x\x22:450,\x22y\x22:332,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:14.8125,\x22y\x22:0.125},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22WALL_TOP_TRIGGER\x22}]','fastScale','BrowserWindow','get_radius','randomizr','Backslash','dragonBones','Windows','shakeDecay','clientY','then','background:\x20#5144db;\x20color:\x20#fff;\x20padding:\x200.5em\x200;','required','points','ticker','curve','chrome-win','F24','Sound_2','matterRopeDamping','ExSel','ctrlKey','load','Mon_04','Line','Score','en-us','U+0010','U+000C','pixiApp','timers','play','HRTF','matterDensity','setSeed','Abhinav','location','mainTemplate','PrimeBomb','remote','.wav','uid','Events','Double','tile','ct.timer','styles','matterFixPivot','follow','addChildAt','KeyS','removeEventListener','5MgQDnE','push','isMusic','name','targetY','0058FF','NextRand','Attempt\x20to\x20get\x20a\x20non-existent\x20texture\x20','Control','[ct.res]\x20Could\x20not\x20load\x20image\x20','fire','dir','Numpad3','matterBody',',\x20_tex.png:\x20','KeyQ','Sound_Collision2','sort','image/png','url','timer3','onkeydown','assign','crandomizr','WALL_TOP_TRIGGER','diamondCellMap','click','coneOuterGain','rulebookStart','Explode','list','promiseResolve','KeyA','cros','Chrome/','MotionBlur','globalVolume','roomWidth','pressed','animation','SpawnShape','./snd/cNj6PCg7D2f5Qp.mp3','fade','clear','darwin','Alt','windows','tilePosition','Mac','DeltaRotation','ffffff','ease','prototype','loadDragonBonesSkeleton','defaultAnchor','getOS','parallaxX','traceCustom','get_size','onCreate','hidden','Rectangle','data','loadTexture','rootRoomOnStep','WaitingRoom','webkitIsFullScreen','drawDebugGraphic','SCALE_MODE','filters','abs','[ct.emitters]\x20An\x20attempt\x20to\x20create\x20a\x20non-existent\x20emitter\x20','parseTextureAtlasData','collisionActive','Digit8','shakePhase','F22','./snd/Qq52Ld7JPj3wqL.mp3','ArrowDown','NumpadMultiply','kill','fullscreen','tiltY','occupied','update','uuid','isPrimary','SwitchShape','isSensor','coneOuterAngle','res','ZoomBlur','restart','Digit7','_bomb','deltaPosition','ResumeBG','Mon_03','[ct.res]\x20Could\x20not\x20load\x20bitmap\x20font\x20','fastScaleInteger','getFocusedWindow','pause','duration','isFullScreen','followY','actions','safari-mac','9AFA32','3.2.0','flicker','splice','Adjustment','Gecko/','pointer.Wheel','rate','MSIE','all','Vertices','drift','MediaPlayPause','KeyT','updateSpawnPos','./snd/hHWMMBfM6n2pmh.mp3','wheel','concat','text','moveContinuousByAxes','matterMakeStatic','CE7AFF','style','place','Ticker','setAttribute','shiftX','$cgroup','left','pointerdown','lineStyle','background:\x20#446adb;\x20color:\x20#fff;\x20padding:\x200.5em\x200;','RELEASE','Opera/','Exchange','range','any','matterFrictionAir','free','Sound_Switch','sounds','KeyZ','Numpad9','type','endsWith','Escape','MetaRight','src','Slash','.ogg','source','gameToUiCoord','$cDebugText','getBottomLeftCorner','FXAA','Mon_Explode_9','matterRopeStiffness','F14','Background','remove','backgroundColor','color','PanY','warning','TILEMAP','body','onkeyup','BulgePinch','keyIdentifier','LineStrip','pointerleave','cacheDiamond','U+00A1','append','appendant','reposition','init','beforeStep','delay','movementX','create','opera','pairs','imul','mass','F777A1','PauseBG','Equal','pointerId','top','expandViewport','stack','addAction','Sound_7','Sound_5','animationSpeed','[ct.rooms]\x20Removing\x20a\x20room\x20that\x20was\x20not\x20found\x20in\x20ct.rooms.list.\x20This\x20is\x20strange…','Mon_06','TouchReady','alt','moveByAxes','ExplodeShape','KawaseBlur','soundsError','CollsionSound','playAnimationOnStart','chunkY','./snd/QMR7cDdHD763rP.mp3','GameScene','./snd/PLnqj2z1pHFkh7.mp3','NumpadDivide','extract','ArrowRight','Reinit','msExitFullscreen','AltRight','5D53AC','Pixelate','skeletons','Insert','of\x20','_shape','[ct.res]\x20Could\x20not\x20load\x20atlas\x20','rejected','[{\x22x\x22:906,\x22y\x22:766.00292969,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:0.5625,\x22y\x22:16.56240845},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:424,\x22y\x22:240,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:1,\x22y\x22:1},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22CurrentShape\x22},{\x22x\x22:-6,\x22y\x22:766.00292969,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:0.5625,\x22y\x22:16.56240845},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:450,\x22y\x22:1392,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:14.8125,\x22y\x22:3.75},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22walls\x22},{\x22x\x22:-106.5,\x22y\x22:-36,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:17.4375,\x22y\x22:4.21875},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22Placeholder\x22},{\x22x\x22:462,\x22y\x22:332,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:14.8125,\x22y\x22:0.125},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22WALL_TOP_TRIGGER\x22},{\x22x\x22:24,\x22y\x22:-324,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:1,\x22y\x22:1},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22Score\x22},{\x22x\x22:708,\x22y\x22:-288,\x22opacity\x22:1,\x22tint\x22:16777215,\x22scale\x22:{\x22x\x22:1,\x22y\x22:1},\x22rotation\x22:0,\x22exts\x22:{},\x22customProperties\x22:{},\x22template\x22:\x22NextShape\x22}]','highDensity','prect','currentRootRandomizer','unknown','\x22\x20does\x20not\x20exist!','delayed','extends','sqrt','Sound_Collision0','Could\x20not\x20reliably\x20fade\x20a\x20sound,\x20reason:','version','FFE100','Sprite','easeInOutQuad','rootRoomOnLeave','B03908','SOUND_EVENT','command','oldMaxParticles','contextmenu','capture','696969','World','SimpleLightmap','cgroup','Godray','NumLock','matterSensor','mac','camera','yuiprev','shiftKey','Digit3','updateFollow','U+0004','Mon_Explode_1','shiftY','atan2','gravity','trail','__type','tiltX','50%','Bodies','keys','onDraw','U+00A0','findIndex','Sound_8','translate(-50%,\x20-50%)\x20scale(','onerror','screen','key','F12','ArrowUp','resolution','reject','Mon_Trail_0','\x20%c\x20https://ctjs.rocks/\x20','ColorReplace','vendor','pdn','cache','CurrentShape','navigator','shakePhaseX','burst','next','addEventListener','Convolution','code','BombPlay','Mon_Explode_0','manageListenerPosition','D2B607','updateActions','locale','add','PixiFactory','Numpad8','F76A2F','bind','apply','Mon_Trail_3','pos','antialias','Lang1','fullscreenElement','\x22\x20to\x20an\x20action\x20\x22','chrome','Home','pointermove','moveTo','Semicolon','NORMAL','[ct.inputs]\x20An\x20attempt\x20to\x20add\x20an\x20already\x20added\x20input\x20\x22','1088944xKXpTc','Numpad2','exts','distanceY','Mon_09','velocity','timer6','shakePhaseY','frames','cameraConstraints','NumpadDecimal','message','closedStrip','speed','Press','Sound_1','wall','Help','shakeMax','KeyV','dieTimerTrigger','onDown','parallaxY','xstart','Attempt\x20to\x20spawn\x20a\x20copy\x20of\x20template\x20','KeyJ','maxDistance','Sound_4','mozCancelFullScreen','Displacement','moz-mac','pixiTiles','bodyB','getNewId','Sound_MonDrop1','Constraint','addPoint','join','detect','error','Stopped\x20by\x20game\x20logic','PRESS\x20DOWN\x20','realign','indexOf','Text','timeScale','3420430Uyahjn','getElementsByTagName','Mon_02','get_position','F10','lock','tempRand','onError','U+00A5','pop','codecs','tweens','Delete','matterEngine','U+00A2','howler','pdc','emitter','maxParticles','Bounds','Apple','chunkX','MediaTrackPrevious','tileScale','shakeFrequency','KeyX','circle','forceArea','__position','browser','custom','fittoscreen','\x0aCGroup:\x20','BrowserSearch','Sound_','Mon_00','DOM_KEY_LOCATION_RIGHT','createStaticTile','borderY','669CED','KanaMode','scaleX','moveAlong','NumpadComma','Backquote','shift','attachEvent','view','FF8C00','ControlRight','./snd/FRBP3RDqBFpdJ4.mp3','TextStyle','setCentre','ContextMenu','toggleFullscreen','call','\x22\x20at\x20event\x20','getBounds','./snd/GkbGNJ5CwzW6T7.mp3','preventDefault','Linux','afterDraw','queryKeyCap','none','lastCode','timeLeft','getLocalBounds','0.0.1','Body','skipRealign','CrossHatch','Reflection','Shift','setupListeners','stop','SHARE','rolloffFactor','ldy','tiles','value','high-performance','objects','roomUid','fromVertices','borderX','Sound_Collision','bomb','stage','overflow','Sound_Collision1','ogg','UnmuteMusic','factory','shape','bottom','matterConstraint','visible','sans-serif','height','ymovement','[ct.inputs]\x20An\x20action\x20\x22','content','pointerType','Mon_Explode_4','keyCode','promise','off','matterRopeLength','otherTemplate','3D88F7','Numpad5','8A0DC6','createSeededRandomizer','pointer.Primary','keyLocation','loopAnimation','unset','port2','mozPointerLockElement','moveContinuous','is\x20required.','NumpadEnter','direction','cos','ShiftRight','Sound_Fuse_Primed','Select','Minigame_bg','DeltaPinch','PageUp','debugTraceGraphics','volume','hasOwnProperty','onComplete','initParent','pointer.DeltaPinch','template','tileGrid','keydown','drawRoundedRect','hover','MediaSelect','scaleY','dieTimer','constraint','IntlBackslash','ShareShape','isUi','MetaLeft','BrowserStop','Sound_3','WARNING_TIME','U+001C','KeyG','getRectangle','localTransform','timing','tween','destroy','Sound','hypot','CONTINUE','expand','$cHadCollision','timer1','clone','ct.res.loadAtlas','NEAREST','CollisionManager','F20','removeChild','webkitRequestFullscreen','KeyR','RenderTexture','test','applyForce','xprev','onLeave','stringify','clamp','data-progress','options','getHashes','xlocked','Enter','settings','depth','Sound_Explode','_tex','focus','vspeed','B00036','474747','howl','_localID','#000000','lastKey','hspeed','templates','linear','roomHeight','KeyboardEvent','children','PageDown','CRT','released','animations','uiToGameCoord','Application','rect','fonts','./snd/pmDrPMT7cgF6Q6.mp3','MediaTrackNext','contains','gravityDir','fields','ModeChange','CrOS','no-repeat','getBottomRightCorner','Vulnerable','Glow','%c\x20😺\x20%c\x20ct.js\x20game\x20editor\x20%c\x20v','toDataURL','iPad','keyboard.','rooms','Execute','Mon-Part-Circle01','BrowserFavorites','Numpad1','NextShape','onmessage','copyFrom','Mon_08','rand','addUi','Comma','Loader','pointerup','delta','static','DOM_KEY_LOCATION_LEFT','#7D93B5','bodyA','pressure','scale','79E291','tileLayers','rope','Mon_07','F11','get','translate(-50%,\x20-50%)','2F8802','set','buttons','mp3','KeyI','DOM_KEY_LOCATION_STANDARD','Container','Star_11','timer4','resources','__dest','padStart','ArrowLeft','rotate','pcircle','SPRITE_MAX_TEXTURES','Unknown','canvas','getBoundingClientRect','24zjdBmA','radius','buildArmatureDisplay','drawCircle','U+00A4','Mon_Explode_2','[ct.sound.howler]\x20Oh\x20no!\x20We\x20couldn\x27t\x20load\x20','The\x20parameter\x20','display','ylocked','pannerAttr','KeyL','parseInt','U+001F','gridY','AudioVolumeDown','invalid','addedCollisions','chrome-mac','SCALE_MODES','xui','ctName','querySelector','setFromMatrix','ct.ide','ulid','catch','rulebookEnd','loop','Sound_BG','F6F6F6','once','reset','Digit1','[ct.res]\x20Could\x20not\x20load\x20skeleton\x20with\x20_ske.json:\x20','followX','degToRad','_destroyed','F17','getElementById','FirstTouch','KeyH','timer','Texture','FFDC00','length','deltaX','stopped','EndCheck','pointerLockElement','emitters','backgrounds','_scale','setAngle','onDestroy','matter','texture','parent','devicePixelRatio','Move','UnmuteSound','map','Room\x20switch','seeded','moveBullet','minX','6A029B','scaleFit','Minigame_bg_3','moveSmart','get_aabb','[ct.rooms]\x20append\x20failed:\x20the\x20room\x20','defineProperty','ct.js','copyIntoRoom','./snd/1FCj166hfrT7gf.mp3','Numpad7','[ct.rooms]\x20To\x20remove\x20a\x20room,\x20you\x20should\x20provide\x20a\x20reference\x20to\x20it\x20(to\x20an\x20object),\x20not\x20its\x20name.\x20Provided\x20value:','resolve','walls','NumpadAdd','X_BOUNDS','deltaDir','cacheAsBitmap','emit','mode','matterFrictionStatic','done','repeat','tex','Copy','getImpact','./snd/Lz534NjDqh2KPk.mp3','platform','Undefined','\x20does\x20not\x20exist!','autoDensity','distanceModel','current','beforeDraw','tilemaps','NumpadSubtract','shakeX','meta','Glitch','Accept','roomId','0x808080','number','updateGestures','copy','opacity','time','walkOverWithRulebook','rulebookActive','bombDroped','endFill','Scale','Share','spawn','pivot','onStep','resize','End','Mon_Trail_2','getTexture','KeyD','getIsFullscreen','MergePlaceholder','ActiveCheck','Process','methodMultipliers','Confetti_04','Flickering','copies','2RwkvNJ','ct.res.loadDragonBonesSkeleton','Exploded','wav','Triple','FLOOR_HEIGHT','userAgent','tint','\x20tries\x20to\x20play\x20a\x20non-existing\x20sound\x20','classList','Circle','xuiprev','cached','random','sprite','Point','gridX','ystart','find','file:','matterGravity','silent','Mon_Explode_5','buggy','position'];_0x1557=function(){return _0x430b78;};return _0x1557();}const pixiAppSettings={'width':[0x384][0x0],'height':[0x509][0x0],'antialias':![![]][0x0],'powerPreference':_0x280885(0x35e),'sharedTicker':![],'sharedLoader':!![],'transparent':[![]][0x0]};try{ct[_0x280885(0x181)]=new PIXI[(_0x280885(0x3de))](pixiAppSettings);}catch(_0x1cc946){console[_0x280885(0x307)](_0x1cc946),console[_0x280885(0x53c)](_0x280885(0x52c)),PIXI[_0x280885(0x3c7)][_0x280885(0x41b)]=Math[_0x280885(0x56c)](PIXI[_0x280885(0x3c7)][_0x280885(0x41b)],0x10),ct[_0x280885(0x181)]=new PIXI[(_0x280885(0x3de))](pixiAppSettings);}PIXI[_0x280885(0x3c7)][_0x280885(0x4cb)]=[![]][0x0],ct[_0x280885(0x181)][_0x280885(0x172)][_0x280885(0x123)]=[0x3c][0x0]||0x0;!ct[_0x280885(0x181)][_0x280885(0x52d)][_0x280885(0x3c3)][_0x280885(0x2d5)]&&(PIXI[_0x280885(0x3c7)][_0x280885(0x1dc)]=PIXI[_0x280885(0x432)][_0x280885(0x3b5)]);ct[_0x280885(0x365)]=ct[_0x280885(0x181)][_0x280885(0x365)],ct[_0x280885(0x181)][_0x280885(0x52d)][_0x280885(0x47f)]=ct[_0x280885(0x280)],document[_0x280885(0x446)]('ct')[_0x280885(0x116)](ct[_0x280885(0x181)][_0x280885(0x33d)]),ct['u']={'getEnvironment'(){const _0xb54ab1=_0x280885;if(window[_0xb54ab1(0x19b)]==='ct.js\x20debugger')return _0xb54ab1(0x437);try{if(nw['require'])return'nw';}catch(_0x1bc90b){void 0x0;}try{return require(_0xb54ab1(0x161)),'electron';}catch(_0x2f1868){void 0x0;}return _0xb54ab1(0x32b);},'getOS'(){const _0x1dab9f=_0x280885,_0xa57f31=window[_0x1dab9f(0x2c0)][_0x1dab9f(0x4ac)];if(_0xa57f31[_0x1dab9f(0x30b)](_0x1dab9f(0x16b))!==-0x1)return _0x1dab9f(0x1c6);if(_0xa57f31['indexOf'](_0x1dab9f(0x34a))!==-0x1)return _0x1dab9f(0x569);if(_0xa57f31[_0x1dab9f(0x30b)](_0x1dab9f(0x1c8))!==-0x1)return _0x1dab9f(0x1c4);return _0x1dab9f(0x283);},'ldx'(_0x2fbd5f,_0x567257){const _0x686057=_0x280885;return _0x2fbd5f*Math[_0x686057(0x389)](_0x567257*Math['PI']/0xb4);},'ldy'(_0x208153,_0x10701e){const _0x419560=_0x280885;return _0x208153*Math[_0x419560(0x149)](_0x10701e*Math['PI']/0xb4);},'pdn'(_0x25407e,_0x35211a,_0x4e9a12,_0x1dfea2){return(Math['atan2'](_0x1dfea2-_0x35211a,_0x4e9a12-_0x25407e)*0xb4/Math['PI']+0x168)%0x168;},'pdc'(_0x3cee93,_0xa2d58,_0x3aae93,_0x1c6367){const _0x7fcadf=_0x280885;return Math[_0x7fcadf(0x287)]((_0x3aae93-_0x3cee93)*(_0x3aae93-_0x3cee93)+(_0x1c6367-_0xa2d58)*(_0x1c6367-_0xa2d58));},'degToRad'(_0x2aa772){return _0x2aa772*Math['PI']/0xb4;},'radToDeg'(_0x3f5555){return _0x3f5555/Math['PI']*0xb4;},'rotate'(_0x4eff22,_0x5d5f06,_0x1ea119){return ct['u']['rotateRad'](_0x4eff22,_0x5d5f06,ct['u']['degToRad'](_0x1ea119));},'rotateRad'(_0x290a76,_0x13375a,_0x536337){const _0x20eddb=_0x280885,_0x5c69f6=Math[_0x20eddb(0x149)](_0x536337),_0x2f43e7=Math['cos'](_0x536337);return new PIXI[(_0x20eddb(0x4b5))](_0x2f43e7*_0x290a76-_0x5c69f6*_0x13375a,_0x2f43e7*_0x13375a+_0x5c69f6*_0x290a76);},'deltaDir'(_0x7fc0b6,_0x1b94db){_0x7fc0b6=(_0x7fc0b6%0x168+0x168)%0x168,_0x1b94db=(_0x1b94db%0x168+0x168)%0x168;var _0x3d2348=_0x7fc0b6,_0x3881e6=_0x1b94db,_0x11c5f3=_0x3881e6-_0x3d2348;return _0x11c5f3>0xb4&&(_0x11c5f3-=0x168),_0x11c5f3<-0xb4&&(_0x11c5f3+=0x168),_0x11c5f3;},'clamp'(_0x1aab49,_0x598a18,_0x13ad16){const _0x11f8f0=_0x280885;return Math['max'](_0x1aab49,Math[_0x11f8f0(0x56c)](_0x13ad16,_0x598a18));},'lerp'(_0x1ad988,_0x38b850,_0x592903){return _0x1ad988+(_0x38b850-_0x1ad988)*_0x592903;},'unlerp'(_0x52d2d9,_0xe728ee,_0x2c1d56){return(_0x2c1d56-_0x52d2d9)/(_0xe728ee-_0x52d2d9);},'map'(_0x221109,_0x1dbd7d,_0x4ba194,_0x502e76,_0x4e90e1){return(_0x221109-_0x1dbd7d)*(_0x4e90e1-_0x502e76)/(_0x4ba194-_0x1dbd7d)+_0x502e76;},'uiToGameCoord'(_0xaba2bd,_0xdd94b){const _0x33083e=_0x280885;return ct[_0x33083e(0x29d)][_0x33083e(0x3dd)](_0xaba2bd,_0xdd94b);},'gameToUiCoord'(_0x27e33e,_0x150cfc){const _0x3314ee=_0x280885;return ct[_0x3314ee(0x29d)][_0x3314ee(0x236)](_0x27e33e,_0x150cfc);},'hexToPixi'(_0x546208){const _0x2f0a7c=_0x280885;return Number('0x'+_0x546208[_0x2f0a7c(0x4c7)](0x1));},'pixiToHex'(_0x3118c9){const _0x28dd3c=_0x280885;return'#'+_0x3118c9['toString'](0x10)[_0x28dd3c(0x417)](0x6,0x0);},'prect'(_0x3107f4,_0x1536c4,_0x423d59){const _0x407ac9=_0x280885;var _0x1b97bb,_0x1a28f9,_0x57b54c,_0x583226;return _0x423d59[_0x407ac9(0x206)]?(_0x1b97bb=Math['min'](_0x423d59[0x0],_0x423d59[0x2]),_0x1a28f9=Math[_0x407ac9(0x525)](_0x423d59[0x0],_0x423d59[0x2]),_0x57b54c=Math[_0x407ac9(0x56c)](_0x423d59[0x1],_0x423d59[0x3]),_0x583226=Math[_0x407ac9(0x525)](_0x423d59[0x1],_0x423d59[0x3])):(_0x1b97bb=_0x423d59['x']-_0x423d59[_0x407ac9(0x36b)][_0x407ac9(0x21f)]*_0x423d59[_0x407ac9(0x404)]['x'],_0x1a28f9=_0x423d59['x']+_0x423d59[_0x407ac9(0x36b)][_0x407ac9(0x153)]*_0x423d59[_0x407ac9(0x404)]['x'],_0x57b54c=_0x423d59['y']-_0x423d59[_0x407ac9(0x36b)][_0x407ac9(0x25c)]*_0x423d59[_0x407ac9(0x404)]['y'],_0x583226=_0x423d59['y']+_0x423d59['shape'][_0x407ac9(0x36c)]*_0x423d59['scale']['y']),_0x3107f4>=_0x1b97bb&&_0x1536c4>=_0x57b54c&&_0x3107f4<=_0x1a28f9&&_0x1536c4<=_0x583226;},'pcircle'(_0x4e7b2b,_0x17af3e,_0x11f07c){const _0x42f20d=_0x280885;if(_0x11f07c[_0x42f20d(0x206)])return ct['u'][_0x42f20d(0x31e)](_0x4e7b2b,_0x17af3e,_0x11f07c[0x0],_0x11f07c[0x1])<_0x11f07c[0x2];return ct['u'][_0x42f20d(0x31e)](0x0,0x0,(_0x11f07c['x']-_0x4e7b2b)/_0x11f07c[_0x42f20d(0x404)]['x'],(_0x11f07c['y']-_0x17af3e)/_0x11f07c[_0x42f20d(0x404)]['y'])<_0x11f07c[_0x42f20d(0x36b)]['r'];},'ext'(_0x3784fa,_0x21dd86,_0x2ee9f0){if(_0x2ee9f0)for(const _0x19d032 in _0x2ee9f0){_0x21dd86[_0x2ee9f0[_0x19d032]]&&(_0x3784fa[_0x2ee9f0[_0x19d032]]=_0x21dd86[_0x2ee9f0[_0x19d032]]);}else for(const _0x1d7477 in _0x21dd86){_0x3784fa[_0x1d7477]=_0x21dd86[_0x1d7477];}return _0x3784fa;},'wait'(_0x494de9){const _0x4fd829=_0x280885;return ct['timer'][_0x4fd829(0x2cd)](_0x494de9);},'waitUi'(_0x15fa1b){const _0x5a9653=_0x280885;return ct[_0x5a9653(0x449)][_0x5a9653(0x3fa)](_0x15fa1b);},'promisify'(_0x25e576){return function(..._0x24bf9a){return new Promise((_0x36707d,_0x2c82ee)=>{const _0x58fded=_0x4d4f,_0x4698cc=function _0x3de596(_0x50615e,_0x439408){_0x50615e?_0x2c82ee(_0x50615e):_0x36707d(_0x439408);};_0x24bf9a[_0x58fded(0x199)](_0x4698cc),_0x25e576[_0x58fded(0x345)](this,..._0x24bf9a);});};},'required'(_0x287d99,_0x3e91fb){const _0x11ddcd=_0x280885;let _0x5178c3=_0x11ddcd(0x426);_0x287d99&&(_0x5178c3+=_0x287d99+'\x20');_0x3e91fb&&(_0x5178c3+=_0x11ddcd(0x27b)+_0x3e91fb+'\x20');_0x5178c3+=_0x11ddcd(0x386);throw new Error(_0x5178c3);},'numberedString'(_0x8c0980,_0x35a7a2){const _0x4d481b=_0x280885;return _0x8c0980+'_'+_0x35a7a2[_0x4d481b(0x141)]()[_0x4d481b(0x417)](0x2,'0');},'getStringNumber'(_0x4ed070){const _0x255bbc=_0x280885;return Number(_0x4ed070['split']('_')[_0x255bbc(0x317)]());}},ct['u'][_0x280885(0x4f1)](ct['u'],{'getOs':ct['u'][_0x280885(0x1cf)],'lengthDirX':ct['u'][_0x280885(0xf0)],'lengthDirY':ct['u'][_0x280885(0x35b)],'pointDirection':ct['u'][_0x280885(0x2bd)],'pointDistance':ct['u'][_0x280885(0x31e)],'pointRectangle':ct['u'][_0x280885(0x281)],'pointCircle':ct['u'][_0x280885(0x41a)],'extend':ct['u'][_0x280885(0x4f1)]}),((()=>{const _0x52df5d=_0x280885,_0x448c2a=_0x3a0116=>{const _0x51458f=_0x4d4f;_0x3a0116[_0x51458f(0x1e8)]=!![];_0x3a0116['onDestroy']&&(ct['templates'][_0x51458f(0x455)][_0x51458f(0x2d2)](_0x3a0116),_0x3a0116[_0x51458f(0x455)][_0x51458f(0x2d2)](_0x3a0116));for(const _0xa7abac of _0x3a0116[_0x51458f(0x3d8)]){_0xa7abac[copyTypeSymbol]&&_0x448c2a(_0xa7abac);}const _0x1258c3=ct[_0x51458f(0x25e)][_0x51458f(0x30b)](_0x3a0116);_0x1258c3!==-0x1&&ct[_0x51458f(0x25e)][_0x51458f(0x206)](_0x1258c3,0x1);if(_0x3a0116[_0x51458f(0x396)]){const _0x50e7ab=ct[_0x51458f(0x3d4)][_0x51458f(0x1b6)][_0x3a0116[_0x51458f(0x396)]][_0x51458f(0x30b)](_0x3a0116);_0x50e7ab!==-0x1&&ct[_0x51458f(0x3d4)][_0x51458f(0x1b6)][_0x3a0116[_0x51458f(0x396)]][_0x51458f(0x206)](_0x50e7ab,0x1);}deadPool[_0x51458f(0x199)](_0x3a0116);},_0x5ba9a1=()=>{const _0x10c66b=_0x4d4f;ct[_0x10c66b(0x29d)]&&(ct['camera']['update'](ct[_0x10c66b(0x3fe)]),ct['camera']['manageStage']());};ct[_0x52df5d(0x43b)]=function _0x3b5f59(){const _0x91fb16=_0x52df5d;ct[_0x91fb16(0x3fe)]=ct['pixiApp'][_0x91fb16(0x172)]['deltaMS']/(0x3e8/(ct[_0x91fb16(0x181)]['ticker'][_0x91fb16(0x123)]||0x3c)),ct[_0x91fb16(0x11b)]=ct[_0x91fb16(0x181)][_0x91fb16(0x172)]['elapsedMS']/(0x3e8/(ct[_0x91fb16(0x181)]['ticker'][_0x91fb16(0x123)]||0x3c)),ct[_0x91fb16(0x538)][_0x91fb16(0x2cb)](),ct[_0x91fb16(0x449)][_0x91fb16(0x51b)](),ct[_0x91fb16(0x21a)][_0x91fb16(0x390)][_0x91fb16(0x1c3)](),ct[_0x91fb16(0x3f0)][_0x91fb16(0x1d8)][_0x91fb16(0x2d2)](ct['room']);for(let _0x3a8826=0x0,_0x25bd39=ct[_0x91fb16(0x25e)]['length'];_0x3a8826<_0x25bd39;_0x3a8826++){ct[_0x91fb16(0x3d4)][_0x91fb16(0x250)][_0x91fb16(0x2d2)](ct[_0x91fb16(0x25e)][_0x3a8826]),ct['stack'][_0x3a8826][_0x91fb16(0x498)][_0x91fb16(0x2d2)](ct[_0x91fb16(0x25e)][_0x3a8826]),ct['templates'][_0x91fb16(0x4c8)]['apply'](ct[_0x91fb16(0x25e)][_0x3a8826]);}for(const _0x525f70 of ct['stage']['children']){if(!(_0x525f70 instanceof Room))continue;ct[_0x91fb16(0x3f0)][_0x91fb16(0x250)][_0x91fb16(0x2d2)](_0x525f70),_0x525f70[_0x91fb16(0x498)][_0x91fb16(0x2d2)](_0x525f70),ct['rooms'][_0x91fb16(0x4c8)][_0x91fb16(0x2d2)](_0x525f70);}for(const _0x54e6e1 of ct[_0x91fb16(0x25e)]){_0x54e6e1['kill']&&!_0x54e6e1[_0x91fb16(0x444)]&&(_0x448c2a(_0x54e6e1),_0x54e6e1[_0x91fb16(0x3ac)]({'children':!![]}));}for(const _0x3d0729 of ct['stage'][_0x91fb16(0x3d8)]){_0x3d0729[_0x91fb16(0x3d8)]['sort']((_0x21ea60,_0x3f9714)=>(_0x21ea60[_0x91fb16(0x3c8)]||0x0)-(_0x3f9714[_0x91fb16(0x3c8)]||0x0)||(_0x21ea60[_0x91fb16(0x18d)]||0x0)-(_0x3f9714[_0x91fb16(0x18d)]||0x0)||0x0);}_0x5ba9a1();for(let _0x533b1f=0x0,_0x599ddf=ct[_0x91fb16(0x25e)][_0x91fb16(0x44c)];_0x533b1f<_0x599ddf;_0x533b1f++){ct['templates'][_0x91fb16(0x482)]['apply'](ct[_0x91fb16(0x25e)][_0x533b1f]),ct[_0x91fb16(0x25e)][_0x533b1f][_0x91fb16(0x2ad)]['apply'](ct['stack'][_0x533b1f]),ct[_0x91fb16(0x3d4)][_0x91fb16(0x34b)][_0x91fb16(0x2d2)](ct['stack'][_0x533b1f]),ct[_0x91fb16(0x25e)][_0x533b1f][_0x91fb16(0x3be)]=ct[_0x91fb16(0x25e)][_0x533b1f]['x'],ct[_0x91fb16(0x25e)][_0x533b1f][_0x91fb16(0x12e)]=ct['stack'][_0x533b1f]['y'];}for(const _0x5dd345 of ct['stage']['children']){if(!(_0x5dd345 instanceof Room))continue;ct[_0x91fb16(0x3f0)][_0x91fb16(0x482)][_0x91fb16(0x2d2)](_0x5dd345),_0x5dd345[_0x91fb16(0x2ad)]['apply'](_0x5dd345),ct[_0x91fb16(0x3f0)][_0x91fb16(0x34b)][_0x91fb16(0x2d2)](_0x5dd345);}ct[_0x91fb16(0x3f0)]['rootRoomOnDraw'][_0x91fb16(0x2d2)](ct[_0x91fb16(0x512)]),ct[_0x91fb16(0x3f0)][_0x91fb16(0x581)]&&ct[_0x91fb16(0x3f0)][_0x91fb16(0x532)]();};})());class CtAction{constructor(_0x580136){const _0x22c01e=_0x280885;return this[_0x22c01e(0x19b)]=_0x580136,this['methodCodes']=[],this[_0x22c01e(0x4a2)]=[],this[_0x22c01e(0x4e8)]=0x0,this['value']=0x0,this;}[_0x280885(0xec)](_0x862fa6){const _0x2c2bac=_0x280885;return this[_0x2c2bac(0x550)][_0x2c2bac(0x30b)](_0x862fa6)!==-0x1;}[_0x280885(0x144)](_0x2a0103,_0x75d29b){const _0x400212=_0x280885;if(this['methodCodes'][_0x400212(0x30b)](_0x2a0103)===-0x1)this[_0x400212(0x550)][_0x400212(0x199)](_0x2a0103),this[_0x400212(0x4a2)][_0x400212(0x199)](_0x75d29b!==void 0x0?_0x75d29b:0x1);else throw new Error(_0x400212(0x2df)+_0x2a0103+_0x400212(0x2d8)+name+'\x22.');}['removeMethod'](_0xc107a9){const _0x1eb36a=_0x280885,_0x5775a5=this['methodCodes'][_0x1eb36a(0x30b)](_0xc107a9);_0x5775a5!==-0x1&&(this[_0x1eb36a(0x550)][_0x1eb36a(0x206)](_0x5775a5,0x1),this[_0x1eb36a(0x4a2)]['splice'](_0x5775a5,0x1));}['setMultiplier'](_0x572c9b,_0x483b19){const _0x1998f4=_0x280885,_0x4d9353=this[_0x1998f4(0x550)][_0x1998f4(0x30b)](_0x572c9b);_0x4d9353!==-0x1?this[_0x1998f4(0x4a2)][_0x4d9353]=_0x483b19:(console[_0x1998f4(0x242)](_0x1998f4(0x50b)+_0x572c9b+_0x1998f4(0x346)+this['name']),console['trace']());}['update'](){const _0x3c7403=_0x280885;this['prevValue']=this['value'],this[_0x3c7403(0x35d)]=0x0;for(let _0x3eb625=0x0,_0x5cefd7=this[_0x3c7403(0x550)][_0x3c7403(0x44c)];_0x3eb625<_0x5cefd7;_0x3eb625++){const _0xcca6bf=ct[_0x3c7403(0x538)][_0x3c7403(0x52e)][this['methodCodes'][_0x3eb625]]||0x0;this[_0x3c7403(0x35d)]+=_0xcca6bf*this[_0x3c7403(0x4a2)][_0x3eb625];}this[_0x3c7403(0x35d)]=Math['max'](-0x1,Math['min'](this[_0x3c7403(0x35d)],0x1));}[_0x280885(0x43f)](){const _0x2843bc=_0x280885;this[_0x2843bc(0x4e8)]=this['value']=0x0;}get['pressed'](){const _0x29da46=_0x280885;return this[_0x29da46(0x4e8)]===0x0&&this[_0x29da46(0x35d)]!==0x0;}get[_0x280885(0x3db)](){const _0x4ad7c3=_0x280885;return this[_0x4ad7c3(0x4e8)]!==0x0&&this['value']===0x0;}get[_0x280885(0x50e)](){const _0x245d37=_0x280885;return this[_0x245d37(0x35d)]!==0x0;}}ct[_0x280885(0x201)]={},ct[_0x280885(0x538)]={'registry':{},'addAction'(_0x2fab62,_0x4cebda){const _0x210d21=_0x280885;if(_0x2fab62 in ct[_0x210d21(0x201)])throw new Error(_0x210d21(0x372)+_0x2fab62+_0x210d21(0x4c6));const _0x2112b7=new CtAction(_0x2fab62);for(const _0x1bdbc9 of _0x4cebda){_0x2112b7['addMethod'](_0x1bdbc9['code'],_0x1bdbc9['multiplier']);}return ct[_0x210d21(0x201)][_0x2fab62]=_0x2112b7,_0x2112b7;},'removeAction'(_0x5d1c78){const _0x31d05a=_0x280885;delete ct[_0x31d05a(0x201)][_0x5d1c78];},'updateActions'(){const _0x28aa72=_0x280885;for(const _0x5dabdd in ct[_0x28aa72(0x201)]){ct[_0x28aa72(0x201)][_0x5dabdd][_0x28aa72(0x1ec)]();}}},ct[_0x280885(0x538)]['addAction']('Press',[{'code':_0x280885(0x37f)}]),ct[_0x280885(0x538)][_0x280885(0x25f)]('AltPress',[{'code':_0x280885(0x507)},{'code':'pointer.Double'}]),ct[_0x280885(0x538)][_0x280885(0x25f)](_0x280885(0x494),[{'code':_0x280885(0x395)},{'code':_0x280885(0x209)}]);class Room extends PIXI[_0x280885(0x412)]{static[_0x280885(0x301)](){const _0x2705f8=_0x280885;return this[_0x2705f8(0x489)]++,this[_0x2705f8(0x489)];}constructor(_0x5e84e8){const _0x58f39a=_0x280885;super(),this['x']=this['y']=0x0,this['uid']=Room[_0x58f39a(0x301)](),this['tileLayers']=[],this[_0x58f39a(0x452)]=[],this[_0x58f39a(0x3b2)]=this['timer2']=this[_0x58f39a(0x1ac)]=this[_0x58f39a(0x414)]=this['timer5']=this['timer6']=0x0;!ct[_0x58f39a(0x512)]&&(ct[_0x58f39a(0x512)]=ct['rooms'][_0x58f39a(0x481)]=this);if(_0x5e84e8){this[_0x58f39a(0x1d3)]=_0x5e84e8[_0x58f39a(0x1d3)],this['onStep']=_0x5e84e8[_0x58f39a(0x498)],this['onDraw']=_0x5e84e8[_0x58f39a(0x2ad)],this[_0x58f39a(0x3bf)]=_0x5e84e8[_0x58f39a(0x3bf)],this[_0x58f39a(0x396)]=_0x5e84e8,this[_0x58f39a(0x19b)]=_0x5e84e8[_0x58f39a(0x19b)],this[_0x58f39a(0x3a1)]=_0x5e84e8[_0x58f39a(0x3a1)],this['follow']=_0x5e84e8[_0x58f39a(0x194)];_0x5e84e8['extends']&&ct['u'][_0x58f39a(0x4f1)](this,_0x5e84e8['extends']);this===ct[_0x58f39a(0x512)]&&(this[_0x58f39a(0x396)]['transparent']&&(this[_0x58f39a(0x396)][_0x58f39a(0x23f)]=rgba(0x0,0x0,0x0,0x0)),ct[_0x58f39a(0x181)][_0x58f39a(0x52d)][_0x58f39a(0x23f)]=ct['u']['hexToPixi'](this[_0x58f39a(0x396)]['backgroundColor']));this===ct[_0x58f39a(0x512)]&&(ct[_0x58f39a(0x21a)][_0x58f39a(0x397)]={});ct['fittoscreen']();this===ct['room']&&(ct['room'][_0x58f39a(0x31b)]=Matter[_0x58f39a(0xfc)]['create'](),ct[_0x58f39a(0x512)][_0x58f39a(0x4c9)]=ct[_0x58f39a(0x512)][_0x58f39a(0x31b)]['world'],ct['room'][_0x58f39a(0x4ba)]=ct['room'][_0x58f39a(0x4ba)]||[[[0x0,0x2]][0x0][0x0],[[0x0,0x2]][0x0][0x1]],[ct[_0x58f39a(0x512)]['matterWorld'][_0x58f39a(0x2a6)]['x'],ct['room'][_0x58f39a(0x4c9)]['gravity']['y']]=ct[_0x58f39a(0x512)][_0x58f39a(0x4ba)],ct['matter'][_0x58f39a(0x1b4)]=[],ct[_0x58f39a(0x456)][_0x58f39a(0x491)]=[],ct[_0x58f39a(0x456)][_0x58f39a(0x43a)]=[]);for(let _0x302cbd=0x0,_0x55d22a=_0x5e84e8[_0x58f39a(0x4ef)][_0x58f39a(0x44c)];_0x302cbd<_0x55d22a;_0x302cbd++){const _0x4d5e47=new ct[(_0x58f39a(0x3d4))]['Background'](_0x5e84e8['bgs'][_0x302cbd][_0x58f39a(0x457)],null,_0x5e84e8[_0x58f39a(0x4ef)][_0x302cbd][_0x58f39a(0x3c8)],_0x5e84e8[_0x58f39a(0x4ef)][_0x302cbd][_0x58f39a(0x2e2)]);this[_0x58f39a(0x10e)](_0x4d5e47);}for(let _0x3f0126=0x0,_0x2dd3bb=_0x5e84e8[_0x58f39a(0x35c)][_0x58f39a(0x44c)];_0x3f0126<_0x2dd3bb;_0x3f0126++){const _0x504b87=new Tilemap(_0x5e84e8[_0x58f39a(0x35c)][_0x3f0126]);_0x504b87['cache'](),this[_0x58f39a(0x406)][_0x58f39a(0x199)](_0x504b87),this['addChild'](_0x504b87);}for(let _0x418a4d=0x0,_0x67ad23=_0x5e84e8[_0x58f39a(0x35f)][_0x58f39a(0x44c)];_0x418a4d<_0x67ad23;_0x418a4d++){const _0x8dc050=_0x5e84e8[_0x58f39a(0x35f)][_0x418a4d],_0x35bec6=_0x8dc050['exts']||{},_0x46dba4=_0x8dc050[_0x58f39a(0x4c5)]||{};ct['templates'][_0x58f39a(0x469)](_0x8dc050['template'],_0x8dc050['x'],_0x8dc050['y'],this,{..._0x35bec6,..._0x46dba4,'scaleX':_0x8dc050[_0x58f39a(0x404)]['x'],'scaleY':_0x8dc050['scale']['y'],'rotation':_0x8dc050[_0x58f39a(0x504)],'alpha':_0x8dc050[_0x58f39a(0x48e)],'tint':_0x8dc050['tint']});}}return this;}get['x'](){return-this['position']['x'];}set['x'](_0x122135){const _0x1ca406=_0x280885;return this[_0x1ca406(0x4be)]['x']=-_0x122135,_0x122135;}get['y'](){const _0x1439c7=_0x280885;return-this[_0x1439c7(0x4be)]['y'];}set['y'](_0x554b12){return this['position']['y']=-_0x554b12,_0x554b12;}}Room[_0x280885(0x489)]=0x0,function roomsAddon(){const _0x1ca639=_0x280885;var _0x36dffa;ct[_0x1ca639(0x3f0)]={'templates':{},'list':{},'addBg'(_0x4f376f,_0x5441c8){const _0x4ebefc=_0x1ca639,_0x2a185a=new ct['templates'][(_0x4ebefc(0x23d))](_0x4f376f,null,_0x5441c8);return ct[_0x4ebefc(0x512)][_0x4ebefc(0x10e)](_0x2a185a),_0x2a185a;},'addTileLayer'(_0x45ad59){const _0x415a7f=_0x1ca639;return ct[_0x415a7f(0x483)][_0x415a7f(0x253)](_0x45ad59);},'clear'(){const _0x243351=_0x1ca639;ct[_0x243351(0x365)][_0x243351(0x3d8)]=[],ct['stack']=[];for(const _0x1c1558 in ct[_0x243351(0x3d4)][_0x243351(0x1b6)]){ct['templates'][_0x243351(0x1b6)][_0x1c1558]=[];}for(const _0x1d8b64 in ct[_0x243351(0x452)]['list']){ct['backgrounds']['list'][_0x1d8b64]=[];}ct[_0x243351(0x3f0)][_0x243351(0x1b6)]={};for(const _0x34b847 in ct[_0x243351(0x3f0)]['templates']){ct[_0x243351(0x3f0)][_0x243351(0x1b6)][_0x34b847]=[];}},'remove'(_0x39c864){const _0x1cbde6=_0x1ca639;if(!(_0x39c864 instanceof Room)){if(typeof _0x39c864===_0x1cbde6(0x145))throw new Error(_0x1cbde6(0x46c),_0x39c864);throw new Error(_0x1cbde6(0xf5),_0x39c864);}const _0x45dbec=ct[_0x1cbde6(0x3f0)][_0x1cbde6(0x1b6)][_0x39c864['name']];_0x45dbec!==-0x1?ct[_0x1cbde6(0x3f0)][_0x1cbde6(0x1b6)][_0x39c864[_0x1cbde6(0x19b)]][_0x1cbde6(0x206)](_0x45dbec,0x1):console[_0x1cbde6(0x53c)](_0x1cbde6(0x263));_0x39c864['kill']=!![],ct[_0x1cbde6(0x365)][_0x1cbde6(0x3b8)](_0x39c864);for(const _0x30d9d4 of _0x39c864['children']){_0x30d9d4['kill']=!![];}_0x39c864[_0x1cbde6(0x3bf)](),ct[_0x1cbde6(0x3f0)]['onLeave'][_0x1cbde6(0x2d2)](_0x39c864);},'switch'(_0x31aa37){const _0x45d672=_0x1ca639;ct['rooms'][_0x45d672(0x3d4)][_0x31aa37]?(_0x36dffa=_0x31aa37,ct[_0x45d672(0x3f0)][_0x45d672(0x581)]=!![]):console[_0x45d672(0x307)]('[ct.rooms]\x20The\x20room\x20\x22'+_0x31aa37+_0x45d672(0x284));},'switching':![],'restart'(){const _0x1ed94b=_0x1ca639;ct[_0x1ed94b(0x3f0)][_0x1ed94b(0x109)](ct[_0x1ed94b(0x512)][_0x1ed94b(0x19b)]);},'append'(_0x36faa7,_0x274bf4){const _0x49154e=_0x1ca639;if(!(_0x36faa7 in ct[_0x49154e(0x3f0)]['templates']))return console[_0x49154e(0x307)](_0x49154e(0x466)+_0x36faa7+_0x49154e(0x47e)),![];const _0x27646d=new Room(ct[_0x49154e(0x3f0)]['templates'][_0x36faa7]);return _0x274bf4&&ct['u'][_0x49154e(0x4f1)](_0x27646d,_0x274bf4),ct['stage'][_0x49154e(0x10e)](_0x27646d),_0x27646d[_0x49154e(0x1d3)](),ct[_0x49154e(0x3f0)]['onCreate'][_0x49154e(0x2d2)](_0x27646d),ct[_0x49154e(0x3f0)]['list'][_0x36faa7]['push'](_0x27646d),_0x27646d;},'prepend'(_0x5b2af3,_0x349216){const _0x186944=_0x1ca639;if(!(_0x5b2af3 in ct[_0x186944(0x3f0)][_0x186944(0x3d4)]))return console[_0x186944(0x307)](_0x186944(0x4c3)+_0x5b2af3+'\x20does\x20not\x20exist!'),![];const _0x233ab4=new Room(ct[_0x186944(0x3f0)][_0x186944(0x3d4)][_0x5b2af3]);return _0x349216&&ct['u']['ext'](_0x233ab4,_0x349216),ct[_0x186944(0x365)][_0x186944(0x195)](_0x233ab4,0x0),_0x233ab4['onCreate'](),ct['rooms'][_0x186944(0x1d3)]['apply'](_0x233ab4),ct['rooms'][_0x186944(0x1b6)][_0x5b2af3][_0x186944(0x199)](_0x233ab4),_0x233ab4;},'merge'(_0x5a4e8e){const _0x220565=_0x1ca639;if(!(_0x5a4e8e in ct[_0x220565(0x3f0)][_0x220565(0x3d4)]))return console[_0x220565(0x307)]('[ct.rooms]\x20merge\x20failed:\x20the\x20room\x20'+_0x5a4e8e+_0x220565(0x47e)),![];const _0x81b30={'copies':[],'tileLayers':[],'backgrounds':[]},_0x47265e=ct['rooms'][_0x220565(0x3d4)][_0x5a4e8e],_0x1bb211=ct[_0x220565(0x512)];for(const _0x1855e4 of _0x47265e[_0x220565(0x4ef)]){const _0x1abeff=new ct[(_0x220565(0x3d4))][(_0x220565(0x23d))](_0x1855e4[_0x220565(0x457)],null,_0x1855e4[_0x220565(0x3c8)],_0x1855e4['extends']);_0x1bb211[_0x220565(0x452)][_0x220565(0x199)](_0x1abeff),_0x1bb211[_0x220565(0x10e)](_0x1abeff),_0x81b30[_0x220565(0x452)][_0x220565(0x199)](_0x1abeff);}for(const _0x186978 of _0x47265e[_0x220565(0x35c)]){const _0x5e4b61=new Tilemap(_0x186978);_0x1bb211[_0x220565(0x406)][_0x220565(0x199)](_0x5e4b61),_0x1bb211['addChild'](_0x5e4b61),_0x81b30[_0x220565(0x406)][_0x220565(0x199)](_0x5e4b61),_0x5e4b61['cache']();}for(const _0x4132a0 of _0x47265e[_0x220565(0x35f)]){const _0x57ce25=ct['templates'][_0x220565(0x469)](_0x4132a0[_0x220565(0x396)],_0x4132a0['x'],_0x4132a0['y'],_0x1bb211,{'tx':_0x4132a0['tx']||0x1,'ty':_0x4132a0['ty']||0x1,'tr':_0x4132a0['tr']||0x0});_0x81b30[_0x220565(0x4a5)][_0x220565(0x199)](_0x57ce25);}return _0x81b30;},'forceSwitch'(_0x87fc62){const _0xddba27=_0x1ca639;_0x36dffa&&(_0x87fc62=_0x36dffa);ct['room']&&(ct[_0xddba27(0x3f0)][_0xddba27(0x28e)]['apply'](ct[_0xddba27(0x512)]),ct[_0xddba27(0x512)][_0xddba27(0x3bf)](),ct['rooms'][_0xddba27(0x3bf)][_0xddba27(0x2d2)](ct['room']),ct[_0xddba27(0x512)]=void 0x0);ct[_0xddba27(0x3f0)][_0xddba27(0x1c3)](),deadPool['length']=0x0;var _0x5565bd=ct['rooms'][_0xddba27(0x3d4)][_0x87fc62];ct[_0xddba27(0x1bd)]=_0x5565bd[_0xddba27(0x4f4)],ct[_0xddba27(0x3d6)]=_0x5565bd[_0xddba27(0x370)],ct['camera']=new Camera(ct[_0xddba27(0x1bd)]/0x2,ct[_0xddba27(0x3d6)]/0x2,ct['roomWidth'],ct[_0xddba27(0x3d6)]),_0x5565bd['cameraConstraints']&&(ct[_0xddba27(0x29d)][_0xddba27(0x460)]=_0x5565bd[_0xddba27(0x2e9)]['x1'],ct['camera'][_0xddba27(0x57d)]=_0x5565bd[_0xddba27(0x2e9)]['x2'],ct['camera']['minY']=_0x5565bd[_0xddba27(0x2e9)]['y1'],ct[_0xddba27(0x29d)][_0xddba27(0x53a)]=_0x5565bd[_0xddba27(0x2e9)]['y2']),ct[_0xddba27(0x181)]['renderer'][_0xddba27(0x499)](_0x5565bd['width'],_0x5565bd[_0xddba27(0x370)]),ct[_0xddba27(0x3f0)][_0xddba27(0x481)]=ct['room']=new Room(_0x5565bd),ct['stage'][_0xddba27(0x10e)](ct['room']),ct[_0xddba27(0x3f0)][_0xddba27(0x4e0)][_0xddba27(0x2d2)](ct[_0xddba27(0x512)]),ct[_0xddba27(0x512)][_0xddba27(0x1d3)](),ct[_0xddba27(0x3f0)][_0xddba27(0x1d3)][_0xddba27(0x2d2)](ct[_0xddba27(0x512)]),ct['rooms'][_0xddba27(0x1b6)][_0x87fc62][_0xddba27(0x199)](ct[_0xddba27(0x512)]),ct[_0xddba27(0x29d)][_0xddba27(0x114)](),ct[_0xddba27(0x3f0)]['switching']=![],_0x36dffa=void 0x0;},'onCreate'(){const _0x439b15=_0x1ca639;if(this===ct[_0x439b15(0x512)]){const _0x21ab66=new PIXI[(_0x439b15(0x55d))]();_0x21ab66[_0x439b15(0x3c8)]=0x989680,ct[_0x439b15(0x512)][_0x439b15(0x10e)](_0x21ab66),ct[_0x439b15(0x21a)]['debugTraceGraphics']=_0x21ab66;}for(const _0x41e21a of this['tileLayers']){if(this[_0x439b15(0x3d8)][_0x439b15(0x30b)](_0x41e21a)===-0x1)continue;ct['place']['enableTilemapCollisions'](_0x41e21a);}this===ct[_0x439b15(0x512)]&&(ct[_0x439b15(0x456)]['on'](_0x439b15(0x14e),_0x54782b=>{const _0x468b14=_0x439b15,{pairs:_0x2c3111}=_0x54782b;ct['matter'][_0x468b14(0x490)](ct[_0x468b14(0x456)]['rulebookStart'],_0x2c3111);}),ct[_0x439b15(0x456)]['on'](_0x439b15(0x1e1),_0x6db10=>{const _0x131d2c=_0x439b15,{pairs:_0x15cc7a}=_0x6db10;ct[_0x131d2c(0x456)][_0x131d2c(0x490)](ct[_0x131d2c(0x456)][_0x131d2c(0x491)],_0x15cc7a);}),ct['matter']['on'](_0x439b15(0x4cd),_0x40bfc6=>{const _0x348bdd=_0x439b15,{pairs:_0x103d77}=_0x40bfc6;ct['matter']['walkOverWithRulebook'](ct[_0x348bdd(0x456)]['rulebookEnd'],_0x103d77);}));for(const _0x6e0250 of this[_0x439b15(0x406)]){if(!_0x6e0250[_0x439b15(0x217)])continue;if(this[_0x439b15(0x3d8)][_0x439b15(0x30b)](_0x6e0250)===-0x1)continue;ct[_0x439b15(0x456)][_0x439b15(0x133)](_0x6e0250);}},'onLeave'(){const _0x4b533c=_0x1ca639;this===ct[_0x4b533c(0x512)]&&(ct['place'][_0x4b533c(0x56a)]={});if(!this[_0x4b533c(0x1e8)]){for(var _0x26c105 of ct[_0x4b533c(0x3ab)][_0x4b533c(0x319)]){_0x26c105[_0x4b533c(0x2b8)]({'info':_0x4b533c(0x45d),'code':0x1,'from':_0x4b533c(0x557)});}ct[_0x4b533c(0x3ab)][_0x4b533c(0x319)]=[];}},'starting':'WaitingRoom'};}(),ct[_0x280885(0x512)]=null,ct['rooms'][_0x280885(0x250)]=function beforeStep(){const _0x1cf573=_0x280885;ct[_0x1cf573(0x13f)][_0x1cf573(0x48c)]();{const _0x4a8900=ct['u'][_0x1cf573(0x3dd)](ct[_0x1cf573(0x13f)]['xui'],ct[_0x1cf573(0x13f)][_0x1cf573(0x131)]);ct[_0x1cf573(0x13f)]['x']=_0x4a8900['x'],ct[_0x1cf573(0x13f)]['y']=_0x4a8900['y'];}var _0x9f6bfa=0x0;while(_0x9f6bfa<ct[_0x1cf573(0x3ab)][_0x1cf573(0x319)]['length']){var _0x18bfc0=ct['tween'][_0x1cf573(0x319)][_0x9f6bfa];if(_0x18bfc0['obj'][_0x1cf573(0x1e8)]){_0x18bfc0[_0x1cf573(0x2b8)]({'code':0x2,'info':_0x1cf573(0x500)}),ct[_0x1cf573(0x3ab)]['tweens'][_0x1cf573(0x206)](_0x9f6bfa,0x1);continue;}var _0x1232bb=_0x18bfc0['timer'][_0x1cf573(0x48f)]/_0x18bfc0['duration'];_0x1232bb>0x1&&(_0x1232bb=0x1);for(var _0x1d1ccb in _0x18bfc0[_0x1cf573(0x3e5)]){var _0x2f54d6=_0x18bfc0[_0x1cf573(0x514)][_0x1d1ccb],_0x149408=_0x18bfc0[_0x1cf573(0x3e5)][_0x1d1ccb]-_0x18bfc0[_0x1cf573(0x514)][_0x1d1ccb];_0x18bfc0[_0x1cf573(0xf9)][_0x1d1ccb]=_0x18bfc0['curve'](_0x2f54d6,_0x149408,_0x1232bb);}if(_0x1232bb===0x1){_0x18bfc0['resolve'](_0x18bfc0['fields']),ct[_0x1cf573(0x3ab)][_0x1cf573(0x319)]['splice'](_0x9f6bfa,0x1);continue;}_0x9f6bfa++;}},ct[_0x280885(0x3f0)][_0x280885(0x4c8)]=function afterStep(){},ct['rooms'][_0x280885(0x482)]=function beforeDraw(){const _0x32928d=_0x280885;this===ct[_0x32928d(0x512)]&&([!![]][0x0]===![]?Matter['Engine']['update'](ct[_0x32928d(0x512)]['matterEngine'],0x3e8/ct[_0x32928d(0x2ed)]*ct['delta']):Matter[_0x32928d(0xfc)][_0x32928d(0x1ec)](ct[_0x32928d(0x512)][_0x32928d(0x31b)],0x3e8/ct[_0x32928d(0x2ed)]));},ct[_0x280885(0x3f0)][_0x280885(0x34b)]=function afterDraw(){const _0x41e309=_0x280885;for(const _0x5efb2f of ct['pointer'][_0x41e309(0x50e)]){_0x5efb2f['xprev']=_0x5efb2f['x'],_0x5efb2f[_0x41e309(0x12e)]=_0x5efb2f['y'],_0x5efb2f['xuiprev']=_0x5efb2f['x'],_0x5efb2f[_0x41e309(0x29e)]=_0x5efb2f['y'];}for(const _0x251994 of ct[_0x41e309(0x13f)][_0x41e309(0x39a)]){_0x251994['xprev']=_0x251994['x'],_0x251994[_0x41e309(0x12e)]=_0x251994['y'],_0x251994[_0x41e309(0x4b1)]=_0x251994['x'],_0x251994[_0x41e309(0x29e)]=_0x251994['y'];}ct[_0x41e309(0x538)][_0x41e309(0x52e)][_0x41e309(0x209)]=0x0,ct[_0x41e309(0x13f)]['clearReleased'](),ct[_0x41e309(0x13f)][_0x41e309(0x4d7)]=ct[_0x41e309(0x13f)][_0x41e309(0x371)]=0x0,ct['keyboard'][_0x41e309(0x1c3)]();if(ct[_0x41e309(0x547)]['follow']&&!ct[_0x41e309(0x547)][_0x41e309(0x194)]['kill'])ct[_0x41e309(0x547)]['howler'][_0x41e309(0x2d4)](ct[_0x41e309(0x547)][_0x41e309(0x194)]['x'],ct[_0x41e309(0x547)][_0x41e309(0x194)]['y'],ct['sound'][_0x41e309(0x540)]?ct[_0x41e309(0x547)][_0x41e309(0x194)]['z']:0x0);else ct[_0x41e309(0x547)][_0x41e309(0x2c9)]&&ct[_0x41e309(0x547)]['howler'][_0x41e309(0x2d4)](ct[_0x41e309(0x29d)]['x'],ct[_0x41e309(0x29d)]['y'],ct['camera']['z']||0x0);},ct['rooms'][_0x280885(0x4e0)]=function rootRoomOnCreate(){const _0x30408b=_0x280885;{const [_0x30e4cd]=['1'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)][_0x30408b(0x199)]({'mainTemplate':_0x30e4cd,'any':!![],'func':function(_0x286529,_0x2ac1de){const _0x44a383=_0x30408b;if(!ct[_0x44a383(0x512)][_0x44a383(0x3ad)]||_0x286529[_0x44a383(0x396)]=='WALL_TOP_TRIGGER')return;if(this[_0x44a383(0x26b)]>=ct[_0x44a383(0x512)][_0x44a383(0x126)])return;this['CollsionSound']++;let _0x4b4776=_0x44a383(0x363)+Math[_0x44a383(0x13a)](ct['random'][_0x44a383(0x226)](0x0,0x2));ct[_0x44a383(0x547)]['spawn'](_0x4b4776,{'volume':0.1});}});}{const [_0x179d59]=['2'];ct[_0x30408b(0x456)]['rulebookStart']['push']({'mainTemplate':_0x179d59,'any':!![],'func':function(_0x1cdf97,_0x57cd1f){const _0x24778b=_0x30408b;if(!ct[_0x24778b(0x512)][_0x24778b(0x3ad)]||_0x1cdf97[_0x24778b(0x396)]=='WALL_TOP_TRIGGER')return;if(this['CollsionSound']>=ct['room'][_0x24778b(0x126)])return;this[_0x24778b(0x26b)]++;let _0x4edd45=_0x24778b(0x363)+Math[_0x24778b(0x13a)](ct['random'][_0x24778b(0x226)](0x0,0x2));ct[_0x24778b(0x547)][_0x24778b(0x496)](_0x4edd45,{'volume':0.1});}});}{const [_0x3a1e17]=['3'];ct['matter']['rulebookStart'][_0x30408b(0x199)]({'mainTemplate':_0x3a1e17,'any':!![],'func':function(_0x3e2fa0,_0x49b9a6){const _0x2d3e15=_0x30408b;if(!ct[_0x2d3e15(0x512)][_0x2d3e15(0x3ad)]||_0x3e2fa0['template']==_0x2d3e15(0x1b0))return;if(this[_0x2d3e15(0x26b)]>=ct[_0x2d3e15(0x512)][_0x2d3e15(0x126)])return;this[_0x2d3e15(0x26b)]++;let _0x27c38c=_0x2d3e15(0x363)+Math[_0x2d3e15(0x13a)](ct[_0x2d3e15(0x4b3)][_0x2d3e15(0x226)](0x0,0x2));ct[_0x2d3e15(0x547)][_0x2d3e15(0x496)](_0x27c38c,{'volume':0.1});}});}{const [_0x233151]=['4'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)]['push']({'mainTemplate':_0x233151,'any':!![],'func':function(_0x33e02c,_0x187d60){const _0x41585a=_0x30408b;if(!ct[_0x41585a(0x512)]['Sound']||_0x33e02c[_0x41585a(0x396)]==_0x41585a(0x1b0))return;if(this[_0x41585a(0x26b)]>=ct['room'][_0x41585a(0x126)])return;this[_0x41585a(0x26b)]++;let _0x4d7ab8=_0x41585a(0x363)+Math[_0x41585a(0x13a)](ct['random'][_0x41585a(0x226)](0x0,0x2));ct['sound']['spawn'](_0x4d7ab8,{'volume':0.1});}});}{const [_0x2dae16]=['5'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)]['push']({'mainTemplate':_0x2dae16,'any':!![],'func':function(_0x15bb9d,_0x24b77a){const _0x13f13b=_0x30408b;if(!ct[_0x13f13b(0x512)][_0x13f13b(0x3ad)])return;if(this[_0x13f13b(0x26b)]>=ct[_0x13f13b(0x512)][_0x13f13b(0x126)])return;this[_0x13f13b(0x26b)]++;let _0x1d0446=_0x13f13b(0x363)+Math[_0x13f13b(0x13a)](ct[_0x13f13b(0x4b3)][_0x13f13b(0x226)](0x0,0x2));ct[_0x13f13b(0x547)][_0x13f13b(0x496)](_0x1d0446,{'volume':0.1});}});}{const [_0x1074fb]=['6'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)][_0x30408b(0x199)]({'mainTemplate':_0x1074fb,'any':!![],'func':function(_0x279478,_0x189194){const _0x2b5e92=_0x30408b;if(!ct[_0x2b5e92(0x512)][_0x2b5e92(0x3ad)])return;if(this['CollsionSound']>=ct[_0x2b5e92(0x512)][_0x2b5e92(0x126)])return;this[_0x2b5e92(0x26b)]++;let _0x3ae299=_0x2b5e92(0x363)+Math[_0x2b5e92(0x13a)](ct[_0x2b5e92(0x4b3)]['range'](0x0,0x2));ct[_0x2b5e92(0x547)][_0x2b5e92(0x496)](_0x3ae299,{'volume':0.1});}});}{const [_0x43666a]=['7'];ct['matter'][_0x30408b(0x1b4)][_0x30408b(0x199)]({'mainTemplate':_0x43666a,'any':!![],'func':function(_0x2da8f5,_0x3ba520){const _0x47a4c0=_0x30408b;if(!ct[_0x47a4c0(0x512)]['Sound'])return;if(this[_0x47a4c0(0x26b)]>=ct[_0x47a4c0(0x512)][_0x47a4c0(0x126)])return;this[_0x47a4c0(0x26b)]++;let _0x54f297=_0x47a4c0(0x363)+Math[_0x47a4c0(0x13a)](ct[_0x47a4c0(0x4b3)][_0x47a4c0(0x226)](0x0,0x2));ct[_0x47a4c0(0x547)][_0x47a4c0(0x496)](_0x54f297,{'volume':0.1});}});}{const [_0x206d7c]=['8'];ct[_0x30408b(0x456)]['rulebookStart']['push']({'mainTemplate':_0x206d7c,'any':!![],'func':function(_0x154b07,_0x487da7){const _0x4535e5=_0x30408b;if(!ct[_0x4535e5(0x512)][_0x4535e5(0x3ad)])return;if(this[_0x4535e5(0x26b)]>=ct['room']['COLLISION_SOUNDS_ALLOWED'])return;this[_0x4535e5(0x26b)]++;let _0xda8a4c=_0x4535e5(0x363)+Math[_0x4535e5(0x13a)](ct['random'][_0x4535e5(0x226)](0x0,0x2));ct[_0x4535e5(0x547)][_0x4535e5(0x496)](_0xda8a4c,{'volume':0.1});}});}{const [_0x52dacc]=['9'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)][_0x30408b(0x199)]({'mainTemplate':_0x52dacc,'any':!![],'func':function(_0x5bf849,_0x19b1ad){const _0x25287f=_0x30408b;if(!ct[_0x25287f(0x512)]['Sound'])return;if(this['CollsionSound']>=ct['room'][_0x25287f(0x126)])return;this[_0x25287f(0x26b)]++;let _0x341913=_0x25287f(0x363)+Math[_0x25287f(0x13a)](ct['random'][_0x25287f(0x226)](0x0,0x2));ct['sound'][_0x25287f(0x496)](_0x341913,{'volume':0.1});}});}{const [_0x5dd407]=['0'];ct[_0x30408b(0x456)][_0x30408b(0x1b4)][_0x30408b(0x199)]({'mainTemplate':_0x5dd407,'any':!![],'func':function(_0x4acf90,_0x2601f4){const _0xbc903d=_0x30408b;if(!ct[_0xbc903d(0x512)][_0xbc903d(0x3ad)]||_0x4acf90[_0xbc903d(0x396)]=='WALL_TOP_TRIGGER')return;if(this[_0xbc903d(0x26b)]>=ct[_0xbc903d(0x512)]['COLLISION_SOUNDS_ALLOWED'])return;this['CollsionSound']++;let _0x227cea='Sound_Collision'+Math[_0xbc903d(0x13a)](ct[_0xbc903d(0x4b3)][_0xbc903d(0x226)](0x0,0x2));ct[_0xbc903d(0x547)][_0xbc903d(0x496)](_0x227cea,{'volume':0.1});}});}},ct['rooms'][_0x280885(0x1d8)]=function rootRoomOnStep(){},ct[_0x280885(0x3f0)]['rootRoomOnDraw']=function rootRoomOnDraw(){},ct[_0x280885(0x3f0)][_0x280885(0x28e)]=function rootRoomOnLeave(){},ct[_0x280885(0x3f0)]['templates'][_0x280885(0x26f)]={'name':_0x280885(0x26f),'group':_0x280885(0x15a),'width':0x384,'height':0x50a,'objects':JSON[_0x280885(0x519)](_0x280885(0x27f)),'bgs':JSON[_0x280885(0x519)]('[{\x22texture\x22:\x22Minigame_bg_3\x22,\x22depth\x22:0,\x22exts\x22:{\x22movementX\x22:0,\x22movementY\x22:0,\x22parallaxX\x22:1,\x22parallaxY\x22:1,\x22repeat\x22:\x22repeat-x\x22,\x22scaleX\x22:1,\x22scaleY\x22:1,\x22shiftX\x22:0,\x22shiftY\x22:245}}]'),'tiles':JSON[_0x280885(0x519)]('[]'),'backgroundColor':_0x280885(0x401),'onStep'(){const _0x1aba75=_0x280885;if(ct[_0x1aba75(0x201)][_0x1aba75(0x2ee)][_0x1aba75(0x1be)]){let _0xf160f=ct['actions'][_0x1aba75(0x2ee)]['value'];this[_0x1aba75(0x51d)]=ct[_0x1aba75(0x13f)]['x'],ct['u'][_0x1aba75(0x103)](0xa)[_0x1aba75(0x16e)](()=>{const _0x24e109=_0x1aba75;this[_0x24e109(0x2ee)]=!![];});}{ct[_0x1aba75(0x124)][_0x1aba75(0x3d2)]=='q'&&this['PrimeBomb']();}if(ct[_0x1aba75(0x201)][_0x1aba75(0x2ee)]['released']){if(!this[_0x1aba75(0x265)])return;!this[_0x1aba75(0x447)]&&sendMessage({'command':_0x1aba75(0x447)});this[_0x1aba75(0x447)]=!![],this[_0x1aba75(0x265)]=![];let _0x23b792=this[_0x1aba75(0x1c0)](this['rand'],ct['templates'][_0x1aba75(0x1b6)][_0x1aba75(0x2bf)][0x0]['x'],this[_0x1aba75(0x4ab)]);ct['templates']['list'][_0x1aba75(0x2bf)][0x0]['pointer'][_0x1aba75(0x36e)]=![],_0x23b792[_0x1aba75(0x2a7)]=ct['emitters']['follow'](_0x23b792,_0x1aba75(0x4fc)+this[_0x1aba75(0x3f9)],{'depth':-0x1}),this[_0x1aba75(0x2c7)]?(this[_0x1aba75(0x2c7)]=![],this[_0x1aba75(0x3f9)]=this[_0x1aba75(0x314)]):(this[_0x1aba75(0x3f9)]=this[_0x1aba75(0x19e)],this[_0x1aba75(0x19e)]=Math[_0x1aba75(0x13a)](ct[_0x1aba75(0x4b3)][_0x1aba75(0x226)](0x0,0x4))),sendMessage({'command':_0x1aba75(0x2c3),'value':this[_0x1aba75(0x19e)]}),ct[_0x1aba75(0x3d4)][_0x1aba75(0x1b6)]['CurrentShape'][0x0][_0x1aba75(0x3ca)][_0x1aba75(0x457)]=null,ct['templates'][_0x1aba75(0x1b6)][_0x1aba75(0x2bf)][0x0][_0x1aba75(0x13f)][_0x1aba75(0x36e)]=![],ct[_0x1aba75(0x3d4)][_0x1aba75(0x1b6)][_0x1aba75(0x2bf)][0x0][_0x1aba75(0x470)]=ct[_0x1aba75(0x512)][_0x1aba75(0x470)](this[_0x1aba75(0x3f9)]),ct['u']['wait'](0x2bc)[_0x1aba75(0x16e)](()=>{const _0x2098de=_0x1aba75;this[_0x2098de(0x265)]=!![],ct[_0x2098de(0x3d4)][_0x2098de(0x1b6)][_0x2098de(0x2bf)][0x0]['pointer'][_0x2098de(0x36e)]=!![],this[_0x2098de(0x2c7)]?ct[_0x2098de(0x3d4)][_0x2098de(0x1b6)][_0x2098de(0x2bf)][0x0][_0x2098de(0x3ca)][_0x2098de(0x457)]=this[_0x2098de(0xf8)]('bomb'):ct[_0x2098de(0x3d4)][_0x2098de(0x1b6)][_0x2098de(0x2bf)][0x0][_0x2098de(0x3ca)][_0x2098de(0x457)]=this[_0x2098de(0xf8)](this[_0x2098de(0x3f9)]);}),this[_0x1aba75(0x3ad)]&&ct[_0x1aba75(0x547)][_0x1aba75(0x496)](_0x1aba75(0x302),{'volume':0.1}),ct['u'][_0x1aba75(0x103)](0x1f4)['then'](()=>{const _0x37c394=_0x1aba75;ct['sound'][_0x37c394(0x358)](_0x37c394(0x302));});}},'onDraw'(){},'onLeave'(){},'onCreate'(){const _0x10ce51=_0x280885;{this[_0x10ce51(0x3ad)]=hasSound,this['Music']=hasMusic,this[_0x10ce51(0x447)]=![];this[_0x10ce51(0x56d)]&&(this['bgmusic']=ct[_0x10ce51(0x547)][_0x10ce51(0x496)]('Sound_BG',{'volume':0.1,'loop':!![]}));this[_0x10ce51(0x259)]=()=>{const _0x153c9b=_0x10ce51;this[_0x153c9b(0x15d)]&&ct[_0x153c9b(0x547)][_0x153c9b(0x1fd)](_0x153c9b(0x43c));},this[_0x10ce51(0x1f8)]=()=>{const _0x2817ae=_0x10ce51;this[_0x2817ae(0x15d)]?ct[_0x2817ae(0x547)][_0x2817ae(0xee)](_0x2817ae(0x43c)):this[_0x2817ae(0x15d)]=ct[_0x2817ae(0x547)][_0x2817ae(0x496)](_0x2817ae(0x43c),{'volume':0.1,'loop':!![]});},this['_0']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)](_0x10ce51(0x331),0x0),this['_1']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)]('Mon_01',0x0),this['_2']=ct['res'][_0x10ce51(0x49c)](_0x10ce51(0x310),0x0),this['_3']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)](_0x10ce51(0x1f9),0x0),this['_4']=ct[_0x10ce51(0x1f2)]['getTexture'](_0x10ce51(0x17b),0x0),this['_5']=ct[_0x10ce51(0x1f2)]['getTexture'](_0x10ce51(0x526),0x0),this['_6']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)]('Mon_06',0x0),this['_7']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)]('Mon_07',0x0),this['_8']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)](_0x10ce51(0x3f8),0x0),this['_9']=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)](_0x10ce51(0x2e4),0x0),this[_0x10ce51(0x1f6)]=ct[_0x10ce51(0x1f2)][_0x10ce51(0x49c)]('Bomb',0x0),this['GetTexture']=_0x197ef0=>{const _0x40428f=_0x10ce51;switch(_0x197ef0){case 0x0:return this['_0'];case 0x1:return this['_1'];case 0x2:return this['_2'];case 0x3:return this['_3'];case 0x4:return this['_4'];case 0x5:return this['_5'];case 0x6:return this['_6'];case 0x7:return this['_7'];case 0x8:return this['_8'];case 0x9:return this['_9'];case'bomb':return this[_0x40428f(0x1f6)];}},this[_0x10ce51(0x4ab)]=0xf0,this['TRIGGER_HEIGHT']=0x150,this[_0x10ce51(0x138)]=0x3e8,this[_0x10ce51(0x3a5)]=0xbb8,this[_0x10ce51(0x106)]=0x3e8,this[_0x10ce51(0x126)]=0x1,this['X_BOUNDS']=_0x16fd03=>{switch(_0x16fd03){case 0x0:return{'L':0x30,'R':0x354};case 0x1:return{'L':0x3c,'R':0x348};case 0x2:return{'L':0x48,'R':0x33c};default:return{'L':0x54,'R':0x330};}},this[_0x10ce51(0x4e7)]=0x0,this[_0x10ce51(0x265)]=!![],this[_0x10ce51(0x127)]=![],this[_0x10ce51(0x3f9)]=Math['round'](ct[_0x10ce51(0x4b3)]['range'](0x0,0x4)),this['NextRand']=Math['round'](ct['random'][_0x10ce51(0x226)](0x0,0x4)),sendMessage({'command':_0x10ce51(0x2c3),'value':this[_0x10ce51(0x19e)]}),ct[_0x10ce51(0x456)]['on'](_0x10ce51(0x14e),_0x3bf93d=>{const _0x28ef2d=_0x10ce51;this[_0x28ef2d(0x150)](_0x3bf93d);}),ct['matter']['on'](_0x10ce51(0x1e1),_0x396f5d=>{const _0x244172=_0x10ce51;if(this[_0x244172(0x127)])return;this[_0x244172(0x4a0)](_0x396f5d);}),ct[_0x10ce51(0x456)]['on'](_0x10ce51(0x4cd),_0x3bc8be=>{const _0x5474a3=_0x10ce51;if(this[_0x5474a3(0x127)])return;this['EndCheck'](_0x3bc8be);}),this[_0x10ce51(0x1c0)]=(_0x514ebc,_0x37e923,_0x3a7dfe)=>{const _0x340503=_0x10ce51;let _0x168939=ct['templates'][_0x340503(0x48d)](_0x514ebc['toString'](),ct['u'][_0x340503(0x3c1)](this[_0x340503(0x470)](_0x514ebc)['L'],_0x37e923,this[_0x340503(0x470)](_0x514ebc)['R']),_0x3a7dfe);return _0x168939;},this['ActiveCheck']=_0x39d04a=>{const _0x1d7e95=_0x10ce51;for(var _0x4b1fd9 of _0x39d04a[_0x1d7e95(0x255)]){var _0x226128=[_0x4b1fd9[_0x1d7e95(0x402)],_0x4b1fd9[_0x1d7e95(0x300)]];if(_0x226128[0x0][_0x1d7e95(0x48d)][_0x1d7e95(0x396)]==_0x1d7e95(0x1b0)){_0x226128[0x1][_0x1d7e95(0x48d)][_0x1d7e95(0x3ea)]&&(_0x226128[0x1][_0x1d7e95(0x48d)][_0x1d7e95(0x39d)]=!![],ct[_0x1d7e95(0x3d4)][_0x1d7e95(0x1b6)]['WALL_TOP_TRIGGER'][0x0][_0x1d7e95(0x205)]=!![]);continue;}if(_0x226128[0x1][_0x1d7e95(0x48d)][_0x1d7e95(0x396)]=='WALL_TOP_TRIGGER'){_0x226128[0x0][_0x1d7e95(0x48d)][_0x1d7e95(0x3ea)]&&(_0x226128[0x0]['copy'][_0x1d7e95(0x39d)]=!![],ct['templates'][_0x1d7e95(0x1b6)][_0x1d7e95(0x1b0)][0x0][_0x1d7e95(0x205)]=!![]);continue;}}},this[_0x10ce51(0x44f)]=_0x443419=>{const _0x4db230=_0x10ce51;for(var _0x2e97e2 of _0x443419[_0x4db230(0x255)]){var _0x445f05=[_0x2e97e2[_0x4db230(0x402)],_0x2e97e2[_0x4db230(0x300)]];if(_0x445f05[0x0][_0x4db230(0x48d)][_0x4db230(0x396)]=='WALL_TOP_TRIGGER'){_0x445f05[0x1]['copy']['dieTimer']&&(_0x445f05[0x1][_0x4db230(0x48d)]['dieTimer']=![]);continue;}if(_0x445f05[0x1][_0x4db230(0x48d)][_0x4db230(0x396)]=='WALL_TOP_TRIGGER'){_0x445f05[0x0][_0x4db230(0x48d)][_0x4db230(0x39d)]&&(_0x445f05[0x0][_0x4db230(0x48d)]['dieTimer']=![]);continue;}}};let _0x45554d=[];this[_0x10ce51(0x150)]=_0x53f021=>{const _0x4e5ef9=_0x10ce51;for(var _0x2ebe14 of _0x53f021[_0x4e5ef9(0x255)]){var _0xbecbaf=[_0x2ebe14[_0x4e5ef9(0x402)],_0x2ebe14[_0x4e5ef9(0x300)]];if(_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x1b0)&&_0xbecbaf[0x1]['copy']['template']!='Bomb'){_0xbecbaf[0x1][_0x4e5ef9(0x48d)]['dieTimerTrigger']();if(_0xbecbaf[0x1]['copy'][_0x4e5ef9(0x3ea)]){}continue;}if(_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x1b0)&&_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x120)){_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x2f4)]();if(_0xbecbaf[0x0][_0x4e5ef9(0x48d)]['Vulnerable']){}continue;}if(_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x4d4)&&_0xbecbaf[0x1]['copy'][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x46e)&&_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x155)&&_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x120)){_0xbecbaf[0x1]['copy']['kill']=!![];continue;}if(_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x4d4)&&_0xbecbaf[0x0]['copy'][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x46e)&&_0xbecbaf[0x0][_0x4e5ef9(0x48d)]['template']!=_0x4e5ef9(0x155)&&_0xbecbaf[0x0][_0x4e5ef9(0x48d)]['template']!=_0x4e5ef9(0x120)){_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x1e8)]=!![];continue;}if(_0xbecbaf[0x0][_0x4e5ef9(0x48d)]['template']==_0x4e5ef9(0x155)&&_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x46e)){this['ExplodeShape'](_0xbecbaf[0x1][_0x4e5ef9(0x48d)],_0xbecbaf[0x0]['copy']);continue;}if(_0xbecbaf[0x1]['copy'][_0x4e5ef9(0x396)]==_0x4e5ef9(0x155)&&_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x46e)){this[_0x4e5ef9(0x268)](_0xbecbaf[0x0][_0x4e5ef9(0x48d)],_0xbecbaf[0x1][_0x4e5ef9(0x48d)]);continue;}if(_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x120)&&_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x1b0)){_0xbecbaf[0x0]['copy']['Explode']();continue;}if(_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]==_0x4e5ef9(0x120)&&_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]!=_0x4e5ef9(0x1b0)){_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x1b5)]();continue;}if(_0x45554d['includes'](_0xbecbaf[0x0]['id']))continue;if(_0x45554d[_0x4e5ef9(0x4ea)](_0xbecbaf[0x1]['id']))continue;if(_0xbecbaf[0x0]['copy'][_0x4e5ef9(0x396)]==_0xbecbaf[0x1][_0x4e5ef9(0x48d)][_0x4e5ef9(0x396)]){_0x45554d[_0x4e5ef9(0x199)](_0xbecbaf[0x0]['id']),_0x45554d['push'](_0xbecbaf[0x1]['id']);var _0x47ac05=_0xbecbaf[0x0][_0x4e5ef9(0x4be)],_0x173dc3=_0xbecbaf[0x1][_0x4e5ef9(0x4be)],_0x3d5680={'x':(_0x47ac05['x']+_0x173dc3['x'])/0x2,'y':_0x47ac05['y']>_0x173dc3['y']?_0x47ac05['y']:_0x173dc3['y']},_0x4e3bac=Number[_0x4e5ef9(0x42b)](_0xbecbaf[0x0]['copy']['template']),_0x2c8283=_0x4e3bac+0x1;let _0x26cbba=ct[_0x4e5ef9(0x3d4)][_0x4e5ef9(0x48d)](_0x4e5ef9(0x49f),_0x47ac05['x'],_0x47ac05['y']),_0x797db4=ct['templates'][_0x4e5ef9(0x48d)]('MergePlaceholder',_0x173dc3['x'],_0x173dc3['y']);_0x26cbba['tex']=_0x4e5ef9(0x54e)+_0x4e3bac,_0x797db4[_0x4e5ef9(0x478)]=_0x4e5ef9(0x54e)+_0x4e3bac,_0x26cbba[_0x4e5ef9(0x504)]=_0xbecbaf[0x0]['angle'],_0x797db4[_0x4e5ef9(0x504)]=_0xbecbaf[0x1][_0x4e5ef9(0x101)],Matter[_0x4e5ef9(0x296)][_0x4e5ef9(0x23e)](ct[_0x4e5ef9(0x512)][_0x4e5ef9(0x4c9)],_0xbecbaf[0x0]),Matter['World']['remove'](ct[_0x4e5ef9(0x512)][_0x4e5ef9(0x4c9)],_0xbecbaf[0x1]),_0xbecbaf[0x0][_0x4e5ef9(0x48d)][_0x4e5ef9(0x1e8)]=!![],_0xbecbaf[0x1]['copy'][_0x4e5ef9(0x1e8)]=!![];let _0x39d82f=ct[_0x4e5ef9(0x3d4)]['copy']('FlyScore',_0x3d5680['x'],_0x3d5680['y']);_0x39d82f[_0x4e5ef9(0xf1)](stages[_0x4e3bac][_0x4e5ef9(0x171)]),sendMessage({'command':'merge','value':_0x4e3bac});this[_0x4e5ef9(0x3ad)]&&ct[_0x4e5ef9(0x547)]['spawn'](_0x4e5ef9(0x330)+_0x4e3bac);let _0x14b401=ct[_0x4e5ef9(0x451)][_0x4e5ef9(0x1a2)](_0x4e5ef9(0x575)+_0x4e3bac,_0x3d5680['x'],_0x3d5680['y']);this[_0x4e5ef9(0x45a)](_0x26cbba,_0x3d5680),this[_0x4e5ef9(0x45a)](_0x797db4,_0x3d5680),_0x2c8283<=0x9?ct['u'][_0x4e5ef9(0x103)](0x96)[_0x4e5ef9(0x16e)](()=>{const _0x5daf30=_0x4e5ef9;let _0x19a5ec=this[_0x5daf30(0x1c0)](_0x2c8283,_0x3d5680['x'],_0x3d5680['y']);_0x19a5ec[_0x5daf30(0x3ea)]=!![],_0x14b401[_0x5daf30(0x358)]();}):ct['u']['wait'](0x96)[_0x4e5ef9(0x16e)](()=>{_0x14b401['stop']();});}}},this[_0x10ce51(0x45a)]=(_0x58e7a5,_0x3f3597)=>{const _0x748735=_0x10ce51;ct[_0x748735(0x3ab)]['add']({'obj':_0x58e7a5,'fields':{'x':_0x3f3597['x'],'y':_0x3f3597['y']},'duration':0x96,'curve':ct[_0x748735(0x3ab)][_0x748735(0x57f)]})[_0x748735(0x16e)](()=>{_0x58e7a5['kill']=!![];});},this[_0x10ce51(0x268)]=(_0x1eca6a,_0x530483)=>{const _0xeecf86=_0x10ce51;let _0x4ac72c=0x0,_0x3cd88=0x0;_0x1eca6a['x']<_0x530483['x']?_0x4ac72c=-0x1e:_0x4ac72c=0x1e,_0x1eca6a['y']<_0x530483['y']?_0x3cd88=-0x1e:_0x3cd88=0x0,ct[_0xeecf86(0x456)]['launch'](_0x1eca6a,_0x4ac72c,_0x3cd88);},this[_0x10ce51(0x18a)]=()=>{const _0x504b6a=_0x10ce51;this[_0x504b6a(0x2c7)]=!![],this['tempRand']=this[_0x504b6a(0x3f9)],this['rand']='Bomb',ct[_0x504b6a(0x3d4)]['list']['CurrentShape'][0x0][_0x504b6a(0x3ca)][_0x504b6a(0x457)]=this[_0x504b6a(0xf8)](_0x504b6a(0x364)),this[_0x504b6a(0x12c)]=ct[_0x504b6a(0x451)][_0x504b6a(0x24c)](ct['templates'][_0x504b6a(0x1b6)][_0x504b6a(0x2bf)][0x0],_0x504b6a(0x566),{'position':{'x':0x32,'y':-0x46}}),this['Sound']&&ct[_0x504b6a(0x547)][_0x504b6a(0x496)](_0x504b6a(0x38b),{'loop':!![],'volume':0.2});},this[_0x10ce51(0x1ef)]=()=>{const _0x3f3eac=_0x10ce51;this['tempRand']=this[_0x3f3eac(0x3f9)],this[_0x3f3eac(0x3f9)]=this[_0x3f3eac(0x19e)],this[_0x3f3eac(0x19e)]=this[_0x3f3eac(0x314)],ct['templates'][_0x3f3eac(0x1b6)][_0x3f3eac(0x2bf)][0x0][_0x3f3eac(0x3ca)][_0x3f3eac(0x457)]=this[_0x3f3eac(0xf8)](this[_0x3f3eac(0x3f9)]),this[_0x3f3eac(0x3ad)]&&(ct['sound'][_0x3f3eac(0x496)](_0x3f3eac(0x22a)),sendMessage({'command':'next','value':this[_0x3f3eac(0x19e)]}));},this['ShareShape']=()=>{const _0x2dd6bc=_0x10ce51;ct[_0x2dd6bc(0x294)][_0x2dd6bc(0x2b3)](_0x2dd6bc(0x359));},this[_0x10ce51(0x49a)]=()=>{const _0x3c2515=_0x10ce51;this[_0x3c2515(0x127)]=!![],ct[_0x3c2515(0x181)]['ticker']['speed']=0x0,ct[_0x3c2515(0x512)]['matterEngine'][_0x3c2515(0x3aa)][_0x3c2515(0x30d)]=0x0,sendMessage({'command':_0x3c2515(0x55f)});},this[_0x10ce51(0x117)]=async()=>{const _0x12c5df=_0x10ce51;ct[_0x12c5df(0x181)]['ticker']['speed']=0x1,ct['room'][_0x12c5df(0x31b)][_0x12c5df(0x3aa)]['timeScale']=0x1,ct[_0x12c5df(0x547)][_0x12c5df(0x358)](_0x12c5df(0x43c)),await ct['rooms'][_0x12c5df(0x1f4)]();};}},'isUi':![],'follow':![],'extends':{}},ct[_0x280885(0x3f0)][_0x280885(0x3d4)]['WaitingRoom']={'name':_0x280885(0x1d9),'group':_0x280885(0x15a),'width':0x384,'height':0x509,'objects':JSON[_0x280885(0x519)](_0x280885(0x164)),'bgs':JSON[_0x280885(0x519)]('[{\x22texture\x22:\x22Minigame_bg_3\x22,\x22depth\x22:0,\x22exts\x22:{\x22movementX\x22:0,\x22movementY\x22:0,\x22parallaxX\x22:1,\x22parallaxY\x22:1,\x22repeat\x22:\x22repeat-x\x22,\x22scaleX\x22:1,\x22scaleY\x22:1,\x22shiftX\x22:0,\x22shiftY\x22:245}}]'),'tiles':JSON['parse']('[]'),'backgroundColor':_0x280885(0x401),'onStep'(){},'onDraw'(){},'onLeave'(){},'onCreate'(){},'isUi':![],'follow':![],'extends':{}},ct[_0x280885(0x192)]={'types':{},'new'(_0x2449be,_0x356f94){const _0x4c36a9=_0x280885;return ct[_0x4c36a9(0x192)][_0x4c36a9(0x4dc)][_0x2449be]=_0x356f94,_0x356f94;},'get'(_0x5477b8,_0x4eb4fd){const _0x2d8a23=_0x280885;if(_0x4eb4fd===!![])return ct['u']['ext']({},ct[_0x2d8a23(0x192)][_0x2d8a23(0x4dc)][_0x5477b8]);if(_0x4eb4fd)return ct['u'][_0x2d8a23(0x4f1)](ct['u']['ext']({},ct['styles'][_0x2d8a23(0x4dc)][_0x5477b8]),_0x4eb4fd);return ct[_0x2d8a23(0x192)][_0x2d8a23(0x4dc)][_0x5477b8];}};class EmitterTandem extends PIXI[_0x280885(0x412)]{constructor(_0x37014b,_0x682864){const _0x3f2265=_0x280885;super(),this[_0x3f2265(0x451)]=[],this[_0x3f2265(0x285)]=[];for(const _0x547cf2 of _0x37014b){const _0x2bc649=new PIXI[(_0x3f2265(0x4e2))][(_0x3f2265(0x53f))](this,ct[_0x3f2265(0x1f2)][_0x3f2265(0x49c)](_0x547cf2[_0x3f2265(0x457)]),_0x547cf2[_0x3f2265(0x3c7)]),_0x34b709=_0x547cf2[_0x3f2265(0x3c7)][_0x3f2265(0x251)]+_0x682864['prewarmDelay'];if(_0x34b709>0x0)_0x2bc649[_0x3f2265(0x473)]=![],this[_0x3f2265(0x285)][_0x3f2265(0x199)]({'value':_0x34b709,'emitter':_0x2bc649});else _0x34b709<0x0?(_0x2bc649['emit']=!![],_0x2bc649[_0x3f2265(0x1ec)](-_0x34b709)):_0x2bc649[_0x3f2265(0x473)]=!![];_0x2bc649[_0x3f2265(0x157)]={'x':_0x547cf2[_0x3f2265(0x3c7)][_0x3f2265(0x2d4)]['x'],'y':_0x547cf2[_0x3f2265(0x3c7)][_0x3f2265(0x2d4)]['y']},this[_0x3f2265(0x451)][_0x3f2265(0x199)](_0x2bc649),_0x2bc649['playOnce'](()=>{const _0x519f92=_0x3f2265;this[_0x519f92(0x451)][_0x519f92(0x206)](this[_0x519f92(0x451)]['indexOf'](_0x2bc649),0x1);});}this[_0x3f2265(0x3a1)]=_0x682864['isUi'],this[_0x3f2265(0x404)]['x']=_0x682864[_0x3f2265(0x404)]['x'],this[_0x3f2265(0x404)]['y']=_0x682864['scale']['y'];if(_0x682864[_0x3f2265(0x504)])this[_0x3f2265(0x504)]=_0x682864[_0x3f2265(0x504)];else _0x682864[_0x3f2265(0x101)]&&(this[_0x3f2265(0x101)]=_0x682864[_0x3f2265(0x101)]);this[_0x3f2265(0x1f7)]=_0x682864['position'],this[_0x3f2265(0x3c8)]=_0x682864[_0x3f2265(0x3c8)],this['frozen']=![],this[_0x3f2265(0x3a1)]?ct[_0x3f2265(0x451)][_0x3f2265(0x562)]['push'](this):ct[_0x3f2265(0x451)][_0x3f2265(0x119)][_0x3f2265(0x199)](this);}[_0x280885(0x1ec)](){const _0x50f77b=_0x280885;if(this[_0x50f77b(0x44e)])for(const _0x426de8 of this[_0x50f77b(0x451)]){!_0x426de8['particleCount']&&this['emitters'][_0x50f77b(0x206)](this[_0x50f77b(0x451)][_0x50f77b(0x30b)](_0x426de8),0x1);}if(this[_0x50f77b(0x24d)]&&this[_0x50f77b(0x24d)][_0x50f77b(0x444)]||this[_0x50f77b(0x1e8)]||!this['emitters']['length']){this[_0x50f77b(0x473)](_0x50f77b(0x476));this[_0x50f77b(0x3a1)]?ct['emitters'][_0x50f77b(0x562)]['splice'](ct[_0x50f77b(0x451)][_0x50f77b(0x562)][_0x50f77b(0x30b)](this),0x1):ct[_0x50f77b(0x451)][_0x50f77b(0x119)][_0x50f77b(0x206)](ct[_0x50f77b(0x451)][_0x50f77b(0x119)][_0x50f77b(0x30b)](this),0x1);this[_0x50f77b(0x3ac)]();return;}if(this[_0x50f77b(0x564)])return;const _0x54217b=(this[_0x50f77b(0x3a1)]?PIXI['Ticker'][_0x50f77b(0x11c)]['elapsedMS']:PIXI[_0x50f77b(0x21b)][_0x50f77b(0x11c)]['deltaMS'])/0x3e8;for(const _0x2f7752 of this[_0x50f77b(0x285)]){_0x2f7752[_0x50f77b(0x35d)]-=_0x54217b,_0x2f7752['value']<=0x0&&(_0x2f7752[_0x50f77b(0x31f)]['emit']=!![],this[_0x50f77b(0x285)]['splice'](this['delayed'][_0x50f77b(0x30b)](_0x2f7752),0x1));}for(const _0x551550 of this[_0x50f77b(0x451)]){if(this[_0x50f77b(0x285)][_0x50f77b(0x4b8)](_0xed0e30=>_0xed0e30['emitter']===_0x551550))continue;_0x551550[_0x50f77b(0x1ec)](_0x54217b);}this[_0x50f77b(0x194)]&&this['updateFollow']();}['stop'](){const _0x2b54cf=_0x280885;if(this[_0x2b54cf(0x44e)]){console['trace']('[ct.emitters]\x20An\x20attempt\x20to\x20stop\x20an\x20already\x20stopped\x20emitter\x20tandem.\x20Continuing…');return;}this[_0x2b54cf(0x44e)]=!![];for(const _0x1c2514 of this[_0x2b54cf(0x451)]){_0x1c2514[_0x2b54cf(0x473)]=![];}this['delayed']=[];}[_0x280885(0x1fd)](){const _0x48b1f8=_0x280885;for(const _0x2e2bb2 of this[_0x48b1f8(0x451)]){_0x2e2bb2['maxParticles']!==0x0&&(_0x2e2bb2[_0x48b1f8(0x292)]=_0x2e2bb2['maxParticles'],_0x2e2bb2[_0x48b1f8(0x320)]=0x0);}}[_0x280885(0xee)](){const _0x32585e=_0x280885;for(const _0x76f6b of this['emitters']){_0x76f6b['maxParticles']=_0x76f6b[_0x32585e(0x292)]||_0x76f6b[_0x32585e(0x320)];}}[_0x280885(0x1c3)](){const _0xd83f40=_0x280885;for(const _0x2a079b of this[_0xd83f40(0x451)]){_0x2a079b['cleanup']();}}[_0x280885(0x2a1)](){const _0x5441c1=_0x280885;if(!this[_0x5441c1(0x194)])return;if(this[_0x5441c1(0x194)][_0x5441c1(0x1e8)]||!this[_0x5441c1(0x194)][_0x5441c1(0x404)]){this[_0x5441c1(0x194)]=null,this['stop']();return;}const _0x279e9c=ct['u'][_0x5441c1(0x419)](this[_0x5441c1(0x1f7)]['x']*this[_0x5441c1(0x194)][_0x5441c1(0x404)]['x'],this[_0x5441c1(0x1f7)]['y']*this[_0x5441c1(0x194)]['scale']['y'],this['follow'][_0x5441c1(0x101)]);for(const _0x26bd4e of this[_0x5441c1(0x451)]){_0x26bd4e[_0x5441c1(0x4ff)](this[_0x5441c1(0x194)]['x']+_0x279e9c['x'],this[_0x5441c1(0x194)]['y']+_0x279e9c['y']);const _0x5140e6=ct['u']['rotate'](_0x26bd4e['initialDeltaPos']['x']*this[_0x5441c1(0x194)][_0x5441c1(0x404)]['x'],_0x26bd4e[_0x5441c1(0x157)]['y']*this['follow'][_0x5441c1(0x404)]['y'],this[_0x5441c1(0x194)][_0x5441c1(0x101)]);_0x26bd4e[_0x5441c1(0x211)](_0x5140e6['x'],_0x5140e6['y']);}}}(function emittersAddon(){const _0x5bdd82=_0x280885,_0x2bd2ac={'prewarmDelay':0x0,'scale':{'x':0x1,'y':0x1},'tint':0xffffff,'alpha':0x1,'position':{'x':0x0,'y':0x0},'isUi':![],'depth':Infinity};ct[_0x5bdd82(0x451)]={'templates':[{'Mon_Trail_0':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.8,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x135),'time':0x0},{'value':_0x5bdd82(0x135),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':!![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':'point','spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Trail_1':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.78,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x44b),'time':0x0},{'value':'FFDC00','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':!![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x32},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Trail_2':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.79,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'F76A2F','time':0x0},{'value':'F76A2F','time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x1e},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Trail_3':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.79,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x203),'time':0x0},{'value':_0x5bdd82(0x203),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x1e},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Trail_4':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.79,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x54b),'time':0x0},{'value':_0x5bdd82(0x54b),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x1e},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Explode_0':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x1,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x142),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x142)},{'value':_0x5bdd82(0x142),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0xc8,'time':0x0},{'value':0x64,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x14,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.01,'particleSpacing':0x18,'minimumScaleMultiplier':0.01}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x1,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x135),'time':0x0},{'time':0.4,'value':'F6E6BA'},{'value':_0x5bdd82(0x135),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0xc8,'time':0x0},{'value':0x64,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x14,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':'burst','spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.01,'minimumSpeedMultiplier':0.01}}],'Mon_Explode_1':[{'texture':'Mon-Part-Circle01','settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':1.2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x2ca),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x2ca)},{'value':_0x5bdd82(0x2ca),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0xfa,'time':0x0},{'value':0x96,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.01,'particleSpacing':0x18,'minimumScaleMultiplier':0.01}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':1.2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x44b),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x44b)},{'value':_0x5bdd82(0x44b),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0xfa,'time':0x0},{'value':0x96,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.01,'minimumSpeedMultiplier':0.01}}],'Mon_Explode_2':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x28f),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x28f)},{'value':'B03908','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x12c,'time':0x0},{'value':0xc8,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.09,'particleSpacing':0x18,'minimumScaleMultiplier':0.12}},{'texture':'Mon-Part-Circle01','settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'F76A2F','time':0x0},{'time':0.4,'value':_0x5bdd82(0x2d0)},{'value':_0x5bdd82(0x2d0),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x12c,'time':0x0},{'value':0xc8,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':'burst','spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.12,'minimumSpeedMultiplier':0.11}}],'Mon_Explode_3':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x40c),'time':0x0},{'time':0.4,'value':'2F8802'},{'value':_0x5bdd82(0x40c),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x15e,'time':0x0},{'value':0xc8,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.26,'particleSpacing':0x18,'minimumScaleMultiplier':0.25}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'9AFA32','time':0x0},{'time':0.4,'value':_0x5bdd82(0x203)},{'value':'9AFA32','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x15e,'time':0x0},{'value':0xc8,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.22,'minimumSpeedMultiplier':0.24}}],'Mon_Explode_4':[{'texture':'Mon-Part-Circle01','settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'24946B','time':0x0},{'time':0.4,'value':'24946B'},{'value':'24946B','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x190,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':'burst','spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.34,'particleSpacing':0x18,'minimumScaleMultiplier':0.35}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x405),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x405)},{'value':_0x5bdd82(0x405),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x190,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':'burst','spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.32,'minimumSpeedMultiplier':0.28}}],'Mon_Explode_5':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x335),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x335)},{'value':'669CED','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x1f4,'time':0x0},{'value':0x190,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.41,'particleSpacing':0x18,'minimumScaleMultiplier':0.45}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x2,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x12f),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x12f)},{'value':_0x5bdd82(0x12f),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x1f4,'time':0x0},{'value':0x190,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.46,'minimumSpeedMultiplier':0.35}}],'Mon_Explode_6':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x277),'time':0x0},{'time':0.4,'value':'5D53AC'},{'value':'5D53AC','time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x258,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.56,'particleSpacing':0x18,'minimumScaleMultiplier':0.55}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x37b),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x37b)},{'value':_0x5bdd82(0x37b),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x24e,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.56,'minimumSpeedMultiplier':0.51}}],'Mon_Explode_7':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'8A0DC6','time':0x0},{'time':0.4,'value':_0x5bdd82(0x37d)},{'value':_0x5bdd82(0x37d),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x1f4,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.56,'particleSpacing':0x18,'minimumScaleMultiplier':0.63}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x218),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x218)},{'value':_0x5bdd82(0x218),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x1f4,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.66,'minimumSpeedMultiplier':0.58}}],'Mon_Explode_8':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':3.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'6A029B','time':0x0},{'time':0.4,'value':_0x5bdd82(0x461)},{'value':_0x5bdd82(0x461),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x258,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x14,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.75,'particleSpacing':0x18,'minimumScaleMultiplier':0.61}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':3.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x258),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x258)},{'value':_0x5bdd82(0x258),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x1f4,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x14,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x4b0},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.6,'minimumSpeedMultiplier':0.66}}],'Mon_Explode_9':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x4,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'0058FF','time':0x0},{'time':0.4,'value':'0058FF'},{'value':_0x5bdd82(0x19d),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x3e8,'time':0x0},{'value':0x1f4,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x1e,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x9c4},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0x1,'particleSpacing':0x18,'minimumScaleMultiplier':0.85}},{'texture':'Mon-Part-Circle01','settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x4,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x3cd),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x3cd)},{'value':'B00036','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x320,'time':0x0},{'value':0x1a4,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0x14,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x1e,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x9c4},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x12,'minimumScaleMultiplier':0.87,'minimumSpeedMultiplier':0x1}}],'Mon_Trail_Bomb':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.8,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.5,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x295),'time':0x0},{'value':_0x5bdd82(0x43d),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x14,'time':0x0},{'value':0x14,'time':0x1}],'isStepped':!![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0.01,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.49}}],'Mon_Explode_Bomb':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'time':0.4,'value':0.985},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x583),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x583)},{'value':_0x5bdd82(0x583),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x320,'time':0x0},{'value':0x1f4,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x0,'emitterLifetime':0x0,'maxParticles':0x32,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x578},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0xc8,'minR':0x64},'delay':0x0,'minimumSpeedMultiplier':0.78,'particleSpacing':0x18,'minimumScaleMultiplier':0.63}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.2,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x33e),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x33e)},{'value':'FF8C00','time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x258,'time':0x0},{'value':0x12c,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x1e,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x3e8},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.66,'minimumSpeedMultiplier':0.75}},{'texture':'Mon-Part-Circle01','settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'value':0x1,'time':0.5},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0x3,'time':0x0},{'value':0.3,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'EEFF00','time':0x0},{'value':_0x5bdd82(0x10f),'time':0.5},{'value':_0x5bdd82(0x10f),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0xc8,'time':0x0},{'value':0x64,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xa,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0xa,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':-0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x2c2),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'minimumScaleMultiplier':0.68,'particleSpacing':0x24}},{'texture':_0x5bdd82(0x4a3),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'value':0x1,'time':0.5},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.15000000000000002,'time':0x0},{'value':0.03999999999999998,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x3ce),'time':0x0},{'value':_0x5bdd82(0x3ce),'time':0.5},{'value':_0x5bdd82(0x3ce),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0x560),'speed':{'list':[{'value':0x190,'time':0x0},{'value':0x64,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xf,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0xf,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x320},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.01,'minimumSpeedMultiplier':0.05}},{'texture':'Star_11','settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'value':0.685,'time':0.2},{'time':0.6,'value':0.0050000000000000044},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.2,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x1ca),'time':0x0},{'value':'ffffff','time':0.2},{'time':0.6,'value':_0x5bdd82(0x4d1)},{'value':_0x5bdd82(0x1ca),'time':0x1}],'isStepped':![]},'blendMode':'normal','speed':{'list':[{'value':0x0,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x2d},'rotationAcceleration':0x1e,'lifetime':{'min':0.5,'max':0.5},'frequency':0x2,'spawnChance':0x1,'particlesPerWave':0xa,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0xa,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x0},'addAtBack':![],'spawnType':_0x5bdd82(0x57e),'spawnCircle':{'x':0x0,'y':0x0,'r':0x20},'delay':0x0,'particleSpacing':0x24,'minimumScaleMultiplier':0.49,'noRotation':![]}}],'Mon_Explode_Bomb_Fuse':[{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0.015000000000000013,'time':0x0},{'time':0.4,'value':0x1},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.4,'time':0x0},{'value':0.1,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x33e),'time':0x0},{'time':0.4,'value':_0x5bdd82(0x33e)},{'value':_0x5bdd82(0x33e),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x96,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.1},'frequency':0.001,'spawnChance':0x1,'particlesPerWave':0x1,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0xa,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x60},'addAtBack':![],'spawnType':_0x5bdd82(0x328),'spawnCircle':{'x':0x0,'y':0x0,'r':0x1,'minR':0x64},'delay':0x0,'particleSpacing':0x18,'minimumScaleMultiplier':0.01,'minimumSpeedMultiplier':0.01}},{'texture':_0x5bdd82(0x3f2),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'value':0x1,'time':0.5},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.4,'time':0x0},{'value':0.1,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':'EEFF00','time':0x0},{'value':_0x5bdd82(0x10f),'time':0.5},{'value':_0x5bdd82(0x10f),'time':0x1}],'isStepped':![]},'blendMode':_0x5bdd82(0xfd),'speed':{'list':[{'value':0x96,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x0},'rotationAcceleration':0x0,'lifetime':{'min':0.5,'max':0.1},'frequency':0.001,'spawnChance':0x1,'particlesPerWave':0x17,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0xf,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x64},'addAtBack':![],'spawnType':'circle','spawnCircle':{'x':0x0,'y':0x0,'r':0x1,'minR':0x64},'delay':0x0,'minimumScaleMultiplier':0.01,'particleSpacing':15.652173913043478,'minimumSpeedMultiplier':0.01}},{'texture':_0x5bdd82(0x413),'settings':{'alpha':{'list':[{'value':0x0,'time':0x0},{'value':0.685,'time':0.2},{'time':0.6,'value':0.0050000000000000044},{'value':0x0,'time':0x1}],'isStepped':![]},'scale':{'list':[{'value':0.1,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'color':{'list':[{'value':_0x5bdd82(0x28b),'time':0x0},{'value':_0x5bdd82(0x28b),'time':0.2},{'time':0.6,'value':_0x5bdd82(0x28b)},{'value':'ffffff','time':0x1}],'isStepped':![]},'blendMode':'screen','speed':{'list':[{'value':0x96,'time':0x0},{'value':0x0,'time':0x1}],'isStepped':![]},'startRotation':{'min':0x0,'max':0x168},'rotationSpeed':{'min':0x0,'max':0x2d},'rotationAcceleration':0x1e,'lifetime':{'min':0.5,'max':0.5},'frequency':0.001,'spawnChance':0.35,'particlesPerWave':0x2,'angleStart':0x10e,'emitterLifetime':0x0,'maxParticles':0x2,'maxSpeed':0x0,'pos':{'x':0x0,'y':0x0},'acceleration':{'x':0x0,'y':0x64},'addAtBack':![],'spawnType':_0x5bdd82(0x328),'spawnCircle':{'x':0x0,'y':0x0,'r':0x1,'minR':0x64},'delay':0x0,'particleSpacing':0xb4,'minimumScaleMultiplier':0.01,'noRotation':![],'minimumSpeedMultiplier':0.01}}]}][0x0]||{},'uiTandems':[],'tandems':[],'fire'(_0x2e9ab2,_0x4857cb,_0x497f4d,_0x4c3e29){const _0xb1453d=_0x5bdd82;if(!(_0x2e9ab2 in ct[_0xb1453d(0x451)][_0xb1453d(0x3d4)]))throw new Error(_0xb1453d(0x1df)+_0x2e9ab2+'.');const _0x405fa1=Object['assign']({},_0x2bd2ac,_0x4c3e29),_0x1c7661=new EmitterTandem(ct[_0xb1453d(0x451)][_0xb1453d(0x3d4)][_0x2e9ab2],_0x405fa1);return _0x1c7661['x']=_0x4857cb,_0x1c7661['y']=_0x497f4d,!_0x405fa1[_0xb1453d(0x512)]?(ct[_0xb1453d(0x512)][_0xb1453d(0x10e)](_0x1c7661),_0x1c7661['isUi']=ct[_0xb1453d(0x512)]['isUi']):(_0x405fa1['room'][_0xb1453d(0x10e)](_0x1c7661),_0x1c7661[_0xb1453d(0x3a1)]=_0x405fa1[_0xb1453d(0x512)]['isUi']),_0x1c7661;},'append'(_0x368175,_0x4f8095,_0x5bfac9){const _0x93b423=_0x5bdd82;if(!(_0x4f8095 in ct['emitters']['templates']))throw new Error(_0x93b423(0x1df)+_0x4f8095+'.');const _0x17e713=Object[_0x93b423(0x1ae)]({},_0x2bd2ac,_0x5bfac9),_0x5d8d45=new EmitterTandem(ct[_0x93b423(0x451)][_0x93b423(0x3d4)][_0x4f8095],_0x17e713);return _0x17e713[_0x93b423(0x4be)]&&(_0x5d8d45['x']=_0x17e713['position']['x'],_0x5d8d45['y']=_0x17e713[_0x93b423(0x4be)]['y']),_0x5d8d45['appendant']=_0x368175,_0x368175[_0x93b423(0x10e)](_0x5d8d45),_0x5d8d45;},'follow'(_0x156235,_0x52364c,_0x37992b){const _0x38f44a=_0x5bdd82;if(!(_0x52364c in ct[_0x38f44a(0x451)][_0x38f44a(0x3d4)]))throw new Error(_0x38f44a(0x1df)+_0x52364c+'.');const _0x700914=Object[_0x38f44a(0x1ae)]({},_0x2bd2ac,_0x37992b),_0x17cb06=new EmitterTandem(ct[_0x38f44a(0x451)][_0x38f44a(0x3d4)][_0x52364c],_0x700914);return _0x17cb06[_0x38f44a(0x194)]=_0x156235,_0x17cb06[_0x38f44a(0x2a1)](),!('getRoom'in _0x156235)?ct[_0x38f44a(0x512)][_0x38f44a(0x10e)](_0x17cb06):_0x156235['getRoom']()['addChild'](_0x17cb06),_0x17cb06;}},PIXI[_0x5bdd82(0x21b)]['shared'][_0x5bdd82(0x2cd)](()=>{const _0x1ebefe=_0x5bdd82;for(const _0x489332 of ct[_0x1ebefe(0x451)]['uiTandems']){_0x489332['update']();}for(const _0x34aaa7 of ct[_0x1ebefe(0x451)][_0x1ebefe(0x119)]){_0x34aaa7[_0x1ebefe(0x1ec)]();}});}());const Copy=function Copy(){const _0x44ea7a=_0x280885,_0x25f23a=Symbol(_0x44ea7a(0x457)),_0x55ff2d=Symbol('zeroDirection'),_0x50314e=Symbol(_0x44ea7a(0x3d3)),_0x4d76c1=Symbol(_0x44ea7a(0x3cc));let _0x4c55a8=0x0;class _0x4b9adc extends PIXI[_0x44ea7a(0x10b)]{constructor(_0x5e921f,_0x32cb1a,_0x315cde,_0x3788d9,_0x2d2a89){const _0x55197b=_0x44ea7a;_0x2d2a89=_0x2d2a89||ct[_0x55197b(0x512)];var _0x13f4f4;if(_0x5e921f){if(!(_0x5e921f in ct['templates'][_0x55197b(0x3d4)]))throw new Error(_0x55197b(0x4e5)+_0x5e921f+'`\x20detected.\x20A\x20typo?');_0x13f4f4=ct[_0x55197b(0x3d4)][_0x55197b(0x3d4)][_0x5e921f];if(_0x13f4f4[_0x55197b(0x457)]&&_0x13f4f4[_0x55197b(0x457)]!=='-1'){const _0x2a78c2=ct[_0x55197b(0x1f2)]['getTexture'](_0x13f4f4[_0x55197b(0x457)]);super(_0x2a78c2),this[_0x25f23a]=_0x13f4f4[_0x55197b(0x457)],this[_0x55197b(0x55c)]['x']=_0x2a78c2[0x0][_0x55197b(0x1ce)]['x'],this[_0x55197b(0x55c)]['y']=_0x2a78c2[0x0]['defaultAnchor']['y'];}else{const _0xd37d66=new PIXI[(_0x55197b(0x1d5))](0x0,0x0,_0x13f4f4['width']||0x1,_0x13f4f4[_0x55197b(0x370)]||0x1);super([new PIXI[(_0x55197b(0x44a))](PIXI[_0x55197b(0x44a)][_0x55197b(0x14c)],_0xd37d66)]),this[_0x55197b(0x55c)]['x']=_0x13f4f4[_0x55197b(0x137)]||0x0,this['anchor']['y']=_0x13f4f4['anchorY']||0x0;}this[_0x55197b(0x396)]=_0x5e921f,this[_0x55197b(0x458)]=_0x2d2a89,this[_0x55197b(0x537)]=_0x13f4f4[_0x55197b(0x537)]||PIXI[_0x55197b(0x50a)]['NORMAL'],this[_0x55197b(0x43b)]=_0x13f4f4[_0x55197b(0x381)],this[_0x55197b(0x262)]=_0x13f4f4['animationFPS']/0x3c,_0x13f4f4['visible']===![]&&(this['visible']=![]),_0x13f4f4[_0x55197b(0x26c)]&&this[_0x55197b(0x183)](),_0x13f4f4[_0x55197b(0x286)]&&ct['u']['ext'](this,_0x13f4f4[_0x55197b(0x286)]);}else super([PIXI['Texture'][_0x55197b(0x14c)]]);return this[copyTypeSymbol]=!![],this[_0x55197b(0x4be)][_0x55197b(0x40d)](_0x32cb1a||0x0,_0x315cde||0x0),this[_0x55197b(0x3be)]=this[_0x55197b(0x2f7)]=this['x'],this[_0x55197b(0x12e)]=this['ystart']=this['y'],this[_0x50314e]=0x0,this[_0x4d76c1]=0x0,this[_0x55ff2d]=0x0,this[_0x55197b(0x2ed)]=this[_0x55197b(0x388)]=this['gravity']=0x0,this[_0x55197b(0x3e4)]=0x5a,this['depth']=0x0,this[_0x55197b(0x3b2)]=this['timer2']=this[_0x55197b(0x1ac)]=this[_0x55197b(0x414)]=this['timer5']=this[_0x55197b(0x2e6)]=0x0,_0x3788d9&&(ct['u']['ext'](this,_0x3788d9),_0x3788d9['scaleX']&&(this['scale']['x']=_0x3788d9[_0x55197b(0x337)]),_0x3788d9['scaleY']&&(this[_0x55197b(0x404)]['y']=_0x3788d9[_0x55197b(0x39c)])),this[_0x55197b(0x18d)]=++_0x4c55a8,_0x5e921f&&(ct['u'][_0x55197b(0x4f1)](this,{'template':_0x5e921f,'depth':_0x13f4f4[_0x55197b(0x3c8)],'onStep':_0x13f4f4[_0x55197b(0x498)],'onDraw':_0x13f4f4[_0x55197b(0x2ad)],'onCreate':_0x13f4f4[_0x55197b(0x1d3)],'onDestroy':_0x13f4f4[_0x55197b(0x455)],'shape':ct['res']['getTextureShape'](_0x13f4f4[_0x55197b(0x457)]||-0x1)}),_0x3788d9&&_0x3788d9[_0x55197b(0x3c8)]!==void 0x0&&(this[_0x55197b(0x3c8)]=_0x3788d9[_0x55197b(0x3c8)]),ct['templates']['list'][_0x5e921f]?ct[_0x55197b(0x3d4)][_0x55197b(0x1b6)][_0x5e921f][_0x55197b(0x199)](this):ct[_0x55197b(0x3d4)][_0x55197b(0x1b6)][_0x5e921f]=[this],this['onBeforeCreateModifier'](),ct[_0x55197b(0x3d4)]['templates'][_0x5e921f]['onCreate'][_0x55197b(0x2d2)](this)),this;}set['tex'](_0x5141cb){const _0x5554f7=_0x44ea7a;if(this[_0x25f23a]===_0x5141cb)return _0x5141cb;var {playing:_0x1f14c3}=this;return this[_0x5554f7(0x4f2)]=ct[_0x5554f7(0x1f2)]['getTexture'](_0x5141cb),this[_0x25f23a]=_0x5141cb,this[_0x5554f7(0x36b)]=ct['res']['getTextureShape'](_0x5141cb),this[_0x5554f7(0x55c)]['x']=this[_0x5554f7(0x4f2)][0x0][_0x5554f7(0x1ce)]['x'],this[_0x5554f7(0x55c)]['y']=this[_0x5554f7(0x4f2)][0x0][_0x5554f7(0x1ce)]['y'],_0x1f14c3&&this[_0x5554f7(0x183)](),_0x5141cb;}get['tex'](){return this[_0x25f23a];}get['speed'](){const _0x40c9b3=_0x44ea7a;return Math[_0x40c9b3(0x3ae)](this['hspeed'],this[_0x40c9b3(0x3cc)]);}set['speed'](_0x391e6b){const _0x146972=_0x44ea7a;if(_0x391e6b===0x0){this[_0x55ff2d]=this[_0x146972(0x388)],this[_0x146972(0x3d3)]=this[_0x146972(0x3cc)]=0x0;return;}if(this[_0x146972(0x2ed)]===0x0){const _0x20a1a9=this[_0x55ff2d];this[_0x50314e]=_0x391e6b*Math[_0x146972(0x389)](_0x20a1a9*Math['PI']/0xb4),this[_0x4d76c1]=_0x391e6b*Math[_0x146972(0x149)](_0x20a1a9*Math['PI']/0xb4);return;}var _0x569f17=_0x391e6b/this['speed'];this['hspeed']*=_0x569f17,this[_0x146972(0x3cc)]*=_0x569f17;}get[_0x44ea7a(0x3d3)](){return this[_0x50314e];}set[_0x44ea7a(0x3d3)](_0x217c91){const _0x2235a4=_0x44ea7a;return this[_0x2235a4(0x3cc)]===0x0&&_0x217c91===0x0&&(this[_0x55ff2d]=this[_0x2235a4(0x388)]),this[_0x50314e]=_0x217c91,_0x217c91;}get[_0x44ea7a(0x3cc)](){return this[_0x4d76c1];}set[_0x44ea7a(0x3cc)](_0x5dfaa6){const _0xef4f84=_0x44ea7a;return this[_0xef4f84(0x3d3)]===0x0&&_0x5dfaa6===0x0&&(this[_0x55ff2d]=this[_0xef4f84(0x388)]),this[_0x4d76c1]=_0x5dfaa6,_0x5dfaa6;}get[_0x44ea7a(0x388)](){const _0x3bd486=_0x44ea7a;if(this['speed']===0x0)return this[_0x55ff2d];return(Math[_0x3bd486(0x2a5)](this[_0x3bd486(0x3cc)],this[_0x3bd486(0x3d3)])*0xb4/Math['PI']+0x168)%0x168;}set['direction'](_0x2ad5d0){const _0x102fa0=_0x44ea7a;this[_0x55ff2d]=_0x2ad5d0;if(this[_0x102fa0(0x2ed)]>0x0){var _0x37cff0=this[_0x102fa0(0x2ed)];this[_0x102fa0(0x3d3)]=_0x37cff0*Math['cos'](_0x2ad5d0*Math['PI']/0xb4),this[_0x102fa0(0x3cc)]=_0x37cff0*Math[_0x102fa0(0x149)](_0x2ad5d0*Math['PI']/0xb4);}return _0x2ad5d0;}['move'](){const _0x49680f=_0x44ea7a;this[_0x49680f(0x2a6)]&&(this[_0x49680f(0x3d3)]+=this[_0x49680f(0x2a6)]*ct[_0x49680f(0x3fe)]*Math['cos'](this[_0x49680f(0x3e4)]*Math['PI']/0xb4),this[_0x49680f(0x3cc)]+=this[_0x49680f(0x2a6)]*ct[_0x49680f(0x3fe)]*Math[_0x49680f(0x149)](this[_0x49680f(0x3e4)]*Math['PI']/0xb4)),this['x']+=this[_0x49680f(0x3d3)]*ct[_0x49680f(0x3fe)],this['y']+=this[_0x49680f(0x3cc)]*ct[_0x49680f(0x3fe)];}['addSpeed'](_0x42688a,_0x58cfbe){const _0x59b223=_0x44ea7a;this[_0x59b223(0x3d3)]+=_0x42688a*Math['cos'](_0x58cfbe*Math['PI']/0xb4),this[_0x59b223(0x3cc)]+=_0x42688a*Math['sin'](_0x58cfbe*Math['PI']/0xb4);}[_0x44ea7a(0x132)](){const _0x3e34b2=_0x44ea7a;let _0x51fc86=this[_0x3e34b2(0x458)];while(!(_0x51fc86 instanceof Room)){_0x51fc86=_0x51fc86[_0x3e34b2(0x458)];}return _0x51fc86;}['onBeforeCreateModifier'](){const _0x53e98e=_0x44ea7a;this[_0x53e98e(0x11d)]&&ct['matter'][_0x53e98e(0x1d3)](this);}}return _0x4b9adc;}();(function ctTemplateAddon(_0x2f8c7f){const _0x2c14bd=_0x280885,_0x4da635=function(){const _0x35ff5=_0x4d4f;this['$chashes']=_0x2f8c7f['place'][_0x35ff5(0x3c4)](this);for(const _0x2da8a2 of this['$chashes']){!(_0x2da8a2 in _0x2f8c7f['place'][_0x35ff5(0x56a)])?_0x2f8c7f['place']['grid'][_0x2da8a2]=[this]:_0x2f8c7f['place'][_0x35ff5(0x56a)][_0x2da8a2]['push'](this);}[![]][0x0]&&this instanceof _0x2f8c7f[_0x35ff5(0x3d4)][_0x35ff5(0x479)]&&(this[_0x35ff5(0x237)]=new PIXI[(_0x35ff5(0x30c))](_0x35ff5(0x154),{'fill':0xffffff,'dropShadow':!![],'dropShadowDistance':0x2,'fontSize':[][0x0]||0x10}),this['$cDebugCollision']=new PIXI[(_0x35ff5(0x55d))](),this[_0x35ff5(0x10e)](this[_0x35ff5(0x14a)],this['$cDebugText']));};_0x2f8c7f[_0x2c14bd(0x3d4)]={'Copy':Copy,'list':{'BACKGROUND':[],'TILEMAP':[]},'templates':{},'copyIntoRoom'(_0x5abefd,_0x1b1ddc=0x0,_0x4937d0=0x0,_0xc91b88,_0xb51805){const _0x1fbde9=_0x2c14bd;if(!_0xc91b88||!(_0xc91b88 instanceof Room))throw new Error(_0x1fbde9(0x2f8)+_0x5abefd+_0x1fbde9(0x4c0)+_0xc91b88);const _0x196e01=new Copy(_0x5abefd,_0x1b1ddc,_0x4937d0,_0xb51805);return _0xc91b88['addChild'](_0x196e01),_0x2f8c7f[_0x1fbde9(0x25e)]['push'](_0x196e01),_0x4da635[_0x1fbde9(0x2d2)](_0x196e01),_0x196e01;},'copy'(_0x483f52,_0x3c18bf=0x0,_0x5e9e10=0x0,_0x14c985){const _0x4584a9=_0x2c14bd;return _0x2f8c7f[_0x4584a9(0x3d4)][_0x4584a9(0x469)](_0x483f52,_0x3c18bf,_0x5e9e10,_0x2f8c7f['room'],_0x14c985);},'each'(_0x31c7ea){const _0x1c14f7=_0x2c14bd;for(const _0x3f57ab of _0x2f8c7f[_0x1c14f7(0x25e)]){if(!(_0x3f57ab instanceof Copy))continue;_0x31c7ea[_0x1c14f7(0x2d2)](_0x3f57ab,this);}},'withCopy'(_0x5c0c25,_0x20ccd5){const _0x1d8276=_0x2c14bd;_0x20ccd5[_0x1d8276(0x2d2)](_0x5c0c25,this);},'withTemplate'(_0x467b0f,_0x2a0fbf){const _0x1d16d2=_0x2c14bd;for(const _0x2f737a of _0x2f8c7f[_0x1d16d2(0x3d4)][_0x1d16d2(0x1b6)][_0x467b0f]){_0x2a0fbf[_0x1d16d2(0x2d2)](_0x2f737a,this);}},'exists'(_0x10ac4b){const _0x213cce=_0x2c14bd;if(!(_0x10ac4b in _0x2f8c7f[_0x213cce(0x3d4)][_0x213cce(0x3d4)]))throw new Error('[ct.templates]\x20ct.templates.exists:\x20There\x20is\x20no\x20such\x20template\x20'+_0x10ac4b+'.');return _0x2f8c7f[_0x213cce(0x3d4)][_0x213cce(0x1b6)][_0x10ac4b][_0x213cce(0x44c)]>0x0;},'valid'(_0xbae29e){const _0x13f462=_0x2c14bd;if(_0xbae29e instanceof Copy)return!_0xbae29e[_0x13f462(0x1e8)];if(_0xbae29e instanceof PIXI[_0x13f462(0x508)])return Boolean(_0xbae29e['position']);return Boolean(_0xbae29e);},'isCopy'(_0x365a0b){return _0x365a0b instanceof Copy;}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x46e)]={'depth':0x14,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':'ungrouped','texture':_0x2c14bd(0x2f0),'onStep':function(){const _0x56e8ba=_0x2c14bd;{this[_0x56e8ba(0x129)](),this['kill']=![];}},'onDraw':function(){},'onDestroy':function(){const _0x159cd7=_0x2c14bd;{console[_0x159cd7(0xff)](_0x159cd7(0x3af));}},'onCreate':function(){{}},'extends':{'matterEnable':!![],'matterStatic':!![],'matterDensity':0x270f,'matterFriction':0.4,'matterRestitution':0.2,'matterConstraint':_0x2c14bd(0x34d)}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x46e)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['templates']['1']={'depth':0x1,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x2,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x107),'onStep':function(){const _0x53fd6a=_0x2c14bd;{this[_0x53fd6a(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x382ac5=_0x2c14bd;this[_0x382ac5(0x393)]=function(){const _0x3bb9f8=_0x382ac5;_0x2f8c7f['u'][_0x3bb9f8(0x103)](_0x2f8c7f[_0x3bb9f8(0x4b3)][_0x3bb9f8(0x226)](0xc8,0x190))[_0x3bb9f8(0x16e)](()=>{this['gotoAndStop'](0x0);}),_0x2f8c7f['u'][_0x3bb9f8(0x103)](_0x2f8c7f[_0x3bb9f8(0x4b3)][_0x3bb9f8(0x226)](0x640,0x7d0))['then'](()=>{const _0x126b36=_0x3bb9f8;this[_0x126b36(0x183)]();});}['bind'](this);{this[_0x382ac5(0x3ea)]=![],_0x2f8c7f['u'][_0x382ac5(0x103)](_0x2f8c7f[_0x382ac5(0x512)][_0x382ac5(0x138)])[_0x382ac5(0x16e)](()=>{this['Vulnerable']=!![];}),this[_0x382ac5(0x26b)]=0x0,_0x2f8c7f['u'][_0x382ac5(0x103)](_0x2f8c7f[_0x382ac5(0x512)][_0x382ac5(0x106)])[_0x382ac5(0x16e)](()=>{const _0x4abcf4=_0x382ac5;this[_0x4abcf4(0x2a7)]&&this[_0x4abcf4(0x2a7)][_0x4abcf4(0x1fd)]();}),this[_0x382ac5(0x39d)]=![],this[_0x382ac5(0x2f4)]=()=>{const _0x3da976=_0x382ac5;_0x2f8c7f['u'][_0x3da976(0x103)](_0x2f8c7f[_0x3da976(0x512)][_0x3da976(0x3a5)])['then'](()=>{const _0x4e06c8=_0x3da976;this[_0x4e06c8(0x39d)]&&_0x2f8c7f[_0x4e06c8(0x512)][_0x4e06c8(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['1']=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['templates']['2']={'depth':0x1,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x310),'onStep':function(){const _0x382d3d=_0x2c14bd;{this[_0x382d3d(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x3a0a0e=_0x2c14bd;this[_0x3a0a0e(0x393)]=function(){const _0x19afbd=_0x3a0a0e;_0x2f8c7f['u'][_0x19afbd(0x103)](_0x2f8c7f[_0x19afbd(0x4b3)][_0x19afbd(0x226)](0xc8,0x190))[_0x19afbd(0x16e)](()=>{this['gotoAndStop'](0x0);}),_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x19afbd(0x4b3)][_0x19afbd(0x226)](0x640,0x7d0))['then'](()=>{const _0x307788=_0x19afbd;this[_0x307788(0x183)]();});}['bind'](this);{this[_0x3a0a0e(0x3ea)]=![],_0x2f8c7f['u'][_0x3a0a0e(0x103)](_0x2f8c7f['room']['INVLULERABLE_TIME'])[_0x3a0a0e(0x16e)](()=>{const _0x4e49e2=_0x3a0a0e;this[_0x4e49e2(0x3ea)]=!![];}),this[_0x3a0a0e(0x26b)]=0x0,_0x2f8c7f['u'][_0x3a0a0e(0x103)](_0x2f8c7f[_0x3a0a0e(0x512)][_0x3a0a0e(0x106)])[_0x3a0a0e(0x16e)](()=>{const _0x548311=_0x3a0a0e;this[_0x548311(0x2a7)]&&this[_0x548311(0x2a7)]['pause']();}),this[_0x3a0a0e(0x39d)]=![],this[_0x3a0a0e(0x2f4)]=()=>{const _0x34dd97=_0x3a0a0e;_0x2f8c7f['u'][_0x34dd97(0x103)](_0x2f8c7f[_0x34dd97(0x512)][_0x34dd97(0x3a5)])[_0x34dd97(0x16e)](()=>{const _0x3541df=_0x34dd97;this[_0x3541df(0x39d)]&&_0x2f8c7f[_0x3541df(0x512)]['End']();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['2']=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['templates']['3']={'depth':0x1,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':'Mon_03','onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x1b1ed9=_0x2c14bd;this[_0x1b1ed9(0x393)]=function(){const _0x479adc=_0x1b1ed9;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x479adc(0x4b3)][_0x479adc(0x226)](0xc8,0x190))[_0x479adc(0x16e)](()=>{const _0xc694c1=_0x479adc;this[_0xc694c1(0x54d)](0x0);}),_0x2f8c7f['u'][_0x479adc(0x103)](_0x2f8c7f[_0x479adc(0x4b3)]['range'](0x640,0x7d0))[_0x479adc(0x16e)](()=>{this['play']();});}[_0x1b1ed9(0x2d1)](this);{this['Vulnerable']=![],_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x1b1ed9(0x512)][_0x1b1ed9(0x138)])['then'](()=>{const _0x48ed70=_0x1b1ed9;this[_0x48ed70(0x3ea)]=!![];}),this[_0x1b1ed9(0x26b)]=0x0,_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x1b1ed9(0x512)][_0x1b1ed9(0x106)])[_0x1b1ed9(0x16e)](()=>{const _0x3e9d31=_0x1b1ed9;this[_0x3e9d31(0x2a7)]&&this[_0x3e9d31(0x2a7)]['pause']();}),this[_0x1b1ed9(0x39d)]=![],this['dieTimerTrigger']=()=>{const _0x1445e3=_0x1b1ed9;_0x2f8c7f['u'][_0x1445e3(0x103)](_0x2f8c7f['room']['WARNING_TIME'])[_0x1445e3(0x16e)](()=>{const _0x3b4dc0=_0x1445e3;this[_0x3b4dc0(0x39d)]&&_0x2f8c7f[_0x3b4dc0(0x512)][_0x3b4dc0(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)]['list']['3']=[],_0x2f8c7f['templates'][_0x2c14bd(0x3d4)]['4']={'depth':0x1,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':'ungrouped','texture':'Mon_04','onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x8e4bf0=_0x2c14bd;this[_0x8e4bf0(0x393)]=function(){const _0x2518ac=_0x8e4bf0;_0x2f8c7f['u'][_0x2518ac(0x103)](_0x2f8c7f[_0x2518ac(0x4b3)][_0x2518ac(0x226)](0xc8,0x190))['then'](()=>{const _0x390d4e=_0x2518ac;this[_0x390d4e(0x54d)](0x0);}),_0x2f8c7f['u'][_0x2518ac(0x103)](_0x2f8c7f[_0x2518ac(0x4b3)][_0x2518ac(0x226)](0x640,0x7d0))[_0x2518ac(0x16e)](()=>{const _0x4b5b11=_0x2518ac;this[_0x4b5b11(0x183)]();});}['bind'](this);{this[_0x8e4bf0(0x3ea)]=![],_0x2f8c7f['u'][_0x8e4bf0(0x103)](_0x2f8c7f[_0x8e4bf0(0x512)][_0x8e4bf0(0x138)])[_0x8e4bf0(0x16e)](()=>{const _0x27e7e2=_0x8e4bf0;this[_0x27e7e2(0x3ea)]=!![];}),this[_0x8e4bf0(0x26b)]=0x0,_0x2f8c7f['u'][_0x8e4bf0(0x103)](_0x2f8c7f[_0x8e4bf0(0x512)][_0x8e4bf0(0x106)])['then'](()=>{const _0x398785=_0x8e4bf0;this[_0x398785(0x2a7)]&&this[_0x398785(0x2a7)][_0x398785(0x1fd)]();}),this['dieTimer']=![],this[_0x8e4bf0(0x2f4)]=()=>{const _0x18cfb3=_0x8e4bf0;_0x2f8c7f['u']['wait'](_0x2f8c7f['room'][_0x18cfb3(0x3a5)])['then'](()=>{const _0x2d5264=_0x18cfb3;this[_0x2d5264(0x39d)]&&_0x2f8c7f[_0x2d5264(0x512)]['End']();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f['templates']['list']['4']=[],_0x2f8c7f['templates'][_0x2c14bd(0x3d4)]['5']={'depth':0x0,'blendMode':PIXI['BLEND_MODES']['NORMAL'],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':'Mon_05','onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x397ab4=_0x2c14bd;this[_0x397ab4(0x393)]=function(){const _0x12abdc=_0x397ab4;_0x2f8c7f['u'][_0x12abdc(0x103)](_0x2f8c7f[_0x12abdc(0x4b3)][_0x12abdc(0x226)](0xc8,0x190))[_0x12abdc(0x16e)](()=>{const _0x5180ec=_0x12abdc;this[_0x5180ec(0x54d)](0x0);}),_0x2f8c7f['u'][_0x12abdc(0x103)](_0x2f8c7f[_0x12abdc(0x4b3)][_0x12abdc(0x226)](0x640,0x7d0))['then'](()=>{const _0x39e2af=_0x12abdc;this[_0x39e2af(0x183)]();});}['bind'](this);{this['Vulnerable']=![],_0x2f8c7f['u']['wait'](_0x2f8c7f['room'][_0x397ab4(0x138)])['then'](()=>{const _0x28e3e6=_0x397ab4;this[_0x28e3e6(0x3ea)]=!![];}),this[_0x397ab4(0x26b)]=0x0,this[_0x397ab4(0x39d)]=![],this[_0x397ab4(0x2f4)]=()=>{const _0x910b7d=_0x397ab4;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x910b7d(0x512)][_0x910b7d(0x3a5)])[_0x910b7d(0x16e)](()=>{const _0x768322=_0x910b7d;this['dieTimer']&&_0x2f8c7f[_0x768322(0x512)][_0x768322(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['5']=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['6']={'depth':0x0,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x264),'onStep':function(){const _0x5757a4=_0x2c14bd;{this[_0x5757a4(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x14666e=_0x2c14bd;this[_0x14666e(0x393)]=function(){const _0x4a6b04=_0x14666e;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x4a6b04(0x4b3)][_0x4a6b04(0x226)](0xc8,0x190))[_0x4a6b04(0x16e)](()=>{const _0x5a2f7f=_0x4a6b04;this[_0x5a2f7f(0x54d)](0x0);}),_0x2f8c7f['u'][_0x4a6b04(0x103)](_0x2f8c7f[_0x4a6b04(0x4b3)][_0x4a6b04(0x226)](0x640,0x7d0))[_0x4a6b04(0x16e)](()=>{const _0x4391d9=_0x4a6b04;this[_0x4391d9(0x183)]();});}[_0x14666e(0x2d1)](this);{this[_0x14666e(0x3ea)]=![],_0x2f8c7f['u'][_0x14666e(0x103)](_0x2f8c7f['room']['INVLULERABLE_TIME'])[_0x14666e(0x16e)](()=>{const _0x335107=_0x14666e;this[_0x335107(0x3ea)]=!![];}),this[_0x14666e(0x26b)]=0x0,this['dieTimer']=![],this[_0x14666e(0x2f4)]=()=>{const _0x55a314=_0x14666e;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x55a314(0x512)][_0x55a314(0x3a5)])[_0x55a314(0x16e)](()=>{const _0x9b0b53=_0x55a314;this['dieTimer']&&_0x2f8c7f[_0x9b0b53(0x512)][_0x9b0b53(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['6']=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x3f5)]={'depth':0x0,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'onStep':function(){{this['move']();}},'onDraw':function(){const _0x1d7ede=_0x2c14bd;{_0x2f8c7f[_0x1d7ede(0x512)][_0x1d7ede(0x19e)]!=undefined&&(this[_0x1d7ede(0x4e9)][_0x1d7ede(0x457)]=_0x2f8c7f[_0x1d7ede(0x512)][_0x1d7ede(0xf8)](_0x2f8c7f[_0x1d7ede(0x512)][_0x1d7ede(0x19e)]));}},'onDestroy':function(){},'onCreate':function(){const _0x18cc4e=_0x2c14bd;{const _0x1b3654=new PIXI[(_0x18cc4e(0x341))]({'fontFamily':_0x18cc4e(0x36f),'fill':[_0x18cc4e(0x3d1)],'fontSize':0x1e});this['label']=new PIXI[(_0x18cc4e(0x30c))]('NEXT',_0x1b3654),this[_0x18cc4e(0x4ee)][_0x18cc4e(0x55c)][_0x18cc4e(0x40d)](0.5),this['label'][_0x18cc4e(0x4be)]['x']-=0x78,this[_0x18cc4e(0x10e)](this[_0x18cc4e(0x4ee)]),this[_0x18cc4e(0x4e9)]=new PIXI[(_0x18cc4e(0x28c))](),this[_0x18cc4e(0x4e9)]['anchor'][_0x18cc4e(0x40d)](0.5),this['addChild'](this['Base']);}},'extends':{}},_0x2f8c7f[_0x2c14bd(0x3d4)]['list']['NextShape']=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x2bf)]={'depth':0x0,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'onStep':function(){const _0xa41a13=_0x2c14bd;{this[_0xa41a13(0x129)]();}if(_0x2f8c7f[_0xa41a13(0x201)][_0xa41a13(0x2ee)][_0xa41a13(0x50e)]){let _0x182e44=_0x2f8c7f[_0xa41a13(0x201)]['Press']['value'];if(!_0x2f8c7f['room'][_0xa41a13(0x2ee)]||!this['X_BOUNDS']||!detectMob())return;this['y']=_0x2f8c7f[_0xa41a13(0x512)]['FLOOR_HEIGHT'],this[_0xa41a13(0x44d)]=_0x2f8c7f[_0xa41a13(0x512)][_0xa41a13(0x51d)]-_0x2f8c7f[_0xa41a13(0x13f)]['x'],console['log'](_0xa41a13(0x309)+this['deltaX']+'\x20'+_0x2f8c7f[_0xa41a13(0x512)][_0xa41a13(0x51d)]+'\x20'+_0x2f8c7f['pointer']['x']),this['x']=_0x2f8c7f['u']['clamp'](this['X_BOUNDS']['L'],this['x']-this[_0xa41a13(0x44d)],this[_0xa41a13(0x470)]['R']),_0x2f8c7f['room'][_0xa41a13(0x51d)]=_0x2f8c7f[_0xa41a13(0x13f)]['x'];}_0x2f8c7f[_0xa41a13(0x201)]['Press'][_0xa41a13(0x3db)]&&(_0x2f8c7f[_0xa41a13(0x512)]['Press']=![],console[_0xa41a13(0xff)](_0xa41a13(0x223)));},'onDraw':function(){const _0x4773d2=_0x2c14bd;{if(!this[_0x4773d2(0x470)]||detectMob())return;this['x']=_0x2f8c7f['u'][_0x4773d2(0x3c1)](this['X_BOUNDS']['L'],_0x2f8c7f[_0x4773d2(0x13f)]['x']||0x1bc,this[_0x4773d2(0x470)]['R']);}},'onDestroy':function(){},'onCreate':function(){const _0x3a2a16=_0x2c14bd;{_0x2f8c7f[_0x3a2a16(0x512)][_0x3a2a16(0x51d)]=0x0,this[_0x3a2a16(0x453)]=0x384,this['pointer']=new PIXI[(_0x3a2a16(0x28c))](_0x2f8c7f[_0x3a2a16(0x1f2)][_0x3a2a16(0x49c)](_0x3a2a16(0x13f),0x0)),this[_0x3a2a16(0x13f)]['y']+=0xb4,this[_0x3a2a16(0x10e)](this[_0x3a2a16(0x13f)]),_0x2f8c7f['u'][_0x3a2a16(0x103)](0x64)[_0x3a2a16(0x16e)](()=>{const _0x57bc8f=_0x3a2a16;_0x2f8c7f[_0x57bc8f(0x512)][_0x57bc8f(0x19e)]!=undefined&&(this[_0x57bc8f(0x3ca)]=new PIXI[(_0x57bc8f(0x28c))](_0x2f8c7f[_0x57bc8f(0x512)][_0x57bc8f(0xf8)](_0x2f8c7f[_0x57bc8f(0x512)][_0x57bc8f(0x3f9)])),this[_0x57bc8f(0x10e)](this[_0x57bc8f(0x3ca)])),this[_0x57bc8f(0x470)]=_0x2f8c7f['room']['X_BOUNDS'](_0x2f8c7f[_0x57bc8f(0x512)][_0x57bc8f(0x3f9)]);});}},'extends':{}},_0x2f8c7f['templates'][_0x2c14bd(0x1b6)]['CurrentShape']=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['templates'][_0x2c14bd(0x49f)]={'depth':0x0,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'onStep':function(){const _0x5d27f8=_0x2c14bd;{this[_0x5d27f8(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){},'extends':{}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x49f)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x17d)]={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'onStep':function(){const _0x56db84=_0x2c14bd;{this[_0x56db84(0x129)]();}},'onDraw':function(){const _0x5db258=_0x2c14bd;{this['label'][_0x5db258(0x215)]=_0x2f8c7f[_0x5db258(0x512)][_0x5db258(0x4e7)];}},'onDestroy':function(){},'onCreate':function(){const _0x3c1fe8=_0x2c14bd;{const _0x513b60=new PIXI['TextStyle']({'fontFamily':'sans-serif','dropShadow':!![],'dropShadowAlpha':0.8,'dropShadowAngle':2.1,'dropShadowBlur':0x6,'dropShadowColor':_0x3c1fe8(0x48a),'dropShadowDistance':0xa,'fill':[_0x3c1fe8(0x160)],'fontSize':0x50,'fontWeight':_0x3c1fe8(0x53d),'lineJoin':'round'});this['label']=new PIXI[(_0x3c1fe8(0x30c))]('0',_0x513b60),this['label'][_0x3c1fe8(0x55c)][_0x3c1fe8(0x40d)](0x0,0.5),this[_0x3c1fe8(0x10e)](this[_0x3c1fe8(0x4ee)]);}},'extends':{}},_0x2f8c7f['templates'][_0x2c14bd(0x1b6)][_0x2c14bd(0x17d)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['7']={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)]['NORMAL'],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':'Mon_07','onStep':function(){const _0x2bf602=_0x2c14bd;{this[_0x2bf602(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x67043b=_0x2c14bd;this[_0x67043b(0x393)]=function(){const _0x5a7089=_0x67043b;_0x2f8c7f['u'][_0x5a7089(0x103)](_0x2f8c7f[_0x5a7089(0x4b3)]['range'](0xc8,0x190))[_0x5a7089(0x16e)](()=>{const _0x4a1993=_0x5a7089;this[_0x4a1993(0x54d)](0x0);}),_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x5a7089(0x4b3)][_0x5a7089(0x226)](0x640,0x7d0))[_0x5a7089(0x16e)](()=>{const _0x224d0d=_0x5a7089;this[_0x224d0d(0x183)]();});}[_0x67043b(0x2d1)](this);{this[_0x67043b(0x3ea)]=![],_0x2f8c7f['u'][_0x67043b(0x103)](_0x2f8c7f[_0x67043b(0x512)][_0x67043b(0x138)])['then'](()=>{const _0x475cbe=_0x67043b;this[_0x475cbe(0x3ea)]=!![];}),this[_0x67043b(0x26b)]=0x0,this[_0x67043b(0x39d)]=![],this[_0x67043b(0x2f4)]=()=>{const _0x21a2ef=_0x67043b;_0x2f8c7f['u'][_0x21a2ef(0x103)](_0x2f8c7f[_0x21a2ef(0x512)][_0x21a2ef(0x3a5)])[_0x21a2ef(0x16e)](()=>{const _0x18f240=_0x21a2ef;this['dieTimer']&&_0x2f8c7f[_0x18f240(0x512)][_0x18f240(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)]['list']['7']=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['8']={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x3f8),'onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x565e4c=_0x2c14bd;this[_0x565e4c(0x393)]=function(){const _0x3631ec=_0x565e4c;_0x2f8c7f['u'][_0x3631ec(0x103)](_0x2f8c7f[_0x3631ec(0x4b3)][_0x3631ec(0x226)](0xc8,0x190))['then'](()=>{const _0x5425ef=_0x3631ec;this[_0x5425ef(0x54d)](0x0);}),_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x3631ec(0x4b3)][_0x3631ec(0x226)](0x640,0x7d0))['then'](()=>{const _0x1ba1e9=_0x3631ec;this[_0x1ba1e9(0x183)]();});}[_0x565e4c(0x2d1)](this);{this[_0x565e4c(0x3ea)]=![],_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x565e4c(0x512)][_0x565e4c(0x138)])[_0x565e4c(0x16e)](()=>{const _0x69be8f=_0x565e4c;this[_0x69be8f(0x3ea)]=!![];}),this['CollsionSound']=0x0,this[_0x565e4c(0x39d)]=![],this[_0x565e4c(0x2f4)]=()=>{const _0x15287b=_0x565e4c;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x15287b(0x512)][_0x15287b(0x3a5)])[_0x15287b(0x16e)](()=>{const _0x3a6bb7=_0x15287b;this[_0x3a6bb7(0x39d)]&&_0x2f8c7f[_0x3a6bb7(0x512)][_0x3a6bb7(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)]['list']['8']=[],_0x2f8c7f['templates'][_0x2c14bd(0x3d4)]['9']={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':!![],'loopAnimation':![],'visible':!![],'group':'ungrouped','texture':'Mon_09','onStep':function(){const _0x15a439=_0x2c14bd;{this[_0x15a439(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x4b023a=_0x2c14bd;{this[_0x4b023a(0x3ea)]=![],_0x2f8c7f['u'][_0x4b023a(0x103)](_0x2f8c7f['room'][_0x4b023a(0x138)])[_0x4b023a(0x16e)](()=>{const _0x3be883=_0x4b023a;this[_0x3be883(0x3ea)]=!![];}),this['CollsionSound']=0x0,this[_0x4b023a(0x39d)]=![],this[_0x4b023a(0x2f4)]=()=>{const _0x3410dd=_0x4b023a;_0x2f8c7f['u'][_0x3410dd(0x103)](_0x2f8c7f['room'][_0x3410dd(0x3a5)])[_0x3410dd(0x16e)](()=>{const _0x189b96=_0x3410dd;this[_0x189b96(0x39d)]&&_0x2f8c7f['room'][_0x189b96(0x49a)]();});};}this[_0x4b023a(0x393)]=function(){const _0x32911c=_0x4b023a;_0x2f8c7f['u']['wait'](_0x2f8c7f[_0x32911c(0x4b3)][_0x32911c(0x226)](0xc8,0x190))[_0x32911c(0x16e)](()=>{const _0x144be3=_0x32911c;this[_0x144be3(0x54d)](0x0);}),_0x2f8c7f['u'][_0x32911c(0x103)](_0x2f8c7f['random'][_0x32911c(0x226)](0x640,0x7d0))['then'](()=>{const _0x3c78c0=_0x32911c;this[_0x3c78c0(0x183)]();});}[_0x4b023a(0x2d1)](this);},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['9']=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['0']={'depth':0x1,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':'ungrouped','texture':_0x2c14bd(0x331),'onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x7d2b13=_0x2c14bd;{this[_0x7d2b13(0x3ea)]=![],_0x2f8c7f['u'][_0x7d2b13(0x103)](_0x2f8c7f['room'][_0x7d2b13(0x138)])[_0x7d2b13(0x16e)](()=>{const _0x45fb70=_0x7d2b13;this[_0x45fb70(0x3ea)]=!![];}),this[_0x7d2b13(0x26b)]=0x0,_0x2f8c7f['u'][_0x7d2b13(0x103)](_0x2f8c7f[_0x7d2b13(0x512)][_0x7d2b13(0x106)])['then'](()=>{const _0x350769=_0x7d2b13;this[_0x350769(0x2a7)]&&this[_0x350769(0x2a7)][_0x350769(0x1fd)]();}),this[_0x7d2b13(0x39d)]=![],this[_0x7d2b13(0x2f4)]=()=>{const _0x490c0b=_0x7d2b13;_0x2f8c7f['u'][_0x490c0b(0x103)](_0x2f8c7f['room'][_0x490c0b(0x3a5)])[_0x490c0b(0x16e)](()=>{const _0x39523e=_0x490c0b;this[_0x39523e(0x39d)]&&_0x2f8c7f[_0x39523e(0x512)][_0x39523e(0x49a)]();});};}},'extends':{'matterEnable':!![],'matterRestitution':0.2,'matterFriction':0.4,'matterDensity':0x0}},_0x2f8c7f['templates'][_0x2c14bd(0x1b6)]['0']=[],_0x2f8c7f['templates'][_0x2c14bd(0x3d4)][_0x2c14bd(0x38d)]={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x463),'onStep':function(){const _0x5cd69a=_0x2c14bd;{this[_0x5cd69a(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){},'extends':{}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x38d)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['Placeholder']={'depth':-0x1,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x572),'onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){},'extends':{}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x572)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)]['Bomb']={'depth':0x5,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':'Bomb','onStep':function(){const _0x565a21=_0x2c14bd;{this[_0x565a21(0x129)]();}},'onDraw':function(){},'onDestroy':function(){{}},'onCreate':function(){const _0x400d80=_0x2c14bd;{sendMessage({'command':_0x400d80(0x492)});_0x2f8c7f[_0x400d80(0x512)][_0x400d80(0x3ad)]&&_0x2f8c7f['sound']['spawn'](_0x400d80(0x4fb));_0x2f8c7f[_0x400d80(0x512)][_0x400d80(0x12c)][_0x400d80(0x358)]();const _0x2f1284=_0x2f8c7f[_0x400d80(0x451)][_0x400d80(0x24c)](this,_0x400d80(0x566),{'position':{'x':0x37,'y':-0x50}});this[_0x400d80(0x4a8)]=![],this[_0x400d80(0x1b5)]=()=>{const _0x4ab0b6=_0x400d80;if(this[_0x4ab0b6(0x4a8)])return;this[_0x4ab0b6(0x4a8)]=!![],_0x2f8c7f[_0x4ab0b6(0x3d4)][_0x4ab0b6(0x48d)](_0x4ab0b6(0x4d4),this['x'],this['y']);const _0x22fa55=_0x2f8c7f[_0x4ab0b6(0x3d4)][_0x4ab0b6(0x48d)]('ForceArea',this['x'],this['y']);_0x22fa55['alpha']=0.4,_0x2f8c7f[_0x4ab0b6(0x547)][_0x4ab0b6(0x358)]('Sound_Fuse_Primed'),_0x2f8c7f[_0x4ab0b6(0x547)][_0x4ab0b6(0x358)](_0x4ab0b6(0x4fb));_0x2f8c7f[_0x4ab0b6(0x512)]['Sound']&&_0x2f8c7f[_0x4ab0b6(0x547)][_0x4ab0b6(0x496)](_0x4ab0b6(0x3c9),{'volume':0.5});const _0x1317c6=_0x2f8c7f[_0x4ab0b6(0x451)][_0x4ab0b6(0x1a2)](_0x4ab0b6(0x521),this['x'],this['y']);_0x2f8c7f['u'][_0x4ab0b6(0x103)](0x64)[_0x4ab0b6(0x16e)](()=>{const _0x41cace=_0x4ab0b6;_0x1317c6[_0x41cace(0x1fd)](),_0x2f1284[_0x41cace(0x1fd)](),this[_0x41cace(0x1e8)]=!![];});},_0x2f8c7f[_0x400d80(0x456)][_0x400d80(0x52f)](this,0x0,0xa);}},'extends':{'matterEnable':!![]}},_0x2f8c7f['templates'][_0x2c14bd(0x1b6)]['Bomb']=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['templates'][_0x2c14bd(0x1b0)]={'depth':0x14,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x2f0),'onStep':function(){const _0x29b7d9=_0x2c14bd;{this[_0x29b7d9(0x129)]();}},'onDraw':function(){const _0x1a0405=_0x2c14bd;{this[_0x1a0405(0x4a4)]();}},'onDestroy':function(){},'onCreate':function(){const _0x5739e0=_0x2c14bd;{this[_0x5739e0(0x205)]=![],this[_0x5739e0(0x4f5)]=0.1;let _0x5b7d09=![];this['Flickering']=()=>{const _0x21f620=_0x5739e0;if(_0x5b7d09)return;if(!this[_0x21f620(0x205)])return;_0x5b7d09=!![],this[_0x21f620(0x4ad)]=0xff0000,_0x2f8c7f['tween']['add']({'obj':this,'fields':{'alpha':this[_0x21f620(0x4f5)]==0x1?0.1:0x1},'duration':0x64})[_0x21f620(0x16e)](()=>{const _0x24ce91=_0x21f620;_0x5b7d09=![],this[_0x24ce91(0x4f5)]!=0x1&&(this[_0x24ce91(0x4ad)]=0xffffff,this[_0x24ce91(0x205)]=![]);});};}},'extends':{'matterEnable':!![],'matterStatic':!![],'matterDensity':0x0,'matterFriction':0.4,'matterRestitution':0.2,'matterConstraint':_0x2c14bd(0x34d),'matterSensor':!![]}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x1b0)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x4d4)]={'depth':0x0,'blendMode':PIXI[_0x2c14bd(0x50a)][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':'ImpactArea','onStep':function(){{this['move']();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x34fa45=_0x2c14bd;{_0x2f8c7f['u']['wait'](0xc8)[_0x34fa45(0x16e)](()=>{const _0x3d67a4=_0x34fa45;this[_0x3d67a4(0x1e8)]=!![];});}},'extends':{'matterEnable':!![],'matterStatic':!![],'matterSensor':!![]}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)]['ImpactArea']=[],_0x2f8c7f['templates'][_0x2c14bd(0x3d4)]['ForceArea']={'depth':0x0,'blendMode':PIXI['BLEND_MODES'][_0x2c14bd(0x2de)],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'texture':_0x2c14bd(0x329),'onStep':function(){const _0x511cc5=_0x2c14bd;{this[_0x511cc5(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x3b6714=_0x2c14bd;{_0x2f8c7f['u'][_0x3b6714(0x103)](0xc8)['then'](()=>{const _0x19f0bb=_0x3b6714;this[_0x19f0bb(0x1e8)]=!![];});}},'extends':{'matterEnable':!![],'matterStatic':!![],'matterSensor':!![]}},_0x2f8c7f[_0x2c14bd(0x3d4)]['list'][_0x2c14bd(0x155)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x3d4)][_0x2c14bd(0x501)]={'depth':0x14,'blendMode':PIXI['BLEND_MODES']['NORMAL'],'animationFPS':0x1e,'playAnimationOnStart':![],'loopAnimation':!![],'visible':!![],'group':_0x2c14bd(0x15a),'onStep':function(){const _0x2e43ea=_0x2c14bd;{this[_0x2e43ea(0x129)]();}},'onDraw':function(){},'onDestroy':function(){},'onCreate':function(){const _0x3a641e=_0x2c14bd;{const _0x1cabc8=new PIXI[(_0x3a641e(0x341))]({'fontFamily':_0x3a641e(0x36f),'dropShadow':!![],'dropShadowAlpha':0.8,'dropShadowAngle':2.1,'dropShadowBlur':0x6,'dropShadowColor':_0x3a641e(0x48a),'dropShadowDistance':0xa,'fill':[_0x3a641e(0x160)],'fontSize':0x50,'fontWeight':_0x3a641e(0x53d),'lineJoin':_0x3a641e(0x13a)});this['label']=new PIXI[(_0x3a641e(0x30c))]('0',_0x1cabc8),this[_0x3a641e(0x4ee)]['anchor']['set'](0.5),this[_0x3a641e(0x404)][_0x3a641e(0x40d)](0x0),this[_0x3a641e(0x10e)](this[_0x3a641e(0x4ee)]),this[_0x3a641e(0xf1)]=_0x5bb100=>{const _0x32ecaf=_0x3a641e;this[_0x32ecaf(0x4ee)][_0x32ecaf(0x215)]='+'+_0x5bb100,_0x2f8c7f['tween']['add']({'obj':this['scale'],'fields':{'x':0x1,'y':0x1},'duration':0xc8})[_0x32ecaf(0x16e)](()=>{const _0x4cddcd=_0x32ecaf;_0x2f8c7f[_0x4cddcd(0x3ab)][_0x4cddcd(0x2cd)]({'obj':this,'fields':{'alpha':0x0},'duration':0xc8})[_0x4cddcd(0x16e)](()=>{});}),_0x2f8c7f['tween'][_0x32ecaf(0x2cd)]({'obj':this['position'],'fields':{'y':this['y']-0x12c},'duration':0x1f4,'curve':_0x2f8c7f[_0x32ecaf(0x3ab)]['easeOutQuart']})[_0x32ecaf(0x16e)](()=>{this['kill']=!![];});};}},'extends':{}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x1b6)][_0x2c14bd(0x501)]=[],_0x2f8c7f[_0x2c14bd(0x3d4)]['beforeStep']=function _0x54ab08(){},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x4c8)]=function _0x58d26f(){},_0x2f8c7f[_0x2c14bd(0x3d4)]['beforeDraw']=function _0x1257c4(){const _0x399eff=_0x2c14bd;if([![]][0x0]&&this instanceof _0x2f8c7f[_0x399eff(0x3d4)][_0x399eff(0x479)]){const _0xb85185=this[_0x399eff(0x4d9)][_0x399eff(0x3a9)]['clone']()[_0x399eff(0x147)]();this[_0x399eff(0x14a)]['transform'][_0x399eff(0x436)](_0xb85185),this[_0x399eff(0x14a)][_0x399eff(0x4be)][_0x399eff(0x40d)](0x0,0x0),this[_0x399eff(0x237)][_0x399eff(0x4d9)][_0x399eff(0x436)](_0xb85185),this[_0x399eff(0x237)][_0x399eff(0x4be)][_0x399eff(0x40d)](0x0,0x0);const _0x18cd80='Partitions:\x20'+this[_0x399eff(0x110)][_0x399eff(0x305)](',\x20')+_0x399eff(0x32e)+(this[_0x399eff(0x298)]||'unset')+_0x399eff(0x148)+(this[_0x399eff(0x27c)]&&this[_0x399eff(0x27c)][_0x399eff(0x2a8)]||'unused');this[_0x399eff(0x237)][_0x399eff(0x215)]!==_0x18cd80&&(this[_0x399eff(0x237)][_0x399eff(0x215)]=_0x18cd80),this['$cDebugCollision'][_0x399eff(0x1c3)](),_0x2f8c7f[_0x399eff(0x21a)]['drawDebugGraphic'][_0x399eff(0x2d2)](this),this['$cHadCollision']=![];}},_0x2f8c7f[_0x2c14bd(0x3d4)][_0x2c14bd(0x34b)]=function _0x407daa(){const _0x27ee16=_0x2c14bd;if(this[_0x27ee16(0x4d9)]&&this[_0x27ee16(0x4d9)][_0x27ee16(0x3d0)]!==this[_0x27ee16(0x4d9)][_0x27ee16(0x511)]||this['x']!==this[_0x27ee16(0x3be)]||this['y']!==this[_0x27ee16(0x12e)]){delete this['_shape'];const _0x202f83=this['$chashes']||[];this[_0x27ee16(0x110)]=_0x2f8c7f[_0x27ee16(0x21a)][_0x27ee16(0x3c4)](this);for(const _0x57d9fc of _0x202f83){this[_0x27ee16(0x110)][_0x27ee16(0x30b)](_0x57d9fc)===-0x1&&_0x2f8c7f[_0x27ee16(0x21a)][_0x27ee16(0x56a)][_0x57d9fc][_0x27ee16(0x206)](_0x2f8c7f[_0x27ee16(0x21a)][_0x27ee16(0x56a)][_0x57d9fc][_0x27ee16(0x30b)](this),0x1);}for(const _0x37c8f7 of this[_0x27ee16(0x110)]){_0x202f83[_0x27ee16(0x30b)](_0x37c8f7)===-0x1&&(!(_0x37c8f7 in _0x2f8c7f[_0x27ee16(0x21a)][_0x27ee16(0x56a)])?_0x2f8c7f[_0x27ee16(0x21a)][_0x27ee16(0x56a)][_0x37c8f7]=[this]:_0x2f8c7f[_0x27ee16(0x21a)]['grid'][_0x37c8f7][_0x27ee16(0x199)](this));}}this[_0x27ee16(0x11d)]&&(this[_0x27ee16(0x504)]=this[_0x27ee16(0x1a5)]['angle'],this['x']=this[_0x27ee16(0x1a5)]['position']['x'],this['y']=this['matterBody']['position']['y'],this[_0x27ee16(0x3d3)]=this['matterBody'][_0x27ee16(0x2e5)]['x'],this[_0x27ee16(0x3cc)]=this['matterBody'][_0x27ee16(0x2e5)]['y']);},_0x2f8c7f[_0x2c14bd(0x3d4)]['onDestroy']=function _0x4ecaf2(){const _0x156c60=_0x2c14bd;if(this[_0x156c60(0x110)])for(const _0x333a1d of this[_0x156c60(0x110)]){_0x2f8c7f['place']['grid'][_0x333a1d][_0x156c60(0x206)](_0x2f8c7f[_0x156c60(0x21a)][_0x156c60(0x56a)][_0x333a1d]['indexOf'](this),0x1);}this[_0x156c60(0x11d)]&&Matter['World']['remove'](_0x2f8c7f[_0x156c60(0x512)][_0x156c60(0x4c9)],this[_0x156c60(0x1a5)]);};}(ct));class Background extends PIXI['TilingSprite']{constructor(_0x18076c,_0x4f5e90=0x0,_0x459af7=0x0,_0x14a86c={}){const _0x45cdd0=_0x280885;var _0x225449=ct[_0x45cdd0(0x29d)][_0x45cdd0(0x4f4)],_0x3cbd5b=ct[_0x45cdd0(0x29d)]['height'];const _0x33dd59=_0x18076c instanceof PIXI['Texture']?_0x18076c:ct[_0x45cdd0(0x1f2)]['getTexture'](_0x18076c,_0x4f5e90||0x0);(_0x14a86c[_0x45cdd0(0x477)]===_0x45cdd0(0x3e8)||_0x14a86c['repeat']==='repeat-x')&&(_0x3cbd5b=_0x33dd59['height']*(_0x14a86c[_0x45cdd0(0x39c)]||0x1)),(_0x14a86c['repeat']===_0x45cdd0(0x3e8)||_0x14a86c['repeat']===_0x45cdd0(0x162))&&(_0x225449=_0x33dd59[_0x45cdd0(0x4f4)]*(_0x14a86c['scaleX']||0x1)),super(_0x33dd59,_0x225449,_0x3cbd5b),!ct['backgrounds'][_0x45cdd0(0x1b6)][_0x18076c]&&(ct[_0x45cdd0(0x452)][_0x45cdd0(0x1b6)][_0x18076c]=[]),ct[_0x45cdd0(0x452)]['list'][_0x18076c][_0x45cdd0(0x199)](this),ct[_0x45cdd0(0x3d4)][_0x45cdd0(0x1b6)]['BACKGROUND'][_0x45cdd0(0x199)](this),ct[_0x45cdd0(0x25e)][_0x45cdd0(0x199)](this),this['anchor']['x']=this[_0x45cdd0(0x55c)]['y']=0x0,this[_0x45cdd0(0x3c8)]=_0x459af7,this['shiftX']=this[_0x45cdd0(0x2a4)]=this[_0x45cdd0(0x252)]=this[_0x45cdd0(0x565)]=0x0,this[_0x45cdd0(0x1d0)]=this[_0x45cdd0(0x2f6)]=0x1,_0x14a86c&&ct['u'][_0x45cdd0(0x4de)](this,_0x14a86c),this[_0x45cdd0(0x337)]&&(this['tileScale']['x']=Number(this[_0x45cdd0(0x337)])),this['scaleY']&&(this[_0x45cdd0(0x325)]['y']=Number(this[_0x45cdd0(0x39c)])),this[_0x45cdd0(0x24e)]();}[_0x280885(0x498)](){const _0x47ae05=_0x280885;this[_0x47ae05(0x21d)]+=ct[_0x47ae05(0x3fe)]*this['movementX'],this[_0x47ae05(0x2a4)]+=ct[_0x47ae05(0x3fe)]*this[_0x47ae05(0x565)];}[_0x280885(0x24e)](){const _0x1b3005=_0x280885,_0x368870=this['isUi']?{'x':0x0,'y':0x0,'width':ct[_0x1b3005(0x29d)][_0x1b3005(0x4f4)],'height':ct[_0x1b3005(0x29d)][_0x1b3005(0x370)]}:ct[_0x1b3005(0x29d)][_0x1b3005(0x104)](),_0x111e7e=ct['camera']['x']-ct[_0x1b3005(0x29d)][_0x1b3005(0x4f4)]/0x2,_0x24d0d6=ct[_0x1b3005(0x29d)]['y']-ct['camera'][_0x1b3005(0x370)]/0x2;this[_0x1b3005(0x477)]!==_0x1b3005(0x555)&&this[_0x1b3005(0x477)]!==_0x1b3005(0x3e8)?(this['y']=_0x368870['y'],this[_0x1b3005(0x1c7)]['y']=-this['y']-_0x24d0d6*(this[_0x1b3005(0x2f6)]-0x1)+this[_0x1b3005(0x2a4)],this[_0x1b3005(0x370)]=_0x368870[_0x1b3005(0x370)]+0x1):this['y']=this['shiftY']+_0x368870['y']*(this[_0x1b3005(0x2f6)]-0x1),this[_0x1b3005(0x477)]!==_0x1b3005(0x162)&&this[_0x1b3005(0x477)]!==_0x1b3005(0x3e8)?(this['x']=_0x368870['x'],this['tilePosition']['x']=-this['x']-_0x111e7e*(this[_0x1b3005(0x1d0)]-0x1)+this[_0x1b3005(0x21d)],this[_0x1b3005(0x4f4)]=_0x368870['width']+0x1):this['x']=this[_0x1b3005(0x21d)]+_0x368870['x']*(this[_0x1b3005(0x1d0)]-0x1);}[_0x280885(0x2ad)](){const _0x5528f0=_0x280885;this[_0x5528f0(0x24e)]();}static[_0x280885(0x1d3)](){void 0x0;}static[_0x280885(0x455)](){void 0x0;}get[_0x280885(0x3a1)](){const _0xfda243=_0x280885;return this['parent']?Boolean(this['parent'][_0xfda243(0x3a1)]):![];}}ct[_0x280885(0x452)]={'Background':Background,'list':{},'add'(_0x40fe5d,_0x7f7a8e=0x0,_0x2d3507=0x0,_0x41c156=ct['room']){const _0x57b806=_0x280885;if(!_0x40fe5d)throw new Error('[ct.backgrounds]\x20The\x20texName\x20argument\x20is\x20required.');const _0x2476c4=new Background(_0x40fe5d,_0x7f7a8e,_0x2d3507);return _0x41c156[_0x57b806(0x10e)](_0x2476c4),_0x2476c4;}},ct[_0x280885(0x3d4)][_0x280885(0x23d)]=Background;class Tilemap extends PIXI['Container']{constructor(_0x59449a){const _0x164f9c=_0x280885;super(),this[_0x164f9c(0x2ff)]=[];if(_0x59449a){this[_0x164f9c(0x3c8)]=_0x59449a['depth'],this[_0x164f9c(0x35c)]=_0x59449a['tiles'][_0x164f9c(0x45c)](_0x3c11b3=>({..._0x3c11b3}));_0x59449a[_0x164f9c(0x286)]&&Object[_0x164f9c(0x1ae)](this,_0x59449a[_0x164f9c(0x286)]);for(let _0x411d20=0x0,_0x491346=_0x59449a['tiles'][_0x164f9c(0x44c)];_0x411d20<_0x491346;_0x411d20++){const _0x5d55bf=_0x59449a[_0x164f9c(0x35c)][_0x411d20],_0x3cb5dc=ct[_0x164f9c(0x1f2)][_0x164f9c(0x49c)](_0x5d55bf[_0x164f9c(0x457)]),_0xf8b1e1=new PIXI[(_0x164f9c(0x28c))](_0x3cb5dc[_0x5d55bf['frame']]);_0xf8b1e1[_0x164f9c(0x55c)]['x']=_0x3cb5dc[0x0][_0x164f9c(0x1ce)]['x'],_0xf8b1e1[_0x164f9c(0x55c)]['y']=_0x3cb5dc[0x0][_0x164f9c(0x1ce)]['y'],_0xf8b1e1[_0x164f9c(0x36b)]=_0x3cb5dc['shape'],_0xf8b1e1[_0x164f9c(0x404)][_0x164f9c(0x40d)](_0x5d55bf['scale']['x'],_0x5d55bf[_0x164f9c(0x404)]['y']),_0xf8b1e1['rotation']=_0x5d55bf[_0x164f9c(0x504)],_0xf8b1e1['alpha']=_0x5d55bf[_0x164f9c(0x48e)],_0xf8b1e1['tint']=_0x5d55bf[_0x164f9c(0x4ad)],_0xf8b1e1['x']=_0x5d55bf['x'],_0xf8b1e1['y']=_0x5d55bf['y'],this[_0x164f9c(0x10e)](_0xf8b1e1),this[_0x164f9c(0x2ff)][_0x164f9c(0x199)](_0xf8b1e1),this[_0x164f9c(0x35c)][_0x411d20]['sprite']=_0xf8b1e1;}}else this[_0x164f9c(0x35c)]=[];ct[_0x164f9c(0x3d4)][_0x164f9c(0x1b6)]['TILEMAP']['push'](this);}['addTile'](_0x50e3f0,_0x3c58c5,_0x5d0dfd,_0x1496d6=0x0){const _0x32b10a=_0x280885;if(this[_0x32b10a(0x4b2)])throw new Error('[ct.tiles]\x20Adding\x20tiles\x20to\x20cached\x20tilemaps\x20is\x20forbidden.\x20Create\x20a\x20new\x20tilemap,\x20or\x20add\x20tiles\x20before\x20caching\x20the\x20tilemap.');const _0x5a3ec3=ct[_0x32b10a(0x1f2)][_0x32b10a(0x49c)](_0x50e3f0,_0x1496d6),_0x520bc6=new PIXI[(_0x32b10a(0x28c))](_0x5a3ec3);return _0x520bc6['x']=_0x3c58c5,_0x520bc6['y']=_0x5d0dfd,_0x520bc6[_0x32b10a(0x36b)]=_0x5a3ec3[_0x32b10a(0x36b)],this[_0x32b10a(0x35c)][_0x32b10a(0x199)]({'texture':_0x50e3f0,'frame':_0x1496d6,'x':_0x3c58c5,'y':_0x5d0dfd,'width':_0x520bc6['width'],'height':_0x520bc6['height'],'sprite':_0x520bc6}),this['addChild'](_0x520bc6),this[_0x32b10a(0x2ff)]['push'](_0x520bc6),_0x520bc6;}[_0x280885(0x2be)](_0x36d3ae=0x400){const _0x3ec24c=_0x280885;if(this[_0x3ec24c(0x4b2)])throw new Error(_0x3ec24c(0x54f));const _0x37ee34=this[_0x3ec24c(0x350)](),_0x52a584=Math['ceil'](_0x37ee34['width']/_0x36d3ae),_0x5dd5ad=Math[_0x3ec24c(0x52a)](_0x37ee34['height']/_0x36d3ae);this[_0x3ec24c(0x12d)]=[];for(let _0x6a3173=0x0;_0x6a3173<_0x5dd5ad;_0x6a3173++){for(let _0x589a74=0x0;_0x589a74<_0x52a584;_0x589a74++){const _0x4d98cc=new PIXI[(_0x3ec24c(0x412))]();this[_0x3ec24c(0x12d)][_0x3ec24c(0x199)](_0x4d98cc);}}for(let _0x43383a=0x0,_0x2b3f4b=this[_0x3ec24c(0x35c)][_0x3ec24c(0x44c)];_0x43383a<_0x2b3f4b;_0x43383a++){const _0xfa088f=this[_0x3ec24c(0x3d8)][0x0],_0x141d8a=Math[_0x3ec24c(0x55b)]((_0xfa088f['x']-_0x37ee34['x'])/_0x36d3ae),_0x74820c=Math['floor']((_0xfa088f['y']-_0x37ee34['y'])/_0x36d3ae);this[_0x3ec24c(0x12d)][_0x74820c*_0x52a584+_0x141d8a][_0x3ec24c(0x10e)](_0xfa088f);}this[_0x3ec24c(0x15c)]();for(let _0x4b7d6e=0x0,_0x33fb1b=this[_0x3ec24c(0x12d)][_0x3ec24c(0x44c)];_0x4b7d6e<_0x33fb1b;_0x4b7d6e++){if(this[_0x3ec24c(0x12d)][_0x4b7d6e][_0x3ec24c(0x3d8)][_0x3ec24c(0x44c)]===0x0){this[_0x3ec24c(0x12d)][_0x3ec24c(0x206)](_0x4b7d6e,0x1),_0x4b7d6e--,_0x33fb1b--;continue;}this[_0x3ec24c(0x10e)](this['cells'][_0x4b7d6e]),this[_0x3ec24c(0x12d)][_0x4b7d6e][_0x3ec24c(0x472)]=!![];}this['cached']=!![];}[_0x280885(0x24a)](_0x22a400=0x400){const _0x4d7698=_0x280885;if(this[_0x4d7698(0x4b2)])throw new Error(_0x4d7698(0x54f));this[_0x4d7698(0x12d)]=[],this[_0x4d7698(0x1b1)]={};for(let _0x5e0257=0x0,_0x5002f0=this['tiles'][_0x4d7698(0x44c)];_0x5e0257<_0x5002f0;_0x5e0257++){const _0x560785=this['children'][0x0],[_0x345a14,_0x359e44]=ct['u']['rotate'](_0x560785['x'],_0x560785['y']*0x2,-0x2d),_0x4a205e=Math[_0x4d7698(0x55b)](_0x345a14/_0x22a400),_0x353b31=Math[_0x4d7698(0x55b)](_0x359e44/_0x22a400),_0xa46581=_0x4a205e+':'+_0x353b31;if(!(_0xa46581 in this[_0x4d7698(0x1b1)])){const _0x54e389=new PIXI['Container']();_0x54e389['chunkX']=_0x4a205e,_0x54e389[_0x4d7698(0x26d)]=_0x353b31,this[_0x4d7698(0x1b1)][_0xa46581]=_0x54e389,this['cells']['push'](_0x54e389);}this['diamondCellMap'][_0xa46581]['addChild'](_0x560785);}this[_0x4d7698(0x15c)](),this['cells']['sort']((_0x83f21e,_0x359d6f)=>{const _0xe1d29d=_0x4d7698,_0x3ae247=Math['max'](_0x83f21e['chunkY'],_0x83f21e[_0xe1d29d(0x323)]),_0x422492=Math['max'](_0x359d6f[_0xe1d29d(0x26d)],_0x359d6f[_0xe1d29d(0x323)]);if(_0x3ae247===_0x422492)return _0x359d6f[_0xe1d29d(0x323)]-_0x83f21e[_0xe1d29d(0x323)];return _0x3ae247-_0x422492;});for(let _0x47f0b6=0x0,_0x11ea23=this[_0x4d7698(0x12d)][_0x4d7698(0x44c)];_0x47f0b6<_0x11ea23;_0x47f0b6++){this[_0x4d7698(0x10e)](this[_0x4d7698(0x12d)][_0x47f0b6]),this[_0x4d7698(0x12d)][_0x47f0b6]['cacheAsBitmap']=!![];}this['cached']=!![];}}ct[_0x280885(0x3d4)][_0x280885(0x517)]=Tilemap,ct[_0x280885(0x483)]={'create'(_0x131301=0x0){const _0x5ef43a=_0x280885,_0x5d91cc=new Tilemap();return _0x5d91cc[_0x5ef43a(0x3c8)]=_0x131301,ct[_0x5ef43a(0x512)][_0x5ef43a(0x10e)](_0x5d91cc),_0x5d91cc;},'addTile'(_0x4161df,_0x390c41,_0x3acefa,_0x24fbe5,_0x24ea1c=0x0){return _0x4161df['addTile'](_0x390c41,_0x3acefa,_0x24fbe5,_0x24ea1c);},'cache'(_0x3d7c02,_0x5e647f){_0x3d7c02['cache'](_0x5e647f);},'cacheDiamond'(_0x436b1d,_0x8846c3){const _0x5d1869=_0x280885;_0x436b1d[_0x5d1869(0x24a)](_0x8846c3);}};const Camera=function Camera(){const _0x3f7a93=_0x280885,_0x5e8dd1=function _0x3cf3f3(_0x5ce2b8,_0x3adf61){const _0xddd64d=_0x4d4f,_0x23aac1=_0x3adf61/(PIXI[_0xddd64d(0x21b)][_0xddd64d(0x11c)][_0xddd64d(0x123)]||0x3c);_0x5ce2b8[_0xddd64d(0x57c)]-=_0x23aac1*_0x5ce2b8['shakeDecay'],_0x5ce2b8[_0xddd64d(0x57c)]=Math['max'](0x0,_0x5ce2b8[_0xddd64d(0x57c)]);_0x5ce2b8['shakeMax']&&(_0x5ce2b8[_0xddd64d(0x57c)]=Math[_0xddd64d(0x56c)](_0x5ce2b8[_0xddd64d(0x57c)],_0x5ce2b8[_0xddd64d(0x2f2)]));const _0x3ed947=_0x23aac1*_0x5ce2b8['shakeFrequency'];_0x5ce2b8['shakePhase']+=_0x3ed947,_0x5ce2b8[_0xddd64d(0x2c1)]+=_0x3ed947*(0x1+Math[_0xddd64d(0x149)](_0x5ce2b8[_0xddd64d(0x1e3)]*0.1489)*0.25),_0x5ce2b8[_0xddd64d(0x2e7)]+=_0x3ed947*(0x1+Math[_0xddd64d(0x149)](_0x5ce2b8['shakePhase']*0.1734)*0.25);},_0x1679c6=function _0x4f1baf(_0x547c4a){const _0x20055f=_0x4d4f,_0x294466=_0x547c4a['borderX']===null?_0x547c4a['width']/0x2:Math['min'](_0x547c4a[_0x20055f(0x362)],_0x547c4a['width']/0x2),_0x580bba=_0x547c4a[_0x20055f(0x334)]===null?_0x547c4a[_0x20055f(0x370)]/0x2:Math[_0x20055f(0x56c)](_0x547c4a[_0x20055f(0x334)],_0x547c4a[_0x20055f(0x370)]/0x2),_0x4105d1=_0x547c4a[_0x20055f(0x3dd)](_0x294466,_0x580bba),_0x5e17b1=_0x547c4a['uiToGameCoord'](_0x547c4a[_0x20055f(0x4f4)]-_0x294466,_0x547c4a[_0x20055f(0x370)]-_0x580bba);if(_0x547c4a[_0x20055f(0x442)]){if(_0x547c4a[_0x20055f(0x194)]['x']<_0x4105d1['x']-_0x547c4a[_0x20055f(0x121)])_0x547c4a[_0x20055f(0x522)]=_0x547c4a['follow']['x']-_0x294466+_0x547c4a[_0x20055f(0x4f4)]/0x2;else _0x547c4a[_0x20055f(0x194)]['x']>_0x5e17b1['x']-_0x547c4a[_0x20055f(0x121)]&&(_0x547c4a[_0x20055f(0x522)]=_0x547c4a['follow']['x']+_0x294466-_0x547c4a['width']/0x2);}if(_0x547c4a[_0x20055f(0x200)]){if(_0x547c4a[_0x20055f(0x194)]['y']<_0x4105d1['y']-_0x547c4a['interpolatedShiftY'])_0x547c4a['targetY']=_0x547c4a[_0x20055f(0x194)]['y']-_0x580bba+_0x547c4a[_0x20055f(0x370)]/0x2;else _0x547c4a[_0x20055f(0x194)]['y']>_0x5e17b1['y']-_0x547c4a[_0x20055f(0x568)]&&(_0x547c4a[_0x20055f(0x19c)]=_0x547c4a[_0x20055f(0x194)]['y']+_0x580bba-_0x547c4a[_0x20055f(0x370)]/0x2);}},_0x38ce5e=function _0x1b87e7(_0x1a0b4d){const _0x3da0b9=_0x4d4f;if(_0x1a0b4d[_0x3da0b9(0x460)]!==void 0x0){const _0x543f51=_0x1a0b4d['minX']+_0x1a0b4d[_0x3da0b9(0x4f4)]*_0x1a0b4d[_0x3da0b9(0x404)]['x']*0.5;_0x1a0b4d['x']=Math['max'](_0x543f51,_0x1a0b4d['x']),_0x1a0b4d['targetX']=Math[_0x3da0b9(0x525)](_0x543f51,_0x1a0b4d['targetX']);}if(_0x1a0b4d[_0x3da0b9(0x57d)]!==void 0x0){const _0x547326=_0x1a0b4d[_0x3da0b9(0x57d)]-_0x1a0b4d[_0x3da0b9(0x4f4)]*_0x1a0b4d['scale']['x']*0.5;_0x1a0b4d['x']=Math[_0x3da0b9(0x56c)](_0x547326,_0x1a0b4d['x']),_0x1a0b4d['targetX']=Math['min'](_0x547326,_0x1a0b4d['targetX']);}if(_0x1a0b4d[_0x3da0b9(0x570)]!==void 0x0){const _0x53b3af=_0x1a0b4d['minY']+_0x1a0b4d[_0x3da0b9(0x370)]*_0x1a0b4d[_0x3da0b9(0x404)]['y']*0.5;_0x1a0b4d['y']=Math['max'](_0x53b3af,_0x1a0b4d['y']),_0x1a0b4d[_0x3da0b9(0x19c)]=Math[_0x3da0b9(0x525)](_0x53b3af,_0x1a0b4d['targetY']);}if(_0x1a0b4d[_0x3da0b9(0x53a)]!==void 0x0){const _0x44be93=_0x1a0b4d[_0x3da0b9(0x53a)]-_0x1a0b4d[_0x3da0b9(0x370)]*_0x1a0b4d[_0x3da0b9(0x404)]['y']*0.5;_0x1a0b4d['y']=Math[_0x3da0b9(0x56c)](_0x44be93,_0x1a0b4d['y']),_0x1a0b4d[_0x3da0b9(0x19c)]=Math[_0x3da0b9(0x56c)](_0x44be93,_0x1a0b4d[_0x3da0b9(0x19c)]);}};class _0x5ba56d extends PIXI['DisplayObject']{constructor(_0x2de091,_0x3a9cda,_0x4ad34f,_0x48601a){const _0x41876b=_0x4d4f;super(),this[_0x41876b(0x194)]=this['rotate']=![],this[_0x41876b(0x442)]=this[_0x41876b(0x200)]=!![],this[_0x41876b(0x522)]=this['x']=_0x2de091,this['targetY']=this['y']=_0x3a9cda,this['z']=0x1f4,this[_0x41876b(0x4f4)]=_0x4ad34f||0x780,this['height']=_0x48601a||0x438,this['shiftX']=this[_0x41876b(0x2a4)]=this['interpolatedShiftX']=this[_0x41876b(0x568)]=0x0,this[_0x41876b(0x362)]=this[_0x41876b(0x334)]=null,this[_0x41876b(0x20e)]=0x0,this[_0x41876b(0x57c)]=0x0,this[_0x41876b(0x16c)]=0x5,this[_0x41876b(0x485)]=this['shakeY']=0x1,this[_0x41876b(0x326)]=0x32,this[_0x41876b(0x1e3)]=this[_0x41876b(0x2c1)]=this[_0x41876b(0x2e7)]=0x0,this[_0x41876b(0x2f2)]=0xa,this[_0x41876b(0x347)]=this['getBoundingBox'];}get['scale'](){const _0x1fda61=_0x4d4f;return this['transform'][_0x1fda61(0x404)];}set[_0x3f7a93(0x404)](_0x226a72){const _0x4190ab=_0x3f7a93;typeof _0x226a72===_0x4190ab(0x48b)&&(_0x226a72={'x':_0x226a72,'y':_0x226a72}),this[_0x4190ab(0x4d9)][_0x4190ab(0x404)][_0x4190ab(0x3f7)](_0x226a72);}[_0x3f7a93(0x2dc)](_0x2dcf49,_0x487b79){const _0x45fac1=_0x3f7a93;this[_0x45fac1(0x522)]=_0x2dcf49,this[_0x45fac1(0x19c)]=_0x487b79;}['teleportTo'](_0xcdfc3,_0x3a6d4c){const _0x4ecf91=_0x3f7a93;this['targetX']=this['x']=_0xcdfc3,this[_0x4ecf91(0x19c)]=this['y']=_0x3a6d4c,this['shakePhase']=this['shakePhaseX']=this[_0x4ecf91(0x2e7)]=0x0,this['interpolatedShiftX']=this[_0x4ecf91(0x21d)],this['interpolatedShiftY']=this['shiftY'];}[_0x3f7a93(0x1ec)](_0x58e409){const _0x2a2664=_0x3f7a93;_0x5e8dd1(this,_0x58e409);this[_0x2a2664(0x194)]&&this[_0x2a2664(0x194)][_0x2a2664(0x1e8)]&&(this['follow']=![]);!this[_0x2a2664(0x194)]&&ct[_0x2a2664(0x512)][_0x2a2664(0x194)]&&(this['follow']=ct[_0x2a2664(0x3d4)][_0x2a2664(0x1b6)][ct['room']['follow']][0x0]);this[_0x2a2664(0x194)]&&'x'in this[_0x2a2664(0x194)]&&'y'in this[_0x2a2664(0x194)]&&_0x1679c6(this);const _0x1c5ead=this[_0x2a2664(0x20e)]?Math[_0x2a2664(0x56c)](0x1,(0x1-this[_0x2a2664(0x20e)])*_0x58e409):0x1;this['x']=this[_0x2a2664(0x522)]*_0x1c5ead+this['x']*(0x1-_0x1c5ead),this['y']=this[_0x2a2664(0x19c)]*_0x1c5ead+this['y']*(0x1-_0x1c5ead),this[_0x2a2664(0x121)]=this[_0x2a2664(0x21d)]*_0x1c5ead+this[_0x2a2664(0x121)]*(0x1-_0x1c5ead),this[_0x2a2664(0x568)]=this[_0x2a2664(0x2a4)]*_0x1c5ead+this[_0x2a2664(0x568)]*(0x1-_0x1c5ead),_0x38ce5e(this),this['x']=this['x']||0x0,this['y']=this['y']||0x0;}get[_0x3f7a93(0x152)](){const _0x57b7e2=_0x3f7a93,_0x31df75=(Math[_0x57b7e2(0x149)](this[_0x57b7e2(0x2c1)])+Math[_0x57b7e2(0x149)](this['shakePhaseX']*3.1846)*0.25)/1.25,_0x55b7ae=this['x']+_0x31df75*this[_0x57b7e2(0x57c)]*Math[_0x57b7e2(0x525)](this['width'],this[_0x57b7e2(0x370)])/0x64*this['shakeX'];return _0x55b7ae+this[_0x57b7e2(0x121)];}get['computedY'](){const _0x32525e=_0x3f7a93,_0x479af8=(Math[_0x32525e(0x149)](this[_0x32525e(0x2e7)])+Math[_0x32525e(0x149)](this[_0x32525e(0x2e7)]*2.8948)*0.25)/1.25,_0x25d9a6=this['y']+_0x479af8*this[_0x32525e(0x57c)]*Math[_0x32525e(0x525)](this[_0x32525e(0x4f4)],this[_0x32525e(0x370)])/0x64*this['shakeY'];return _0x25d9a6+this[_0x32525e(0x568)];}get['left'](){const _0x280dfd=_0x3f7a93;return this[_0x280dfd(0x152)]-this['width']/0x2*this[_0x280dfd(0x404)]['x'];}get[_0x3f7a93(0x25c)](){const _0x213703=_0x3f7a93;return this[_0x213703(0x531)]-this[_0x213703(0x370)]/0x2*this[_0x213703(0x404)]['y'];}get['right'](){const _0x356db6=_0x3f7a93;return this[_0x356db6(0x152)]+this['width']/0x2*this[_0x356db6(0x404)]['x'];}get['bottom'](){const _0x366430=_0x3f7a93;return this[_0x366430(0x531)]+this[_0x366430(0x370)]/0x2*this[_0x366430(0x404)]['y'];}[_0x3f7a93(0x3dd)](_0x3be82f,_0x30f5b9){const _0xf1fc7a=_0x3f7a93,_0x218e73=(_0x3be82f-this['width']/0x2)*this['scale']['x'],_0x317473=(_0x30f5b9-this[_0xf1fc7a(0x370)]/0x2)*this[_0xf1fc7a(0x404)]['y'],_0x407f33=ct['u'][_0xf1fc7a(0x419)](_0x218e73,_0x317473,this[_0xf1fc7a(0x101)]);return new PIXI[(_0xf1fc7a(0x4b5))](_0x407f33['x']+this[_0xf1fc7a(0x152)],_0x407f33['y']+this[_0xf1fc7a(0x531)]);}[_0x3f7a93(0x236)](_0x13d819,_0x44be99){const _0x410268=_0x3f7a93,_0x355429=_0x13d819-this['computedX'],_0x5e868f=_0x44be99-this[_0x410268(0x531)],_0xadc29a=ct['u'][_0x410268(0x419)](_0x355429,_0x5e868f,-this[_0x410268(0x101)]);return new PIXI['Point'](_0xadc29a['x']/this['scale']['x']+this[_0x410268(0x4f4)]/0x2,_0xadc29a['y']/this[_0x410268(0x404)]['y']+this[_0x410268(0x370)]/0x2);}[_0x3f7a93(0x529)](){const _0x3dc619=_0x3f7a93;return this[_0x3dc619(0x3dd)](0x0,0x0);}['getTopRightCorner'](){return this['uiToGameCoord'](this['width'],0x0);}['getBottomLeftCorner'](){const _0xcbbf5d=_0x3f7a93;return this[_0xcbbf5d(0x3dd)](0x0,this[_0xcbbf5d(0x370)]);}[_0x3f7a93(0x3e9)](){const _0x2caf6d=_0x3f7a93;return this[_0x2caf6d(0x3dd)](this[_0x2caf6d(0x4f4)],this[_0x2caf6d(0x370)]);}[_0x3f7a93(0x104)](){const _0x15638a=_0x3f7a93,_0x40a9c8=new PIXI[(_0x15638a(0x321))](),_0x217bb1=this[_0x15638a(0x529)](),_0x288cb0=this['getTopRightCorner'](),_0x3a916b=this[_0x15638a(0x238)](),_0xdef3b8=this[_0x15638a(0x3e9)]();return _0x40a9c8[_0x15638a(0x304)](new PIXI[(_0x15638a(0x4b5))](_0x217bb1['x'],_0x217bb1['y'])),_0x40a9c8[_0x15638a(0x304)](new PIXI['Point'](_0x288cb0['x'],_0x288cb0['y'])),_0x40a9c8[_0x15638a(0x304)](new PIXI[(_0x15638a(0x4b5))](_0x3a916b['x'],_0x3a916b['y'])),_0x40a9c8['addPoint'](new PIXI[(_0x15638a(0x4b5))](_0xdef3b8['x'],_0xdef3b8['y'])),_0x40a9c8[_0x15638a(0x3a8)]();}[_0x3f7a93(0x3e3)](_0x2b4b3f){const _0x49a204=_0x3f7a93,_0x475085=_0x2b4b3f[_0x49a204(0x347)](!![]);return _0x475085[_0x49a204(0x153)]>0x0&&_0x475085[_0x49a204(0x21f)]<this[_0x49a204(0x4f4)]*this['scale']['x']&&_0x475085[_0x49a204(0x36c)]>0x0&&_0x475085['top']<this[_0x49a204(0x4f4)]*this['scale']['y'];}[_0x3f7a93(0x30a)](_0x4b63bd){const _0x3579cd=_0x3f7a93;if(!_0x4b63bd['isUi'])throw new Error('[ct.camera]\x20An\x20attempt\x20to\x20realing\x20a\x20room\x20that\x20is\x20not\x20in\x20UI\x20space.\x20The\x20room\x20in\x20question\x20is',_0x4b63bd);const _0x2b9e4c=ct['rooms'][_0x3579cd(0x3d4)][_0x4b63bd[_0x3579cd(0x19b)]][_0x3579cd(0x4f4)]||0x1,_0x475bce=ct[_0x3579cd(0x3f0)][_0x3579cd(0x3d4)][_0x4b63bd[_0x3579cd(0x19b)]][_0x3579cd(0x370)]||0x1;for(const _0x4c667f of _0x4b63bd[_0x3579cd(0x3d8)]){if(!('xstart'in _0x4c667f)||_0x4c667f[_0x3579cd(0x353)])continue;_0x4c667f['x']=_0x4c667f[_0x3579cd(0x2f7)]/_0x2b9e4c*this[_0x3579cd(0x4f4)],_0x4c667f['y']=_0x4c667f[_0x3579cd(0x4b7)]/_0x475bce*this[_0x3579cd(0x370)];}}[_0x3f7a93(0x114)](){const _0x3fb55a=_0x3f7a93,_0x3bf95a=this['computedX'],_0x4d03de=this[_0x3fb55a(0x531)],_0x179128=0x1/(isNaN(this[_0x3fb55a(0x404)]['x'])?0x1:this[_0x3fb55a(0x404)]['x']),_0x1ed15d=0x1/(isNaN(this[_0x3fb55a(0x404)]['y'])?0x1:this[_0x3fb55a(0x404)]['y']);for(const _0x34781e of ct[_0x3fb55a(0x365)]['children']){!_0x34781e[_0x3fb55a(0x3a1)]&&_0x34781e[_0x3fb55a(0x497)]&&(_0x34781e['x']=-this['width']/0x2,_0x34781e['y']=-this[_0x3fb55a(0x370)]/0x2,_0x34781e[_0x3fb55a(0x497)]['x']=_0x3bf95a,_0x34781e[_0x3fb55a(0x497)]['y']=_0x4d03de,_0x34781e[_0x3fb55a(0x404)]['x']=_0x179128,_0x34781e[_0x3fb55a(0x404)]['y']=_0x1ed15d,_0x34781e[_0x3fb55a(0x101)]=-this['angle']);}}}return _0x5ba56d;}(ct);void Camera,function timerAddon(){const _0x784bfd=_0x280885,_0x1db8e4=Symbol('time'),_0x338a51=Symbol(_0x784bfd(0x360)),_0x3fadba=Symbol(_0x784bfd(0x582)),_0x50a501=Symbol(_0x784bfd(0x1b7)),_0x1b5211=Symbol(_0x784bfd(0x545));class _0x172e85{constructor(_0x4598a3,_0xb6a9cd=![],_0x5da978=![]){const _0x4530a9=_0x784bfd;this[_0x338a51]=ct['room'][_0x4530a9(0x18d)]||null,this[_0x4530a9(0x19b)]=_0xb6a9cd&&_0xb6a9cd['toString'](),this[_0x4530a9(0x3a1)]=_0x5da978,this[_0x1db8e4]=0x0,this[_0x3fadba]=_0x4598a3,this[_0x4530a9(0x34f)]=this[_0x3fadba],this[_0x4530a9(0x377)]=new Promise((_0x1b28ce,_0x560ea2)=>{this[_0x50a501]=_0x1b28ce,this[_0x1b5211]=_0x560ea2;}),this[_0x4530a9(0x27e)]=![],this[_0x4530a9(0x476)]=![],this[_0x4530a9(0x4f6)]=![],ct[_0x4530a9(0x449)][_0x4530a9(0x182)][_0x4530a9(0x2cd)](this);}[_0x784bfd(0x16e)](..._0x1a1525){const _0x495b8d=_0x784bfd;return this['promise'][_0x495b8d(0x16e)](..._0x1a1525);}[_0x784bfd(0x439)](_0x1268d3){const _0xb6718b=_0x784bfd;return this[_0xb6718b(0x377)][_0xb6718b(0x439)](_0x1268d3);}get['time'](){const _0x1204cc=_0x784bfd;return this[_0x1db8e4]*0x3e8/ct[_0x1204cc(0x2ed)];}set[_0x784bfd(0x48f)](_0x1f6e08){const _0x775fe8=_0x784bfd;this[_0x1db8e4]=_0x1f6e08/0x3e8*ct[_0x775fe8(0x2ed)];}['update'](){const _0x11693=_0x784bfd;if(this[_0x11693(0x27e)]===!![]||this['done']===!![]){this[_0x11693(0x23e)]();return;}this[_0x1db8e4]+=this[_0x11693(0x3a1)]?ct[_0x11693(0x11b)]:ct['delta'],ct[_0x11693(0x512)]['uid']!==this[_0x338a51]&&this[_0x338a51]!==null&&this['reject']({'info':_0x11693(0x45d),'from':_0x11693(0x191)}),this[_0x11693(0x34f)]!==0x0&&(this[_0x11693(0x34f)]=this[_0x3fadba]-this[_0x11693(0x48f)],this['timeLeft']<=0x0&&this[_0x11693(0x46d)]());}[_0x784bfd(0x46d)](){const _0x28957a=_0x784bfd;if(this[_0x28957a(0x4f6)])return;this[_0x28957a(0x476)]=!![],this[_0x28957a(0x4f6)]=!![],this[_0x50a501](),this[_0x28957a(0x23e)]();}['reject'](_0x59a86f){const _0x44891e=_0x784bfd;if(this[_0x44891e(0x4f6)])return;this[_0x44891e(0x27e)]=!![],this[_0x44891e(0x4f6)]=!![],this[_0x1b5211](_0x59a86f),this[_0x44891e(0x23e)]();}[_0x784bfd(0x23e)](){const _0x19fd10=_0x784bfd;ct[_0x19fd10(0x449)][_0x19fd10(0x182)][_0x19fd10(0x4e6)](this);}}window['CtTimer']=_0x172e85,ct['timer']={'timers':new Set(),'counter':0x0,'add'(_0x15bda3,_0x4feef7=![]){return new _0x172e85(_0x15bda3,_0x4feef7,![]);},'addUi'(_0x4d8dac,_0x42e0e5=![]){return new _0x172e85(_0x4d8dac,_0x42e0e5,!![]);},'updateTimers'(){const _0x1627c3=_0x784bfd;for(const _0x3a42e0 of this[_0x1627c3(0x182)]){_0x3a42e0['update']();}}};}();if(document[_0x280885(0x3e0)])for(const font of document['fonts']){font[_0x280885(0x17a)]();}(function ctPlace(_0x124e6a){const _0x33b932=_0x280885,_0x141c3d=0x10,_0x112ace=[![]][0x0],_0x595ef3=function(_0x55109c){const _0xf0262e=_0x4d4f,{shape:_0xcf8eb4}=_0x55109c,_0x18f07f=new SSCD[(_0xf0262e(0x4dd))](_0x55109c['x'],_0x55109c['y']);if(_0x55109c[_0xf0262e(0x101)]===0x0)return _0x18f07f['x']-=_0x55109c[_0xf0262e(0x404)]['x']>0x0?_0xcf8eb4[_0xf0262e(0x21f)]*_0x55109c['scale']['x']:-_0x55109c[_0xf0262e(0x404)]['x']*_0xcf8eb4[_0xf0262e(0x153)],_0x18f07f['y']-=_0x55109c[_0xf0262e(0x404)]['y']>0x0?_0xcf8eb4[_0xf0262e(0x25c)]*_0x55109c['scale']['y']:-_0xcf8eb4[_0xf0262e(0x36c)]*_0x55109c[_0xf0262e(0x404)]['y'],new SSCD[(_0xf0262e(0x1d5))](_0x18f07f,new SSCD[(_0xf0262e(0x4dd))](Math[_0xf0262e(0x1de)]((_0xcf8eb4['left']+_0xcf8eb4['right'])*_0x55109c['scale']['x']),Math[_0xf0262e(0x1de)]((_0xcf8eb4[_0xf0262e(0x36c)]+_0xcf8eb4[_0xf0262e(0x25c)])*_0x55109c[_0xf0262e(0x404)]['y'])));const _0x289319=_0x124e6a['u'][_0xf0262e(0x419)](-_0xcf8eb4['left']*_0x55109c['scale']['x'],-_0xcf8eb4[_0xf0262e(0x25c)]*_0x55109c[_0xf0262e(0x404)]['y'],_0x55109c[_0xf0262e(0x101)]),_0x2194f4=_0x124e6a['u'][_0xf0262e(0x419)](-_0xcf8eb4[_0xf0262e(0x21f)]*_0x55109c['scale']['x'],_0xcf8eb4[_0xf0262e(0x36c)]*_0x55109c[_0xf0262e(0x404)]['y'],_0x55109c['angle']),_0x4b81b4=_0x124e6a['u']['rotate'](_0xcf8eb4['right']*_0x55109c[_0xf0262e(0x404)]['x'],_0xcf8eb4[_0xf0262e(0x36c)]*_0x55109c['scale']['y'],_0x55109c[_0xf0262e(0x101)]),_0x57e2cc=_0x124e6a['u'][_0xf0262e(0x419)](_0xcf8eb4[_0xf0262e(0x153)]*_0x55109c['scale']['x'],-_0xcf8eb4['top']*_0x55109c['scale']['y'],_0x55109c[_0xf0262e(0x101)]);return new SSCD['LineStrip'](_0x18f07f,[new SSCD[(_0xf0262e(0x4dd))](_0x289319['x'],_0x289319['y']),new SSCD[(_0xf0262e(0x4dd))](_0x2194f4['x'],_0x2194f4['y']),new SSCD[(_0xf0262e(0x4dd))](_0x4b81b4['x'],_0x4b81b4['y']),new SSCD[(_0xf0262e(0x4dd))](_0x57e2cc['x'],_0x57e2cc['y'])],!![]);},_0x40d733=function(_0x322cc8){const _0xe6f7c5=_0x4d4f,{shape:_0x190687}=_0x322cc8,_0x58c134=new SSCD[(_0xe6f7c5(0x4dd))](_0x322cc8['x'],_0x322cc8['y']);if(Math['abs'](_0x322cc8['scale']['x'])===Math[_0xe6f7c5(0x1de)](_0x322cc8[_0xe6f7c5(0x404)]['y']))return new SSCD[(_0xe6f7c5(0x4b0))](_0x58c134,_0x190687['r']*Math[_0xe6f7c5(0x1de)](_0x322cc8[_0xe6f7c5(0x404)]['x']));const _0x524649=[];for(let _0x1b9fbb=0x0;_0x1b9fbb<_0x141c3d;_0x1b9fbb++){const _0x4ae1f9=[_0x124e6a['u']['ldx'](_0x190687['r']*_0x322cc8[_0xe6f7c5(0x404)]['x'],0x168/_0x141c3d*_0x1b9fbb),_0x124e6a['u'][_0xe6f7c5(0x35b)](_0x190687['r']*_0x322cc8[_0xe6f7c5(0x404)]['y'],0x168/_0x141c3d*_0x1b9fbb)];if(_0x322cc8[_0xe6f7c5(0x101)]!==0x0){const {x:_0x3d5090,y:_0x2fd47e}=_0x124e6a['u']['rotate'](_0x4ae1f9[0x0],_0x4ae1f9[0x1],_0x322cc8[_0xe6f7c5(0x101)]);_0x524649[_0xe6f7c5(0x199)](new SSCD[(_0xe6f7c5(0x4dd))](_0x3d5090,_0x2fd47e));}else _0x524649[_0xe6f7c5(0x199)](new SSCD['Vector'](_0x4ae1f9[0x0],_0x4ae1f9[0x1]));}return new SSCD[(_0xe6f7c5(0x248))](_0x58c134,_0x524649,!![]);},_0x4d453e=function(_0x492cad){const _0x41c9ba=_0x4d4f,{shape:_0x5ed5e4}=_0x492cad,_0x5f1925=new SSCD[(_0x41c9ba(0x4dd))](_0x492cad['x'],_0x492cad['y']),_0x11c943=[];if(_0x492cad[_0x41c9ba(0x101)]!==0x0)for(const _0x49c079 of _0x5ed5e4[_0x41c9ba(0x171)]){const {x:_0x4d05e7,y:_0x24bdbe}=_0x124e6a['u'][_0x41c9ba(0x419)](_0x49c079['x']*_0x492cad[_0x41c9ba(0x404)]['x'],_0x49c079['y']*_0x492cad[_0x41c9ba(0x404)]['y'],_0x492cad[_0x41c9ba(0x101)]);_0x11c943['push'](new SSCD[(_0x41c9ba(0x4dd))](_0x4d05e7,_0x24bdbe));}else for(const _0xe79b3d of _0x5ed5e4[_0x41c9ba(0x171)]){_0x11c943[_0x41c9ba(0x199)](new SSCD[(_0x41c9ba(0x4dd))](_0xe79b3d['x']*_0x492cad[_0x41c9ba(0x404)]['x'],_0xe79b3d['y']*_0x492cad[_0x41c9ba(0x404)]['y']));}return new SSCD['LineStrip'](_0x5f1925,_0x11c943,Boolean(_0x5ed5e4[_0x41c9ba(0x2ec)]));},_0x29dd4c=function(_0x475401){const _0x16f933=_0x4d4f,{shape:_0x1bb1c7}=_0x475401;if(_0x475401[_0x16f933(0x101)]!==0x0){const {x:_0x16f5b0,y:_0x556c0c}=_0x124e6a['u'][_0x16f933(0x419)](_0x1bb1c7['x1']*_0x475401[_0x16f933(0x404)]['x'],_0x1bb1c7['y1']*_0x475401[_0x16f933(0x404)]['y'],_0x475401[_0x16f933(0x101)]),{x:_0x616f45,y:_0x1e4204}=_0x124e6a['u']['rotate'](_0x1bb1c7['x2']*_0x475401[_0x16f933(0x404)]['x'],_0x1bb1c7['y2']*_0x475401[_0x16f933(0x404)]['y'],_0x475401[_0x16f933(0x101)]);return new SSCD['Line'](new SSCD['Vector'](_0x475401['x']+_0x16f5b0,_0x475401['y']+_0x556c0c),new SSCD['Vector'](_0x616f45-_0x16f5b0,_0x1e4204-_0x556c0c));}return new SSCD[(_0x16f933(0x17c))](new SSCD[(_0x16f933(0x4dd))](_0x475401['x']+_0x1bb1c7['x1']*_0x475401['scale']['x'],_0x475401['y']+_0x1bb1c7['y1']*_0x475401[_0x16f933(0x404)]['y']),new SSCD[(_0x16f933(0x4dd))]((_0x1bb1c7['x2']-_0x1bb1c7['x1'])*_0x475401[_0x16f933(0x404)]['x'],(_0x1bb1c7['y2']-_0x1bb1c7['y1'])*_0x475401[_0x16f933(0x404)]['y']));};var _0x15d36b=function(_0x156f66){const _0x3d43f1=_0x4d4f;switch(_0x156f66[_0x3d43f1(0x36b)][_0x3d43f1(0x22e)]){case _0x3d43f1(0x3df):return _0x595ef3(_0x156f66);case _0x3d43f1(0x328):return _0x40d733(_0x156f66);case _0x3d43f1(0x503):return _0x4d453e(_0x156f66);case'line':return _0x29dd4c(_0x156f66);default:return new SSCD[(_0x3d43f1(0x4b0))](new SSCD['Vector'](_0x156f66['x'],_0x156f66['y']),0x0);}};const _0x5702b0=(_0x7f095c,_0x298e70,_0x4b4497)=>_0x298e70[_0x33b932(0x396)]===_0x4b4497,_0x3af110=(_0x55a63e,_0x4f4138,_0x5387a3)=>!_0x5387a3||_0x5387a3===_0x4f4138[_0x33b932(0x298)],_0x26e5f4=function(_0x29d7a6,_0x402b5f,_0x402f12,_0x98c3cf,_0x4712be,_0xcbd090,_0x55a0b7){const _0x2899a3=_0x33b932,_0x52cc67=_0x29d7a6['x'],_0x343972=_0x29d7a6['y'],_0x55b6c6=_0x29d7a6[_0x2899a3(0x27c)];let _0x396e57,_0x466b2e;_0x402b5f!==void 0x0&&(_0x52cc67!==_0x402b5f||_0x343972!==_0x402f12)?(_0x29d7a6['x']=_0x402b5f,_0x29d7a6['y']=_0x402f12,_0x29d7a6[_0x2899a3(0x27c)]=_0x15d36b(_0x29d7a6),_0x396e57=_0x124e6a[_0x2899a3(0x21a)][_0x2899a3(0x3c4)](_0x29d7a6)):(_0x396e57=_0x29d7a6[_0x2899a3(0x110)]||_0x124e6a['place']['getHashes'](_0x29d7a6),_0x29d7a6['_shape']=_0x29d7a6[_0x2899a3(0x27c)]||_0x15d36b(_0x29d7a6));_0x4712be&&(_0x466b2e=[]);for(const _0x566f28 of _0x396e57){const _0xe32fbf=_0x98c3cf[_0x566f28];if(!_0xe32fbf)continue;for(const _0x2b8b27 of _0xe32fbf){if(_0x2b8b27===_0x29d7a6)continue;if(!_0xcbd090(_0x29d7a6,_0x2b8b27,_0x55a0b7))continue;if(_0x124e6a[_0x2899a3(0x21a)][_0x2899a3(0x548)](_0x29d7a6,_0x2b8b27)){if(!_0x4712be)return(_0x52cc67!==_0x29d7a6['x']||_0x343972!==_0x29d7a6['y'])&&(_0x29d7a6['x']=_0x52cc67,_0x29d7a6['y']=_0x343972,_0x29d7a6[_0x2899a3(0x27c)]=_0x55b6c6),_0x2b8b27;!_0x466b2e[_0x2899a3(0x4ea)](_0x2b8b27)&&_0x466b2e[_0x2899a3(0x199)](_0x2b8b27);}}}(_0x52cc67!==_0x29d7a6['x']||_0x343972!==_0x29d7a6['y'])&&(_0x29d7a6['x']=_0x52cc67,_0x29d7a6['y']=_0x343972,_0x29d7a6[_0x2899a3(0x27c)]=_0x55b6c6);if(!_0x4712be)return![];return _0x466b2e;};_0x124e6a['place']={'m':0x1,'gridX':[0x400][0x0]||0x200,'gridY':[0x400][0x0]||0x200,'grid':{},'tileGrid':{},'getHashes'(_0x2d5a9d){const _0x25fcbe=_0x33b932;var _0x1d40cd=[],_0x26102d=Math[_0x25fcbe(0x13a)](_0x2d5a9d['x']/_0x124e6a[_0x25fcbe(0x21a)]['gridX']),_0x4e118d=Math[_0x25fcbe(0x13a)](_0x2d5a9d['y']/_0x124e6a[_0x25fcbe(0x21a)][_0x25fcbe(0x42d)]),_0x3820cd=Math[_0x25fcbe(0x112)](_0x2d5a9d['x']-_0x124e6a['place'][_0x25fcbe(0x4b6)]*_0x26102d),_0x5345c0=Math[_0x25fcbe(0x112)](_0x2d5a9d['y']-_0x124e6a[_0x25fcbe(0x21a)][_0x25fcbe(0x42d)]*_0x4e118d);return _0x1d40cd[_0x25fcbe(0x199)](_0x26102d+':'+_0x4e118d),_0x3820cd&&(_0x1d40cd[_0x25fcbe(0x199)](_0x26102d+_0x3820cd+':'+_0x4e118d),_0x5345c0&&_0x1d40cd[_0x25fcbe(0x199)](_0x26102d+_0x3820cd+':'+(_0x4e118d+_0x5345c0))),_0x5345c0&&_0x1d40cd[_0x25fcbe(0x199)](_0x26102d+':'+(_0x4e118d+_0x5345c0)),_0x1d40cd;},'drawDebugGraphic'(_0x414903){const _0x2bec03=_0x33b932,_0xf33ba3=this['_shape']||_0x15d36b(this),_0x5564d7=this['$cDebugCollision'],_0x16ab30=this[_0x2bec03(0x4d9)][_0x2bec03(0x3a9)][_0x2bec03(0x3b3)]()[_0x2bec03(0x147)]();this['$cDebugCollision'][_0x2bec03(0x4d9)][_0x2bec03(0x436)](_0x16ab30),this['$cDebugCollision'][_0x2bec03(0x4be)][_0x2bec03(0x40d)](0x0,0x0);let _0x123c54=0xffff;if(this instanceof Copy)_0x123c54=0x66ff;else this instanceof PIXI[_0x2bec03(0x28c)]&&(_0x123c54=0x6600ff);this['$cHadCollision']&&(_0x123c54=0xff00);_0x5564d7[_0x2bec03(0x221)](0x2,_0x123c54);if(_0xf33ba3 instanceof SSCD[_0x2bec03(0x1d5)]){const _0x3d029c=_0xf33ba3[_0x2bec03(0x311)](),_0x5ee4af=_0xf33ba3[_0x2bec03(0x1d2)]();_0x5564d7['beginFill'](_0x123c54,0.1),!_0x414903?_0x5564d7['drawRect'](_0x3d029c['x']-this['x'],_0x3d029c['y']-this['y'],_0x5ee4af['x'],_0x5ee4af['y']):_0x5564d7['drawRect'](_0x3d029c['x'],_0x3d029c['y'],_0x5ee4af['x'],_0x5ee4af['y']),_0x5564d7[_0x2bec03(0x493)]();}else{if(_0xf33ba3 instanceof SSCD[_0x2bec03(0x248)]){if(!_0x414903){_0x5564d7[_0x2bec03(0x2dc)](_0xf33ba3[_0x2bec03(0xef)][0x0]['x'],_0xf33ba3[_0x2bec03(0xef)][0x0]['y']);for(let _0x26ac0f=0x1;_0x26ac0f<_0xf33ba3[_0x2bec03(0xef)][_0x2bec03(0x44c)];_0x26ac0f++){_0x5564d7[_0x2bec03(0x125)](_0xf33ba3[_0x2bec03(0xef)][_0x26ac0f]['x'],_0xf33ba3[_0x2bec03(0xef)][_0x26ac0f]['y']);}}else{_0x5564d7['moveTo'](_0xf33ba3[_0x2bec03(0xef)][0x0]['x']+this['x'],_0xf33ba3['__points'][0x0]['y']+this['y']);for(let _0xd30f6b=0x1;_0xd30f6b<_0xf33ba3[_0x2bec03(0xef)]['length'];_0xd30f6b++){_0x5564d7['lineTo'](_0xf33ba3[_0x2bec03(0xef)][_0xd30f6b]['x']+this['x'],_0xf33ba3['__points'][_0xd30f6b]['y']+this['y']);}}}else{if(_0xf33ba3 instanceof SSCD[_0x2bec03(0x4b0)]&&_0xf33ba3[_0x2bec03(0x167)]()>0x0)_0x5564d7[_0x2bec03(0x4bf)](_0x123c54,0.1),!_0x414903?_0x5564d7[_0x2bec03(0x422)](0x0,0x0,_0xf33ba3['get_radius']()):_0x5564d7[_0x2bec03(0x422)](this['x'],this['y'],_0xf33ba3['get_radius']()),_0x5564d7[_0x2bec03(0x493)]();else{if(_0xf33ba3 instanceof SSCD[_0x2bec03(0x17c)]){if(!_0x414903)_0x5564d7['moveTo'](_0xf33ba3[_0x2bec03(0x32a)]['x'],_0xf33ba3[_0x2bec03(0x32a)]['y'])[_0x2bec03(0x125)](_0xf33ba3[_0x2bec03(0x32a)]['x']+_0xf33ba3[_0x2bec03(0x416)]['x'],_0xf33ba3[_0x2bec03(0x32a)]['y']+_0xf33ba3['__dest']['y']);else{const _0x327047=_0xf33ba3[_0x2bec03(0x52b)](),_0x2c1adf=_0xf33ba3[_0x2bec03(0x10a)]();_0x5564d7[_0x2bec03(0x2dc)](_0x327047['x'],_0x327047['y'])['lineTo'](_0x2c1adf['x'],_0x2c1adf['y']);}}else!_0x414903?_0x5564d7['moveTo'](-0x10,-0x10)['lineTo'](0x10,0x10)['moveTo'](-0x10,0x10)['lineTo'](0x10,-0x10):_0x5564d7[_0x2bec03(0x2dc)](-0x10+this['x'],-0x10+this['y'])['lineTo'](0x10+this['x'],0x10+this['y'])[_0x2bec03(0x2dc)](-0x10+this['x'],0x10+this['y'])['lineTo'](0x10+this['x'],-0x10+this['y']);}}}},'collide'(_0x2d5eaa,_0x5d12de){const _0x32f8f8=_0x33b932;_0x2d5eaa[_0x32f8f8(0x27c)]=_0x2d5eaa['_shape']||_0x15d36b(_0x2d5eaa),_0x5d12de[_0x32f8f8(0x27c)]=_0x5d12de[_0x32f8f8(0x27c)]||_0x15d36b(_0x5d12de);if(_0x2d5eaa[_0x32f8f8(0x27c)][_0x32f8f8(0x2a8)]==='strip'||_0x5d12de[_0x32f8f8(0x27c)][_0x32f8f8(0x2a8)]==='strip'||_0x2d5eaa[_0x32f8f8(0x27c)]['__type']==='complex'||_0x5d12de[_0x32f8f8(0x27c)][_0x32f8f8(0x2a8)]===_0x32f8f8(0x4d8)){const _0x51f6fb=_0x2d5eaa[_0x32f8f8(0x27c)][_0x32f8f8(0x465)](),_0x4036e9=_0x5d12de[_0x32f8f8(0x27c)][_0x32f8f8(0x465)]();if(!_0x51f6fb[_0x32f8f8(0x146)](_0x4036e9))return![];}if(SSCD[_0x32f8f8(0x3b6)][_0x32f8f8(0x4fa)](_0x2d5eaa[_0x32f8f8(0x27c)],_0x5d12de['_shape']))return[![]][0x0]&&(_0x2d5eaa[_0x32f8f8(0x3b1)]=!![],_0x5d12de[_0x32f8f8(0x3b1)]=!![]),!![];return![];},'occupied'(_0x39aa4f,_0x32c0a8,_0x555e7b,_0x29a87f){const _0x315cf8=_0x33b932;typeof _0x555e7b!==_0x315cf8(0x48b)&&(_0x29a87f=_0x32c0a8,_0x32c0a8=void 0x0,_0x555e7b=void 0x0);const _0x32ccb8=_0x26e5f4(_0x39aa4f,_0x32c0a8,_0x555e7b,_0x124e6a[_0x315cf8(0x21a)][_0x315cf8(0x56a)],![],_0x3af110,_0x29a87f);if(_0x32ccb8)return _0x32ccb8;return _0x26e5f4(_0x39aa4f,_0x32c0a8,_0x555e7b,_0x124e6a[_0x315cf8(0x21a)][_0x315cf8(0x397)],![],_0x3af110,_0x29a87f);},'occupiedMultiple'(_0x2cc909,_0x18ac31,_0x4c9a51,_0x44e696){const _0x21c086=_0x33b932;typeof _0x4c9a51!=='number'&&(_0x44e696=_0x18ac31,_0x18ac31=void 0x0,_0x4c9a51=void 0x0);const _0x3c7eb9=_0x26e5f4(_0x2cc909,_0x18ac31,_0x4c9a51,_0x124e6a[_0x21c086(0x21a)][_0x21c086(0x56a)],!![],_0x3af110,_0x44e696),_0x1420e8=_0x26e5f4(_0x2cc909,_0x18ac31,_0x4c9a51,_0x124e6a[_0x21c086(0x21a)]['tileGrid'],!![],_0x3af110,_0x44e696);return _0x3c7eb9[_0x21c086(0x214)](_0x1420e8);},'free'(_0xde2433,_0x50aebf,_0x390469,_0x2d1fc4){const _0x53c950=_0x33b932;return!_0x124e6a[_0x53c950(0x21a)]['occupied'](_0xde2433,_0x50aebf,_0x390469,_0x2d1fc4);},'meet'(_0x20cc4c,_0x1e9a38,_0x5911b3,_0x318645){const _0x325dde=_0x33b932;return typeof _0x5911b3!==_0x325dde(0x48b)&&(_0x318645=_0x1e9a38,_0x1e9a38=void 0x0,_0x5911b3=void 0x0),_0x26e5f4(_0x20cc4c,_0x1e9a38,_0x5911b3,_0x124e6a[_0x325dde(0x21a)][_0x325dde(0x56a)],![],_0x5702b0,_0x318645);},'meetMultiple'(_0x582fa6,_0x603807,_0x1e1e10,_0x127a52){const _0x4039db=_0x33b932;return typeof _0x1e1e10!==_0x4039db(0x48b)&&(_0x127a52=_0x603807,_0x603807=void 0x0,_0x1e1e10=void 0x0),_0x26e5f4(_0x582fa6,_0x603807,_0x1e1e10,_0x124e6a[_0x4039db(0x21a)]['grid'],!![],_0x5702b0,_0x127a52);},'copies'(_0x5be927,_0x1a0c9b,_0x25257d,_0x3f7ef7){const _0x411ce2=_0x33b932;return typeof _0x25257d!==_0x411ce2(0x48b)&&(_0x3f7ef7=_0x1a0c9b,_0x1a0c9b=void 0x0,_0x25257d=void 0x0),_0x26e5f4(_0x5be927,_0x1a0c9b,_0x25257d,_0x124e6a[_0x411ce2(0x21a)]['grid'],![],_0x3af110,_0x3f7ef7);},'copiesMultiple'(_0x33873e,_0x3cd192,_0x2d2219,_0x40c04d){const _0x25cc84=_0x33b932;return typeof _0x2d2219!=='number'&&(_0x40c04d=_0x3cd192,_0x3cd192=void 0x0,_0x2d2219=void 0x0),_0x26e5f4(_0x33873e,_0x3cd192,_0x2d2219,_0x124e6a[_0x25cc84(0x21a)][_0x25cc84(0x56a)],!![],_0x3af110,_0x40c04d);},'tiles'(_0x42f1bc,_0x2820a5,_0x4efa1e,_0x5b04a0){const _0x39a347=_0x33b932;return typeof _0x4efa1e!==_0x39a347(0x48b)&&(_0x5b04a0=_0x2820a5,_0x2820a5=void 0x0,_0x4efa1e=void 0x0),_0x26e5f4(_0x42f1bc,_0x2820a5,_0x4efa1e,_0x124e6a[_0x39a347(0x21a)][_0x39a347(0x397)],![],_0x3af110,_0x5b04a0);},'tilesMultiple'(_0x1b3267,_0x153399,_0x355d23,_0x37a964){const _0x15c4e8=_0x33b932;return typeof _0x355d23!==_0x15c4e8(0x48b)&&(_0x37a964=_0x153399,_0x153399=void 0x0,_0x355d23=void 0x0),_0x26e5f4(_0x1b3267,_0x153399,_0x355d23,_0x124e6a['place'][_0x15c4e8(0x397)],!![],_0x3af110,_0x37a964);},'lastdist':null,'nearest'(_0x50fe4b,_0x41ef60,_0x154d2e){const _0x2fffb6=_0x33b932,_0x16f2e7=_0x124e6a[_0x2fffb6(0x3d4)][_0x2fffb6(0x1b6)][_0x154d2e];if(_0x16f2e7[_0x2fffb6(0x44c)]>0x0){var _0xa2bafa=Math[_0x2fffb6(0x3ae)](_0x50fe4b-_0x16f2e7[0x0]['x'],_0x41ef60-_0x16f2e7[0x0]['y']),_0x2a289d=_0x16f2e7[0x0];for(const _0x4a35d9 of _0x16f2e7){Math[_0x2fffb6(0x3ae)](_0x50fe4b-_0x4a35d9['x'],_0x41ef60-_0x4a35d9['y'])<_0xa2bafa&&(_0xa2bafa=Math[_0x2fffb6(0x3ae)](_0x50fe4b-_0x4a35d9['x'],_0x41ef60-_0x4a35d9['y']),_0x2a289d=_0x4a35d9);}return _0x124e6a[_0x2fffb6(0x21a)]['lastdist']=_0xa2bafa,_0x2a289d;}return![];},'furthest'(_0xab0f7d,_0x3ce77b,_0x21c6bd){const _0x35dda5=_0x33b932,_0x5f0621=_0x124e6a[_0x35dda5(0x3d4)][_0x35dda5(0x1b6)][_0x21c6bd];if(_0x5f0621[_0x35dda5(0x44c)]>0x0){var _0x270ef8=Math['hypot'](_0xab0f7d-_0x5f0621[0x0]['x'],_0x3ce77b-_0x5f0621[0x0]['y']),_0x49a37a=_0x5f0621[0x0];for(const _0x51a1b6 of _0x5f0621){Math[_0x35dda5(0x3ae)](_0xab0f7d-_0x51a1b6['x'],_0x3ce77b-_0x51a1b6['y'])>_0x270ef8&&(_0x270ef8=Math[_0x35dda5(0x3ae)](_0xab0f7d-_0x51a1b6['x'],_0x3ce77b-_0x51a1b6['y']),_0x49a37a=_0x51a1b6);}return _0x124e6a[_0x35dda5(0x21a)]['lastdist']=_0x270ef8,_0x49a37a;}return![];},'enableTilemapCollisions'(_0x38149c,_0x3071f7){const _0x47411d=_0x33b932,_0x39beda=_0x3071f7||_0x38149c[_0x47411d(0x298)];if(_0x38149c[_0x47411d(0x430)])throw new Error(_0x47411d(0x53e));_0x38149c[_0x47411d(0x298)]=_0x39beda;for(const _0x3f3e17 of _0x38149c[_0x47411d(0x2ff)]){_0x3f3e17[_0x47411d(0x27c)]=_0x15d36b(_0x3f3e17),_0x3f3e17['cgroup']=_0x39beda,_0x3f3e17[_0x47411d(0x110)]=_0x124e6a[_0x47411d(0x21a)][_0x47411d(0x3c4)](_0x3f3e17);for(const _0x15a0ce of _0x3f3e17['$chashes']){!(_0x15a0ce in _0x124e6a[_0x47411d(0x21a)][_0x47411d(0x397)])?_0x124e6a[_0x47411d(0x21a)][_0x47411d(0x397)][_0x15a0ce]=[_0x3f3e17]:_0x124e6a[_0x47411d(0x21a)][_0x47411d(0x397)][_0x15a0ce][_0x47411d(0x199)](_0x3f3e17);}_0x3f3e17[_0x47411d(0x3c8)]=_0x38149c[_0x47411d(0x3c8)];}if(_0x112ace)for(const _0x2efc7c of _0x38149c['pixiTiles']){_0x2efc7c[_0x47411d(0x14a)]=new PIXI['Graphics'](),_0x124e6a[_0x47411d(0x21a)][_0x47411d(0x1db)][_0x47411d(0x2d2)](_0x2efc7c,[![]]),_0x2efc7c[_0x47411d(0x10e)](_0x2efc7c[_0x47411d(0x14a)]);}_0x38149c[_0x47411d(0x430)]=!![];},'moveAlong'(_0x16e4a6,_0x2f4317,_0x3f6675,_0x2a0267,_0x1d4999){const _0x5c5221=_0x33b932;if(!_0x3f6675)return![];typeof _0x2a0267===_0x5c5221(0x48b)&&(_0x1d4999=_0x2a0267,_0x2a0267=void 0x0);_0x1d4999=Math[_0x5c5221(0x1de)](_0x1d4999||0x1);_0x3f6675<0x0&&(_0x3f6675*=-0x1,_0x2f4317+=0xb4);var _0x351875=Math[_0x5c5221(0x389)](_0x2f4317*Math['PI']/0xb4)*_0x1d4999,_0x57d590=Math[_0x5c5221(0x149)](_0x2f4317*Math['PI']/0xb4)*_0x1d4999;while(_0x3f6675>0x0){_0x3f6675<0x1&&(_0x351875*=_0x3f6675,_0x57d590*=_0x3f6675);const _0x28f693=_0x124e6a[_0x5c5221(0x21a)][_0x5c5221(0x1eb)](_0x16e4a6,_0x16e4a6['x']+_0x351875,_0x16e4a6['y']+_0x57d590,_0x2a0267);if(!_0x28f693)_0x16e4a6['x']+=_0x351875,_0x16e4a6['y']+=_0x57d590,delete _0x16e4a6[_0x5c5221(0x27c)];else return _0x28f693;_0x3f6675--;}return![];},'moveByAxes'(_0x72e822,_0x275294,_0x45c325,_0x3d424c,_0x221681){const _0x599984=_0x33b932;if(_0x275294===_0x45c325===0x0)return![];typeof _0x3d424c===_0x599984(0x48b)&&(_0x221681=_0x3d424c,_0x3d424c=void 0x0);const _0x319b3b={'x':![],'y':![]};_0x221681=Math[_0x599984(0x1de)](_0x221681||0x1);while(Math['abs'](_0x275294)>_0x221681){const _0x5c9f3e=_0x124e6a[_0x599984(0x21a)][_0x599984(0x1eb)](_0x72e822,_0x72e822['x']+Math[_0x599984(0x112)](_0x275294)*_0x221681,_0x72e822['y'],_0x3d424c);if(!_0x5c9f3e)_0x72e822['x']+=Math[_0x599984(0x112)](_0x275294)*_0x221681,_0x275294-=Math['sign'](_0x275294)*_0x221681;else{_0x319b3b['x']=_0x5c9f3e;break;}}while(Math[_0x599984(0x1de)](_0x45c325)>_0x221681){const _0x26d3ad=_0x124e6a[_0x599984(0x21a)][_0x599984(0x1eb)](_0x72e822,_0x72e822['x'],_0x72e822['y']+Math[_0x599984(0x112)](_0x45c325)*_0x221681,_0x3d424c);if(!_0x26d3ad)_0x72e822['y']+=Math['sign'](_0x45c325)*_0x221681,_0x45c325-=Math[_0x599984(0x112)](_0x45c325)*_0x221681;else{_0x319b3b['y']=_0x26d3ad;break;}}Math[_0x599984(0x1de)](_0x275294)<_0x221681&&(_0x124e6a['place'][_0x599984(0x229)](_0x72e822,_0x72e822['x']+_0x275294,_0x72e822['y'],_0x3d424c)&&(_0x72e822['x']+=_0x275294));Math[_0x599984(0x1de)](_0x45c325)<_0x221681&&(_0x124e6a[_0x599984(0x21a)]['free'](_0x72e822,_0x72e822['x'],_0x72e822['y']+_0x45c325,_0x3d424c)&&(_0x72e822['y']+=_0x45c325));if(!_0x319b3b['x']&&!_0x319b3b['y'])return![];return _0x319b3b;},'go'(_0x5185c8,_0x321e9d,_0x35d59f,_0x588c1f,_0x3f6ab0){const _0x2b1173=_0x33b932;if(_0x124e6a['u']['pdc'](_0x5185c8['x'],_0x5185c8['y'],_0x321e9d,_0x35d59f)<_0x588c1f){_0x124e6a[_0x2b1173(0x21a)][_0x2b1173(0x229)](_0x5185c8,_0x321e9d,_0x35d59f,_0x3f6ab0)&&(_0x5185c8['x']=_0x321e9d,_0x5185c8['y']=_0x35d59f,delete _0x5185c8['_shape']);return;}var _0x302ce8=_0x124e6a['u'][_0x2b1173(0x2bd)](_0x5185c8['x'],_0x5185c8['y'],_0x321e9d,_0x35d59f);let _0xb67a0=_0x5185c8['x']+_0x124e6a['u'][_0x2b1173(0xf0)](_0x588c1f,_0x302ce8),_0x4b76b1=_0x5185c8['y']+_0x124e6a['u'][_0x2b1173(0x35b)](_0x588c1f,_0x302ce8);if(_0x124e6a[_0x2b1173(0x21a)][_0x2b1173(0x229)](_0x5185c8,_0xb67a0,_0x4b76b1,_0x3f6ab0))_0x5185c8['x']=_0xb67a0,_0x5185c8['y']=_0x4b76b1,delete _0x5185c8[_0x2b1173(0x27c)],_0x5185c8[_0x2b1173(0x1a3)]=_0x302ce8;else for(var _0x38bf43=-0x1;_0x38bf43<=0x1;_0x38bf43+=0x2){for(var _0x4d37f8=0x1e;_0x4d37f8<0x96;_0x4d37f8+=0x1e){_0xb67a0=_0x5185c8['x']+_0x124e6a['u'][_0x2b1173(0xf0)](_0x588c1f,_0x302ce8+_0x4d37f8*_0x124e6a[_0x2b1173(0x21a)]['m']*_0x38bf43),_0x4b76b1=_0x5185c8['y']+_0x124e6a['u']['ldy'](_0x588c1f,_0x302ce8+_0x4d37f8*_0x124e6a['place']['m']*_0x38bf43);if(_0x124e6a[_0x2b1173(0x21a)][_0x2b1173(0x229)](_0x5185c8,_0xb67a0,_0x4b76b1,_0x3f6ab0)){_0x5185c8['x']=_0xb67a0,_0x5185c8['y']=_0x4b76b1,delete _0x5185c8[_0x2b1173(0x27c)],_0x5185c8[_0x2b1173(0x1a3)]=_0x302ce8+_0x4d37f8*_0x124e6a[_0x2b1173(0x21a)]['m']*_0x38bf43;return;}}}},'traceCustom'(_0x54f94b,_0x1c0e30,_0x159cbf,_0x53c541){const _0x944322=_0x33b932,_0x5a462f=[];_0x112ace&&(_0x54f94b[_0x944322(0x14a)]=_0x124e6a[_0x944322(0x21a)][_0x944322(0x390)],_0x124e6a[_0x944322(0x21a)][_0x944322(0x1db)][_0x944322(0x2d2)](_0x54f94b,[!![]]));if(!_0x1c0e30){if(_0x53c541)return _0x124e6a[_0x944322(0x21a)][_0x944322(0x4c4)](_0x54f94b,_0x159cbf);return _0x124e6a[_0x944322(0x21a)][_0x944322(0x1eb)](_0x54f94b,_0x159cbf);}for(const _0x24535c of _0x124e6a['stack']){if(!_0x159cbf||_0x24535c['cgroup']===_0x159cbf){if(_0x124e6a[_0x944322(0x21a)][_0x944322(0x548)](_0x54f94b,_0x24535c)){if(_0x53c541)_0x5a462f[_0x944322(0x199)](_0x24535c);else return _0x24535c;}}}for(const _0xe9c404 of _0x124e6a[_0x944322(0x3d4)]['list'][_0x944322(0x243)]){if(!_0xe9c404[_0x944322(0x430)])continue;if(_0x159cbf&&_0xe9c404[_0x944322(0x298)]!==_0x159cbf)continue;for(const _0x15575f of _0xe9c404[_0x944322(0x2ff)]){if(_0x124e6a[_0x944322(0x21a)][_0x944322(0x548)](_0x54f94b,_0x15575f)){if(_0x53c541)_0x5a462f[_0x944322(0x199)](_0x15575f);else return _0x15575f;}}}if(!_0x53c541)return![];return _0x5a462f;},'traceLine'(_0x5d9fbc,_0x45e151,_0x383218){const _0x131f67=_0x33b932;let _0x59744e=![];if(Math['abs'](_0x5d9fbc['x1']-_0x5d9fbc['x2'])>_0x124e6a[_0x131f67(0x21a)]['gridX'])_0x59744e=!![];else Math[_0x131f67(0x1de)](_0x5d9fbc['y1']-_0x5d9fbc['y2'])>_0x124e6a['place'][_0x131f67(0x42d)]&&(_0x59744e=!![]);const _0x51aebd={'x':_0x5d9fbc['x1'],'y':_0x5d9fbc['y1'],'scale':{'x':0x1,'y':0x1},'rotation':0x0,'angle':0x0,'shape':{'type':_0x131f67(0x4e4),'x1':0x0,'y1':0x0,'x2':_0x5d9fbc['x2']-_0x5d9fbc['x1'],'y2':_0x5d9fbc['y2']-_0x5d9fbc['y1']}},_0x343ac4=_0x124e6a['place'][_0x131f67(0x1d1)](_0x51aebd,_0x59744e,_0x45e151,_0x383218);return _0x383218&&_0x343ac4[_0x131f67(0x1a9)](function _0x4962bb(_0x776e5c,_0x217501){const _0x4b5dad=_0x131f67;var _0x47db48,_0x4a2f42;return _0x47db48=_0x124e6a['u'][_0x4b5dad(0x31e)](_0x5d9fbc['x1'],_0x5d9fbc['y1'],_0x776e5c['x'],_0x776e5c['y']),_0x4a2f42=_0x124e6a['u'][_0x4b5dad(0x31e)](_0x5d9fbc['x1'],_0x5d9fbc['y1'],_0x217501['x'],_0x217501['y']),_0x47db48-_0x4a2f42;}),_0x343ac4;},'traceRect'(_0x1f42d0,_0x457f0d,_0x2607d6){const _0x30b15f=_0x33b932;let _0xb59c66=![];_0x1f42d0={..._0x1f42d0};'x1'in _0x1f42d0&&(_0x1f42d0['x']=_0x1f42d0['x1'],_0x1f42d0['y']=_0x1f42d0['y1'],_0x1f42d0[_0x30b15f(0x4f4)]=_0x1f42d0['x2']-_0x1f42d0['x1'],_0x1f42d0[_0x30b15f(0x370)]=_0x1f42d0['y2']-_0x1f42d0['y1']);(Math['abs'](_0x1f42d0[_0x30b15f(0x4f4)])>_0x124e6a[_0x30b15f(0x21a)][_0x30b15f(0x4b6)]||Math[_0x30b15f(0x1de)](_0x1f42d0['height'])>_0x124e6a[_0x30b15f(0x21a)][_0x30b15f(0x42d)])&&(_0xb59c66=!![]);const _0x288eb4={'x':_0x1f42d0['x'],'y':_0x1f42d0['y'],'scale':{'x':0x1,'y':0x1},'rotation':0x0,'angle':0x0,'shape':{'type':_0x30b15f(0x3df),'left':0x0,'top':0x0,'right':_0x1f42d0[_0x30b15f(0x4f4)],'bottom':_0x1f42d0[_0x30b15f(0x370)]}};return _0x124e6a[_0x30b15f(0x21a)][_0x30b15f(0x1d1)](_0x288eb4,_0xb59c66,_0x457f0d,_0x2607d6);},'traceCircle'(_0x137629,_0x46e277,_0x264945){const _0x195736=_0x33b932;let _0x2a2bfa=![];(_0x137629['radius']*0x2>_0x124e6a[_0x195736(0x21a)][_0x195736(0x4b6)]||_0x137629[_0x195736(0x420)]*0x2>_0x124e6a[_0x195736(0x21a)]['gridY'])&&(_0x2a2bfa=!![]);const _0x5da3ed={'x':_0x137629['x'],'y':_0x137629['y'],'scale':{'x':0x1,'y':0x1},'rotation':0x0,'angle':0x0,'shape':{'type':'circle','r':_0x137629[_0x195736(0x420)]}};return _0x124e6a[_0x195736(0x21a)][_0x195736(0x1d1)](_0x5da3ed,_0x2a2bfa,_0x46e277,_0x264945);},'tracePolyline'(_0x1fd73b,_0x588d4e,_0x27a538){const _0x270c69=_0x33b932,_0x29c209={'x':0x0,'y':0x0,'scale':{'x':0x1,'y':0x1},'rotation':0x0,'angle':0x0,'shape':{'type':_0x270c69(0x503),'points':_0x1fd73b}};return _0x124e6a[_0x270c69(0x21a)][_0x270c69(0x1d1)](_0x29c209,!![],_0x588d4e,_0x27a538);},'tracePoint'(_0xa63307,_0x443a03,_0x251b41){const _0x7bcc08=_0x33b932,_0x51cc9b={'x':_0xa63307['x'],'y':_0xa63307['y'],'scale':{'x':0x1,'y':0x1},'rotation':0x0,'angle':0x0,'shape':{'type':'point'}};return _0x124e6a[_0x7bcc08(0x21a)][_0x7bcc08(0x1d1)](_0x51cc9b,![],_0x443a03,_0x251b41);}},_0x124e6a[_0x33b932(0x21a)]['traceRectange']=_0x124e6a['place'][_0x33b932(0x143)],setInterval(function _0x1d1d63(){const _0x3d9e5e=_0x33b932;_0x124e6a[_0x3d9e5e(0x21a)]['m']*=-0x1;},0x315);}(ct),function fittoscreen(_0x12528e){const _0x35bc56=_0x280885;document[_0x35bc56(0x244)][_0x35bc56(0x219)][_0x35bc56(0x366)]=_0x35bc56(0x1d4);var _0x4aec3f=_0x12528e[_0x35bc56(0x181)][_0x35bc56(0x33d)];const _0x2788d6=function _0x35d487(_0x31f66c,_0x4dd4b8){const _0x3ff8ec=_0x35bc56;if(_0x31f66c===_0x3ff8ec(0x165)||_0x31f66c===_0x3ff8ec(0x1fb))_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x4d9)]=_0x3ff8ec(0x2b1)+_0x4dd4b8+')',_0x4aec3f['style'][_0x3ff8ec(0x4be)]='absolute',_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x25c)]='50%',_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x21f)]=_0x3ff8ec(0x2aa);else{if(_0x31f66c==='expandViewport'||_0x31f66c===_0x3ff8ec(0x3b0)||_0x31f66c===_0x3ff8ec(0x115))_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x4be)]=_0x3ff8ec(0x3ff),_0x4aec3f['style']['top']=_0x3ff8ec(0x382),_0x4aec3f[_0x3ff8ec(0x219)]['left']=_0x3ff8ec(0x382);else _0x31f66c===_0x3ff8ec(0x462)&&(_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x4d9)]=_0x3ff8ec(0x40b),_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x4be)]='absolute',_0x4aec3f[_0x3ff8ec(0x219)][_0x3ff8ec(0x25c)]=_0x3ff8ec(0x2aa),_0x4aec3f[_0x3ff8ec(0x219)]['left']=_0x3ff8ec(0x2aa));}};var _0x3dc12e=function _0x4eed10(){const _0x3ff996=_0x35bc56,{mode:_0x1c28be}=_0x12528e[_0x3ff996(0x32d)],_0x35127d=_0x12528e['highDensity']?window[_0x3ff996(0x459)]||0x1:0x1,_0x417878=window['innerWidth']/_0x12528e[_0x3ff996(0x1bd)],_0x2783ee=window[_0x3ff996(0x130)]/_0x12528e[_0x3ff996(0x3d6)];let _0xd7389=Math['min'](_0x417878,_0x2783ee);_0x1c28be===_0x3ff996(0x1fb)&&(_0xd7389=_0xd7389<0x1?_0xd7389:Math[_0x3ff996(0x55b)](_0xd7389));var _0x53ecc0,_0x52afd4,_0x2b84f0,_0x3f179f;if(_0x1c28be===_0x3ff996(0x25d)||_0x1c28be==='expand')_0x53ecc0=Math[_0x3ff996(0x52a)](window['innerWidth']*_0x35127d),_0x52afd4=Math['ceil'](window[_0x3ff996(0x130)]*_0x35127d),_0x2b84f0=window[_0x3ff996(0x513)],_0x3f179f=window['innerHeight'];else{if(_0x1c28be===_0x3ff996(0x165)||_0x1c28be===_0x3ff996(0x1fb))_0x53ecc0=Math[_0x3ff996(0x52a)](_0x12528e[_0x3ff996(0x1bd)]*_0x35127d),_0x52afd4=Math[_0x3ff996(0x52a)](_0x12528e[_0x3ff996(0x3d6)]*_0x35127d),_0x2b84f0=_0x12528e['roomWidth'],_0x3f179f=_0x12528e[_0x3ff996(0x3d6)];else(_0x1c28be===_0x3ff996(0x462)||_0x1c28be===_0x3ff996(0x115))&&(_0x1c28be===_0x3ff996(0x115)?(_0x53ecc0=Math['ceil'](_0x12528e['roomWidth']*_0x417878*_0x35127d),_0x52afd4=Math['ceil'](_0x12528e['roomHeight']*_0x2783ee*_0x35127d),_0x2b84f0=window[_0x3ff996(0x513)]/_0xd7389,_0x3f179f=window[_0x3ff996(0x130)]/_0xd7389):(_0x53ecc0=Math['ceil'](_0x12528e[_0x3ff996(0x1bd)]*_0xd7389*_0x35127d),_0x52afd4=Math[_0x3ff996(0x52a)](_0x12528e[_0x3ff996(0x3d6)]*_0xd7389*_0x35127d),_0x2b84f0=_0x12528e['roomWidth'],_0x3f179f=_0x12528e[_0x3ff996(0x3d6)]));}_0x12528e[_0x3ff996(0x181)][_0x3ff996(0x52d)][_0x3ff996(0x499)](_0x53ecc0,_0x52afd4),_0x1c28be!==_0x3ff996(0x115)&&_0x1c28be!==_0x3ff996(0x462)?_0x12528e['pixiApp']['stage']['scale']['x']=_0x12528e[_0x3ff996(0x181)]['stage'][_0x3ff996(0x404)]['y']=_0x35127d:_0x12528e[_0x3ff996(0x181)][_0x3ff996(0x365)][_0x3ff996(0x404)]['x']=_0x12528e['pixiApp'][_0x3ff996(0x365)][_0x3ff996(0x404)]['y']=_0x35127d*_0xd7389,_0x4aec3f['style'][_0x3ff996(0x4f4)]=Math['ceil'](_0x53ecc0/_0x35127d)+'px',_0x4aec3f[_0x3ff996(0x219)]['height']=Math[_0x3ff996(0x52a)](_0x52afd4/_0x35127d)+'px',_0x12528e[_0x3ff996(0x29d)]&&(_0x12528e[_0x3ff996(0x29d)][_0x3ff996(0x4f4)]=_0x2b84f0,_0x12528e['camera'][_0x3ff996(0x370)]=_0x3f179f),_0x2788d6(_0x1c28be,_0xd7389);},_0x2361ce=function(){const _0x2104b1=_0x35bc56;try{const _0x100d70=require(_0x2104b1(0x161))['remote']['BrowserWindow'][_0x2104b1(0x1fc)]();_0x100d70[_0x2104b1(0x4d6)](!_0x100d70[_0x2104b1(0x1ff)]());return;}catch(_0x2f80db){void _0x2f80db;}var _0xc50663=document[_0x2104b1(0x2d7)]||document['webkitFullscreenElement']||document[_0x2104b1(0x57b)]||document['msFullscreenElement'],_0x4ab212=document['getElementById']('ct'),_0x583f83=_0x4ab212[_0x2104b1(0x13c)]||_0x4ab212[_0x2104b1(0x3b9)]||_0x4ab212[_0x2104b1(0x12b)]||_0x4ab212['msRequestFullscreen'],_0x588c3d=document[_0x2104b1(0x509)]||document['webkitExitFullscreen']||document[_0x2104b1(0x2fc)]||document[_0x2104b1(0x275)];if(!_0xc50663){var _0x3d0d4e=_0x583f83[_0x2104b1(0x345)](_0x4ab212);_0x3d0d4e&&_0x3d0d4e['catch'](function _0x47f720(_0x333aa1){console['error']('[ct.fittoscreen]',_0x333aa1);});}else _0x588c3d&&_0x588c3d[_0x2104b1(0x345)](document);};window[_0x35bc56(0x2c4)]('resize',_0x3dc12e),_0x12528e['fittoscreen']=_0x3dc12e,_0x12528e[_0x35bc56(0x32d)][_0x35bc56(0x344)]=_0x2361ce;var _0x52be54=_0x35bc56(0x462);Object[_0x35bc56(0x467)](_0x12528e['fittoscreen'],_0x35bc56(0x474),{'configurable':![],'enumerable':!![],'set'(_0x1b6499){_0x52be54=_0x1b6499;},'get'(){return _0x52be54;}}),_0x12528e[_0x35bc56(0x32d)]['mode']=_0x52be54,_0x12528e[_0x35bc56(0x32d)][_0x35bc56(0x49e)]=function _0x5b25de(){const _0x4cbe3c=_0x35bc56;try{const _0x2101d5=require('electron')[_0x4cbe3c(0x18b)][_0x4cbe3c(0x166)][_0x4cbe3c(0x1fc)];return _0x2101d5[_0x4cbe3c(0x1ff)];}catch(_0xd65de){void _0xd65de;}return document[_0x4cbe3c(0x1e9)]||document[_0x4cbe3c(0x1da)]||document['mozFullScreen'];};}(ct),function mountCtPointer(_0x2e5996){const _0x428af9=_0x280885,_0x21b28c='pointer.',_0x18fbd4=function(_0x41ddd6,_0xa72086){const _0x57d2ce=_0x4d4f;_0x2e5996[_0x57d2ce(0x538)][_0x57d2ce(0x52e)][_0x21b28c+_0x41ddd6]=_0xa72086;},_0x4f94e9=function(_0x36a477){const _0xf5d9f7=_0x4d4f;return _0x2e5996[_0xf5d9f7(0x538)]['registry'][_0x21b28c+_0x36a477];},_0x547506={'Primary':0x1,'Middle':0x4,'Secondary':0x2,'ExtraOne':0x8,'ExtraTwo':0x10,'Eraser':0x20};var _0x513297=0x0,_0x50f40f=0x0,_0x418647=0x0,_0xed6429=0x0,_0x41ac4f=0x0,_0x5b8c9a=()=>{const _0x5a5868=_0x4d4f;_0x18fbd4('Any',_0x2e5996[_0x5a5868(0x13f)][_0x5a5868(0x50e)]['length']>0x0?0x1:0x0),_0x18fbd4(_0x5a5868(0x18f),_0x2e5996[_0x5a5868(0x13f)][_0x5a5868(0x50e)][_0x5a5868(0x44c)]>0x1?0x1:0x0),_0x18fbd4(_0x5a5868(0x4aa),_0x2e5996[_0x5a5868(0x13f)][_0x5a5868(0x50e)]['length']>0x2?0x1:0x0);},_0x18f08c=_0x45a0ec=>{const _0x16efdd=_0x4d4f,_0x6785be=_0x2e5996[_0x16efdd(0x181)][_0x16efdd(0x33d)][_0x16efdd(0x41e)](),_0x2ad478=(_0x45a0ec[_0x16efdd(0x561)]-_0x6785be['left'])/_0x6785be[_0x16efdd(0x4f4)]*_0x2e5996[_0x16efdd(0x29d)]['width'],_0x96bdd2=(_0x45a0ec['clientY']-_0x6785be[_0x16efdd(0x25c)])/_0x6785be[_0x16efdd(0x370)]*_0x2e5996[_0x16efdd(0x29d)][_0x16efdd(0x370)],_0x402e65=_0x2e5996['u']['uiToGameCoord'](_0x2ad478,_0x96bdd2),_0x235a2e={'id':_0x45a0ec['pointerId'],'x':_0x402e65['x'],'y':_0x402e65['y'],'clientX':_0x45a0ec[_0x16efdd(0x561)],'clientY':_0x45a0ec[_0x16efdd(0x16d)],'xui':_0x2ad478,'yui':_0x96bdd2,'xprev':_0x402e65['x'],'yprev':_0x402e65['y'],'buttons':_0x45a0ec[_0x16efdd(0x40e)],'xuiprev':_0x2ad478,'yuiprev':_0x96bdd2,'pressure':_0x45a0ec[_0x16efdd(0x403)],'tiltX':_0x45a0ec[_0x16efdd(0x2a9)],'tiltY':_0x45a0ec[_0x16efdd(0x1ea)],'twist':_0x45a0ec[_0x16efdd(0x13b)],'type':_0x45a0ec[_0x16efdd(0x374)],'width':_0x45a0ec['width']/_0x6785be[_0x16efdd(0x4f4)]*_0x2e5996[_0x16efdd(0x29d)][_0x16efdd(0x4f4)],'height':_0x45a0ec['height']/_0x6785be['height']*_0x2e5996[_0x16efdd(0x29d)][_0x16efdd(0x370)]};return _0x235a2e;},_0x196419=(_0xeed00d,_0x3d8664)=>{const _0x436194=_0x4d4f,_0x2efcdd=_0x2e5996[_0x436194(0x181)][_0x436194(0x33d)][_0x436194(0x41e)](),_0x357b67=(_0x3d8664[_0x436194(0x561)]-_0x2efcdd[_0x436194(0x21f)])/_0x2efcdd['width']*_0x2e5996[_0x436194(0x29d)]['width'],_0x54acb1=(_0x3d8664['clientY']-_0x2efcdd['top'])/_0x2efcdd[_0x436194(0x370)]*_0x2e5996[_0x436194(0x29d)][_0x436194(0x370)],_0x7de354=_0x2e5996['u']['uiToGameCoord'](_0x357b67,_0x54acb1);Object[_0x436194(0x1ae)](_0xeed00d,{'x':_0x7de354['x'],'y':_0x7de354['y'],'xui':_0x357b67,'yui':_0x54acb1,'clientX':_0x3d8664[_0x436194(0x561)],'clientY':_0x3d8664[_0x436194(0x16d)],'pressure':_0x3d8664[_0x436194(0x403)],'buttons':_0x3d8664[_0x436194(0x40e)],'tiltX':_0x3d8664[_0x436194(0x2a9)],'tiltY':_0x3d8664[_0x436194(0x1ea)],'twist':_0x3d8664[_0x436194(0x13b)],'width':_0x3d8664['width']/_0x2efcdd[_0x436194(0x4f4)]*_0x2e5996[_0x436194(0x29d)][_0x436194(0x4f4)],'height':_0x3d8664['height']/_0x2efcdd[_0x436194(0x370)]*_0x2e5996[_0x436194(0x29d)][_0x436194(0x370)]});},_0x5c5d14=function(_0x38da27){const _0x3a4418=_0x4d4f;Object[_0x3a4418(0x1ae)](_0x2e5996['pointer'],{'x':_0x38da27['x'],'y':_0x38da27['y'],'xui':_0x38da27[_0x3a4418(0x433)],'yui':_0x38da27[_0x3a4418(0x131)],'pressure':_0x38da27[_0x3a4418(0x403)],'buttons':_0x38da27[_0x3a4418(0x40e)],'tiltX':_0x38da27[_0x3a4418(0x2a9)],'tiltY':_0x38da27[_0x3a4418(0x1ea)],'twist':_0x38da27['twist']});},_0x4a14aa=function(_0x3dd7c4){const _0xfcdb15=_0x4d4f;window[_0xfcdb15(0x3cb)]();const _0x431536=_0x18f08c(_0x3dd7c4);_0x2e5996['pointer'][_0xfcdb15(0x39a)][_0xfcdb15(0x199)](_0x431536),_0x3dd7c4[_0xfcdb15(0x1ee)]&&_0x5c5d14(_0x431536);},_0x36b55b=function(_0x2761e9){const _0x5eab21=_0x4d4f,_0x493eca=_0x2e5996[_0x5eab21(0x13f)]['hover']['find'](_0x2230f3=>_0x2230f3['id']===_0x2761e9['pointerId']);_0x493eca&&(_0x493eca[_0x5eab21(0x42f)]=!![],_0x2e5996[_0x5eab21(0x13f)][_0x5eab21(0x39a)][_0x5eab21(0x206)](_0x2e5996[_0x5eab21(0x13f)][_0x5eab21(0x39a)]['indexOf'](_0x493eca),0x1));const _0x21a552=_0x2e5996[_0x5eab21(0x13f)][_0x5eab21(0x50e)][_0x5eab21(0x2af)](_0x55e549=>_0x55e549['id']===_0x2761e9[_0x5eab21(0x25b)]);_0x21a552!==-0x1&&_0x2e5996[_0x5eab21(0x13f)][_0x5eab21(0x50e)][_0x5eab21(0x206)](_0x21a552,0x1);},_0x36c853=function(_0x74fbe4){const _0x2b7dbf=_0x4d4f;![![]][0x0]&&_0x74fbe4['preventDefault']();let _0x4e0a3a=_0x2e5996['pointer'][_0x2b7dbf(0x39a)][_0x2b7dbf(0x4b8)](_0x3248fd=>_0x3248fd['id']===_0x74fbe4[_0x2b7dbf(0x25b)]);!_0x4e0a3a&&(_0x4a14aa(_0x74fbe4),_0x4e0a3a=_0x2e5996[_0x2b7dbf(0x13f)][_0x2b7dbf(0x39a)][_0x2b7dbf(0x4b8)](_0x37efc2=>_0x37efc2['id']===_0x74fbe4['pointerId']));const _0x5e20aa=_0x2e5996['pointer'][_0x2b7dbf(0x50e)]['find'](_0xc089dc=>_0xc089dc['id']===_0x74fbe4[_0x2b7dbf(0x25b)]);if(!_0x4e0a3a&&!_0x5e20aa)return;_0x4e0a3a&&_0x196419(_0x4e0a3a,_0x74fbe4),_0x5e20aa&&_0x196419(_0x5e20aa,_0x74fbe4),_0x74fbe4[_0x2b7dbf(0x1ee)]&&_0x5c5d14(_0x4e0a3a||_0x5e20aa);},_0x3033e3=function(_0x17056b){const _0x30ab00=_0x4d4f;![![]][0x0]&&_0x17056b['preventDefault']();_0x2e5996[_0x30ab00(0x13f)][_0x30ab00(0x22e)]=_0x17056b[_0x30ab00(0x374)];const _0x3edb61=_0x18f08c(_0x17056b);_0x2e5996['pointer'][_0x30ab00(0x50e)][_0x30ab00(0x199)](_0x3edb61),_0x5b8c9a(),_0x17056b[_0x30ab00(0x1ee)]&&_0x5c5d14(_0x3edb61);},_0x31978e=function(_0x492fad){const _0x32c9eb=_0x4d4f;![![]][0x0]&&_0x492fad[_0x32c9eb(0x349)]();const _0x5307dc=_0x2e5996['pointer'][_0x32c9eb(0x50e)]['find'](_0x34c4a5=>_0x34c4a5['id']===_0x492fad[_0x32c9eb(0x25b)]);_0x5307dc&&_0x2e5996[_0x32c9eb(0x13f)][_0x32c9eb(0x3db)][_0x32c9eb(0x199)](_0x5307dc),_0x2e5996['pointer'][_0x32c9eb(0x50e)]['indexOf'](_0x5307dc)!==-0x1&&_0x2e5996['pointer'][_0x32c9eb(0x50e)][_0x32c9eb(0x206)](_0x2e5996['pointer'][_0x32c9eb(0x50e)][_0x32c9eb(0x30b)](_0x5307dc),0x1),_0x5b8c9a();},_0x31807a=function _0x58b934(_0x5a6043){const _0x3b144f=_0x4d4f;_0x18fbd4('Wheel',(_0x5a6043[_0x3b144f(0x11f)]||-_0x5a6043['detail'])<0x0?-0x1:0x1),![![]][0x0]&&_0x5a6043['preventDefault']();};let _0x5d5e41=![];const _0x28b836=function _0x3a49ff(_0x2e50f7,_0xec9a4,_0x2f3926,_0x27038e){const _0x37dd13=_0x4d4f;if(_0x5d5e41)return![];for(const _0x4706b1 of _0x2f3926){if(_0xec9a4&&_0x4706b1['id']!==_0xec9a4['id'])continue;if(_0x2e5996[_0x37dd13(0x21a)]['collide'](_0x2e50f7,{'x':_0x27038e?_0x4706b1['xui']:_0x4706b1['x'],'y':_0x27038e?_0x4706b1[_0x37dd13(0x131)]:_0x4706b1['y'],'scale':{'x':0x1,'y':0x1},'angle':0x0,'shape':{'type':_0x37dd13(0x3df),'top':_0x4706b1['height']/0x2,'bottom':_0x4706b1[_0x37dd13(0x370)]/0x2,'left':_0x4706b1[_0x37dd13(0x4f4)]/0x2,'right':_0x4706b1[_0x37dd13(0x4f4)]/0x2}}))return _0x4706b1;}return![];},_0x33a417=function _0x4d01d4(){const _0x38de29=_0x4d4f;if(!document[_0x38de29(0x450)]&&!document['mozPointerLockElement']){const _0x1dc234=document['body']['requestPointerLock']||document[_0x38de29(0x244)][_0x38de29(0x50c)];_0x1dc234[_0x38de29(0x2d2)](document[_0x38de29(0x244)]);}},_0x392d3c=function _0x4dd4e4(_0x2229d3){const _0x2aca33=_0x4d4f,_0x259cc1=_0x2e5996[_0x2aca33(0x181)][_0x2aca33(0x33d)][_0x2aca33(0x41e)](),_0x5aa7c2=_0x2229d3['movementX']/_0x259cc1[_0x2aca33(0x4f4)]*_0x2e5996['camera'][_0x2aca33(0x4f4)],_0x207b6d=_0x2229d3[_0x2aca33(0x565)]/_0x259cc1['height']*_0x2e5996[_0x2aca33(0x29d)][_0x2aca33(0x370)];_0x2e5996[_0x2aca33(0x13f)][_0x2aca33(0x3c5)]+=_0x5aa7c2,_0x2e5996['pointer']['ylocked']+=_0x207b6d,_0x2e5996[_0x2aca33(0x13f)][_0x2aca33(0x4d7)]=_0x5aa7c2,_0x2e5996[_0x2aca33(0x13f)]['ymovement']=_0x207b6d;};_0x2e5996['pointer']={'setupListeners'(){const _0xf774a0=_0x4d4f;document[_0xf774a0(0x2c4)](_0xf774a0(0x516),_0x4a14aa,![]),document[_0xf774a0(0x2c4)](_0xf774a0(0x533),_0x36b55b,![]),document['addEventListener'](_0xf774a0(0x249),_0x36b55b,![]),document[_0xf774a0(0x2c4)](_0xf774a0(0x220),_0x3033e3,![]),document['addEventListener'](_0xf774a0(0x3fd),_0x31978e,![]),document[_0xf774a0(0x2c4)]('pointercancel',_0x31978e,![]),document[_0xf774a0(0x2c4)](_0xf774a0(0x2db),_0x36c853,![]),document[_0xf774a0(0x2c4)](_0xf774a0(0x213),_0x31807a,{'passive':![]}),document[_0xf774a0(0x2c4)](_0xf774a0(0x578),_0x31807a,{'passive':![]}),document[_0xf774a0(0x2c4)](_0xf774a0(0x293),_0x108767=>{const _0x32ff60=_0xf774a0;![![]][0x0]&&_0x108767[_0x32ff60(0x349)]();});},'hover':[],'down':[],'released':[],'x':0x0,'y':0x0,'xprev':0x0,'yprev':0x0,'xui':0x0,'yui':0x0,'xuiprev':0x0,'yuiprev':0x0,'xlocked':0x0,'ylocked':0x0,'xmovement':0x0,'ymovement':0x0,'pressure':0x1,'buttons':0x0,'tiltX':0x0,'tiltY':0x0,'twist':0x0,'width':0x1,'height':0x1,'type':null,'clear'(){const _0x233bce=_0x4d4f;_0x2e5996['pointer'][_0x233bce(0x50e)][_0x233bce(0x44c)]=0x0,_0x2e5996[_0x233bce(0x13f)][_0x233bce(0x39a)][_0x233bce(0x44c)]=0x0,_0x2e5996['pointer'][_0x233bce(0x11a)](),_0x5b8c9a();},'clearReleased'(){const _0x43e718=_0x4d4f;_0x2e5996[_0x43e718(0x13f)][_0x43e718(0x3db)][_0x43e718(0x44c)]=0x0;},'collides'(_0x47d86f,_0x1fcd5a,_0x3c761c){const _0x303deb=_0x4d4f;var _0x8dfed6=_0x3c761c?_0x2e5996[_0x303deb(0x13f)][_0x303deb(0x3db)]:_0x2e5996[_0x303deb(0x13f)]['down'];return _0x28b836(_0x47d86f,_0x1fcd5a,_0x8dfed6,![]);},'collidesUi'(_0x41134c,_0x4ab0d7,_0x9fd7e4){const _0x2f6271=_0x4d4f;var _0x2aec18=_0x9fd7e4?_0x2e5996[_0x2f6271(0x13f)][_0x2f6271(0x3db)]:_0x2e5996[_0x2f6271(0x13f)][_0x2f6271(0x50e)];return _0x28b836(_0x41134c,_0x4ab0d7,_0x2aec18,!![]);},'hovers'(_0x3ad8be,_0x557a5b){const _0x263c22=_0x4d4f;return _0x28b836(_0x3ad8be,_0x557a5b,_0x2e5996[_0x263c22(0x13f)][_0x263c22(0x39a)],![]);},'hoversUi'(_0x27c689,_0x58cd7a){const _0x19ace8=_0x4d4f;return _0x28b836(_0x27c689,_0x58cd7a,_0x2e5996[_0x19ace8(0x13f)][_0x19ace8(0x39a)],!![]);},'isButtonPressed'(_0x191437,_0x1bb1f1){if(!_0x1bb1f1)return Boolean(_0x4f94e9(_0x191437));return(_0x1bb1f1['buttons']&_0x547506[_0x191437])===_0x191437?0x1:0x0;},'updateGestures'(){const _0x4524b2=_0x4d4f;let _0x252a61=0x0,_0x586559=0x0;const _0x3e129f=_0x2e5996['pixiApp']['view'][_0x4524b2(0x41e)]();for(const _0x4aa485 of _0x2e5996['pointer']['down']){_0x252a61+=(_0x4aa485[_0x4524b2(0x561)]-_0x3e129f[_0x4524b2(0x21f)])/_0x3e129f['width'],_0x586559+=(_0x4aa485[_0x4524b2(0x16d)]-_0x3e129f[_0x4524b2(0x25c)])/_0x3e129f['height'];}_0x252a61/=_0x2e5996[_0x4524b2(0x13f)]['down'][_0x4524b2(0x44c)],_0x586559/=_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][_0x4524b2(0x44c)];let _0x29217c=0x0,_0x238f83=_0xed6429;if(_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][_0x4524b2(0x44c)]>0x1){const _0x42c66e=[_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][0x0],_0x2e5996[_0x4524b2(0x13f)]['down'][0x1]][_0x4524b2(0x1a9)]((_0x189df9,_0x58c363)=>_0x189df9['id']-_0x58c363['id']);_0x29217c=_0x2e5996['u'][_0x4524b2(0x2bd)](_0x42c66e[0x0]['x'],_0x42c66e[0x0]['y'],_0x42c66e[0x1]['x'],_0x42c66e[0x1]['y']),_0x238f83=_0x2e5996['u']['pdc'](_0x42c66e[0x0]['x'],_0x42c66e[0x0]['y'],_0x42c66e[0x1]['x'],_0x42c66e[0x1]['y']);}_0x513297===_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)]['length']?(_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][_0x4524b2(0x44c)]>0x1?(_0x18fbd4(_0x4524b2(0x1c9),_0x2e5996['u'][_0x4524b2(0x443)](_0x2e5996['u'][_0x4524b2(0x471)](_0x41ac4f,_0x29217c))),_0x18fbd4(_0x4524b2(0x38e),_0x238f83/_0xed6429-0x1)):(_0x18fbd4(_0x4524b2(0x38e),0x0),_0x18fbd4(_0x4524b2(0x1c9),0x0)),!_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][_0x4524b2(0x44c)]?(_0x18fbd4(_0x4524b2(0xfa),0x0),_0x18fbd4(_0x4524b2(0x241),0x0)):(_0x18fbd4(_0x4524b2(0xfa),_0x252a61-_0x50f40f),_0x18fbd4(_0x4524b2(0x241),_0x586559-_0x418647))):(_0x513297=_0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)][_0x4524b2(0x44c)],_0x18fbd4('DeltaPinch',0x0),_0x18fbd4('DeltaRotation',0x0),_0x18fbd4(_0x4524b2(0xfa),0x0),_0x18fbd4('PanY',0x0));_0x50f40f=_0x252a61,_0x418647=_0x586559,_0x41ac4f=_0x29217c,_0xed6429=_0x238f83;for(const _0x3212b6 in _0x547506){_0x18fbd4(_0x3212b6,0x0);for(const _0x5f4675 of _0x2e5996[_0x4524b2(0x13f)][_0x4524b2(0x50e)]){(_0x5f4675[_0x4524b2(0x40e)]&_0x547506[_0x3212b6])===_0x547506[_0x3212b6]&&_0x18fbd4(_0x3212b6,0x1);}}},'lock'(){const _0x2ed715=_0x4d4f;if(_0x5d5e41)return;_0x5d5e41=!![],_0x2e5996[_0x2ed715(0x13f)][_0x2ed715(0x3c5)]=_0x2e5996[_0x2ed715(0x13f)][_0x2ed715(0x433)],_0x2e5996[_0x2ed715(0x13f)][_0x2ed715(0x428)]=_0x2e5996[_0x2ed715(0x13f)][_0x2ed715(0x131)];const _0x35891d=document[_0x2ed715(0x244)][_0x2ed715(0x579)]||document[_0x2ed715(0x244)][_0x2ed715(0x50c)];_0x35891d[_0x2ed715(0x2d2)](document[_0x2ed715(0x244)]),document[_0x2ed715(0x2c4)](_0x2ed715(0x1b2),_0x33a417),document[_0x2ed715(0x2c4)]('pointermove',_0x392d3c);},'unlock'(){const _0x16bcf7=_0x4d4f;if(!_0x5d5e41)return;_0x5d5e41=![],(document[_0x16bcf7(0x450)]||document[_0x16bcf7(0x384)])&&(document[_0x16bcf7(0x571)]||document['mozExitPointerLock'])(),document[_0x16bcf7(0x197)](_0x16bcf7(0x1b2),_0x33a417),document['removeEventListener'](_0x16bcf7(0x2db),_0x392d3c);},get 'locked'(){const _0xbe0664=_0x4d4f;return Boolean(document[_0xbe0664(0x450)]||document[_0xbe0664(0x384)]);}},_0x18fbd4(_0x428af9(0x54c),0x0),[![]][0x0]&&_0x2e5996[_0x428af9(0x13f)][_0x428af9(0x313)]();}(ct),function ctKeyboard(){const _0x46fcd7=_0x280885;var _0x1ddba9=_0x46fcd7(0x3ef),_0x1d5edb=function(_0x37d926,_0x35410b){const _0x412e43=_0x46fcd7;ct[_0x412e43(0x538)][_0x412e43(0x52e)][_0x1ddba9+_0x37d926]=_0x35410b;};ct[_0x46fcd7(0x124)]={'string':'','lastKey':'','lastCode':'','alt':![],'shift':![],'ctrl':![],'clear'(){const _0x5892c1=_0x46fcd7;delete ct['keyboard'][_0x5892c1(0x3d2)],delete ct[_0x5892c1(0x124)]['lastCode'],ct[_0x5892c1(0x124)][_0x5892c1(0x145)]='',ct[_0x5892c1(0x124)]['alt']=![],ct[_0x5892c1(0x124)][_0x5892c1(0x33b)]=![],ct[_0x5892c1(0x124)][_0x5892c1(0x4e3)]=![];},'check':[],'onDown'(_0x23182e){const _0x504091=_0x46fcd7;ct[_0x504091(0x124)][_0x504091(0x33b)]=_0x23182e[_0x504091(0x29f)],ct[_0x504091(0x124)][_0x504091(0x266)]=_0x23182e[_0x504091(0x505)],ct['keyboard'][_0x504091(0x4e3)]=_0x23182e['ctrlKey'],ct[_0x504091(0x124)][_0x504091(0x3d2)]=_0x23182e[_0x504091(0x2b4)],ct[_0x504091(0x124)][_0x504091(0x34e)]=_0x23182e[_0x504091(0x2c6)];_0x23182e['code']?_0x1d5edb(_0x23182e[_0x504091(0x2c6)],0x1):_0x1d5edb(_0x504091(0x41c),0x1);if(_0x23182e[_0x504091(0x2b4)]){if(_0x23182e[_0x504091(0x2b4)][_0x504091(0x44c)]===0x1)ct[_0x504091(0x124)][_0x504091(0x145)]+=_0x23182e[_0x504091(0x2b4)];else{if(_0x23182e['key']===_0x504091(0x105))ct['keyboard'][_0x504091(0x145)]=ct[_0x504091(0x124)][_0x504091(0x145)][_0x504091(0x4c7)](0x0,-0x1);else _0x23182e[_0x504091(0x2b4)]===_0x504091(0x3c6)&&(ct[_0x504091(0x124)]['string']='');}}_0x23182e[_0x504091(0x349)]();},'onUp'(_0x30fb58){const _0x2dbc69=_0x46fcd7;ct[_0x2dbc69(0x124)][_0x2dbc69(0x33b)]=_0x30fb58[_0x2dbc69(0x29f)],ct[_0x2dbc69(0x124)][_0x2dbc69(0x266)]=_0x30fb58[_0x2dbc69(0x505)],ct['keyboard'][_0x2dbc69(0x4e3)]=_0x30fb58[_0x2dbc69(0x179)],_0x30fb58['code']?_0x1d5edb(_0x30fb58[_0x2dbc69(0x2c6)],0x0):_0x1d5edb('Unknown',0x0),_0x30fb58['preventDefault']();}},document[_0x46fcd7(0x2c4)]?(document[_0x46fcd7(0x2c4)](_0x46fcd7(0x398),ct[_0x46fcd7(0x124)]['onDown'],![]),document[_0x46fcd7(0x2c4)](_0x46fcd7(0x4eb),ct['keyboard']['onUp'],![])):(document[_0x46fcd7(0x33c)](_0x46fcd7(0x1ad),ct[_0x46fcd7(0x124)][_0x46fcd7(0x2f5)]),document[_0x46fcd7(0x33c)](_0x46fcd7(0x245),ct[_0x46fcd7(0x124)][_0x46fcd7(0x4d3)]));}(),function(_0x511999){'use strict';const _0x160c3b=_0x280885;var _0x476feb=_0x160c3b(0x3d7)in _0x511999;if(!_0x476feb)_0x511999[_0x160c3b(0x3d7)]=function _0x3aa6c3(){const _0x43bc71=_0x160c3b;throw TypeError(_0x43bc71(0x586));};[[_0x160c3b(0x411),0x0],['DOM_KEY_LOCATION_LEFT',0x1],[_0x160c3b(0x332),0x2],['DOM_KEY_LOCATION_NUMPAD',0x3]][_0x160c3b(0x4cf)](function(_0x508195){const _0x305161=_0x160c3b;if(!(_0x508195[0x0]in _0x511999[_0x305161(0x3d7)]))_0x511999[_0x305161(0x3d7)][_0x508195[0x0]]=_0x508195[0x1];});var _0x42893e=_0x511999[_0x160c3b(0x3d7)]['DOM_KEY_LOCATION_STANDARD'],_0x479074=_0x511999[_0x160c3b(0x3d7)][_0x160c3b(0x400)],_0x1e4dc1=_0x511999[_0x160c3b(0x3d7)][_0x160c3b(0x332)],_0x2e0cba=_0x511999['KeyboardEvent']['DOM_KEY_LOCATION_NUMPAD'];function _0x5f583e(_0x5e1664,_0x16124a){const _0x1885c3=_0x160c3b;return String(_0x5e1664)[_0x1885c3(0x30b)](_0x16124a)!==-0x1;}var _0x394dc4=(function(){const _0x79e253=_0x160c3b;if(_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x134)))return _0x79e253(0x118);if(_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x1c8)))return'mac';if(_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x3e7)))return _0x79e253(0x1b9);if(_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x34a)))return'linux';if(_0x5f583e(navigator['userAgent'],_0x79e253(0x3ee))||_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x573))||_0x5f583e(navigator[_0x79e253(0x47c)],_0x79e253(0x4d2)))return'ios';return'';}()),_0x2f8c93=(function(){const _0x21e198=_0x160c3b;if(_0x5f583e(navigator['userAgent'],_0x21e198(0x1ba)))return _0x21e198(0x2d9);if(_0x5f583e(navigator[_0x21e198(0x2bc)],_0x21e198(0x322)))return _0x21e198(0x163);if(_0x5f583e(navigator[_0x21e198(0x4ac)],_0x21e198(0x20b)))return'ie';if(_0x5f583e(navigator[_0x21e198(0x4ac)],_0x21e198(0x208)))return _0x21e198(0x111);if(_0x5f583e(navigator[_0x21e198(0x4ac)],_0x21e198(0x224)))return _0x21e198(0x254);return'';}()),_0x14ede9=_0x2f8c93+'-'+_0x394dc4;function _0x39b852(_0x179d73,_0x3f4fae,_0x39dc78){(_0x14ede9===_0x3f4fae||_0x2f8c93===_0x3f4fae||_0x394dc4===_0x3f4fae)&&Object['keys'](_0x39dc78)['forEach'](function(_0x180e95){_0x179d73[_0x180e95]=_0x39dc78[_0x180e95];});}function _0x1b2474(_0x604a42,_0x225e2d){const _0x1d77a8=_0x160c3b;var _0x481d6a={};return Object[_0x1d77a8(0x2ac)](_0x604a42)[_0x1d77a8(0x4cf)](function(_0xcd568b){var _0x4af2fa=_0x604a42[_0xcd568b];_0x225e2d in _0x4af2fa&&(_0x481d6a[_0x4af2fa[_0x225e2d]]=_0x4af2fa);}),_0x481d6a;}function _0x2a8c7e(_0x1c2f3a){const _0x1f91cc=_0x160c3b;var _0x1b0473={};return Object[_0x1f91cc(0x2ac)](_0x1c2f3a)[_0x1f91cc(0x4cf)](function(_0x5b5442){_0x1b0473[_0x1c2f3a[_0x5b5442]]=_0x5b5442;}),_0x1b0473;}var _0x43f93d={0x3:{'code':'Cancel'},0x6:{'code':_0x160c3b(0x2f1)},0x8:{'code':_0x160c3b(0x105)},0x9:{'code':_0x160c3b(0x122)},0xc:{'code':'Clear'},0xd:{'code':'Enter'},0x10:{'code':_0x160c3b(0x356)},0x11:{'code':_0x160c3b(0x1a0)},0x12:{'code':_0x160c3b(0x1c5)},0x13:{'code':'Pause'},0x14:{'code':_0x160c3b(0x510)},0x15:{'code':_0x160c3b(0x336)},0x16:{'code':_0x160c3b(0x2d6)},0x19:{'code':'Lang2'},0x1b:{'code':_0x160c3b(0x230)},0x1c:{'code':'Convert'},0x1d:{'code':_0x160c3b(0x51e)},0x1e:{'code':_0x160c3b(0x488)},0x1f:{'code':_0x160c3b(0x3e6)},0x20:{'code':'Space'},0x21:{'code':_0x160c3b(0x38f)},0x22:{'code':'PageDown'},0x23:{'code':'End'},0x24:{'code':'Home'},0x25:{'code':'ArrowLeft'},0x26:{'code':_0x160c3b(0x2b6)},0x27:{'code':_0x160c3b(0x273)},0x28:{'code':_0x160c3b(0x1e6)},0x29:{'code':_0x160c3b(0x38c)},0x2a:{'code':_0x160c3b(0xf7)},0x2b:{'code':_0x160c3b(0x3f1)},0x2c:{'code':_0x160c3b(0x524)},0x2d:{'code':_0x160c3b(0x27a)},0x2e:{'code':_0x160c3b(0x31a)},0x2f:{'code':_0x160c3b(0x2f1)},0x30:{'code':_0x160c3b(0x4f0),'keyCap':'0'},0x31:{'code':_0x160c3b(0x440),'keyCap':'1'},0x32:{'code':'Digit2','keyCap':'2'},0x33:{'code':_0x160c3b(0x2a0),'keyCap':'3'},0x34:{'code':_0x160c3b(0x587),'keyCap':'4'},0x35:{'code':_0x160c3b(0x528),'keyCap':'5'},0x36:{'code':'Digit6','keyCap':'6'},0x37:{'code':_0x160c3b(0x1f5),'keyCap':'7'},0x38:{'code':_0x160c3b(0x1e2),'keyCap':'8'},0x39:{'code':'Digit9','keyCap':'9'},0x41:{'code':_0x160c3b(0x1b8),'keyCap':'a'},0x42:{'code':'KeyB','keyCap':'b'},0x43:{'code':_0x160c3b(0x13e),'keyCap':'c'},0x44:{'code':_0x160c3b(0x49d),'keyCap':'d'},0x45:{'code':'KeyE','keyCap':'e'},0x46:{'code':'KeyF','keyCap':'f'},0x47:{'code':_0x160c3b(0x3a7),'keyCap':'g'},0x48:{'code':_0x160c3b(0x448),'keyCap':'h'},0x49:{'code':_0x160c3b(0x410),'keyCap':'i'},0x4a:{'code':_0x160c3b(0x2f9),'keyCap':'j'},0x4b:{'code':'KeyK','keyCap':'k'},0x4c:{'code':_0x160c3b(0x42a),'keyCap':'l'},0x4d:{'code':'KeyM','keyCap':'m'},0x4e:{'code':'KeyN','keyCap':'n'},0x4f:{'code':_0x160c3b(0x4df),'keyCap':'o'},0x50:{'code':'KeyP','keyCap':'p'},0x51:{'code':'KeyQ','keyCap':'q'},0x52:{'code':_0x160c3b(0x3ba),'keyCap':'r'},0x53:{'code':_0x160c3b(0x196),'keyCap':'s'},0x54:{'code':_0x160c3b(0x210),'keyCap':'t'},0x55:{'code':_0x160c3b(0x520),'keyCap':'u'},0x56:{'code':_0x160c3b(0x2f3),'keyCap':'v'},0x57:{'code':'KeyW','keyCap':'w'},0x58:{'code':_0x160c3b(0x327),'keyCap':'x'},0x59:{'code':_0x160c3b(0x51f),'keyCap':'y'},0x5a:{'code':_0x160c3b(0x22c),'keyCap':'z'},0x5b:{'code':_0x160c3b(0x3a2),'location':_0x479074},0x5c:{'code':_0x160c3b(0x231),'location':_0x1e4dc1},0x5d:{'code':_0x160c3b(0x343)},0x5f:{'code':'Standby'},0x60:{'code':'Numpad0','keyCap':'0','location':_0x2e0cba},0x61:{'code':_0x160c3b(0x3f4),'keyCap':'1','location':_0x2e0cba},0x62:{'code':_0x160c3b(0x2e1),'keyCap':'2','location':_0x2e0cba},0x63:{'code':_0x160c3b(0x1a4),'keyCap':'3','location':_0x2e0cba},0x64:{'code':'Numpad4','keyCap':'4','location':_0x2e0cba},0x65:{'code':_0x160c3b(0x37c),'keyCap':'5','location':_0x2e0cba},0x66:{'code':'Numpad6','keyCap':'6','location':_0x2e0cba},0x67:{'code':_0x160c3b(0x46b),'keyCap':'7','location':_0x2e0cba},0x68:{'code':_0x160c3b(0x2cf),'keyCap':'8','location':_0x2e0cba},0x69:{'code':_0x160c3b(0x22d),'keyCap':'9','location':_0x2e0cba},0x6a:{'code':_0x160c3b(0x1e7),'keyCap':'*','location':_0x2e0cba},0x6b:{'code':'NumpadAdd','keyCap':'+','location':_0x2e0cba},0x6c:{'code':_0x160c3b(0x339),'keyCap':',','location':_0x2e0cba},0x6d:{'code':_0x160c3b(0x484),'keyCap':'-','location':_0x2e0cba},0x6e:{'code':_0x160c3b(0x2ea),'keyCap':'.','location':_0x2e0cba},0x6f:{'code':_0x160c3b(0x271),'keyCap':'/','location':_0x2e0cba},0x70:{'code':'F1'},0x71:{'code':'F2'},0x72:{'code':'F3'},0x73:{'code':'F4'},0x74:{'code':'F5'},0x75:{'code':'F6'},0x76:{'code':'F7'},0x77:{'code':'F8'},0x78:{'code':'F9'},0x79:{'code':_0x160c3b(0x312)},0x7a:{'code':_0x160c3b(0x409)},0x7b:{'code':_0x160c3b(0x2b5)},0x7c:{'code':'F13'},0x7d:{'code':_0x160c3b(0x23c)},0x7e:{'code':_0x160c3b(0x535)},0x7f:{'code':'F16'},0x80:{'code':_0x160c3b(0x445)},0x81:{'code':'F18'},0x82:{'code':'F19'},0x83:{'code':_0x160c3b(0x3b7)},0x84:{'code':_0x160c3b(0x151)},0x85:{'code':_0x160c3b(0x1e4)},0x86:{'code':'F23'},0x87:{'code':_0x160c3b(0x175)},0x90:{'code':_0x160c3b(0x29a),'location':_0x2e0cba},0x91:{'code':'ScrollLock'},0xa0:{'code':_0x160c3b(0x542),'location':_0x479074},0xa1:{'code':_0x160c3b(0x38a),'location':_0x1e4dc1},0xa2:{'code':_0x160c3b(0x4f7),'location':_0x479074},0xa3:{'code':'ControlRight','location':_0x1e4dc1},0xa4:{'code':_0x160c3b(0x4ed),'location':_0x479074},0xa5:{'code':_0x160c3b(0x276),'location':_0x1e4dc1},0xa6:{'code':'BrowserBack'},0xa7:{'code':_0x160c3b(0x13d)},0xa8:{'code':_0x160c3b(0x11e)},0xa9:{'code':_0x160c3b(0x3a3)},0xaa:{'code':_0x160c3b(0x32f)},0xab:{'code':_0x160c3b(0x3f3)},0xac:{'code':_0x160c3b(0x53b)},0xad:{'code':_0x160c3b(0x584)},0xae:{'code':_0x160c3b(0x42e)},0xaf:{'code':'AudioVolumeUp'},0xb0:{'code':_0x160c3b(0x3e2)},0xb1:{'code':_0x160c3b(0x324)},0xb2:{'code':'MediaStop'},0xb3:{'code':_0x160c3b(0x20f)},0xb4:{'code':'LaunchMail'},0xb5:{'code':'MediaSelect'},0xb6:{'code':_0x160c3b(0x551)},0xb7:{'code':'LaunchApp2'},0xba:{'code':_0x160c3b(0x2dd),'keyCap':';'},0xbb:{'code':'Equal','keyCap':'='},0xbc:{'code':_0x160c3b(0x3fb),'keyCap':','},0xbd:{'code':_0x160c3b(0x4f9),'keyCap':'-'},0xbe:{'code':'Period','keyCap':'.'},0xbf:{'code':_0x160c3b(0x233),'keyCap':'/'},0xc0:{'code':'Backquote','keyCap':'`'},0xdb:{'code':'BracketLeft','keyCap':'['},0xdc:{'code':_0x160c3b(0x169),'keyCap':'\x5c'},0xdd:{'code':_0x160c3b(0x56f),'keyCap':']'},0xde:{'code':_0x160c3b(0x51c),'keyCap':'\x27'},0xe2:{'code':_0x160c3b(0x39f),'keyCap':'\x5c'},0xe5:{'code':_0x160c3b(0x4a1)},0xf6:{'code':'Attn'},0xf7:{'code':_0x160c3b(0xf3)},0xf8:{'code':_0x160c3b(0x178)},0xf9:{'code':'EraseEof'},0xfa:{'code':'Play'},0xfb:{'code':_0x160c3b(0x556)},0xfe:{'code':'Clear'}};_0x39b852(_0x43f93d,_0x160c3b(0x111),{0x3b:{'code':'Semicolon','keyCap':';'},0x3d:{'code':_0x160c3b(0x25a),'keyCap':'='},0x6b:{'code':_0x160c3b(0x25a),'keyCap':'='},0x6d:{'code':_0x160c3b(0x4f9),'keyCap':'-'},0xbb:{'code':_0x160c3b(0x46f),'keyCap':'+','location':_0x2e0cba},0xbd:{'code':_0x160c3b(0x484),'keyCap':'-','location':_0x2e0cba}}),_0x39b852(_0x43f93d,_0x160c3b(0x2fe),{0xc:{'code':'NumLock','location':_0x2e0cba},0xad:{'code':_0x160c3b(0x4f9),'keyCap':'-'}}),_0x39b852(_0x43f93d,_0x160c3b(0xfb),{0xad:{'code':_0x160c3b(0x4f9),'keyCap':'-'}}),_0x39b852(_0x43f93d,_0x160c3b(0x431),{0x5d:{'code':_0x160c3b(0x231),'location':_0x1e4dc1}});0x0&&(_0x39b852(_0x43f93d,_0x160c3b(0x174),{0xc0:{'code':_0x160c3b(0x51c),'keyCap':'\x27'},0xde:{'code':_0x160c3b(0x169),'keyCap':'\x5c'},0xdf:{'code':_0x160c3b(0x33a),'keyCap':'`'}}),_0x39b852(_0x43f93d,'ie',{0xc0:{'code':_0x160c3b(0x51c),'keyCap':'\x27'},0xde:{'code':_0x160c3b(0x169),'keyCap':'\x5c'},0xdf:{'code':'Backquote','keyCap':'`'}}));_0x39b852(_0x43f93d,_0x160c3b(0x163),{0x3:{'code':_0x160c3b(0x3c6)},0x19:{'code':_0x160c3b(0x122)}}),_0x39b852(_0x43f93d,'ios',{0xa:{'code':_0x160c3b(0x3c6),'location':_0x42893e}}),_0x39b852(_0x43f93d,_0x160c3b(0x202),{0x5b:{'code':_0x160c3b(0x3a2),'location':_0x479074},0x5d:{'code':_0x160c3b(0x231),'location':_0x1e4dc1},0xe5:{'code':_0x160c3b(0x1a7),'keyCap':'Q'}});var _0x18a301={};_0x160c3b(0x1b9)===_0x394dc4&&(_0x18a301[_0x160c3b(0x2ae)]={'code':_0x160c3b(0x542),'location':_0x479074},_0x18a301[_0x160c3b(0x24b)]={'code':_0x160c3b(0x38a),'location':_0x1e4dc1},_0x18a301[_0x160c3b(0x31c)]={'code':_0x160c3b(0x4f7),'location':_0x479074},_0x18a301[_0x160c3b(0x156)]={'code':_0x160c3b(0x33f),'location':_0x1e4dc1},_0x18a301[_0x160c3b(0x423)]={'code':_0x160c3b(0x4ed),'location':_0x479074},_0x18a301[_0x160c3b(0x316)]={'code':_0x160c3b(0x276),'location':_0x1e4dc1});_0x160c3b(0x431)===_0x14ede9&&(_0x18a301['U+0010']={'code':'ContextMenu'});'safari-mac'===_0x14ede9&&(_0x18a301[_0x160c3b(0x17f)]={'code':_0x160c3b(0x343)});_0x160c3b(0x506)===_0x394dc4&&(_0x18a301[_0x160c3b(0x17f)]={'code':_0x160c3b(0x14f)},_0x18a301[_0x160c3b(0x3a6)]={'code':'ArrowLeft'},_0x18a301[_0x160c3b(0x4ec)]={'code':_0x160c3b(0x273)},_0x18a301['U+001E']={'code':_0x160c3b(0x2b6)},_0x18a301[_0x160c3b(0x42c)]={'code':'ArrowDown'},_0x18a301['U+0001']={'code':_0x160c3b(0x2da)},_0x18a301[_0x160c3b(0x2a2)]={'code':_0x160c3b(0x49a)},_0x18a301['U+000B']={'code':_0x160c3b(0x38f)},_0x18a301[_0x160c3b(0x180)]={'code':_0x160c3b(0x3d9)});var _0x3dbff7=[];_0x3dbff7[_0x479074]={0x10:{'code':_0x160c3b(0x542),'location':_0x479074},0x11:{'code':_0x160c3b(0x4f7),'location':_0x479074},0x12:{'code':_0x160c3b(0x4ed),'location':_0x479074}},_0x3dbff7[_0x1e4dc1]={0x10:{'code':_0x160c3b(0x38a),'location':_0x1e4dc1},0x11:{'code':_0x160c3b(0x33f),'location':_0x1e4dc1},0x12:{'code':'AltRight','location':_0x1e4dc1}},_0x3dbff7[_0x2e0cba]={0xd:{'code':_0x160c3b(0x387),'location':_0x2e0cba}},_0x39b852(_0x3dbff7[_0x2e0cba],_0x160c3b(0x111),{0x6d:{'code':_0x160c3b(0x484),'location':_0x2e0cba},0x6b:{'code':_0x160c3b(0x46f),'location':_0x2e0cba}}),_0x39b852(_0x3dbff7[_0x479074],_0x160c3b(0x2fe),{0xe0:{'code':_0x160c3b(0x3a2),'location':_0x479074}}),_0x39b852(_0x3dbff7[_0x1e4dc1],_0x160c3b(0x2fe),{0xe0:{'code':_0x160c3b(0x231),'location':_0x1e4dc1}}),_0x39b852(_0x3dbff7[_0x1e4dc1],_0x160c3b(0xfb),{0x5b:{'code':'MetaRight','location':_0x1e4dc1}}),_0x39b852(_0x3dbff7[_0x1e4dc1],_0x160c3b(0x29c),{0x5d:{'code':'MetaRight','location':_0x1e4dc1}}),_0x39b852(_0x3dbff7[_0x2e0cba],'chrome-mac',{0xc:{'code':_0x160c3b(0x29a),'location':_0x2e0cba}}),_0x39b852(_0x3dbff7[_0x2e0cba],'safari-mac',{0xc:{'code':_0x160c3b(0x29a),'location':_0x2e0cba},0xbb:{'code':_0x160c3b(0x46f),'location':_0x2e0cba},0xbd:{'code':_0x160c3b(0x484),'location':_0x2e0cba},0xbe:{'code':_0x160c3b(0x2ea),'location':_0x2e0cba},0xbf:{'code':_0x160c3b(0x271),'location':_0x2e0cba}});var _0x2a6c11={'ShiftLeft':{'key':'Shift'},'ShiftRight':{'key':_0x160c3b(0x356)},'ControlLeft':{'key':_0x160c3b(0x1a0)},'ControlRight':{'key':'Control'},'AltLeft':{'key':_0x160c3b(0x1c5)},'AltRight':{'key':_0x160c3b(0x1c5)},'MetaLeft':{'key':_0x160c3b(0x100)},'MetaRight':{'key':'Meta'},'NumpadEnter':{'key':'Enter'},'Space':{'key':'\x20'},'Digit0':{'key':'0','shiftKey':')'},'Digit1':{'key':'1','shiftKey':'!'},'Digit2':{'key':'2','shiftKey':'@'},'Digit3':{'key':'3','shiftKey':'#'},'Digit4':{'key':'4','shiftKey':'$'},'Digit5':{'key':'5','shiftKey':'%'},'Digit6':{'key':'6','shiftKey':'^'},'Digit7':{'key':'7','shiftKey':'&'},'Digit8':{'key':'8','shiftKey':'*'},'Digit9':{'key':'9','shiftKey':'('},'KeyA':{'key':'a','shiftKey':'A'},'KeyB':{'key':'b','shiftKey':'B'},'KeyC':{'key':'c','shiftKey':'C'},'KeyD':{'key':'d','shiftKey':'D'},'KeyE':{'key':'e','shiftKey':'E'},'KeyF':{'key':'f','shiftKey':'F'},'KeyG':{'key':'g','shiftKey':'G'},'KeyH':{'key':'h','shiftKey':'H'},'KeyI':{'key':'i','shiftKey':'I'},'KeyJ':{'key':'j','shiftKey':'J'},'KeyK':{'key':'k','shiftKey':'K'},'KeyL':{'key':'l','shiftKey':'L'},'KeyM':{'key':'m','shiftKey':'M'},'KeyN':{'key':'n','shiftKey':'N'},'KeyO':{'key':'o','shiftKey':'O'},'KeyP':{'key':'p','shiftKey':'P'},'KeyQ':{'key':'q','shiftKey':'Q'},'KeyR':{'key':'r','shiftKey':'R'},'KeyS':{'key':'s','shiftKey':'S'},'KeyT':{'key':'t','shiftKey':'T'},'KeyU':{'key':'u','shiftKey':'U'},'KeyV':{'key':'v','shiftKey':'V'},'KeyW':{'key':'w','shiftKey':'W'},'KeyX':{'key':'x','shiftKey':'X'},'KeyY':{'key':'y','shiftKey':'Y'},'KeyZ':{'key':'z','shiftKey':'Z'},'Numpad0':{'key':'0'},'Numpad1':{'key':'1'},'Numpad2':{'key':'2'},'Numpad3':{'key':'3'},'Numpad4':{'key':'4'},'Numpad5':{'key':'5'},'Numpad6':{'key':'6'},'Numpad7':{'key':'7'},'Numpad8':{'key':'8'},'Numpad9':{'key':'9'},'NumpadMultiply':{'key':'*'},'NumpadAdd':{'key':'+'},'NumpadComma':{'key':','},'NumpadSubtract':{'key':'-'},'NumpadDecimal':{'key':'.'},'NumpadDivide':{'key':'/'},'Semicolon':{'key':';','shiftKey':':'},'Equal':{'key':'=','shiftKey':'+'},'Comma':{'key':',','shiftKey':'<'},'Minus':{'key':'-','shiftKey':'_'},'Period':{'key':'.','shiftKey':'>'},'Slash':{'key':'/','shiftKey':'?'},'Backquote':{'key':'`','shiftKey':'~'},'BracketLeft':{'key':'[','shiftKey':'{'},'Backslash':{'key':'\x5c','shiftKey':'|'},'BracketRight':{'key':']','shiftKey':'}'},'Quote':{'key':'\x27','shiftKey':'\x22'},'IntlBackslash':{'key':'\x5c','shiftKey':'|'}};_0x39b852(_0x2a6c11,_0x160c3b(0x29c),{'MetaLeft':{'key':_0x160c3b(0x100)},'MetaRight':{'key':_0x160c3b(0x100)}});var _0x290e01={'Add':'+','Decimal':'.','Divide':'/','Subtract':'-','Multiply':'*','Spacebar':'\x20','Esc':_0x160c3b(0x230),'Nonconvert':_0x160c3b(0x51e),'Left':_0x160c3b(0x418),'Up':_0x160c3b(0x2b6),'Right':_0x160c3b(0x273),'Down':_0x160c3b(0x1e6),'Del':_0x160c3b(0x31a),'Menu':_0x160c3b(0x343),'MediaNextTrack':_0x160c3b(0x3e2),'MediaPreviousTrack':'MediaTrackPrevious','SelectMedia':_0x160c3b(0x39b),'HalfWidth':'Hankaku','FullWidth':'Zenkaku','RomanCharacters':'Romaji','Crsel':_0x160c3b(0xf3),'Exsel':_0x160c3b(0x178),'Zoom':_0x160c3b(0x556)},_0x38e44b=_0x1b2474(_0x43f93d,'code');try{var _0x2e6acd=_0x476feb&&_0x160c3b(0x188)in new KeyboardEvent('');}catch(_0x4d8aaa){}function _0xcffe91(_0x1596fe){const _0x278c0f=_0x160c3b;var _0x4c6f2c=_0x278c0f(0x376)in _0x1596fe?_0x1596fe[_0x278c0f(0x376)]:'which'in _0x1596fe?_0x1596fe['which']:0x0,_0x4bada9=(function(){const _0x1aa348=_0x278c0f;if(_0x2e6acd||'keyLocation'in _0x1596fe){var _0x4e61d0=_0x2e6acd?_0x1596fe['location']:_0x1596fe[_0x1aa348(0x380)];if(_0x4e61d0&&_0x4c6f2c in _0x3dbff7[_0x4e61d0])return _0x3dbff7[_0x4e61d0][_0x4c6f2c];}if('keyIdentifier'in _0x1596fe&&_0x1596fe[_0x1aa348(0x247)]in _0x18a301)return _0x18a301[_0x1596fe[_0x1aa348(0x247)]];if(_0x4c6f2c in _0x43f93d)return _0x43f93d[_0x4c6f2c];return null;}());if(0x0)switch(_0x1596fe[_0x278c0f(0x247)]){case _0x278c0f(0x17f):_0x4bada9={'code':_0x278c0f(0x14f)};break;case _0x278c0f(0x3a6):_0x4bada9={'code':_0x278c0f(0x418)};break;case _0x278c0f(0x4ec):_0x4bada9={'code':'ArrowRight'};break;case _0x278c0f(0x518):_0x4bada9={'code':_0x278c0f(0x2b6)};break;case _0x278c0f(0x42c):_0x4bada9={'code':'ArrowDown'};break;}if(!_0x4bada9)return null;var _0x2f6e18=(function(){const _0x2bb5ec=_0x278c0f;var _0x4396ff=_0x2a6c11[_0x4bada9[_0x2bb5ec(0x2c6)]];if(!_0x4396ff)return _0x4bada9['code'];return _0x1596fe[_0x2bb5ec(0x29f)]&&_0x2bb5ec(0x29f)in _0x4396ff?_0x4396ff[_0x2bb5ec(0x29f)]:_0x4396ff[_0x2bb5ec(0x2b4)];}());return{'code':_0x4bada9[_0x278c0f(0x2c6)],'key':_0x2f6e18,'location':_0x4bada9[_0x278c0f(0x188)],'keyCap':_0x4bada9[_0x278c0f(0x574)]};}function _0x15b045(_0x44e366,_0x3a08e0){const _0x38dfbd=_0x160c3b;_0x44e366=String(_0x44e366);if(!_0x38e44b[_0x38dfbd(0x392)](_0x44e366))return _0x38dfbd(0x47d);if(_0x3a08e0&&String(_0x3a08e0)['toLowerCase']()!==_0x38dfbd(0x17e))throw Error('Unsupported\x20locale');var _0x130f89=_0x38e44b[_0x44e366];return _0x130f89['keyCap']||_0x130f89['code']||_0x38dfbd(0x47d);}'KeyboardEvent'in _0x511999&&'defineProperty'in Object&&(function(){const _0x34446e=_0x160c3b;function _0x5cc2d7(_0x227eab,_0x413074,_0x2874c2){const _0x13e89b=_0x4d4f;if(_0x413074 in _0x227eab)return;Object[_0x13e89b(0x467)](_0x227eab,_0x413074,_0x2874c2);}_0x5cc2d7(KeyboardEvent['prototype'],_0x34446e(0x2c6),{'get':function(){const _0x95b7fa=_0x34446e;var _0x4e6a01=_0xcffe91(this);return _0x4e6a01?_0x4e6a01[_0x95b7fa(0x2c6)]:'';}});if(_0x34446e(0x2b4)in KeyboardEvent[_0x34446e(0x1cc)]){var _0x289519=Object['getOwnPropertyDescriptor'](KeyboardEvent[_0x34446e(0x1cc)],_0x34446e(0x2b4));Object['defineProperty'](KeyboardEvent[_0x34446e(0x1cc)],_0x34446e(0x2b4),{'get':function(){const _0x3836b7=_0x34446e;var _0x37dcc1=_0x289519[_0x3836b7(0x40a)][_0x3836b7(0x345)](this);return _0x290e01[_0x3836b7(0x392)](_0x37dcc1)?_0x290e01[_0x37dcc1]:_0x37dcc1;}});}_0x5cc2d7(KeyboardEvent[_0x34446e(0x1cc)],_0x34446e(0x2b4),{'get':function(){const _0x3a0d8a=_0x34446e;var _0x54452c=_0xcffe91(this);return _0x54452c&&_0x3a0d8a(0x2b4)in _0x54452c?_0x54452c[_0x3a0d8a(0x2b4)]:'Unidentified';}}),_0x5cc2d7(KeyboardEvent['prototype'],_0x34446e(0x188),{'get':function(){const _0x142024=_0x34446e;var _0x124fa4=_0xcffe91(this);return _0x124fa4&&'location'in _0x124fa4?_0x124fa4[_0x142024(0x188)]:_0x42893e;}}),_0x5cc2d7(KeyboardEvent[_0x34446e(0x1cc)],_0x34446e(0x2cc),{'get':function(){return'';}});}());if(!('queryKeyCap'in _0x511999[_0x160c3b(0x3d7)]))_0x511999[_0x160c3b(0x3d7)][_0x160c3b(0x34c)]=_0x15b045;_0x511999[_0x160c3b(0x4fe)]=function(_0x266d2b){const _0x5b3a82=_0x160c3b;if(_0x5b3a82(0x2c6)in _0x266d2b)return;var _0x3d1eb5=_0xcffe91(_0x266d2b);_0x266d2b[_0x5b3a82(0x2c6)]=_0x3d1eb5?_0x3d1eb5[_0x5b3a82(0x2c6)]:'',_0x266d2b['key']=_0x3d1eb5&&_0x5b3a82(0x2b4)in _0x3d1eb5?_0x3d1eb5[_0x5b3a82(0x2b4)]:'Unidentified',_0x266d2b[_0x5b3a82(0x188)]=_0x5b3a82(0x188)in _0x266d2b?_0x266d2b[_0x5b3a82(0x188)]:_0x5b3a82(0x380)in _0x266d2b?_0x266d2b[_0x5b3a82(0x380)]:_0x3d1eb5&&_0x5b3a82(0x188)in _0x3d1eb5?_0x3d1eb5[_0x5b3a82(0x188)]:_0x42893e,_0x266d2b['locale']='';};}(self),function ctHowler(){const _0x31afa4=_0x280885;ct[_0x31afa4(0x547)]={},ct[_0x31afa4(0x547)][_0x31afa4(0x31d)]=Howler,Howler['orientation'](0x0,-0x1,0x0,0x0,0x0,0x1),Howler[_0x31afa4(0x2d4)](0x0,0x0,0x0),ct[_0x31afa4(0x547)][_0x31afa4(0x3cf)]=Howl;var _0x535b98=[][0x0]||0x9c4;ct[_0x31afa4(0x547)][_0x31afa4(0x540)]=[![]][0x0]===void 0x0?![]:[![]][0x0],ct[_0x31afa4(0x547)]['manageListenerPosition']=[![]][0x0]===void 0x0?!![]:[![]][0x0],ct[_0x31afa4(0x547)][_0x31afa4(0x306)]=Howler[_0x31afa4(0x318)],ct[_0x31afa4(0x547)][_0x31afa4(0x24f)]=function _0x176aa7(_0x5880b1,_0xf55d45,_0x460e41){const _0x319ab3=_0x31afa4;_0x460e41=_0x460e41||{};var _0x1889b2=[];_0xf55d45['wav']&&_0xf55d45[_0x319ab3(0x4a9)][_0x319ab3(0x4c7)](-0x4)===_0x319ab3(0x18c)&&_0x1889b2['push'](_0xf55d45[_0x319ab3(0x4a9)]);_0xf55d45['mp3']&&_0xf55d45[_0x319ab3(0x40f)][_0x319ab3(0x4c7)](-0x4)===_0x319ab3(0xf2)&&_0x1889b2[_0x319ab3(0x199)](_0xf55d45[_0x319ab3(0x40f)]);_0xf55d45[_0x319ab3(0x368)]&&_0xf55d45[_0x319ab3(0x368)]['slice'](-0x4)===_0x319ab3(0x234)&&_0x1889b2[_0x319ab3(0x199)](_0xf55d45[_0x319ab3(0x368)]);var _0x4bc88e=!navigator[_0x319ab3(0x4ac)][_0x319ab3(0x56e)](_0x319ab3(0x468))&&_0x460e41[_0x319ab3(0x50d)],_0xf8ee14=new Howl({'src':_0x1889b2,'autoplay':![],'preload':!_0x4bc88e,'html5':_0x4bc88e,'loop':_0x460e41[_0x319ab3(0x43b)],'pool':_0x460e41[_0x319ab3(0x55a)]||0x5,'onload':function(){const _0x650a5=_0x319ab3;!_0x4bc88e&&ct[_0x650a5(0x1f2)][_0x650a5(0xf4)]++;},'onloaderror':function(){const _0x5840c0=_0x319ab3;ct[_0x5840c0(0x1f2)][_0x5840c0(0x26a)]++,_0xf8ee14[_0x5840c0(0x4bd)]=!![],console['error'](_0x5840c0(0x425)+(_0xf55d45[_0x5840c0(0x4a9)]||_0xf55d45['mp3']||_0xf55d45['ogg'])+'!');}});_0x4bc88e&&ct[_0x319ab3(0x1f2)][_0x319ab3(0xf4)]++,ct[_0x319ab3(0x1f2)]['sounds'][_0x5880b1]=_0xf8ee14;};var _0x2c9f48=(_0x49a6bc,_0x1d4510,_0x2730f0)=>{const _0x4c3ddf=_0x31afa4;_0x49a6bc[_0x4c3ddf(0x429)]({'coneInnerAngle':_0x1d4510[_0x4c3ddf(0xf6)]||0x168,'coneOuterAngle':_0x1d4510[_0x4c3ddf(0x1f1)]||0x168,'coneOuterGain':_0x1d4510[_0x4c3ddf(0x1b3)]||0x1,'distanceModel':_0x1d4510[_0x4c3ddf(0x480)]||_0x4c3ddf(0x3d5),'maxDistance':_0x1d4510[_0x4c3ddf(0x2fa)]||_0x535b98,'refDistance':_0x1d4510['refDistance']||0x1,'rolloffFactor':_0x1d4510[_0x4c3ddf(0x35a)]||0x1,'panningModel':_0x1d4510['panningModel']||_0x4c3ddf(0x184)},_0x2730f0);};ct['sound'][_0x31afa4(0x496)]=function _0x4d6507(_0x5905de,_0x5cec98,_0x5eb3cd){const _0x325d91=_0x31afa4;_0x5cec98=_0x5cec98||{};typeof _0x5cec98===_0x325d91(0x4f8)&&(_0x5eb3cd=_0x5cec98,_0x5cec98={});var _0x1245d8=ct[_0x325d91(0x1f2)][_0x325d91(0x22b)][_0x5905de],_0x42a30a=_0x1245d8['play']();_0x5cec98['loop']&&_0x1245d8['loop'](!![],_0x42a30a);_0x5cec98['volume']!==void 0x0&&_0x1245d8['volume'](_0x5cec98[_0x325d91(0x391)],_0x42a30a);_0x5cec98[_0x325d91(0x20a)]!==void 0x0&&_0x1245d8[_0x325d91(0x20a)](_0x5cec98[_0x325d91(0x20a)],_0x42a30a);if(_0x5cec98['x']!==void 0x0||_0x5cec98[_0x325d91(0x4be)]){if(_0x5cec98['x']!==void 0x0)_0x1245d8[_0x325d91(0x2d4)](_0x5cec98['x'],_0x5cec98['y']||0x0,_0x5cec98['z']||0x0,_0x42a30a);else{const _0x1eeb3b=_0x5cec98['position'];_0x1245d8[_0x325d91(0x2d4)](_0x1eeb3b['x'],_0x1eeb3b['y'],_0x5cec98['z']||(ct['sound']['useDepth']?_0x1eeb3b[_0x325d91(0x3c8)]:0x0),_0x42a30a);}_0x2c9f48(_0x1245d8,_0x5cec98,_0x42a30a);}return _0x5eb3cd&&_0x1245d8[_0x325d91(0x43e)]('end',_0x5eb3cd,_0x42a30a),_0x42a30a;},ct[_0x31afa4(0x547)]['stop']=function _0x42108a(_0x1fc62b,_0x3ae9c8){const _0x565283=_0x31afa4;ct[_0x565283(0x547)][_0x565283(0xed)](_0x1fc62b,_0x3ae9c8)&&ct[_0x565283(0x1f2)][_0x565283(0x22b)][_0x1fc62b][_0x565283(0x358)](_0x3ae9c8);},ct[_0x31afa4(0x547)]['pause']=function _0x3292f7(_0x332b6b,_0xfe74fd){const _0x1eb71f=_0x31afa4;ct[_0x1eb71f(0x1f2)][_0x1eb71f(0x22b)][_0x332b6b][_0x1eb71f(0x1fd)](_0xfe74fd);},ct['sound']['resume']=function _0x2c8796(_0x32c865,_0x2dd8bd){const _0xf67401=_0x31afa4;ct[_0xf67401(0x1f2)][_0xf67401(0x22b)][_0x32c865][_0xf67401(0x183)](_0x2dd8bd);},ct['sound']['playing']=function _0x488e7d(_0x10beaf,_0x5402ac){const _0x54ac00=_0x31afa4;return ct['res'][_0x54ac00(0x22b)][_0x10beaf][_0x54ac00(0xed)](_0x5402ac);},ct['sound'][_0x31afa4(0x17a)]=function _0x11174a(_0x42759e){const _0x3e425e=_0x31afa4;ct[_0x3e425e(0x1f2)][_0x3e425e(0x22b)][_0x42759e][_0x3e425e(0x17a)]();},ct['sound'][_0x31afa4(0x391)]=function _0x3c9017(_0x200d9a,_0x295690,_0x104cd4){const _0x49e8a7=_0x31afa4;return ct['res'][_0x49e8a7(0x22b)][_0x200d9a][_0x49e8a7(0x391)](_0x295690,_0x104cd4);},ct[_0x31afa4(0x547)][_0x31afa4(0x1c2)]=function _0x21337c(_0x3e2a55,_0x370309,_0xbc5dec,_0x2a12b2){const _0x220be8=_0x31afa4;if(ct[_0x220be8(0x547)][_0x220be8(0xed)](_0x3e2a55,_0x2a12b2)){var _0x287189=ct[_0x220be8(0x1f2)]['sounds'][_0x3e2a55],_0x48372b=_0x2a12b2?_0x287189['volume'](_0x2a12b2):_0x287189[_0x220be8(0x391)];try{_0x287189[_0x220be8(0x1c2)](_0x48372b,_0x370309,_0xbc5dec,_0x2a12b2);}catch(_0x5b77c2){console['warn'](_0x220be8(0x289),_0x5b77c2),ct[_0x220be8(0x547)][_0x220be8(0x391)](_0x3e2a55,_0x370309,_0x2a12b2);}}},ct[_0x31afa4(0x547)]['moveListener']=function _0x34dd77(_0x217a25,_0x5e3bfe,_0x55c448){Howler['pos'](_0x217a25,_0x5e3bfe,_0x55c448||0x0);},ct['sound'][_0x31afa4(0x4be)]=function _0x2f55a0(_0x16ed04,_0x57780a,_0x33843a,_0x92b8e1,_0x11c06e){const _0x44a634=_0x31afa4;if(ct['sound']['playing'](_0x16ed04,_0x57780a)){var _0x17ea41=ct[_0x44a634(0x1f2)]['sounds'][_0x16ed04],_0x4192b3=_0x17ea41[_0x44a634(0x2d4)](_0x57780a);_0x17ea41['pos'](_0x33843a,_0x92b8e1,_0x11c06e||_0x4192b3[0x2],_0x57780a);}},ct[_0x31afa4(0x547)][_0x31afa4(0x1bc)]=Howler['volume'][_0x31afa4(0x2d1)](Howler),ct['sound']['exists']=function _0x3708e4(_0x6569b3){const _0xb60d0b=_0x31afa4;return _0x6569b3 in ct[_0xb60d0b(0x1f2)]['sounds'];};}(),ct[_0x280885(0x4b3)]=function random(_0xfdedc3){return Math['random']()*_0xfdedc3;},ct['u'][_0x280885(0x4f1)](ct[_0x280885(0x4b3)],{'dice'(..._0x30435b){const _0x27cd1f=_0x280885;return _0x30435b[Math[_0x27cd1f(0x55b)](Math['random']()*_0x30435b[_0x27cd1f(0x44c)])];},'histogram'(..._0x29c10a){const _0x3d6d5b=_0x280885,_0x4f86d0=[..._0x29c10a];let _0x29aa32=0x0;for(let _0x47f0df=0x0;_0x47f0df<_0x4f86d0[_0x3d6d5b(0x44c)];_0x47f0df++){_0x29aa32+=_0x4f86d0[_0x47f0df],_0x47f0df>0x0&&(_0x4f86d0[_0x47f0df]+=_0x4f86d0[_0x47f0df-0x1]);}const _0x50555c=Math[_0x3d6d5b(0x4b3)]()*_0x29aa32;var _0x229845;for(_0x229845=0x0;_0x229845<_0x4f86d0[_0x3d6d5b(0x44c)];_0x229845++){if(_0x4f86d0[_0x229845]>_0x50555c)break;}return _0x229845/_0x4f86d0[_0x3d6d5b(0x44c)]+Math[_0x3d6d5b(0x4b3)]()/_0x4f86d0['length'];},'optimistic'(_0x4c9d3d){const _0x42f827=_0x280885;return 0x1-ct[_0x42f827(0x4b3)][_0x42f827(0x585)](_0x4c9d3d);},'pessimistic'(_0x5941d0){const _0x2cb16c=_0x280885;return _0x5941d0=_0x5941d0||0x2,Math[_0x2cb16c(0x4b3)]()**_0x5941d0;},'range'(_0x1010ed,_0x5e079e){return _0x1010ed+Math['random']()*(_0x5e079e-_0x1010ed);},'deg'(){const _0x13f804=_0x280885;return Math[_0x13f804(0x4b3)]()*0x168;},'coord'(){const _0x30cb24=_0x280885;return[Math[_0x30cb24(0x55b)](Math[_0x30cb24(0x4b3)]()*ct['width']),Math['floor'](Math[_0x30cb24(0x4b3)]()*ct[_0x30cb24(0x370)])];},'chance'(_0x4df2d8,_0x16eb8b){const _0xfb564=_0x280885;if(_0x16eb8b)return Math[_0xfb564(0x4b3)]()*_0x16eb8b<_0x4df2d8;return Math[_0xfb564(0x4b3)]()*0x64<_0x4df2d8;},'from'(_0x25a313){const _0x1781c7=_0x280885;return _0x25a313[Math[_0x1781c7(0x55b)](Math[_0x1781c7(0x4b3)]()*_0x25a313['length'])];},'createSeededRandomizer'(_0x26bce3){return function _0x454077(){const _0x2169d5=_0x4d4f;var _0x5e1a7b=_0x26bce3+=0x6d2b79f5;return _0x5e1a7b=Math[_0x2169d5(0x256)](_0x5e1a7b^_0x5e1a7b>>>0xf,_0x5e1a7b|0x1),_0x5e1a7b^=_0x5e1a7b+Math[_0x2169d5(0x256)](_0x5e1a7b^_0x5e1a7b>>>0x7,_0x5e1a7b|0x3d),((_0x5e1a7b^_0x5e1a7b>>>0xe)>>>0x0)/0x100000000;};}}));{const handle={};handle['currentRootRandomizer']=ct['random']['createSeededRandomizer'](0x6f894),ct[_0x280885(0x4b3)][_0x280885(0x45e)]=function seeded(){return handle['currentRootRandomizer']();},ct[_0x280885(0x4b3)]['setSeed']=function setSeed(_0x11a9e9){const _0x1c96fd=_0x280885;handle[_0x1c96fd(0x282)]=ct['random'][_0x1c96fd(0x37e)](_0x11a9e9);},ct[_0x280885(0x4b3)][_0x280885(0x186)](0x22bbe9a78);}ct['matter']={'on'(_0x6073c1,_0x2c7c4a){const _0x32b4bd=_0x280885;Matter[_0x32b4bd(0x18e)]['on'](ct[_0x32b4bd(0x512)][_0x32b4bd(0x31b)],_0x6073c1,_0x2c7c4a);},'off'(_0x5aeae6,_0x2484b6){const _0x42646d=_0x280885;Matter[_0x42646d(0x18e)][_0x42646d(0x378)](ct[_0x42646d(0x512)][_0x42646d(0x31b)],_0x5aeae6,_0x2484b6);},'teleport'(_0x1ed890,_0x1f866b,_0x48dff4){const _0x2a7a85=_0x280885;Matter[_0x2a7a85(0x352)][_0x2a7a85(0x4cc)](_0x1ed890['matterBody'],{'x':_0x1f866b,'y':_0x48dff4}),_0x1ed890['x']=_0x1f866b,_0x1ed890['y']=_0x48dff4;},'push'(_0x188f4f,_0x25e583,_0x2fe62c,_0x37a3d7,_0x503a91){const _0x449ec1=_0x280885;_0x37a3d7===void 0x0?Matter[_0x449ec1(0x352)]['applyForce'](_0x188f4f[_0x449ec1(0x1a5)],_0x188f4f[_0x449ec1(0x1a5)][_0x449ec1(0x4be)],{'x':_0x25e583,'y':_0x2fe62c}):Matter[_0x449ec1(0x352)][_0x449ec1(0x3bd)](_0x188f4f[_0x449ec1(0x1a5)],{'x':_0x37a3d7,'y':_0x503a91},{'x':_0x25e583,'y':_0x2fe62c});},'spin'(_0x253657,_0x5e1686){const _0x460042=_0x280885;Matter[_0x460042(0x352)][_0x460042(0x549)](_0x253657[_0x460042(0x1a5)],ct['u']['degToRad'](_0x5e1686));},'rotate'(_0x19e254,_0x3c168f){const _0xe7eddb=_0x280885;Matter[_0xe7eddb(0x352)][_0xe7eddb(0x454)](_0x19e254['matterBody'],ct['u'][_0xe7eddb(0x443)](_0x3c168f));},'rotateBy'(_0x16b689,_0x37e8e3){const _0x204cac=_0x280885;Matter[_0x204cac(0x352)]['rotate'](_0x16b689[_0x204cac(0x1a5)],ct['u']['degToRad'](_0x37e8e3));},'scale'(_0x53ca16,_0x21fbec,_0x276380){const _0x56d6cc=_0x280885;Matter[_0x56d6cc(0x352)][_0x56d6cc(0x404)](_0x53ca16,_0x21fbec,_0x276380),_0x53ca16['scale']['x']=_0x21fbec,_0x53ca16[_0x56d6cc(0x404)]['y']=_0x276380;},'launch'(_0x376f4b,_0x44e141,_0x2da652){const _0x2f049a=_0x280885;Matter['Body']['setVelocity'](_0x376f4b[_0x2f049a(0x1a5)],{'x':_0x44e141,'y':_0x2da652});},'pin'(_0x3c7994){const _0x207539=_0x280885,_0x54775f=Matter[_0x207539(0x303)][_0x207539(0x253)]({'bodyB':_0x3c7994[_0x207539(0x1a5)],'pointA':{'x':_0x3c7994['x'],'y':_0x3c7994['y']},'length':0x0});return Matter[_0x207539(0x296)][_0x207539(0x2cd)](ct[_0x207539(0x512)][_0x207539(0x4c9)],_0x54775f),_0x54775f;},'tie'(_0x4c5e68,_0x59000b,_0x4c669d=0.05,_0x509663=0.05){const _0x462568=_0x280885,_0x7fbda0=Matter[_0x462568(0x303)][_0x462568(0x253)]({'bodyB':_0x4c5e68['matterBody'],'pointA':_0x59000b,'pointB':{'x':0x0,'y':0x0},'stiffness':_0x4c669d,'damping':_0x509663});return Matter[_0x462568(0x296)]['add'](ct[_0x462568(0x512)][_0x462568(0x4c9)],_0x7fbda0),_0x7fbda0;},'rope'(_0x1724be,_0x3acda9,_0x37473e=0.05,_0xdb6a83=0.05){const _0x3fa61b=_0x280885,_0x4c6898=Matter[_0x3fa61b(0x303)][_0x3fa61b(0x253)]({'pointA':_0x1724be[_0x3fa61b(0x4be)],'bodyB':_0x1724be[_0x3fa61b(0x1a5)],'length':_0x3acda9,'stiffness':_0x37473e,'damping':_0xdb6a83});return Matter[_0x3fa61b(0x296)]['add'](ct[_0x3fa61b(0x512)][_0x3fa61b(0x4c9)],_0x4c6898),_0x4c6898;},'tieTogether'(_0x2faf80,_0xde63ca,_0x35740c,_0x2d31ec){const _0x189310=_0x280885,_0xb09210=Matter[_0x189310(0x303)][_0x189310(0x253)]({'bodyA':_0x2faf80[_0x189310(0x1a5)],'bodyB':_0xde63ca[_0x189310(0x1a5)],'stiffness':_0x35740c,'damping':_0x2d31ec});return Matter[_0x189310(0x296)][_0x189310(0x2cd)](ct[_0x189310(0x512)]['matterWorld'],_0xb09210),_0xb09210;},'onCreate'(_0x4a9eb3){const _0x1ad934=_0x280885,_0x591934={'isStatic':_0x4a9eb3[_0x1ad934(0x159)],'isSensor':_0x4a9eb3[_0x1ad934(0x29b)],'restitution':_0x4a9eb3[_0x1ad934(0x102)]||0.1,'friction':_0x4a9eb3[_0x1ad934(0x536)]===void 0x0?0x1:_0x4a9eb3[_0x1ad934(0x536)],'frictionStatic':_0x4a9eb3[_0x1ad934(0x475)]===void 0x0?0.1:_0x4a9eb3[_0x1ad934(0x475)],'frictionAir':_0x4a9eb3[_0x1ad934(0x228)]||0.01,'density':_0x4a9eb3[_0x1ad934(0x185)]||0.001};_0x4a9eb3[_0x1ad934(0x36b)][_0x1ad934(0x22e)]===_0x1ad934(0x3df)&&(_0x4a9eb3['matterBody']=Matter['Bodies']['rectangle'](_0x4a9eb3['x']-_0x4a9eb3[_0x1ad934(0x36b)]['left'],_0x4a9eb3['y']-_0x4a9eb3['shape'][_0x1ad934(0x25c)],_0x4a9eb3['shape'][_0x1ad934(0x21f)]+_0x4a9eb3[_0x1ad934(0x36b)][_0x1ad934(0x153)],_0x4a9eb3[_0x1ad934(0x36b)][_0x1ad934(0x25c)]+_0x4a9eb3['shape']['bottom'],_0x591934));_0x4a9eb3[_0x1ad934(0x36b)]['type']===_0x1ad934(0x328)&&(_0x4a9eb3[_0x1ad934(0x1a5)]=Matter[_0x1ad934(0x2ab)][_0x1ad934(0x328)](_0x4a9eb3['x'],_0x4a9eb3['y'],_0x4a9eb3[_0x1ad934(0x36b)]['r'],_0x591934));if(_0x4a9eb3['shape'][_0x1ad934(0x22e)]===_0x1ad934(0x503)){const _0x474e5b=Matter[_0x1ad934(0x20d)]['create'](_0x4a9eb3[_0x1ad934(0x36b)]['points']);_0x4a9eb3[_0x1ad934(0x1a5)]=Matter[_0x1ad934(0x2ab)][_0x1ad934(0x361)](_0x4a9eb3['x'],_0x4a9eb3['y'],_0x474e5b,_0x591934);}Matter[_0x1ad934(0x352)][_0x1ad934(0x342)](_0x4a9eb3[_0x1ad934(0x1a5)],{'x':(_0x4a9eb3[_0x1ad934(0x457)][_0x1ad934(0x1ce)]['x']-0.5)*_0x4a9eb3['texture'][_0x1ad934(0x4f4)],'y':(_0x4a9eb3['texture'][_0x1ad934(0x1ce)]['y']-0.5)*_0x4a9eb3[_0x1ad934(0x457)][_0x1ad934(0x370)]},!![]),Matter['Body']['setPosition'](_0x4a9eb3[_0x1ad934(0x1a5)],_0x4a9eb3[_0x1ad934(0x4be)]),Matter[_0x1ad934(0x352)][_0x1ad934(0x454)](_0x4a9eb3['matterBody'],ct['u']['degToRad'](_0x4a9eb3[_0x1ad934(0x101)])),Matter['Body'][_0x1ad934(0x404)](_0x4a9eb3['matterBody'],_0x4a9eb3[_0x1ad934(0x404)]['x'],_0x4a9eb3[_0x1ad934(0x404)]['y']),Matter[_0x1ad934(0x296)][_0x1ad934(0x2cd)](ct[_0x1ad934(0x512)][_0x1ad934(0x4c9)],_0x4a9eb3[_0x1ad934(0x1a5)]),_0x4a9eb3[_0x1ad934(0x1a5)]['copy']=_0x4a9eb3;_0x4a9eb3[_0x1ad934(0x193)]&&_0x4a9eb3[_0x1ad934(0x193)][0x0]&&([_0x4a9eb3['pivot']['x']]=_0x4a9eb3[_0x1ad934(0x193)]);_0x4a9eb3['matterFixPivot']&&_0x4a9eb3['matterFixPivot'][0x1]&&([,_0x4a9eb3[_0x1ad934(0x497)]['y']]=_0x4a9eb3[_0x1ad934(0x193)]);if(_0x4a9eb3[_0x1ad934(0x36d)]==='pinpoint')_0x4a9eb3[_0x1ad934(0x39e)]=ct['matter']['pin'](_0x4a9eb3);else _0x4a9eb3[_0x1ad934(0x36d)]===_0x1ad934(0x407)&&(_0x4a9eb3[_0x1ad934(0x39e)]=ct['matter'][_0x1ad934(0x407)](_0x4a9eb3,_0x4a9eb3[_0x1ad934(0x379)]===0x0?0x40:_0x4a9eb3[_0x1ad934(0x379)],_0x4a9eb3[_0x1ad934(0x23b)]===0x0?0.05:_0x4a9eb3['matterRopeStiffness'],_0x4a9eb3[_0x1ad934(0x177)]===0x0?0.05:_0x4a9eb3[_0x1ad934(0x177)]));},'createStaticTilemap'(_0x190efb){const _0x56064d=_0x280885,_0xb084f1={'isStatic':!![],'isSensor':![],'restitution':_0x190efb[_0x56064d(0x102)]||0.1,'friction':_0x190efb[_0x56064d(0x536)]===void 0x0?0x1:_0x190efb[_0x56064d(0x536)]};for(const _0x24601a of _0x190efb[_0x56064d(0x35c)]){ct[_0x56064d(0x456)][_0x56064d(0x333)](_0x24601a,_0xb084f1);}},'createStaticTile'(_0x2b5aff,_0x4652ee){const _0x5597ea=_0x280885,{shape:_0x32b86e}=_0x2b5aff[_0x5597ea(0x4b4)];if(_0x32b86e['type']===_0x5597ea(0x3df))_0x2b5aff[_0x5597ea(0x1a5)]=Matter[_0x5597ea(0x2ab)]['rectangle'](_0x2b5aff['x']-_0x32b86e[_0x5597ea(0x21f)],_0x2b5aff['y']-_0x32b86e[_0x5597ea(0x25c)],_0x32b86e[_0x5597ea(0x21f)]+_0x32b86e[_0x5597ea(0x153)],_0x32b86e[_0x5597ea(0x25c)]+_0x32b86e[_0x5597ea(0x36c)],_0x4652ee);else{if(_0x32b86e[_0x5597ea(0x22e)]===_0x5597ea(0x328))_0x2b5aff[_0x5597ea(0x1a5)]=Matter['Bodies'][_0x5597ea(0x328)](_0x2b5aff['x'],_0x2b5aff['y'],_0x32b86e['r'],_0x4652ee);else{if(_0x32b86e[_0x5597ea(0x22e)]===_0x5597ea(0x503)){const _0x2d97c3=Matter[_0x5597ea(0x20d)]['create'](_0x32b86e[_0x5597ea(0x171)]);_0x2b5aff[_0x5597ea(0x1a5)]=Matter[_0x5597ea(0x2ab)]['fromVertices'](_0x2b5aff['x'],_0x2b5aff['y'],_0x2d97c3,_0x4652ee);}}}Matter[_0x5597ea(0x352)][_0x5597ea(0x342)](_0x2b5aff[_0x5597ea(0x1a5)],{'x':(_0x2b5aff['sprite'][_0x5597ea(0x457)][_0x5597ea(0x1ce)]['x']-0.5)*_0x2b5aff['sprite'][_0x5597ea(0x457)][_0x5597ea(0x4f4)],'y':(_0x2b5aff[_0x5597ea(0x4b4)][_0x5597ea(0x457)][_0x5597ea(0x1ce)]['y']-0.5)*_0x2b5aff['sprite'][_0x5597ea(0x457)][_0x5597ea(0x370)]},!![]),Matter['Body'][_0x5597ea(0x4cc)](_0x2b5aff[_0x5597ea(0x1a5)],_0x2b5aff['sprite'][_0x5597ea(0x4be)]),Matter[_0x5597ea(0x296)]['add'](ct['room'][_0x5597ea(0x4c9)],_0x2b5aff[_0x5597ea(0x1a5)]);},'getImpact'(_0x1d9960){const _0x2017c3=_0x280885,{bodyA:_0x13a4ac,bodyB:_0x3d9730}=_0x1d9960;if(_0x13a4ac[_0x2017c3(0x1f0)]||_0x3d9730[_0x2017c3(0x1f0)])return 0x0;const _0x4ca74d=_0x13a4ac[_0x2017c3(0x257)]===Infinity?0x0:_0x13a4ac['mass'],_0x1854f1=_0x3d9730['mass']===Infinity?0x0:_0x3d9730['mass'],_0x2204b3=ct['u'][_0x2017c3(0x31e)](_0x13a4ac[_0x2017c3(0x2e5)]['x']*_0x4ca74d,_0x13a4ac[_0x2017c3(0x2e5)]['y']*_0x4ca74d,_0x3d9730['velocity']['x']*_0x1854f1,_0x3d9730[_0x2017c3(0x2e5)]['y']*_0x1854f1);return _0x2204b3;},'walkOverWithRulebook'(_0x2c4be7,_0xa3b292){const _0x54044b=_0x280885;if(!_0xa3b292[_0x54044b(0x44c)]||!_0x2c4be7[_0x54044b(0x44c)])return;for(const _0x3a55e8 of _0xa3b292){const _0x7615a7=ct['matter'][_0x54044b(0x47a)](_0x3a55e8),_0x2f9795=[_0x3a55e8['bodyA'],_0x3a55e8[_0x54044b(0x300)]];for(const _0x2e51d5 of _0x2f9795){if(!_0x2e51d5[_0x54044b(0x48d)])continue;for(const _0x32ea81 of _0x2c4be7){if(_0x2e51d5[_0x54044b(0x48d)][_0x54044b(0x396)]===_0x32ea81[_0x54044b(0x189)]){const _0x3528c2=_0x3a55e8[_0x54044b(0x402)]===_0x2e51d5?_0x3a55e8['bodyB']:_0x3a55e8['bodyA'];(_0x32ea81[_0x54044b(0x227)]||_0x3528c2[_0x54044b(0x48d)]&&_0x32ea81[_0x54044b(0x37a)]===_0x3528c2[_0x54044b(0x48d)][_0x54044b(0x396)])&&_0x32ea81[_0x54044b(0x4ce)]['apply'](_0x2e51d5['copy'],[_0x3528c2['copy']||_0x3528c2[_0x54044b(0x190)],_0x7615a7]);}}}}},'rulebookStart':[],'rulebookActive':[],'rulebookEnd':[]},ct[_0x280885(0x3ab)]={'add'(_0x2f060e){const _0x3d32b5=_0x280885;var _0x2c5447={'obj':_0x2f060e[_0x3d32b5(0xf9)],'fields':_0x2f060e[_0x3d32b5(0x3e5)]||{},'curve':_0x2f060e[_0x3d32b5(0x173)]||ct[_0x3d32b5(0x3ab)][_0x3d32b5(0x1cb)],'duration':_0x2f060e[_0x3d32b5(0x1fe)]||0x3e8,'timer':new CtTimer(this[_0x3d32b5(0x1fe)],![],_0x2f060e['useUiDelta']||![])},_0x4da94c=new Promise((_0x569a37,_0x54d614)=>{const _0x52de53=_0x3d32b5;_0x2c5447[_0x52de53(0x46d)]=_0x569a37,_0x2c5447[_0x52de53(0x2b8)]=_0x54d614,_0x2c5447[_0x52de53(0x514)]={};for(var _0x9ea5f1 in _0x2c5447[_0x52de53(0x3e5)]){_0x2c5447[_0x52de53(0x514)][_0x9ea5f1]=_0x2c5447[_0x52de53(0xf9)][_0x9ea5f1]||0x0;}ct[_0x52de53(0x3ab)][_0x52de53(0x319)][_0x52de53(0x199)](_0x2c5447);});return _0x2f060e[_0x3d32b5(0x4bb)]&&(_0x4da94c[_0x3d32b5(0x439)](()=>void 0x0),_0x2c5447[_0x3d32b5(0x449)][_0x3d32b5(0x439)](()=>void 0x0)),_0x4da94c['stop']=function _0x31aca0(){const _0x3162cd=_0x3d32b5;_0x2c5447['reject']({'code':0x0,'info':_0x3162cd(0x308),'from':_0x3162cd(0x557)});},_0x4da94c;},'linear'(_0x51e005,_0x14f9ca,_0x4bcc13){return _0x14f9ca*_0x4bcc13+_0x51e005;},'ease'(_0x51204e,_0x3c39d8,_0x324b98){_0x324b98*=0x2;if(_0x324b98<0x1)return _0x3c39d8/0x2*_0x324b98*_0x324b98+_0x51204e;return _0x324b98--,-_0x3c39d8/0x2*(_0x324b98*(_0x324b98-0x2)-0x1)+_0x51204e;},'easeInQuad'(_0x10cdf5,_0x40e38e,_0x1bf19d){return _0x40e38e*_0x1bf19d*_0x1bf19d+_0x10cdf5;},'easeOutQuad'(_0x2d4da5,_0x54257f,_0x4f7ac0){return-_0x54257f*_0x4f7ac0*(_0x4f7ac0-0x2)+_0x2d4da5;},'easeInCubic'(_0x254c04,_0x36fc1c,_0x2961f6){return _0x36fc1c*_0x2961f6*_0x2961f6*_0x2961f6+_0x254c04;},'easeOutCubic'(_0x4ddef4,_0xb69e89,_0x300377){return _0x300377--,_0xb69e89*(_0x300377*_0x300377*_0x300377+0x1)+_0x4ddef4;},'easeInOutCubic'(_0x40f40d,_0x18c344,_0x22d16f){_0x22d16f*=0x2;if(_0x22d16f<0x1)return _0x18c344/0x2*_0x22d16f*_0x22d16f*_0x22d16f+_0x40f40d;return _0x22d16f-=0x2,_0x18c344/0x2*(_0x22d16f*_0x22d16f*_0x22d16f+0x2)+_0x40f40d;},'easeInOutQuart'(_0x20a3b1,_0x4a9a8f,_0x3852be){_0x3852be*=0x2;if(_0x3852be<0x1)return _0x4a9a8f/0x2*_0x3852be*_0x3852be*_0x3852be*_0x3852be+_0x20a3b1;return _0x3852be-=0x2,-_0x4a9a8f/0x2*(_0x3852be*_0x3852be*_0x3852be*_0x3852be-0x2)+_0x20a3b1;},'easeInQuart'(_0xeb6da8,_0x438ac7,_0x54fd49){return _0x438ac7*_0x54fd49*_0x54fd49*_0x54fd49*_0x54fd49+_0xeb6da8;},'easeOutQuart'(_0x482859,_0x18c3a0,_0x5ea220){return _0x5ea220--,-_0x18c3a0*(_0x5ea220*_0x5ea220*_0x5ea220*_0x5ea220-0x1)+_0x482859;},'easeInCirc'(_0x5cb22e,_0x4a21e4,_0x30b82e){const _0x49f336=_0x280885;return-_0x4a21e4*(Math[_0x49f336(0x287)](0x1-_0x30b82e*_0x30b82e)-0x1)+_0x5cb22e;},'easeOutCirc'(_0x169caa,_0x300106,_0x14305a){return _0x14305a--,_0x300106*Math['sqrt'](0x1-_0x14305a*_0x14305a)+_0x169caa;},'easeInOutCirc'(_0x1ed413,_0x18482a,_0x1f2850){const _0x16d4c8=_0x280885;_0x1f2850*=0x2;if(_0x1f2850<0x1)return-_0x18482a/0x2*(Math['sqrt'](0x1-_0x1f2850*_0x1f2850)-0x1)+_0x1ed413;return _0x1f2850-=0x2,_0x18482a/0x2*(Math[_0x16d4c8(0x287)](0x1-_0x1f2850*_0x1f2850)+0x1)+_0x1ed413;},'easeInBack'(_0x279c43,_0x130391,_0x576591){const _0x9291e6=1.70158,_0x3f05a9=_0x9291e6+0x1;var _0xc23985=_0x3f05a9*_0x576591*_0x576591*_0x576591-_0x9291e6*_0x576591*_0x576591;return _0x130391*_0xc23985+_0x279c43;},'easeOutBack'(_0x5afdc6,_0x160c97,_0x5d3134){const _0x14290b=1.70158,_0x44af23=_0x14290b+0x1;var _0x1242f9=0x1+_0x44af23*(_0x5d3134-0x1)**0x3+_0x14290b*(_0x5d3134-0x1)**0x2;return _0x160c97*_0x1242f9+_0x5afdc6;},'easeInOutBack'(_0x5e795c,_0x4649f0,_0x229b51){const _0x1aef91=1.70158,_0x38d968=_0x1aef91*1.525;var _0x555ac0=_0x229b51<0.5?(0x2*_0x229b51)**0x2*((_0x38d968+0x1)*0x2*_0x229b51-_0x38d968)/0x2:((0x2*_0x229b51-0x2)**0x2*((_0x38d968+0x1)*(_0x229b51*0x2-0x2)+_0x38d968)+0x2)/0x2;return _0x4649f0*_0x555ac0+_0x5e795c;},'easeInElastic'(_0x24505a,_0x3c1a0d,_0x97c900){const _0x3f4e10=_0x280885,_0x336f97=0x2*Math['PI']/0x3;var _0x174d2c=_0x97c900===0x0?0x0:_0x97c900===0x1?0x1:-(0x2**(0xa*_0x97c900-0xa))*Math[_0x3f4e10(0x149)]((_0x97c900*0xa-10.75)*_0x336f97);return _0x3c1a0d*_0x174d2c+_0x24505a;},'easeOutElastic'(_0x536c32,_0x51d0ce,_0x26f22a){const _0x219cdb=_0x280885,_0x5a9e78=0x2*Math['PI']/0x3;var _0xa13f24=_0x26f22a===0x0?0x0:_0x26f22a===0x1?0x1:0x2**(-0xa*_0x26f22a)*Math[_0x219cdb(0x149)]((_0x26f22a*0xa-0.75)*_0x5a9e78)+0x1;return _0x51d0ce*_0xa13f24+_0x536c32;},'easeInOutElastic'(_0x31d200,_0x386067,_0x91c521){const _0x348be4=_0x280885,_0x17eb37=0x2*Math['PI']/4.5;var _0x590ab0=_0x91c521===0x0?0x0:_0x91c521===0x1?0x1:_0x91c521<0.5?-(0x2**(0x14*_0x91c521-0xa)*Math[_0x348be4(0x149)]((0x14*_0x91c521-11.125)*_0x17eb37))/0x2:0x2**(-0x14*_0x91c521+0xa)*Math['sin']((0x14*_0x91c521-11.125)*_0x17eb37)/0x2+0x1;return _0x386067*_0x590ab0+_0x31d200;},'easeOutBounce'(_0x4245f2,_0x2376aa,_0x22fbae){const _0x9c3ed4=7.5625,_0x48134b=2.75;var _0x393ab2;if(_0x22fbae<0x1/_0x48134b)_0x393ab2=_0x9c3ed4*_0x22fbae*_0x22fbae;else{if(_0x22fbae<0x2/_0x48134b)_0x393ab2=_0x9c3ed4*(_0x22fbae-=1.5/_0x48134b)*_0x22fbae+0.75;else _0x22fbae<2.5/_0x48134b?_0x393ab2=_0x9c3ed4*(_0x22fbae-=2.25/_0x48134b)*_0x22fbae+0.9375:_0x393ab2=_0x9c3ed4*(_0x22fbae-=2.625/_0x48134b)*_0x22fbae+0.984375;}return _0x2376aa*_0x393ab2+_0x4245f2;},'easeInBounce'(_0x2e2c25,_0x32ccf8,_0x2dd805){const _0x3dd6c1=7.5625,_0x629f90=2.75;var _0x15ef6e;_0x2dd805=0x1-_0x2dd805;if(_0x2dd805<0x1/_0x629f90)_0x15ef6e=_0x3dd6c1*_0x2dd805*_0x2dd805;else{if(_0x2dd805<0x2/_0x629f90)_0x15ef6e=_0x3dd6c1*(_0x2dd805-=1.5/_0x629f90)*_0x2dd805+0.75;else _0x2dd805<2.5/_0x629f90?_0x15ef6e=_0x3dd6c1*(_0x2dd805-=2.25/_0x629f90)*_0x2dd805+0.9375:_0x15ef6e=_0x3dd6c1*(_0x2dd805-=2.625/_0x629f90)*_0x2dd805+0.984375;}return _0x32ccf8*(0x1-_0x15ef6e)+_0x2e2c25;},'easeInOutBounce'(_0xfef476,_0x11d4d1,_0x5c29f0){const _0xa39325=7.5625,_0x561bac=2.75;var _0x11f558,_0x441217;_0x5c29f0<0.5?_0x441217=0x1-0x2*_0x5c29f0:_0x441217=0x2*_0x5c29f0-0x1;if(_0x441217<0x1/_0x561bac)_0x11f558=_0xa39325*_0x441217*_0x441217;else{if(_0x441217<0x2/_0x561bac)_0x11f558=_0xa39325*(_0x441217-=1.5/_0x561bac)*_0x441217+0.75;else _0x441217<2.5/_0x561bac?_0x11f558=_0xa39325*(_0x441217-=2.25/_0x561bac)*_0x441217+0.9375:_0x11f558=_0xa39325*(_0x441217-=2.625/_0x561bac)*_0x441217+0.984375;}return _0x5c29f0<0.5?_0x11f558=(0x1-_0x441217)/0x1:_0x11f558=(0x1+_0x441217)/0x1,_0x11d4d1*_0x11f558+_0xfef476;},'tweens':[],'wait':ct['u'][_0x280885(0x103)]},ct['tween'][_0x280885(0x28d)]=ct[_0x280885(0x3ab)]['ease'],((()=>{const _0x5bed53=_0x280885,_0x46adf9=[_0x5bed53(0x207),'AdvancedBloom','Ascii',_0x5bed53(0x546),_0x5bed53(0x10d),_0x5bed53(0x246),'ColorMap',_0x5bed53(0x539),_0x5bed53(0x2bb),_0x5bed53(0x2c5),_0x5bed53(0x354),_0x5bed53(0x3da),'Dot','DropShadow',_0x5bed53(0x530),_0x5bed53(0x487),_0x5bed53(0x3eb),_0x5bed53(0x299),_0x5bed53(0x269),_0x5bed53(0x1bb),_0x5bed53(0x158),_0x5bed53(0x50f),'Outline',_0x5bed53(0x278),'RadialBlur',_0x5bed53(0x355),'RGBSplit','Shockwave',_0x5bed53(0x297),_0x5bed53(0x128),'Twist',_0x5bed53(0x1f3),'Alpha','Blur','BlurPass',_0x5bed53(0x15f),_0x5bed53(0x2fd),_0x5bed53(0x239),_0x5bed53(0x554)],_0x317225=(_0x5bc08e,_0x31878e)=>{const _0x39a711=_0x5bed53;return!_0x5bc08e[_0x39a711(0x1dd)]?_0x5bc08e['filters']=[_0x31878e]:_0x5bc08e[_0x39a711(0x1dd)]['push'](_0x31878e),_0x31878e;},_0x302706=(_0x2b74df,_0x4eacfb,..._0x210874)=>{const _0x51e5b4=_0x5bed53;let _0x9fc567,_0xb9b67=_0x4eacfb+'Filter';return _0xb9b67==='BlurPassFilter'&&(_0xb9b67='BlurFilterPass'),_0x210874[_0x51e5b4(0x44c)]>0x0?_0x9fc567=new PIXI[(_0x51e5b4(0x1dd))][_0xb9b67](..._0x210874):_0x9fc567=new PIXI[(_0x51e5b4(0x1dd))][_0xb9b67](),_0x317225(_0x2b74df,_0x9fc567);};ct['filters']={};for(const _0x10d9a1 of _0x46adf9){ct[_0x5bed53(0x1dd)][_0x5bed53(0x2cd)+_0x10d9a1]=(_0x498194,..._0x1fea61)=>_0x302706(_0x498194,_0x10d9a1,..._0x1fea61);}ct[_0x5bed53(0x1dd)][_0x5bed53(0x23e)]=(_0x33e1e6,_0x2ac3d4)=>{const _0xa31748=_0x5bed53;for(const _0x231592 in _0x33e1e6[_0xa31748(0x1dd)]){_0x33e1e6['filters'][_0x231592]===_0x2ac3d4&&_0x33e1e6[_0xa31748(0x1dd)][_0xa31748(0x206)](_0x231592,0x1);}},ct[_0x5bed53(0x1dd)][_0x5bed53(0x32c)]=(_0x2803b8,_0x1f45c6,_0x429e90,_0x552a97)=>{const _0x23081b=new PIXI['Filter'](_0x1f45c6,_0x429e90,_0x552a97);return _0x317225(_0x2803b8,_0x23081b);};})()),function ctUlid(_0x291ff4){const _0x3d86db=_0x280885;_0x291ff4[_0x3d86db(0x438)]={'randomizr'(){const _0x50a412=_0x3d86db;return _0x291ff4[_0x50a412(0x438)]['rn']=Math[_0x50a412(0x4b3)]()[_0x50a412(0x141)](0x10)[_0x50a412(0x4c7)](-0x4),_0x291ff4[_0x50a412(0x438)]['rn'];},'make'(){const _0x2a9400=_0x3d86db;return _0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x1ed)]=_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+'-'+_0x291ff4['ulid'][_0x2a9400(0x168)]()+'-'+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+'-'+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+'-'+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)]()+_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x168)](),_0x291ff4[_0x2a9400(0x438)][_0x2a9400(0x1ed)];},'crandomizr'(_0x4a6877){const _0x53f81f=_0x3d86db;return _0x291ff4[_0x53f81f(0x438)]['rn']=Math[_0x53f81f(0x4b3)]()[_0x53f81f(0x141)](0x20)['slice'](-_0x4a6877),_0x291ff4[_0x53f81f(0x438)]['rn'];},'custom'(){const _0xd29da7=_0x3d86db;return _0x291ff4[_0xd29da7(0x438)]['uuid']=_0x291ff4[_0xd29da7(0x438)][_0xd29da7(0x1af)]([0x8][0x0])+'-'+_0x291ff4[_0xd29da7(0x438)][_0xd29da7(0x1af)]([0x4][0x0])+'-'+_0x291ff4['ulid'][_0xd29da7(0x1af)]([0x4][0x0])+'-'+_0x291ff4['ulid']['crandomizr']([0x4][0x0])+'-'+_0x291ff4[_0xd29da7(0x438)][_0xd29da7(0x1af)]([0xc][0x0]),_0x291ff4[_0xd29da7(0x438)][_0xd29da7(0x1ed)];}};}(ct),(function(){const _0x169499=_0x280885;var _0x22e705=0x0;const _0x17cecb=function(_0x5e6169,_0x5bce78){const _0x296ca3=_0x4d4f;_0x5bce78&&(_0x5bce78=_0x5bce78[_0x296ca3(0x141)](),!_0x5bce78[_0x296ca3(0x22f)](_0x296ca3(0x4d0))&&(_0x5bce78+=_0x296ca3(0x4d0)));const _0x4d2ff9=document['createElement']('a');_0x4d2ff9['setAttribute']('href',_0x5e6169[_0x296ca3(0x3ed)](_0x296ca3(0x1aa))),_0x22e705++,_0x4d2ff9[_0x296ca3(0x21c)](_0x296ca3(0x4db),_0x5bce78||(ct[_0x296ca3(0x486)]['name']||'Screenshot')+'_'+_0x22e705+_0x296ca3(0x4d0)),_0x4d2ff9[_0x296ca3(0x219)][_0x296ca3(0x427)]=_0x296ca3(0x34d),document[_0x296ca3(0x244)][_0x296ca3(0x116)](_0x4d2ff9),_0x4d2ff9['click'](),document[_0x296ca3(0x244)][_0x296ca3(0x3b8)](_0x4d2ff9);};ct[_0x169499(0x294)]={'screen'(_0x1c663d){const _0x1eebd3=_0x169499,_0x40d216=PIXI['RenderTexture'][_0x1eebd3(0x253)]({'width':ct['pixiApp']['renderer']['width'],'height':ct['pixiApp']['renderer'][_0x1eebd3(0x370)]});ct['pixiApp'][_0x1eebd3(0x52d)][_0x1eebd3(0x4e1)](ct[_0x1eebd3(0x181)]['stage'],_0x40d216);const _0x39b749=ct[_0x1eebd3(0x181)]['renderer'][_0x1eebd3(0x272)][_0x1eebd3(0x41d)](_0x40d216);_0x17cecb(_0x39b749,_0x1c663d);},'portion'(_0x39be70,_0x4a2e81,_0x4f981e,_0x136d86,_0x4bef02){const _0x210506=_0x169499,_0x510e6b=new PIXI['Rectangle'](_0x39be70,_0x4a2e81,_0x4f981e,_0x136d86),_0x34274d=PIXI[_0x210506(0x3bb)]['create']({'width':ct[_0x210506(0x181)][_0x210506(0x52d)][_0x210506(0x4f4)],'height':ct['pixiApp'][_0x210506(0x52d)]['height']});ct[_0x210506(0x181)][_0x210506(0x52d)][_0x210506(0x4e1)](ct['pixiApp']['stage'],_0x34274d),_0x34274d['frame']=_0x510e6b;const _0x1471c5=ct[_0x210506(0x181)][_0x210506(0x52d)][_0x210506(0x272)][_0x210506(0x41d)](_0x34274d);_0x17cecb(_0x1471c5,_0x4bef02);},'object'(_0x2c6fb1,_0x2d6f2f){const _0x30c9ca=_0x169499,_0xb34b53=_0x2c6fb1['x'],_0x12721d=_0x2c6fb1['y'];_0x2c6fb1['x']=_0x2c6fb1['y']=0x0;const _0x38d36e=ct[_0x30c9ca(0x181)]['renderer']['extract'][_0x30c9ca(0x41d)](_0x2c6fb1,_0x2c6fb1[_0x30c9ca(0x347)]());_0x17cecb(_0x38d36e,_0x2d6f2f),_0x2c6fb1['x']=_0xb34b53,_0x2c6fb1['y']=_0x12721d;}};}()),function resAddon(_0x1c99b3){const _0x4c15a0=_0x280885,_0x129522=document[_0x4c15a0(0x435)]('.ct-aLoadingScreen'),_0x85b0a8=_0x129522[_0x4c15a0(0x435)](_0x4c15a0(0x4fd)),_0x146f4c=window[_0x4c15a0(0x16a)]?dragonBones['PixiFactory'][_0x4c15a0(0x36a)]:null;_0x1c99b3[_0x4c15a0(0x1f2)]={'sounds':{},'textures':{},'skeletons':{},'groups':[{'fonts':{'ungrouped':[]},'textures':{'ungrouped':['4','1','2','5','3','6',_0x4c15a0(0x2f0),_0x4c15a0(0x310),_0x4c15a0(0x17b),_0x4c15a0(0x3f8),_0x4c15a0(0x1f9),_0x4c15a0(0x526),'Mon_01',_0x4c15a0(0x264),_0x4c15a0(0x2e4),'Mon_07',_0x4c15a0(0x331),_0x4c15a0(0x463),_0x4c15a0(0x572),_0x4c15a0(0x120),_0x4c15a0(0x13f),_0x4c15a0(0x3f2),'Star_11',_0x4c15a0(0x4a3),_0x4c15a0(0x4d4),'forceArea']},'styles':{'ungrouped':[]},'rooms':{'ungrouped':[_0x4c15a0(0x26f),'WaitingRoom']},'templates':{'ungrouped':[_0x4c15a0(0x46e),'1','2','3','4','5','6',_0x4c15a0(0x3f5),_0x4c15a0(0x2bf),_0x4c15a0(0x49f),_0x4c15a0(0x17d),'7','8','9','0',_0x4c15a0(0x38d),_0x4c15a0(0x572),_0x4c15a0(0x120),_0x4c15a0(0x1b0),'ImpactArea',_0x4c15a0(0x155),_0x4c15a0(0x501)]},'sounds':{'ungrouped':['Sound_0',_0x4c15a0(0x2ef),_0x4c15a0(0x176),_0x4c15a0(0x3a4),_0x4c15a0(0x2fb),'Sound_5',_0x4c15a0(0x51a),_0x4c15a0(0x260),_0x4c15a0(0x2b0),_0x4c15a0(0x56b),_0x4c15a0(0x43c),'Sound_Switch',_0x4c15a0(0x3c9),_0x4c15a0(0x38b),_0x4c15a0(0x4fb),_0x4c15a0(0x302),_0x4c15a0(0x541),_0x4c15a0(0x288),_0x4c15a0(0x367),_0x4c15a0(0x1a8)]},'emitterTandems':{'ungrouped':[_0x4c15a0(0x2b9),_0x4c15a0(0x108),_0x4c15a0(0x49b),_0x4c15a0(0x2d3),'Mon_Trail_4',_0x4c15a0(0x2c8),_0x4c15a0(0x2a3),_0x4c15a0(0x424),_0x4c15a0(0x523),_0x4c15a0(0x375),_0x4c15a0(0x4bc),'Mon_Explode_6','Mon_Explode_7','Mon_Explode_8',_0x4c15a0(0x23a),_0x4c15a0(0x543),_0x4c15a0(0x521),_0x4c15a0(0x566)]}}][0x0],'loadScript'(_0x2b8171=_0x1c99b3['u'][_0x4c15a0(0x170)](_0x4c15a0(0x1ab),_0x4c15a0(0x113))){const _0x35c04=_0x4c15a0;var _0x4ffcdf=document[_0x35c04(0x4c2)](_0x35c04(0x567));_0x4ffcdf[_0x35c04(0x232)]=_0x2b8171;const _0x2608cb=new Promise((_0x2de463,_0x13fb94)=>{const _0x542cfc=_0x35c04;_0x4ffcdf['onload']=()=>{_0x2de463();},_0x4ffcdf[_0x542cfc(0x2b2)]=()=>{_0x13fb94();};});return document[_0x35c04(0x30f)](_0x35c04(0x14b))[0x0][_0x35c04(0x116)](_0x4ffcdf),_0x2608cb;},'loadTexture'(_0x275c7a=_0x1c99b3['u'][_0x4c15a0(0x170)]('url',_0x4c15a0(0x553)),_0x4028d3=_0x1c99b3['u']['required'](_0x4c15a0(0x19b),_0x4c15a0(0x553)),_0xbbb97a={}){const _0x5a0117=_0x4c15a0,_0x1db465=new PIXI['Loader']();return _0x1db465[_0x5a0117(0x2cd)](_0x275c7a,_0x275c7a),new Promise((_0x495689,_0x584975)=>{const _0x4892dd=_0x5a0117;_0x1db465[_0x4892dd(0x17a)]((_0x11e03c,_0x76053f)=>{_0x495689(_0x76053f);}),_0x1db465[_0x4892dd(0x315)][_0x4892dd(0x2cd)](()=>{const _0x194964=_0x4892dd;_0x584975(new Error(_0x194964(0x1a1)+_0x275c7a));});})[_0x5a0117(0x16e)](_0x1fb2c9=>{const _0x525a55=_0x5a0117,_0x1fedf0=[_0x1fb2c9[_0x275c7a][_0x525a55(0x457)]];return _0x1fedf0[_0x525a55(0x36b)]=_0x1fedf0[0x0][_0x525a55(0x36b)]=_0xbbb97a['shape']||{},_0x1fedf0[0x0][_0x525a55(0x1ce)]=new PIXI[(_0x525a55(0x4b5))](_0xbbb97a[_0x525a55(0x55c)]['x']||0x0,_0xbbb97a[_0x525a55(0x55c)]['x']||0x0),_0x1c99b3[_0x525a55(0x1f2)]['textures'][_0x4028d3]=_0x1fedf0,_0x1fedf0;});},'loadDragonBonesSkeleton'(_0x228534,_0xef91af,_0x26df54,_0x41ded9=_0x1c99b3['u'][_0x4c15a0(0x170)]('name',_0x4c15a0(0x4a7))){const _0x1ae256=_0x4c15a0,_0x50376a=dragonBones[_0x1ae256(0x2ce)]['factory'],_0x5b90e7=new PIXI[(_0x1ae256(0x3fc))]();return _0x5b90e7[_0x1ae256(0x2cd)](_0x228534,_0x228534)[_0x1ae256(0x2cd)](_0xef91af,_0xef91af)[_0x1ae256(0x2cd)](_0x26df54,_0x26df54),new Promise((_0x3c7484,_0x2f1dd5)=>{const _0x4c9628=_0x1ae256;_0x5b90e7[_0x4c9628(0x17a)](()=>{_0x3c7484();}),_0x5b90e7[_0x4c9628(0x315)][_0x4c9628(0x2cd)](()=>{const _0x3b8e92=_0x4c9628;_0x2f1dd5(new Error(_0x3b8e92(0x441)+_0x228534+',\x20_tex.json:\x20'+_0xef91af+_0x3b8e92(0x1a6)+_0x26df54+'.'));});})['then'](()=>{const _0x23d45f=_0x1ae256;_0x50376a[_0x23d45f(0x576)](_0x5b90e7[_0x23d45f(0x415)][_0x228534][_0x23d45f(0x1d6)]),_0x50376a[_0x23d45f(0x1e0)](_0x5b90e7[_0x23d45f(0x415)][_0xef91af][_0x23d45f(0x1d6)],_0x5b90e7[_0x23d45f(0x415)][_0x26df54][_0x23d45f(0x457)]),_0x1c99b3[_0x23d45f(0x1f2)][_0x23d45f(0x279)][_0x41ded9]=_0x5b90e7['resources'][_0x228534][_0x23d45f(0x1d6)];});},'loadAtlas'(_0x123086=_0x1c99b3['u'][_0x4c15a0(0x170)](_0x4c15a0(0x1ab),_0x4c15a0(0x3b4))){const _0x27403a=_0x4c15a0,_0x3c617c=new PIXI[(_0x27403a(0x3fc))]();return _0x3c617c[_0x27403a(0x2cd)](_0x123086,_0x123086),new Promise((_0x131fbd,_0x328481)=>{const _0x53c785=_0x27403a;_0x3c617c[_0x53c785(0x17a)]((_0x2a4d2d,_0x55664f)=>{_0x131fbd(_0x55664f);}),_0x3c617c[_0x53c785(0x315)][_0x53c785(0x2cd)](()=>{const _0x240cf3=_0x53c785;_0x328481(new Error(_0x240cf3(0x27d)+_0x123086));});})[_0x27403a(0x16e)](_0x3dfadc=>{const _0x118fd4=_0x27403a,_0x2bc979=_0x3dfadc[_0x123086][_0x118fd4(0x55e)];for(const _0x29427d in _0x2bc979[_0x118fd4(0x3dc)]){const _0xcd5a96=_0x2bc979['animations'][_0x29427d],_0x1f0611=_0x2bc979[_0x118fd4(0x1d6)]['animations'];for(let _0xc7045=0x0,_0x46f249=_0x1f0611[_0x29427d][_0x118fd4(0x44c)];_0xc7045<_0x46f249;_0xc7045++){const _0x254f27=_0x1f0611[_0x29427d],_0x8582f5=_0x254f27[_0xc7045];_0xcd5a96[_0xc7045]['shape']=_0x2bc979['data'][_0x118fd4(0x2e8)][_0x8582f5][_0x118fd4(0x36b)];}_0xcd5a96['shape']=_0xcd5a96[0x0][_0x118fd4(0x36b)]||{},_0x1c99b3[_0x118fd4(0x1f2)][_0x118fd4(0x4f2)][_0x29427d]=_0xcd5a96;}return Object[_0x118fd4(0x2ac)](_0x2bc979[_0x118fd4(0x3dc)]);});},'loadBitmapFont'(_0x118464=_0x1c99b3['u']['required'](_0x4c15a0(0x1ab),_0x4c15a0(0x563)),_0x4d83f8=_0x1c99b3['u'][_0x4c15a0(0x170)]('name',_0x4c15a0(0x563))){const _0x425456=_0x4c15a0,_0x5a5f6b=new PIXI[(_0x425456(0x3fc))]();return _0x5a5f6b['add'](_0x4d83f8,_0x118464),new Promise((_0x53e62e,_0x5234ed)=>{const _0x37be10=_0x425456;_0x5a5f6b['load']((_0x514f8e,_0x34303e)=>{_0x53e62e(_0x34303e);}),_0x5a5f6b[_0x37be10(0x315)][_0x37be10(0x2cd)](()=>{const _0x3d409c=_0x37be10;_0x5234ed(new Error(_0x3d409c(0x1fa)+_0x118464));});});},'loadGame'(){const _0x5d70fc=_0x4c15a0,_0x45a75c=_0x56e6cd=>{const _0x569b9b=_0x4d4f;_0x129522[_0x569b9b(0x21c)](_0x569b9b(0x3c2),_0x56e6cd),_0x85b0a8[_0x569b9b(0x219)][_0x569b9b(0x4f4)]=_0x56e6cd+'%';},_0x586496=[[_0x5d70fc(0x502),_0x5d70fc(0x4f3)]][0x0],_0x25414b=[{}][0x0],_0x31ac46=[[{'name':'Sound_0','wav':![],'mp3':_0x5d70fc(0x1e5),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x2ef),'wav':![],'mp3':'./snd/HqPzRRPdp39qMq.mp3','ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x176),'wav':![],'mp3':_0x5d70fc(0x340),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':'Sound_3','wav':![],'mp3':_0x5d70fc(0x559),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x2fb),'wav':![],'mp3':'./snd/p7jnL9qTRKJ9jt.mp3','ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x261),'wav':![],'mp3':_0x5d70fc(0x270),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x51a),'wav':![],'mp3':_0x5d70fc(0x12a),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':'Sound_7','wav':![],'mp3':_0x5d70fc(0x10c),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':'Sound_8','wav':![],'mp3':_0x5d70fc(0x348),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x56b),'wav':![],'mp3':'./snd/k2k2RDRDTQbRdM.mp3','ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x43c),'wav':![],'mp3':_0x5d70fc(0x26e),'ogg':![],'poolSize':0x1,'isMusic':![]},{'name':_0x5d70fc(0x22a),'wav':![],'mp3':_0x5d70fc(0x1c1),'ogg':![],'poolSize':0x1,'isMusic':![]},{'name':_0x5d70fc(0x3c9),'wav':![],'mp3':'./snd/FQf8zd45pkKLdj.mp3','ogg':![],'poolSize':0x1,'isMusic':![]},{'name':_0x5d70fc(0x38b),'wav':![],'mp3':'./snd/LchjnPwDLg8rmd.mp3','ogg':![],'poolSize':0x1,'isMusic':![]},{'name':_0x5d70fc(0x4fb),'wav':![],'mp3':'./snd/LL7mhMHt2bMmHL.mp3','ogg':![],'poolSize':0x1,'isMusic':![]},{'name':'Sound_MonDrop1','wav':![],'mp3':_0x5d70fc(0x3e1),'ogg':![],'poolSize':0x2,'isMusic':![]},{'name':'Sound_OnStart','wav':![],'mp3':_0x5d70fc(0x212),'ogg':![],'poolSize':0x1,'isMusic':![]},{'name':_0x5d70fc(0x288),'wav':![],'mp3':_0x5d70fc(0x47b),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':'Sound_Collision1','wav':![],'mp3':_0x5d70fc(0x46a),'ogg':![],'poolSize':0x5,'isMusic':![]},{'name':_0x5d70fc(0x1a8),'wav':![],'mp3':'./snd/pmGRhBgr6G3k7C.mp3','ogg':![],'poolSize':0x5,'isMusic':![]}]][0x0],_0x6df306=[{}][0x0],_0x4990e8=[[]][0x0];if(_0x31ac46[_0x5d70fc(0x44c)]&&!_0x1c99b3[_0x5d70fc(0x547)])throw new Error('[ct.res]\x20No\x20sound\x20system\x20found.\x20Make\x20sure\x20you\x20enable\x20one\x20of\x20the\x20`sound`\x20catmods.\x20If\x20you\x20don\x27t\x20need\x20sounds,\x20remove\x20them\x20from\x20your\x20ct.js\x20project.');const _0x392c74=_0x586496[_0x5d70fc(0x44c)];let _0x3fff27=0x0;const _0x815828=[];_0x815828[_0x5d70fc(0x199)](..._0x586496[_0x5d70fc(0x45c)](_0x269d83=>_0x1c99b3[_0x5d70fc(0x1f2)][_0x5d70fc(0x515)](_0x269d83)[_0x5d70fc(0x16e)](_0x2c1b66=>{return _0x3fff27++,_0x45a75c(_0x3fff27/_0x392c74*0x64),_0x2c1b66;})));for(const _0x2b3770 in _0x25414b){_0x815828[_0x5d70fc(0x199)](_0x1c99b3[_0x5d70fc(0x1f2)][_0x5d70fc(0x1d7)](_0x25414b[_0x2b3770][_0x5d70fc(0x235)],_0x2b3770,{'anchor':_0x25414b[_0x2b3770][_0x5d70fc(0x55c)],'shape':_0x25414b[_0x2b3770][_0x5d70fc(0x36b)]}));}for(const _0x10f0d4 in _0x6df306){_0x815828[_0x5d70fc(0x199)](_0x1c99b3[_0x5d70fc(0x1f2)]['loadBitmapFont'](_0x6df306[_0x10f0d4],_0x10f0d4));}for(const _0x103634 of _0x4990e8){_0x815828[_0x5d70fc(0x199)](_0x1c99b3[_0x5d70fc(0x1f2)][_0x5d70fc(0x1cd)](..._0x103634));}for(const _0x3f6b1e of _0x31ac46){_0x1c99b3[_0x5d70fc(0x547)][_0x5d70fc(0x24f)](_0x3f6b1e[_0x5d70fc(0x19b)],{'wav':_0x3f6b1e['wav']||![],'mp3':_0x3f6b1e['mp3']||![],'ogg':_0x3f6b1e[_0x5d70fc(0x368)]||![]},{'poolSize':_0x3f6b1e[_0x5d70fc(0x55a)],'music':_0x3f6b1e[_0x5d70fc(0x19a)]});}Promise[_0x5d70fc(0x20c)](_0x815828)[_0x5d70fc(0x16e)](()=>{const _0x31e721=_0x5d70fc;_0x1c99b3['pointer'][_0x31e721(0x357)](),Object['defineProperty'](_0x1c99b3[_0x31e721(0x3d4)][_0x31e721(0x479)][_0x31e721(0x1cc)],_0x31e721(0x298),{'set':function(_0x21712d){this['$cgroup']=_0x21712d;},'get':function(){const _0x461100=_0x31e721;return this[_0x461100(0x21e)];}}),Object['defineProperty'](_0x1c99b3[_0x31e721(0x3d4)]['Copy'][_0x31e721(0x1cc)],_0x31e721(0x385),{'value':function(_0x50eec7,_0x449c21){const _0x32a377=_0x31e721;return this[_0x32a377(0x2a6)]&&(this[_0x32a377(0x3d3)]+=this['gravity']*_0x1c99b3['delta']*Math[_0x32a377(0x389)](this[_0x32a377(0x3e4)]*Math['PI']/0xb4),this['vspeed']+=this[_0x32a377(0x2a6)]*_0x1c99b3[_0x32a377(0x3fe)]*Math[_0x32a377(0x149)](this[_0x32a377(0x3e4)]*Math['PI']/0xb4)),_0x1c99b3[_0x32a377(0x21a)][_0x32a377(0x338)](this,this[_0x32a377(0x388)],this[_0x32a377(0x2ed)]*_0x1c99b3['delta'],_0x50eec7,_0x449c21);}}),Object[_0x31e721(0x467)](_0x1c99b3[_0x31e721(0x3d4)][_0x31e721(0x479)][_0x31e721(0x1cc)],_0x31e721(0x45f),{'value':function(_0xdf34f4,_0x187a09){const _0x456440=_0x31e721;return this[_0x456440(0x385)](_0xdf34f4,_0x187a09);}}),Object[_0x31e721(0x467)](_0x1c99b3['templates']['Copy'][_0x31e721(0x1cc)],_0x31e721(0x216),{'value':function(_0x337ff1,_0x409027){const _0xb15d55=_0x31e721;return this[_0xb15d55(0x2a6)]&&(this[_0xb15d55(0x3d3)]+=this[_0xb15d55(0x2a6)]*_0x1c99b3[_0xb15d55(0x3fe)]*Math[_0xb15d55(0x389)](this['gravityDir']*Math['PI']/0xb4),this[_0xb15d55(0x3cc)]+=this[_0xb15d55(0x2a6)]*_0x1c99b3[_0xb15d55(0x3fe)]*Math['sin'](this['gravityDir']*Math['PI']/0xb4)),_0x1c99b3[_0xb15d55(0x21a)][_0xb15d55(0x267)](this,this[_0xb15d55(0x3d3)]*_0x1c99b3[_0xb15d55(0x3fe)],this[_0xb15d55(0x3cc)]*_0x1c99b3[_0xb15d55(0x3fe)],_0x337ff1,_0x409027);}}),Object[_0x31e721(0x467)](_0x1c99b3[_0x31e721(0x3d4)]['Copy'][_0x31e721(0x1cc)],_0x31e721(0x464),{'value':function(_0x4f96b6,_0x4be85a){return this['moveContinuousByAxes'](_0x4f96b6,_0x4be85a);}}),Object[_0x31e721(0x467)](_0x1c99b3[_0x31e721(0x3d4)][_0x31e721(0x517)][_0x31e721(0x1cc)],_0x31e721(0x4ca),{'value':function(_0x31ef1a){const _0x4e818a=_0x31e721;_0x1c99b3[_0x4e818a(0x21a)][_0x4e818a(0x15e)](this,_0x31ef1a);}}),_0x129522[_0x31e721(0x4af)][_0x31e721(0x2cd)](_0x31e721(0x1d4)),_0x1c99b3['pixiApp'][_0x31e721(0x172)][_0x31e721(0x2cd)](_0x1c99b3[_0x31e721(0x43b)]),_0x1c99b3[_0x31e721(0x3f0)]['forceSwitch'](_0x1c99b3[_0x31e721(0x3f0)]['starting']);})[_0x5d70fc(0x439)](console[_0x5d70fc(0x307)]);},'getTexture'(_0xab9baa,_0x3103b8){const _0x26da4c=_0x4c15a0;_0x3103b8===null&&(_0x3103b8=void 0x0);if(_0xab9baa===-0x1){if(_0x3103b8!==void 0x0)return PIXI['Texture']['EMPTY'];return[PIXI[_0x26da4c(0x44a)][_0x26da4c(0x14c)]];}if(!(_0xab9baa in _0x1c99b3[_0x26da4c(0x1f2)][_0x26da4c(0x4f2)]))throw new Error(_0x26da4c(0x19f)+_0xab9baa);const _0x2058b7=_0x1c99b3[_0x26da4c(0x1f2)][_0x26da4c(0x4f2)][_0xab9baa];if(_0x3103b8!==void 0x0)return _0x2058b7[_0x3103b8];return _0x2058b7;},'getTextureShape'(_0x2e6372){const _0x4d73f4=_0x4c15a0;if(_0x2e6372===-0x1)return{};if(!(_0x2e6372 in _0x1c99b3[_0x4d73f4(0x1f2)][_0x4d73f4(0x4f2)]))throw new Error('Attempt\x20to\x20get\x20a\x20shape\x20of\x20a\x20non-existent\x20texture\x20'+_0x2e6372);return _0x1c99b3[_0x4d73f4(0x1f2)]['textures'][_0x2e6372][_0x4d73f4(0x36b)];},'makeSkeleton'(_0x6e8b67,_0x4163e6){const _0x218ab6=_0x4c15a0,_0x643759=_0x1c99b3[_0x218ab6(0x1f2)][_0x218ab6(0x279)][_0x6e8b67],_0x13bd64=_0x146f4c[_0x218ab6(0x421)](_0x218ab6(0x54a),_0x643759[_0x218ab6(0x19b)],_0x4163e6);return _0x13bd64[_0x218ab6(0x434)]=_0x6e8b67,_0x13bd64['on'](dragonBones[_0x218ab6(0x140)][_0x218ab6(0x290)],function _0x2171f9(_0x57a6cd){const _0x48eed8=_0x218ab6;_0x1c99b3['sound'][_0x48eed8(0x4d5)](_0x57a6cd['name'])?_0x1c99b3[_0x48eed8(0x547)][_0x48eed8(0x496)](_0x57a6cd[_0x48eed8(0x19b)]):console['warn']('Skeleton\x20'+_0x13bd64['ctName']+_0x48eed8(0x4ae)+_0x57a6cd[_0x48eed8(0x19b)]+_0x48eed8(0x139)+_0x13bd64[_0x48eed8(0x1bf)]['lastAnimationName']);}),_0x13bd64;}},_0x1c99b3[_0x4c15a0(0x1f2)][_0x4c15a0(0x4c1)]();}(ct),ct[_0x280885(0x373)]=JSON[_0x280885(0x519)](['{}'][0x0]||'{}');var channel=new MessageChannel(),port1=channel[_0x280885(0x136)];let hasMusic=![],hasSound=!![];port1[_0x280885(0x3f6)]=onMessage,window[_0x280885(0x2c4)](_0x280885(0x2eb),initPort);function initPort(_0x3534b0){const _0x5e1703=_0x280885;_0x3534b0[_0x5e1703(0x1d6)]===_0x5e1703(0x24f)&&(window[_0x5e1703(0x458)]['postMessage'](_0x5e1703(0x394),'*',[channel[_0x5e1703(0x383)]]),ct[_0x5e1703(0x3f0)]['switch'](_0x5e1703(0x26f)),window[_0x5e1703(0x57a)]('initParent','*',[channel[_0x5e1703(0x383)]]));if(_0x3534b0[_0x5e1703(0x1d6)]===_0x5e1703(0x358))ct[_0x5e1703(0x3f0)][_0x5e1703(0x109)](_0x5e1703(0x1d9));else{var _0x385b2e=_0x3534b0['data'];onMessage({'data':_0x385b2e});}}function onMessage(_0x5df70e){const _0x3dc8fc=_0x280885;try{const _0x4277fd=JSON[_0x3dc8fc(0x519)](_0x5df70e['data']);if(_0x4277fd[_0x3dc8fc(0x291)]==_0x3dc8fc(0x274))hasMusic=_0x4277fd[_0x3dc8fc(0x50d)],hasSound=_0x4277fd[_0x3dc8fc(0x547)],ct[_0x3dc8fc(0x512)][_0x3dc8fc(0x117)]();else{if(_0x4277fd['command']==_0x3dc8fc(0x552))ct['room']['PrimeBomb']();else{if(_0x4277fd[_0x3dc8fc(0x291)]==_0x3dc8fc(0x225))ct[_0x3dc8fc(0x512)][_0x3dc8fc(0x1ef)]();else{if(_0x4277fd[_0x3dc8fc(0x291)]==_0x3dc8fc(0x495))ct[_0x3dc8fc(0x512)][_0x3dc8fc(0x3a0)]();else{if(_0x4277fd['command']==_0x3dc8fc(0x544))ct[_0x3dc8fc(0x512)][_0x3dc8fc(0x259)]();else{if(_0x4277fd['command']==_0x3dc8fc(0x369))ct['room'][_0x3dc8fc(0x1f8)]();else{if(_0x4277fd[_0x3dc8fc(0x291)]==_0x3dc8fc(0x15b))ct['room']['Sound']=![];else _0x4277fd==_0x3dc8fc(0x45b)&&(ct[_0x3dc8fc(0x512)]['Sound']=!![]);}}}}}}}catch{}}function sendMessage(_0x2049a6){const _0x2eb579=_0x280885;port1&&port1[_0x2eb579(0x57a)](JSON[_0x2eb579(0x3c0)](_0x2049a6));};;function addDropShadow(_0x240980=0x0,_0xff6c9f=0x0,_0x3f9306,_0x5e8465,_0x14f3e8=0xa,_0x1ce453={}){const _0x541ac3=_0x280885,_0x4cdd1d={'alpha':0.2,'blur':0x3,'color':0x0,'distanceX':0x0,'distanceY':0x2,'strength':0x1,'quality':0x4,'resolution':0x1,..._0x1ce453},_0x5b58c6=new PIXI[(_0x541ac3(0x55d))]();return _0x5b58c6[_0x541ac3(0x4bf)](_0x4cdd1d[_0x541ac3(0x240)],_0x4cdd1d[_0x541ac3(0x4f5)]),_0x5b58c6[_0x541ac3(0x399)](_0x240980+_0x4cdd1d['distanceX'],_0xff6c9f+_0x4cdd1d[_0x541ac3(0x2e3)],_0x3f9306,_0x5e8465,_0x14f3e8),_0x5b58c6[_0x541ac3(0x493)](),_0x5b58c6[_0x541ac3(0x497)]['x']=_0x5b58c6[_0x541ac3(0x4f4)]/0x2,_0x5b58c6[_0x541ac3(0x497)]['y']=_0x5b58c6[_0x541ac3(0x370)]/0x2,_0x5b58c6[_0x541ac3(0x1dd)]=[new PIXI[(_0x541ac3(0x1dd))][(_0x541ac3(0xfe))](_0x4cdd1d['blur'],_0x4cdd1d['quality'],_0x4cdd1d[_0x541ac3(0x2b7)])],_0x5b58c6;};function detectMob(){const _0x5d0976=_0x280885;return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x5d0976(0x3bc)](navigator[_0x5d0976(0x4ac)])?!![]:![];};const stages=[{'name':'Mon_00','points':0x4},{'name':'Mon_01','points':0x7},{'name':'Mon_02','points':0xd},{'name':_0x280885(0x1f9),'points':0x12},{'name':_0x280885(0x17b),'points':0x17},{'name':_0x280885(0x526),'points':0x1b},{'name':_0x280885(0x264),'points':0x21},{'name':_0x280885(0x408),'points':0x2d},{'name':'Mon_08','points':0x38},{'name':'Mon_09','points':0x46}];;
+/*! Made with ct.js http://ctjs.rocks/ */
+
+try {
+    require('electron');
+} catch {
+    if (location.protocol === 'file:') {
+        // eslint-disable-next-line no-alert
+        alert('Your game won\'t work like this because\nWeb 👏 builds 👏 require 👏 a web 👏 server!\n\nConsider using a desktop build, or upload your web build to itch.io, GameJolt or your own website.\n\nIf you haven\'t created this game, please contact the developer about this issue.\n\n Also note that ct.js games do not work inside the itch app; you will need to open the game with your browser of choice.');
+    }
+}
+
+const deadPool = []; // a pool of `kill`-ed copies for delaying frequent garbage collection
+const copyTypeSymbol = Symbol('I am a ct.js copy');
+setInterval(function cleanDeadPool() {
+    deadPool.length = 0;
+}, 1000 * 60);
+
+/**
+ * The ct.js library
+ * @namespace
+ */
+const ct = {
+    /**
+     * A target number of frames per second. It can be interpreted as a second in timers.
+     * @type {number}
+     */
+    speed: [60][0] || 60,
+    templates: {},
+    snd: {},
+    stack: [],
+    fps: [60][0] || 60,
+    /**
+     * A measure of how long a frame took time to draw, usually equal to 1 and larger on lags.
+     * For example, if it is equal to 2, it means that the previous frame took twice as much time
+     * compared to expected FPS rate.
+     *
+     * Use ct.delta to balance your movement and other calculations on different framerates by
+     * multiplying it with your reference value.
+     *
+     * Note that `this.move()` already uses it, so there is no need to premultiply
+     * `this.speed` with it.
+     *
+     * **A minimal example:**
+     * ```js
+     * this.x += this.windSpeed * ct.delta;
+     * ```
+     *
+     * @template {number}
+     */
+    delta: 1,
+    /**
+     * A measure of how long a frame took time to draw, usually equal to 1 and larger on lags.
+     * For example, if it is equal to 2, it means that the previous frame took twice as much time
+     * compared to expected FPS rate.
+     *
+     * This is a version for UI elements, as it is not affected by time scaling, and thus works well
+     * both with slow-mo effects and game pause.
+     *
+     * @template {number}
+     */
+    deltaUi: 1,
+    /**
+     * The camera that outputs its view to the renderer.
+     * @template {Camera}
+     */
+    camera: null,
+    /**
+     * ct.js version in form of a string `X.X.X`.
+     * @template {string}
+     */
+    version: '3.2.0',
+    meta: [{"name":"SUIKA","author":"Abhinav","site":"","version":"0.0.1"}][0],
+    get width() {
+        return ct.pixiApp.renderer.view.width;
+    },
+    /**
+     * Resizes the drawing canvas and viewport to the given value in pixels.
+     * When used with ct.fittoscreen, can be used to enlarge/shrink the viewport.
+     * @param {number} value New width in pixels
+     * @template {number}
+     */
+    set width(value) {
+        ct.camera.width = ct.roomWidth = value;
+        if (!ct.fittoscreen || ct.fittoscreen.mode === 'fastScale') {
+            ct.pixiApp.renderer.resize(value, ct.height);
+        }
+        if (ct.fittoscreen) {
+            ct.fittoscreen();
+        }
+        return value;
+    },
+    get height() {
+        return ct.pixiApp.renderer.view.height;
+    },
+    /**
+     * Resizes the drawing canvas and viewport to the given value in pixels.
+     * When used with ct.fittoscreen, can be used to enlarge/shrink the viewport.
+     * @param {number} value New height in pixels
+     * @template {number}
+     */
+    set height(value) {
+        ct.camera.height = ct.roomHeight = value;
+        if (!ct.fittoscreen || ct.fittoscreen.mode === 'fastScale') {
+            ct.pixiApp.renderer.resize(ct.width, value);
+        }
+        if (ct.fittoscreen) {
+            ct.fittoscreen();
+        }
+        return value;
+    }
+};
+
+// eslint-disable-next-line no-console
+console.log(
+    `%c 😺 %c ct.js game editor %c v${ct.version} %c https://ctjs.rocks/ `,
+    'background: #446adb; color: #fff; padding: 0.5em 0;',
+    'background: #5144db; color: #fff; padding: 0.5em 0;',
+    'background: #446adb; color: #fff; padding: 0.5em 0;',
+    'background: #5144db; color: #fff; padding: 0.5em 0;'
+);
+
+ct.highDensity = [true][0];
+const pixiAppSettings = {
+    width: [900][0],
+    height: [1289][0],
+    antialias: ![false][0],
+    powerPreference: 'high-performance',
+    sharedTicker: false,
+    sharedLoader: true,
+    transparent: [false][0]
+};
+try {
+    /**
+     * The PIXI.Application that runs ct.js game
+     * @template {PIXI.Application}
+     */
+    ct.pixiApp = new PIXI.Application(pixiAppSettings);
+} catch (e) {
+    console.error(e);
+    // eslint-disable-next-line no-console
+    console.warn('[ct.js] Something bad has just happened. This is usually due to hardware problems. I\'ll try to fix them now, but if the game still doesn\'t run, try including a legacy renderer in the project\'s settings.');
+    PIXI.settings.SPRITE_MAX_TEXTURES = Math.min(PIXI.settings.SPRITE_MAX_TEXTURES, 16);
+    ct.pixiApp = new PIXI.Application(pixiAppSettings);
+}
+
+PIXI.settings.ROUND_PIXELS = [false][0];
+ct.pixiApp.ticker.maxFPS = [60][0] || 0;
+if (!ct.pixiApp.renderer.options.antialias) {
+    PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
+}
+/**
+ * @template PIXI.Container
+ */
+ct.stage = ct.pixiApp.stage;
+ct.pixiApp.renderer.autoDensity = ct.highDensity;
+document.getElementById('ct').appendChild(ct.pixiApp.view);
+
+/**
+ * A library of different utility functions, mainly Math-related, but not limited to them.
+ * @namespace
+ */
+ct.u = {
+    /**
+     * Get the environment the game runs on.
+     * @returns {string} Either 'ct.ide', or 'nw', or 'electron', or 'browser'.
+     */
+    getEnvironment() {
+        if (window.name === 'ct.js debugger') {
+            return 'ct.ide';
+        }
+        try {
+            if (nw.require) {
+                return 'nw';
+            }
+        } catch (oO) {
+            void 0;
+        }
+        try {
+            require('electron');
+            return 'electron';
+        } catch (Oo) {
+            void 0;
+        }
+        return 'browser';
+    },
+    /**
+     * Get the current operating system the game runs on.
+     * @returns {string} One of 'windows', 'darwin' (which is MacOS), 'linux', or 'unknown'.
+     */
+    getOS() {
+        const ua = window.navigator.userAgent;
+        if (ua.indexOf('Windows') !== -1) {
+            return 'windows';
+        }
+        if (ua.indexOf('Linux') !== -1) {
+            return 'linux';
+        }
+        if (ua.indexOf('Mac') !== -1) {
+            return 'darwin';
+        }
+        return 'unknown';
+    },
+    /**
+     * Returns the length of a vector projection onto an X axis.
+     * @param {number} l The length of the vector
+     * @param {number} d The direction of the vector
+     * @returns {number} The length of the projection
+     */
+    ldx(l, d) {
+        return l * Math.cos(d * Math.PI / 180);
+    },
+    /**
+     * Returns the length of a vector projection onto an Y axis.
+     * @param {number} l The length of the vector
+     * @param {number} d The direction of the vector
+     * @returns {number} The length of the projection
+     */
+    ldy(l, d) {
+        return l * Math.sin(d * Math.PI / 180);
+    },
+    /**
+     * Returns the direction of a vector that points from the first point to the second one.
+     * @param {number} x1 The x location of the first point
+     * @param {number} y1 The y location of the first point
+     * @param {number} x2 The x location of the second point
+     * @param {number} y2 The y location of the second point
+     * @returns {number} The angle of the resulting vector, in degrees
+     */
+    pdn(x1, y1, x2, y2) {
+        return (Math.atan2(y2 - y1, x2 - x1) * 180 / Math.PI + 360) % 360;
+    },
+    // Point-point DistanCe
+    /**
+     * Returns the distance between two points
+     * @param {number} x1 The x location of the first point
+     * @param {number} y1 The y location of the first point
+     * @param {number} x2 The x location of the second point
+     * @param {number} y2 The y location of the second point
+     * @returns {number} The distance between the two points
+     */
+    pdc(x1, y1, x2, y2) {
+        return Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+    },
+    /**
+     * Convers degrees to radians
+     * @param {number} deg The degrees to convert
+     * @returns {number} The resulting radian value
+     */
+    degToRad(deg) {
+        return deg * Math.PI / 180;
+    },
+    /**
+     * Convers radians to degrees
+     * @param {number} rad The radian value to convert
+     * @returns {number} The resulting degree
+     */
+    radToDeg(rad) {
+        return rad / Math.PI * 180;
+    },
+    /**
+     * Rotates a vector (x; y) by `deg` around (0; 0)
+     * @param {number} x The x component
+     * @param {number} y The y component
+     * @param {number} deg The degree to rotate by
+     * @returns {PIXI.Point} A pair of new `x` and `y` parameters.
+     */
+    rotate(x, y, deg) {
+        return ct.u.rotateRad(x, y, ct.u.degToRad(deg));
+    },
+    /**
+     * Rotates a vector (x; y) by `rad` around (0; 0)
+     * @param {number} x The x component
+     * @param {number} y The y component
+     * @param {number} rad The radian value to rotate around
+     * @returns {PIXI.Point} A pair of new `x` and `y` parameters.
+     */
+    rotateRad(x, y, rad) {
+        const sin = Math.sin(rad),
+              cos = Math.cos(rad);
+        return new PIXI.Point(
+            cos * x - sin * y,
+            cos * y + sin * x
+        );
+    },
+    /**
+     * Gets the most narrow angle between two vectors of given directions
+     * @param {number} dir1 The direction of the first vector
+     * @param {number} dir2 The direction of the second vector
+     * @returns {number} The resulting angle
+     */
+    deltaDir(dir1, dir2) {
+        dir1 = ((dir1 % 360) + 360) % 360;
+        dir2 = ((dir2 % 360) + 360) % 360;
+        var t = dir1,
+            h = dir2,
+            ta = h - t;
+        if (ta > 180) {
+            ta -= 360;
+        }
+        if (ta < -180) {
+            ta += 360;
+        }
+        return ta;
+    },
+    /**
+     * Returns a number in between the given range (clamps it).
+     * @param {number} min The minimum value of the given number
+     * @param {number} val The value to fit in the range
+     * @param {number} max The maximum value of the given number
+     * @returns {number} The clamped value
+     */
+    clamp(min, val, max) {
+        return Math.max(min, Math.min(max, val));
+    },
+    /**
+     * Linearly interpolates between two values by the apha value.
+     * Can also be describing as mixing between two values with a given proportion `alpha`.
+     * @param {number} a The first value to interpolate from
+     * @param {number} b The second value to interpolate to
+     * @param {number} alpha The mixing value
+     * @returns {number} The result of the interpolation
+     */
+    lerp(a, b, alpha) {
+        return a + (b - a) * alpha;
+    },
+    /**
+     * Returns the position of a given value in a given range. Opposite to linear interpolation.
+     * @param  {number} a The first value to interpolate from
+     * @param  {number} b The second value to interpolate top
+     * @param  {number} val The interpolated values
+     * @return {number} The position of the value in the specified range.
+     * When a <= val <= b, the result will be inside the [0;1] range.
+     */
+    unlerp(a, b, val) {
+        return (val - a) / (b - a);
+    },
+    /**
+     * Re-maps the given value from one number range to another.
+     * @param  {number} val The value to be mapped
+     * @param  {number} inMin Lower bound of the value's current range
+     * @param  {number} inMax Upper bound of the value's current range
+     * @param  {number} outMin Lower bound of the value's target range
+     * @param  {number} outMax Upper bound of the value's target range
+     * @returns {number} The mapped value.
+     */
+    map(val, inMin, inMax, outMin, outMax) {
+        return (val - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
+    },
+    /**
+     * Translates a point from UI space to game space.
+     * @param {number} x The x coordinate in UI space.
+     * @param {number} y The y coordinate in UI space.
+     * @returns {PIXI.Point} A pair of new `x` and `y` coordinates.
+     */
+    uiToGameCoord(x, y) {
+        return ct.camera.uiToGameCoord(x, y);
+    },
+    /**
+     * Translates a point from fame space to UI space.
+     * @param {number} x The x coordinate in game space.
+     * @param {number} y The y coordinate in game space.
+     * @returns {PIXI.Point} A pair of new `x` and `y` coordinates.
+     */
+    gameToUiCoord(x, y) {
+        return ct.camera.gameToUiCoord(x, y);
+    },
+    hexToPixi(hex) {
+        return Number('0x' + hex.slice(1));
+    },
+    pixiToHex(pixi) {
+        return '#' + (pixi).toString(16).padStart(6, 0);
+    },
+    /**
+     * Tests whether a given point is inside the given rectangle
+     * (it can be either a copy or an array).
+     * @param {number} x The x coordinate of the point.
+     * @param {number} y The y coordinate of the point.
+     * @param {(Copy|Array<Number>)} arg Either a copy (it must have a rectangular shape)
+     * or an array in a form of [x1, y1, x2, y2], where (x1;y1) and (x2;y2) specify
+     * the two opposite corners of the rectangle.
+     * @returns {boolean} `true` if the point is inside the rectangle, `false` otherwise.
+     */
+    prect(x, y, arg) {
+        var xmin, xmax, ymin, ymax;
+        if (arg.splice) {
+            xmin = Math.min(arg[0], arg[2]);
+            xmax = Math.max(arg[0], arg[2]);
+            ymin = Math.min(arg[1], arg[3]);
+            ymax = Math.max(arg[1], arg[3]);
+        } else {
+            xmin = arg.x - arg.shape.left * arg.scale.x;
+            xmax = arg.x + arg.shape.right * arg.scale.x;
+            ymin = arg.y - arg.shape.top * arg.scale.y;
+            ymax = arg.y + arg.shape.bottom * arg.scale.y;
+        }
+        return x >= xmin && y >= ymin && x <= xmax && y <= ymax;
+    },
+    /**
+     * Tests whether a given point is inside the given circle (it can be either a copy or an array)
+     * @param {number} x The x coordinate of the point
+     * @param {number} y The y coordinate of the point
+     * @param {(Copy|Array<Number>)} arg Either a copy (it must have a circular shape)
+     * or an array in a form of [x1, y1, r], where (x1;y1) define the center of the circle
+     * and `r` defines the radius of it.
+     * @returns {boolean} `true` if the point is inside the circle, `false` otherwise
+     */
+    pcircle(x, y, arg) {
+        if (arg.splice) {
+            return ct.u.pdc(x, y, arg[0], arg[1]) < arg[2];
+        }
+        return ct.u.pdc(0, 0, (arg.x - x) / arg.scale.x, (arg.y - y) / arg.scale.y) < arg.shape.r;
+    },
+    /**
+     * Copies all the properties of the source object to the destination object.
+     * This is **not** a deep copy. Useful for extending some settings with default values,
+     * or for combining data.
+     * @param {object} o1 The destination object
+     * @param {object} o2 The source object
+     * @param {any} [arr] An optional array of properties to copy. If not specified,
+     * all the properties will be copied.
+     * @returns {object} The modified destination object
+     */
+    ext(o1, o2, arr) {
+        if (arr) {
+            for (const i in arr) {
+                if (o2[arr[i]]) {
+                    o1[arr[i]] = o2[arr[i]];
+                }
+            }
+        } else {
+            for (const i in o2) {
+                o1[i] = o2[i];
+            }
+        }
+        return o1;
+    },
+    /**
+     * Returns a Promise that resolves after the given time.
+     * This timer is run in gameplay time scale, meaning that it is affected by time stretching.
+     * @param {number} time Time to wait, in milliseconds
+     * @returns {CtTimer} The timer, which you can call `.then()` to
+     */
+    wait(time) {
+        return ct.timer.add(time);
+    },
+    /**
+     * Returns a Promise that resolves after the given time.
+     * This timer runs in UI time scale and is not sensitive to time stretching.
+     * @param {number} time Time to wait, in milliseconds
+     * @returns {CtTimer} The timer, which you can call `.then()` to
+     */
+    waitUi(time) {
+        return ct.timer.addUi(time);
+    },
+    /**
+     * Creates a new function that returns a promise, based
+     * on a function with a regular (err, result) => {...} callback.
+     * @param {Function} f The function that needs to be promisified
+     * @see https://javascript.info/promisify
+     */
+    promisify(f) {
+        // eslint-disable-next-line func-names
+        return function (...args) {
+            return new Promise((resolve, reject) => {
+                const callback = function callback(err, result) {
+                    if (err) {
+                        reject(err);
+                    } else {
+                        resolve(result);
+                    }
+                };
+                args.push(callback);
+                f.call(this, ...args);
+            });
+        };
+    },
+    required(paramName, method) {
+        let str = 'The parameter ';
+        if (paramName) {
+            str += `${paramName} `;
+        }
+        if (method) {
+            str += `of ${method} `;
+        }
+        str += 'is required.';
+        throw new Error(str);
+    },
+    numberedString(prefix, input) {
+        return prefix + '_' + input.toString().padStart(2, '0');
+    },
+    getStringNumber(str) {
+        return Number(str.split('_').pop());
+    }
+};
+ct.u.ext(ct.u, {// make aliases
+    getOs: ct.u.getOS,
+    lengthDirX: ct.u.ldx,
+    lengthDirY: ct.u.ldy,
+    pointDirection: ct.u.pdn,
+    pointDistance: ct.u.pdc,
+    pointRectangle: ct.u.prect,
+    pointCircle: ct.u.pcircle,
+    extend: ct.u.ext
+});
+
+// eslint-disable-next-line max-lines-per-function
+(() => {
+    const killRecursive = copy => {
+        copy.kill = true;
+        if (copy.onDestroy) {
+            ct.templates.onDestroy.apply(copy);
+            copy.onDestroy.apply(copy);
+        }
+        for (const child of copy.children) {
+            if (child[copyTypeSymbol]) {
+                killRecursive(child);
+            }
+        }
+        const stackIndex = ct.stack.indexOf(copy);
+        if (stackIndex !== -1) {
+            ct.stack.splice(stackIndex, 1);
+        }
+        if (copy.template) {
+            const templatelistIndex = ct.templates.list[copy.template].indexOf(copy);
+            if (templatelistIndex !== -1) {
+                ct.templates.list[copy.template].splice(templatelistIndex, 1);
+            }
+        }
+        deadPool.push(copy);
+    };
+    const manageCamera = () => {
+        if (ct.camera) {
+            ct.camera.update(ct.delta);
+            ct.camera.manageStage();
+        }
+    };
+
+    ct.loop = function loop() {
+        ct.delta = ct.pixiApp.ticker.deltaMS / (1000 / (ct.pixiApp.ticker.maxFPS || 60));
+        ct.deltaUi = ct.pixiApp.ticker.elapsedMS / (1000 / (ct.pixiApp.ticker.maxFPS || 60));
+        ct.inputs.updateActions();
+        ct.timer.updateTimers();
+        ct.place.debugTraceGraphics.clear();
+
+        ct.rooms.rootRoomOnStep.apply(ct.room);
+        for (let i = 0, li = ct.stack.length; i < li; i++) {
+            ct.templates.beforeStep.apply(ct.stack[i]);
+            ct.stack[i].onStep.apply(ct.stack[i]);
+            ct.templates.afterStep.apply(ct.stack[i]);
+        }
+        // There may be a number of rooms stacked on top of each other.
+        // Loop through them and filter out everything that is not a room.
+        for (const item of ct.stage.children) {
+            if (!(item instanceof Room)) {
+                continue;
+            }
+            ct.rooms.beforeStep.apply(item);
+            item.onStep.apply(item);
+            ct.rooms.afterStep.apply(item);
+        }
+        // copies
+        for (const copy of ct.stack) {
+            // eslint-disable-next-line no-underscore-dangle
+            if (copy.kill && !copy._destroyed) {
+                killRecursive(copy); // This will also allow a parent to eject children
+                                     // to a new container before they are destroyed as well
+                copy.destroy({
+                    children: true
+                });
+            }
+        }
+
+        for (const cont of ct.stage.children) {
+            cont.children.sort((a, b) =>
+                ((a.depth || 0) - (b.depth || 0)) || ((a.uid || 0) - (b.uid || 0)) || 0);
+        }
+
+        manageCamera();
+
+        for (let i = 0, li = ct.stack.length; i < li; i++) {
+            ct.templates.beforeDraw.apply(ct.stack[i]);
+            ct.stack[i].onDraw.apply(ct.stack[i]);
+            ct.templates.afterDraw.apply(ct.stack[i]);
+            ct.stack[i].xprev = ct.stack[i].x;
+            ct.stack[i].yprev = ct.stack[i].y;
+        }
+
+        for (const item of ct.stage.children) {
+            if (!(item instanceof Room)) {
+                continue;
+            }
+            ct.rooms.beforeDraw.apply(item);
+            item.onDraw.apply(item);
+            ct.rooms.afterDraw.apply(item);
+        }
+        ct.rooms.rootRoomOnDraw.apply(ct.room);
+        /*%afterframe%*/
+        if (ct.rooms.switching) {
+            ct.rooms.forceSwitch();
+        }
+    };
+})();
+
+
+
+
+/**
+ * @property {number} value The current value of an action. It is always in the range from -1 to 1.
+ * @property {string} name The name of the action.
+ */
+class CtAction {
+    /**
+     * This is a custom action defined in the Settings tab → Edit actions section.
+     * Actions are used to abstract different input methods into one gameplay-related interface:
+     * for example, joystick movement, WASD keys and arrows can be turned into two actions:
+     * `MoveHorizontally` and `MoveVertically`.
+     * @param {string} name The name of the new action.
+     */
+    constructor(name) {
+        this.name = name;
+        this.methodCodes = [];
+        this.methodMultipliers = [];
+        this.prevValue = 0;
+        this.value = 0;
+        return this;
+    }
+    /**
+     * Checks whether the current action listens to a given input method.
+     * This *does not* check whether this input method is supported by ct.
+     *
+     * @param {string} code The code to look up.
+     * @returns {boolean} `true` if it exists, `false` otherwise.
+     */
+    methodExists(code) {
+        return this.methodCodes.indexOf(code) !== -1;
+    }
+    /**
+     * Adds a new input method to listen.
+     *
+     * @param {string} code The input method's code to listen to. Must be unique per action.
+     * @param {number} [multiplier] An optional multiplier, e.g. to flip its value.
+     * Often used with two buttons to combine them into a scalar input identical to joysticks.
+     * @returns {void}
+     */
+    addMethod(code, multiplier) {
+        if (this.methodCodes.indexOf(code) === -1) {
+            this.methodCodes.push(code);
+            this.methodMultipliers.push(multiplier !== void 0 ? multiplier : 1);
+        } else {
+            throw new Error(`[ct.inputs] An attempt to add an already added input "${code}" to an action "${name}".`);
+        }
+    }
+    /**
+     * Removes the provided input method for an action.
+     *
+     * @param {string} code The input method to remove.
+     * @returns {void}
+     */
+    removeMethod(code) {
+        const ind = this.methodCodes.indexOf(code);
+        if (ind !== -1) {
+            this.methodCodes.splice(ind, 1);
+            this.methodMultipliers.splice(ind, 1);
+        }
+    }
+    /**
+     * Changes the multiplier for an input method with the provided code.
+     * This method will produce a warning if one is trying to change an input method
+     * that is not listened by this action.
+     *
+     * @param {string} code The input method's code to change
+     * @param {number} multiplier The new value
+     * @returns {void}
+     */
+    setMultiplier(code, multiplier) {
+        const ind = this.methodCodes.indexOf(code);
+        if (ind !== -1) {
+            this.methodMultipliers[ind] = multiplier;
+        } else {
+            // eslint-disable-next-line no-console
+            console.warning(`[ct.inputs] An attempt to change multiplier of a non-existent method "${code}" at event ${this.name}`);
+            // eslint-disable-next-line no-console
+            console.trace();
+        }
+    }
+    /**
+     * Recalculates the digital value of an action.
+     *
+     * @returns {number} A scalar value between -1 and 1.
+     */
+    update() {
+        this.prevValue = this.value;
+        this.value = 0;
+        for (let i = 0, l = this.methodCodes.length; i < l; i++) {
+            const rawValue = ct.inputs.registry[this.methodCodes[i]] || 0;
+            this.value += rawValue * this.methodMultipliers[i];
+        }
+        this.value = Math.max(-1, Math.min(this.value, 1));
+    }
+    /**
+     * Resets the state of this action, setting its value to `0`
+     * and its pressed, down, released states to `false`.
+     *
+     * @returns {void}
+     */
+    reset() {
+        this.prevValue = this.value = 0;
+    }
+    /**
+     * Returns whether the action became active in the current frame,
+     * either by a button just pressed or by using a scalar input.
+     *
+     * `true` for being pressed and `false` otherwise
+     * @type {boolean}
+     */
+    get pressed() {
+        return this.prevValue === 0 && this.value !== 0;
+    }
+    /**
+     * Returns whether the action became inactive in the current frame,
+     * either by releasing all buttons or by resting all scalar inputs.
+     *
+     * `true` for being released and `false` otherwise
+     * @type {boolean}
+     */
+    get released() {
+        return this.prevValue !== 0 && this.value === 0;
+    }
+    /**
+     * Returns whether the action is active, e.g. by a pressed button
+     * or a currently used scalar input.
+     *
+     * `true` for being active and `false` otherwise
+     * @type {boolean}
+     */
+    get down() {
+        return this.value !== 0;
+    }
+    /* In case you need to be hated for the rest of your life, uncomment this */
+    /*
+    valueOf() {
+        return this.value;
+    }
+    */
+}
+
+/**
+ * A list of custom Actions. They are defined in the Settings tab → Edit actions section.
+ * @type {Object.<string,CtAction>}
+ */
+ct.actions = {};
+/**
+ * @namespace
+ */
+ct.inputs = {
+    registry: {},
+    /**
+     * Adds a new action and puts it into `ct.actions`.
+     *
+     * @param {string} name The name of an action, as it will be used in `ct.actions`.
+     * @param {Array<Object>} methods A list of input methods. This list can be changed later.
+     * @returns {CtAction} The created action
+     */
+    addAction(name, methods) {
+        if (name in ct.actions) {
+            throw new Error(`[ct.inputs] An action "${name}" already exists, can't add a new one with the same name.`);
+        }
+        const action = new CtAction(name);
+        for (const method of methods) {
+            action.addMethod(method.code, method.multiplier);
+        }
+        ct.actions[name] = action;
+        return action;
+    },
+    /**
+     * Removes an action with a given name.
+     * @param {string} name The name of an action
+     * @returns {void}
+     */
+    removeAction(name) {
+        delete ct.actions[name];
+    },
+    /**
+     * Recalculates values for every action in a game.
+     * @returns {void}
+     */
+    updateActions() {
+        for (const i in ct.actions) {
+            ct.actions[i].update();
+        }
+    }
+};
+
+ct.inputs.addAction('Press', [{"code":"pointer.Primary"}]);
+ct.inputs.addAction('AltPress', [{"code":"pointer.Secondary"},{"code":"pointer.Double"}]);
+ct.inputs.addAction('Scale', [{"code":"pointer.DeltaPinch"},{"code":"pointer.Wheel"}]);
+
+
+/**
+ * @typedef IRoomMergeResult
+ *
+ * @property {Array<Copy>} copies
+ * @property {Array<Tilemap>} tileLayers
+ * @property {Array<Background>} backgrounds
+ */
+
+class Room extends PIXI.Container {
+    static getNewId() {
+        this.roomId++;
+        return this.roomId;
+    }
+
+    constructor(template) {
+        super();
+        this.x = this.y = 0;
+        this.uid = Room.getNewId();
+        this.tileLayers = [];
+        this.backgrounds = [];
+        this.timer1 = this.timer2 = this.timer3 = this.timer4 = this.timer5 = this.timer6 = 0;
+        if (!ct.room) {
+            ct.room = ct.rooms.current = this;
+        }
+        if (template) {
+            this.onCreate = template.onCreate;
+            this.onStep = template.onStep;
+            this.onDraw = template.onDraw;
+            this.onLeave = template.onLeave;
+            this.template = template;
+            this.name = template.name;
+            this.isUi = template.isUi;
+            this.follow = template.follow;
+            if (template.extends) {
+                ct.u.ext(this, template.extends);
+            }
+            if (this === ct.room) {
+                if(this.template.transparent){
+                    this.template.backgroundColor = rgba(0,0,0,0);
+                }
+                ct.pixiApp.renderer.backgroundColor = ct.u.hexToPixi(this.template.backgroundColor);
+            }
+            if (this === ct.room) {
+    ct.place.tileGrid = {};
+}
+ct.fittoscreen();
+if (this === ct.room) {
+  ct.room.matterEngine = Matter.Engine.create();
+  ct.room.matterWorld = ct.room.matterEngine.world;
+  ct.room.matterGravity = ct.room.matterGravity || [
+    [
+      [0,2]
+    ][0][0],
+    [
+      [0,2]
+    ][0][1],
+  ];
+  [ct.room.matterWorld.gravity.x, ct.room.matterWorld.gravity.y] =
+    ct.room.matterGravity;
+  ct.matter.rulebookStart = [];
+  ct.matter.rulebookActive = [];
+  ct.matter.rulebookEnd = [];
+}
+
+            for (let i = 0, li = template.bgs.length; i < li; i++) {
+                // Need to put additional properties like parallax here,
+                // so we don't use ct.backgrounds.add
+                const bg = new ct.templates.Background(
+                    template.bgs[i].texture,
+                    null,
+                    template.bgs[i].depth,
+                    template.bgs[i].exts
+                );
+                this.addChild(bg);
+            }
+            for (let i = 0, li = template.tiles.length; i < li; i++) {
+                const tl = new Tilemap(template.tiles[i]);
+                tl.cache();
+                this.tileLayers.push(tl);
+                this.addChild(tl);
+            }
+            for (let i = 0, li = template.objects.length; i < li; i++) {
+                const copy = template.objects[i];
+                const exts = copy.exts || {};
+                const customProperties = copy.customProperties || {};
+                ct.templates.copyIntoRoom(
+                    copy.template,
+                    copy.x,
+                    copy.y,
+                    this,
+                    {
+                        ...exts,
+                        ...customProperties,
+                        scaleX: copy.scale.x,
+                        scaleY: copy.scale.y,
+                        rotation: copy.rotation,
+                        alpha: copy.opacity,
+                        tint: copy.tint
+                    }
+                );
+            }
+        }
+        return this;
+    }
+    get x() {
+        return -this.position.x;
+    }
+    set x(value) {
+        this.position.x = -value;
+        return value;
+    }
+    get y() {
+        return -this.position.y;
+    }
+    set y(value) {
+        this.position.y = -value;
+        return value;
+    }
+}
+Room.roomId = 0;
+
+(function roomsAddon() {
+    /* global deadPool */
+    var nextRoom;
+    /**
+     * @namespace
+     */
+    ct.rooms = {
+        templates: {},
+        /**
+         * An object that contains arrays of currently present rooms.
+         * These include the current room (`ct.room`), as well as any rooms
+         * appended or prepended through `ct.rooms.append` and `ct.rooms.prepend`.
+         * @type {Object.<string,Array<Room>>}
+         */
+        list: {},
+        /**
+         * Creates and adds a background to the current room, at the given depth.
+         * @param {string} texture The name of the texture to use
+         * @param {number} depth The depth of the new background
+         * @returns {Background} The created background
+         */
+        addBg(texture, depth) {
+            const bg = new ct.templates.Background(texture, null, depth);
+            ct.room.addChild(bg);
+            return bg;
+        },
+        /**
+         * Adds a new empty tile layer to the room, at the given depth
+         * @param {number} layer The depth of the layer
+         * @returns {Tileset} The created tile layer
+         * @deprecated Use ct.tilemaps.create instead.
+         */
+        addTileLayer(layer) {
+            return ct.tilemaps.create(layer);
+        },
+        /**
+         * Clears the current stage, removing all rooms with copies, tile layers, backgrounds,
+         * and other potential entities.
+         * @returns {void}
+         */
+        clear() {
+            ct.stage.children = [];
+            ct.stack = [];
+            for (const i in ct.templates.list) {
+                ct.templates.list[i] = [];
+            }
+            for (const i in ct.backgrounds.list) {
+                ct.backgrounds.list[i] = [];
+            }
+            ct.rooms.list = {};
+            for (const name in ct.rooms.templates) {
+                ct.rooms.list[name] = [];
+            }
+        },
+        /**
+         * This method safely removes a previously appended/prepended room from the stage.
+         * It will trigger "On Leave" for a room and "On Destroy" event
+         * for all the copies of the removed room.
+         * The room will also have `this.kill` set to `true` in its event, if it comes in handy.
+         * This method cannot remove `ct.room`, the main room.
+         * @param {Room} room The `room` argument must be a reference
+         * to the previously created room.
+         * @returns {void}
+         */
+        remove(room) {
+            if (!(room instanceof Room)) {
+                if (typeof room === 'string') {
+                    throw new Error('[ct.rooms] To remove a room, you should provide a reference to it (to an object), not its name. Provided value:', room);
+                }
+                throw new Error('[ct.rooms] An attempt to remove a room that is not actually a room! Provided value:', room);
+            }
+            const ind = ct.rooms.list[room.name];
+            if (ind !== -1) {
+                ct.rooms.list[room.name].splice(ind, 1);
+            } else {
+                // eslint-disable-next-line no-console
+                console.warn('[ct.rooms] Removing a room that was not found in ct.rooms.list. This is strange…');
+            }
+            room.kill = true;
+            ct.stage.removeChild(room);
+            for (const copy of room.children) {
+                copy.kill = true;
+            }
+            room.onLeave();
+            ct.rooms.onLeave.apply(room);
+        },
+        /*
+         * Switches to the given room. Note that this transition happens at the end
+         * of the frame, so the name of a new room may be overridden.
+         */
+        'switch'(roomName) {
+            if (ct.rooms.templates[roomName]) {
+                nextRoom = roomName;
+                ct.rooms.switching = true;
+            } else {
+                console.error('[ct.rooms] The room "' + roomName + '" does not exist!');
+            }
+        },
+        switching: false,
+        /**
+         * Restarts the current room.
+         * @returns {void}
+         */
+        restart() {
+            ct.rooms.switch(ct.room.name);
+        },
+        /**
+         * Creates a new room and adds it to the stage, separating its draw stack
+         * from existing ones.
+         * This room is added to `ct.stage` after all the other rooms.
+         * @param {string} roomName The name of the room to be appended
+         * @param {object} [exts] Any additional parameters applied to the new room.
+         * Useful for passing settings and data to new widgets and prefabs.
+         * @returns {Room} A newly created room
+         */
+        append(roomName, exts) {
+            if (!(roomName in ct.rooms.templates)) {
+                console.error(`[ct.rooms] append failed: the room ${roomName} does not exist!`);
+                return false;
+            }
+            const room = new Room(ct.rooms.templates[roomName]);
+            if (exts) {
+                ct.u.ext(room, exts);
+            }
+            ct.stage.addChild(room);
+            room.onCreate();
+            ct.rooms.onCreate.apply(room);
+            ct.rooms.list[roomName].push(room);
+            return room;
+        },
+        /**
+         * Creates a new room and adds it to the stage, separating its draw stack
+         * from existing ones.
+         * This room is added to `ct.stage` before all the other rooms.
+         * @param {string} roomName The name of the room to be prepended
+         * @param {object} [exts] Any additional parameters applied to the new room.
+         * Useful for passing settings and data to new widgets and prefabs.
+         * @returns {Room} A newly created room
+         */
+        prepend(roomName, exts) {
+            if (!(roomName in ct.rooms.templates)) {
+                console.error(`[ct.rooms] prepend failed: the room ${roomName} does not exist!`);
+                return false;
+            }
+            const room = new Room(ct.rooms.templates[roomName]);
+            if (exts) {
+                ct.u.ext(room, exts);
+            }
+            ct.stage.addChildAt(room, 0);
+            room.onCreate();
+            ct.rooms.onCreate.apply(room);
+            ct.rooms.list[roomName].push(room);
+            return room;
+        },
+        /**
+         * Merges a given room into the current one. Skips room's OnCreate event.
+         *
+         * @param {string} roomName The name of the room that needs to be merged
+         * @returns {IRoomMergeResult} Arrays of created copies, backgrounds, tile layers,
+         * added to the current room (`ct.room`). Note: it does not get updated,
+         * so beware of memory leaks if you keep a reference to this array for a long time!
+         */
+        merge(roomName) {
+            if (!(roomName in ct.rooms.templates)) {
+                console.error(`[ct.rooms] merge failed: the room ${roomName} does not exist!`);
+                return false;
+            }
+            const generated = {
+                copies: [],
+                tileLayers: [],
+                backgrounds: []
+            };
+            const template = ct.rooms.templates[roomName];
+            const target = ct.room;
+            for (const t of template.bgs) {
+                const bg = new ct.templates.Background(t.texture, null, t.depth, t.extends);
+                target.backgrounds.push(bg);
+                target.addChild(bg);
+                generated.backgrounds.push(bg);
+            }
+            for (const t of template.tiles) {
+                const tl = new Tilemap(t);
+                target.tileLayers.push(tl);
+                target.addChild(tl);
+                generated.tileLayers.push(tl);
+                tl.cache();
+            }
+            for (const t of template.objects) {
+                const c = ct.templates.copyIntoRoom(t.template, t.x, t.y, target, {
+                    tx: t.tx || 1,
+                    ty: t.ty || 1,
+                    tr: t.tr || 0
+                });
+                generated.copies.push(c);
+            }
+            return generated;
+        },
+        forceSwitch(roomName) {
+            if (nextRoom) {
+                roomName = nextRoom;
+            }
+            if (ct.room) {
+                ct.rooms.rootRoomOnLeave.apply(ct.room);
+                ct.room.onLeave();
+                ct.rooms.onLeave.apply(ct.room);
+                ct.room = void 0;
+            }
+            ct.rooms.clear();
+            deadPool.length = 0;
+            var template = ct.rooms.templates[roomName];
+            ct.roomWidth = template.width;
+            ct.roomHeight = template.height;
+            ct.camera = new Camera(
+                ct.roomWidth / 2,
+                ct.roomHeight / 2,
+                ct.roomWidth,
+                ct.roomHeight
+            );
+            if (template.cameraConstraints) {
+                ct.camera.minX = template.cameraConstraints.x1;
+                ct.camera.maxX = template.cameraConstraints.x2;
+                ct.camera.minY = template.cameraConstraints.y1;
+                ct.camera.maxY = template.cameraConstraints.y2;
+            }
+            ct.pixiApp.renderer.resize(template.width, template.height);
+            ct.rooms.current = ct.room = new Room(template);
+            ct.stage.addChild(ct.room);
+            ct.rooms.rootRoomOnCreate.apply(ct.room);
+            ct.room.onCreate();
+            ct.rooms.onCreate.apply(ct.room);
+            ct.rooms.list[roomName].push(ct.room);
+            
+            ct.camera.manageStage();
+            ct.rooms.switching = false;
+            nextRoom = void 0;
+        },
+        onCreate() {
+            if (this === ct.room) {
+    const debugTraceGraphics = new PIXI.Graphics();
+    debugTraceGraphics.depth = 10000000; // Why not. Overlap everything.
+    ct.room.addChild(debugTraceGraphics);
+    ct.place.debugTraceGraphics = debugTraceGraphics;
+}
+for (const layer of this.tileLayers) {
+    if (this.children.indexOf(layer) === -1) {
+        continue;
+    }
+    ct.place.enableTilemapCollisions(layer);
+}
+if (this === ct.room) {
+    ct.matter.on('collisionStart', e => {
+        const {pairs} = e;
+        ct.matter.walkOverWithRulebook(ct.matter.rulebookStart, pairs);
+    });
+    ct.matter.on('collisionActive', e => {
+        const {pairs} = e;
+        ct.matter.walkOverWithRulebook(ct.matter.rulebookActive, pairs);
+    });
+    ct.matter.on('collisionEnd', e => {
+        const {pairs} = e;
+        ct.matter.walkOverWithRulebook(ct.matter.rulebookEnd, pairs);
+    });
+}
+
+for (const layer of this.tileLayers) {
+    if (!layer.matterMakeStatic) {
+        continue;
+    }
+    if (this.children.indexOf(layer) === -1) {
+        continue;
+    }
+    ct.matter.createStaticTilemap(layer);
+}
+
+        },
+        onLeave() {
+            if (this === ct.room) {
+    ct.place.grid = {};
+}
+/* global ct */
+
+if (!this.kill) {
+    for (var tween of ct.tween.tweens) {
+        tween.reject({
+            info: 'Room switch',
+            code: 1,
+            from: 'ct.tween'
+        });
+    }
+    ct.tween.tweens = [];
+}
+
+        },
+        /**
+         * The name of the starting room, as it was set in ct.IDE.
+         * @type {string}
+         */
+        starting: 'WaitingRoom'
+    };
+})();
+/**
+ * The current room
+ * @type {Room}
+ */
+ct.room = null;
+
+ct.rooms.beforeStep = function beforeStep() {
+    ct.pointer.updateGestures();
+{
+    const positionGame = ct.u.uiToGameCoord(ct.pointer.xui, ct.pointer.yui);
+    ct.pointer.x = positionGame.x;
+    ct.pointer.y = positionGame.y;
+}
+var i = 0;
+while (i < ct.tween.tweens.length) {
+    var tween = ct.tween.tweens[i];
+    if (tween.obj.kill) {
+        tween.reject({
+            code: 2,
+            info: 'Copy is killed'
+        });
+        ct.tween.tweens.splice(i, 1);
+        continue;
+    }
+    var a = tween.timer.time / tween.duration;
+    if (a > 1) {
+        a = 1;
+    }
+    for (var field in tween.fields) {
+        var s = tween.starting[field],
+            d = tween.fields[field] - tween.starting[field];
+        tween.obj[field] = tween.curve(s, d, a);
+    }
+    if (a === 1) {
+        tween.resolve(tween.fields);
+        ct.tween.tweens.splice(i, 1);
+        continue;
+    }
+    i++;
+}
+
+};
+ct.rooms.afterStep = function afterStep() {
+    
+};
+ct.rooms.beforeDraw = function beforeDraw() {
+    if (this === ct.room) {
+  if (
+    [
+      true
+    ][0] === false
+  ) {
+    Matter.Engine.update(ct.room.matterEngine, (1000 / ct.speed) * ct.delta);
+  } else {
+    Matter.Engine.update(ct.room.matterEngine, 1000 / ct.speed);
+  }
+}
+
+};
+ct.rooms.afterDraw = function afterDraw() {
+    for (const pointer of ct.pointer.down) {
+    pointer.xprev = pointer.x;
+    pointer.yprev = pointer.y;
+    pointer.xuiprev = pointer.x;
+    pointer.yuiprev = pointer.y;
+}
+for (const pointer of ct.pointer.hover) {
+    pointer.xprev = pointer.x;
+    pointer.yprev = pointer.y;
+    pointer.xuiprev = pointer.x;
+    pointer.yuiprev = pointer.y;
+}
+ct.inputs.registry['pointer.Wheel'] = 0;
+ct.pointer.clearReleased();
+ct.pointer.xmovement = ct.pointer.ymovement = 0;
+ct.keyboard.clear();
+if (ct.sound.follow && !ct.sound.follow.kill) {
+    ct.sound.howler.pos(
+        ct.sound.follow.x,
+        ct.sound.follow.y,
+        ct.sound.useDepth ? ct.sound.follow.z : 0
+    );
+} else if (ct.sound.manageListenerPosition) {
+    ct.sound.howler.pos(ct.camera.x, ct.camera.y, ct.camera.z || 0);
+}
+
+};
+ct.rooms.rootRoomOnCreate = function rootRoomOnCreate() {
+    
+/* template 1 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['1'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound || other.template == "WALL_TOP_TRIGGER" ) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 2 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['2'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound || other.template == "WALL_TOP_TRIGGER" ) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 3 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['3'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound || other.template == "WALL_TOP_TRIGGER" ) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 4 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['4'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound || other.template == "WALL_TOP_TRIGGER" ) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 5 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['5'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED ) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 6 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['6'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED ) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 7 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['7'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED ) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 8 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['8'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED ) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 9 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['9'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED) return;
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+/* template 0 — matter_matterImpactAny (Contact with anything event) */
+{
+    const [templateName] = ['0'];
+    ct.matter.rulebookStart.push({
+        mainTemplate: templateName,
+        any: true,
+        // eslint-disable-next-line no-unused-vars
+        func: function (other, impact) {
+            if(!ct.room.Sound || other.template == "WALL_TOP_TRIGGER" ) return;
+
+if(this.CollsionSound >= ct.room.COLLISION_SOUNDS_ALLOWED ) return;
+
+
+this.CollsionSound++;
+let collideSound = "Sound_Collision" + Math.round(ct.random.range(0, 2));
+
+// console.log(collideSound)
+ct.sound.spawn(collideSound, {
+    volume: 0.1
+});
+        }
+    });
+}
+
+
+};
+ct.rooms.rootRoomOnStep = function rootRoomOnStep() {
+    
+
+};
+ct.rooms.rootRoomOnDraw = function rootRoomOnDraw() {
+    
+
+};
+ct.rooms.rootRoomOnLeave = function rootRoomOnLeave() {
+    
+
+};
+
+
+ct.rooms.templates['GameScene'] = {
+    name: 'GameScene',
+    group: 'ungrouped',
+    width: 900,
+    height: 1290,
+    objects: JSON.parse('[{"x":906,"y":766.00292969,"opacity":1,"tint":16777215,"scale":{"x":0.5625,"y":16.56240845},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":424,"y":240,"opacity":1,"tint":16777215,"scale":{"x":1,"y":1},"rotation":0,"exts":{},"customProperties":{},"template":"CurrentShape"},{"x":-6,"y":766.00292969,"opacity":1,"tint":16777215,"scale":{"x":0.5625,"y":16.56240845},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":450,"y":1392,"opacity":1,"tint":16777215,"scale":{"x":14.8125,"y":3.75},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":-106.5,"y":-36,"opacity":1,"tint":16777215,"scale":{"x":17.4375,"y":4.21875},"rotation":0,"exts":{},"customProperties":{},"template":"Placeholder"},{"x":462,"y":332,"opacity":1,"tint":16777215,"scale":{"x":14.8125,"y":0.125},"rotation":0,"exts":{},"customProperties":{},"template":"WALL_TOP_TRIGGER"},{"x":24,"y":-324,"opacity":1,"tint":16777215,"scale":{"x":1,"y":1},"rotation":0,"exts":{},"customProperties":{},"template":"Score"},{"x":708,"y":-288,"opacity":1,"tint":16777215,"scale":{"x":1,"y":1},"rotation":0,"exts":{},"customProperties":{},"template":"NextShape"}]'),
+    bgs: JSON.parse('[{"texture":"Minigame_bg_3","depth":0,"exts":{"movementX":0,"movementY":0,"parallaxX":1,"parallaxY":1,"repeat":"repeat-x","scaleX":1,"scaleY":1,"shiftX":0,"shiftY":245}}]'),
+    tiles: JSON.parse('[]'),
+    backgroundColor: '#7D93B5',
+    
+    onStep() {
+        /* room GameScene — core_OnActionPress (OnActionPress event) */
+
+if (ct.actions['Press'].pressed) {
+    let value = ct.actions['Press'].value;
+    
+// console.log("PRESS PRESS")
+this.lastPosX = ct.pointer.x;
+
+// ct.templates.list['CurrentShape'][0].pointer.visible = true;
+
+ct.u.wait(10).then(()=>{
+    this.Press = true;
+})
+
+
+}
+/* room GameScene — core_OnStep (On frame start event) */
+{
+if(ct.keyboard.lastKey == 'q'){
+    this.PrimeBomb();
+}
+// if(ct.keyboard.lastKey == 'e'){
+//     this.SwitchShape();
+// }
+// if(ct.keyboard.lastKey == 'f'){
+//     this.End();
+// }
+// if(ct.keyboard.lastKey == 'r'){
+//     this.Restart();
+// }
+
+// if(ct.keyboard.lastKey == 'm'){
+//     this.PauseBG();
+// }
+// if(ct.keyboard.lastKey == 'p'){
+//     this.ResumeBG();
+// }
+
+
+// if(ct.keyboard.lastKey == 's'){
+//     this.ShareShape();
+// }
+}
+/* room GameScene — core_OnActionRelease (OnActionRelease event) */
+
+if (ct.actions['Press'].released) {
+    
+
+if(!this.TouchReady) return;
+
+if(!this.FirstTouch){
+    sendMessage({
+        command: 'FirstTouch'
+    })
+}
+this.FirstTouch = true;
+
+this.TouchReady = false;
+
+let shape = this.SpawnShape(this.rand, ct.templates.list['CurrentShape'][0].x, this.FLOOR_HEIGHT);
+
+ct.templates.list['CurrentShape'][0].pointer.visible = false;
+// if(!this.BombPlay){
+// }
+shape.trail = ct.emitters.follow(shape, 'Mon_Trail_' + this.rand, {
+    depth: -1
+});
+// ct.matter.launch(shape, 0, 15)
+
+if(this.BombPlay){
+    this.BombPlay = false;
+    this.rand = this.tempRand;
+}
+else{
+    this.rand = this.NextRand;
+    this.NextRand = Math.round(ct.random.range(0,4));
+}
+
+sendMessage({
+    command: 'next',
+    value: this.NextRand
+    // score: this.score
+});
+
+//console.log("CURRENT " + this.rand + "NEXT " + this.NextRand);
+
+ct.templates.list['CurrentShape'][0]._tex.texture = null
+ct.templates.list['CurrentShape'][0].pointer.visible = false;
+ct.templates.list['CurrentShape'][0].X_BOUNDS = ct.room.X_BOUNDS(this.rand);
+
+ct.u.wait(700).then(()=>{
+    this.TouchReady = true;
+
+    ct.templates.list['CurrentShape'][0].pointer.visible = true;
+
+    if(this.BombPlay){
+        ct.templates.list['CurrentShape'][0]._tex.texture = this.GetTexture('bomb');
+    }
+    else
+    {
+        // console.log(this.rand)
+        // console.log(typeof(this.rand));
+        ct.templates.list['CurrentShape'][0]._tex.texture = this.GetTexture(this.rand);
+    }        
+});
+
+if(this.Sound){
+    ct.sound.spawn('Sound_MonDrop1', {
+        volume: 0.1
+    });
+}
+ct.u.wait(500).then(() => {
+    ct.sound.stop('Sound_MonDrop1');
+});
+
+
+}
+
+    },
+    onDraw() {
+        
+    },
+    onLeave() {
+        
+    },
+    onCreate() {
+        /* room GameScene — core_OnRoomStart (On room start event) */
+{
+this.Sound = hasSound;
+this.Music = hasMusic;
+this.FirstTouch = false;
+
+if(this.Music){
+    this.bgmusic = ct.sound.spawn("Sound_BG", {
+        volume: 0.1,
+        loop:true
+    })
+}
+this.PauseBG = () => {
+    if(this.bgmusic){
+        ct.sound.pause('Sound_BG');
+    }
+}
+this.ResumeBG = () => {
+    if(this.bgmusic){
+        ct.sound.resume('Sound_BG');
+    }
+    else{
+        this.bgmusic = ct.sound.spawn("Sound_BG", {
+            volume: 0.1,
+            loop:true
+        })
+    }
+}
+// ct.sound.spawn('Sound_OnStart', {
+//     volume: 0.2
+// })
+
+this._0 = ct.res.getTexture("Mon_00", 0);
+this._1 = ct.res.getTexture("Mon_01", 0);
+this._2 = ct.res.getTexture("Mon_02", 0);
+this._3 = ct.res.getTexture("Mon_03", 0);
+this._4 = ct.res.getTexture("Mon_04", 0);
+this._5 = ct.res.getTexture("Mon_05", 0);
+this._6 = ct.res.getTexture("Mon_06", 0);
+this._7 = ct.res.getTexture("Mon_07", 0);
+this._8 = ct.res.getTexture("Mon_08", 0);
+this._9 = ct.res.getTexture("Mon_09", 0);
+this._bomb = ct.res.getTexture("Bomb", 0);
+
+this.GetTexture = (num) => {
+    switch(num){
+        case 0:
+            return this._0;
+        case 1:
+            return this._1;
+        case 2:
+            return this._2;
+        case 3:
+            return this._3;
+        case 4:
+            return this._4;
+        case 5:
+            return this._5;
+        case 6:
+            return this._6;
+        case 7:
+            return this._7;
+        case 8:
+            return this._8;
+        case 9:
+            return this._9;
+        case 'bomb':
+            return this._bomb;
+    }
+}
+
+this.FLOOR_HEIGHT = 240; //224;
+this.TRIGGER_HEIGHT = 336; //224;
+this.INVLULERABLE_TIME = 1000;
+this.WARNING_TIME = 3000;
+this.TRAIL_TIME = 1000;
+this.COLLISION_SOUNDS_ALLOWED = 1;
+
+this.X_BOUNDS = (texNum) => {
+    switch(texNum){
+        case 0 : 
+            return {
+                L : 48,
+                R : 852
+            };
+        case 1 : 
+            return {
+                L : 60,
+                R : 840
+            };
+        case 2 : 
+            return {
+                L : 72,
+                R : 828
+            };
+        default : 
+            return {
+                L : 84,
+                R : 816
+            };
+    }
+}
+this.score = 0;
+this.TouchReady = true;
+this.ended = false;
+
+this.rand = Math.round(ct.random.range(0, 4));
+this.NextRand = Math.round(ct.random.range(0, 4));
+// console.log("CURRENT " + this.rand + "NEXT " + this.NextRand);
+
+sendMessage({
+    command: 'next',
+    value: this.NextRand
+    // score: this.score
+});
+
+// Room's OnCreate code
+// Listen for collisions in the world
+ct.matter.on('collisionStart', e => {
+    this.MergeCheck(e);
+});
+ct.matter.on('collisionActive', e => {
+    if(this.ended) return;
+    this.ActiveCheck(e);
+});
+ct.matter.on('collisionEnd', e => {
+    if(this.ended) return;
+    this.EndCheck(e);
+});
+
+
+this.SpawnShape = (texNum, x, y) =>{
+    let shape = ct.templates.copy(texNum.toString(), ct.u.clamp(this.X_BOUNDS(texNum).L ,x , this.X_BOUNDS(texNum).R), y);
+    // shape.height *= texNum/2;
+    // shape.width *= texNum/2;
+    return shape;
+}
+
+this.ActiveCheck = (e) => {
+    // Loop over every collision in a frame
+    for (var pair of e.pairs)
+    {
+        var bodies = [pair.bodyA, pair.bodyB];
+        if(bodies[0].copy.template == 'WALL_TOP_TRIGGER'){
+            // console.log(bodies[1].copy.Vulnerable)
+            if(bodies[1].copy.Vulnerable){
+                bodies[1].copy.dieTimer = true;
+                ct.templates.list['WALL_TOP_TRIGGER'][0].flicker = true;
+            }
+            continue;
+        }
+        if(bodies[1].copy.template == 'WALL_TOP_TRIGGER') {
+            // console.log(bodies[0].copy.Vulnerable)
+            if(bodies[0].copy.Vulnerable){
+                bodies[0].copy.dieTimer = true;
+                ct.templates.list['WALL_TOP_TRIGGER'][0].flicker = true;
+            }
+            continue;
+        }
+    }
+}
+this.EndCheck = (e) => {
+    for (var pair of e.pairs)
+    {
+        var bodies = [pair.bodyA, pair.bodyB];
+        if(bodies[0].copy.template == 'WALL_TOP_TRIGGER'){
+            if(bodies[1].copy.dieTimer){
+                bodies[1].copy.dieTimer = false;
+            }
+            continue;
+        }
+        if(bodies[1].copy.template == 'WALL_TOP_TRIGGER') {
+            if(bodies[0].copy.dieTimer){
+                bodies[0].copy.dieTimer = false;
+            }
+            continue;
+        }
+    }
+}
+let merge = [];
+this.MergeCheck = (e) => {
+    // Loop over every collision in a frame
+    for (var pair of e.pairs) 
+    // for (var i = 0; i < 1 ; i++)
+    {
+        // var pair = e.pairs[i];
+        // Each pair has bodyA and bodyB — two objects that has collided.
+        // This little loop applies checks for both bodies
+        var bodies = [pair.bodyA, pair.bodyB];
+        if(bodies[0].copy.template == 'WALL_TOP_TRIGGER' && bodies[1].copy.template != 'Bomb'){
+                bodies[1].copy.dieTimerTrigger();
+            if(bodies[1].copy.Vulnerable){
+            }
+            continue;
+        }
+        if(bodies[1].copy.template == 'WALL_TOP_TRIGGER' && bodies[0].copy.template != 'Bomb') {
+                bodies[0].copy.dieTimerTrigger();
+            if(bodies[0].copy.Vulnerable){
+            }
+            continue;
+        }
+
+        if(bodies[0].copy.template == 'ImpactArea' 
+                && bodies[1].copy.template != 'walls' 
+                && bodies[1].copy.template != 'ForceArea'
+                && bodies[1].copy.template != 'Bomb'){
+            bodies[1].copy.kill = true;
+            continue;
+        }
+        if( bodies[1].copy.template == 'ImpactArea' 
+                && bodies[0].copy.template != 'walls' 
+                && bodies[0].copy.template != 'ForceArea'
+                && bodies[0].copy.template != 'Bomb') {
+            bodies[0].copy.kill = true;
+            continue;
+        }
+        
+        if(bodies[0].copy.template == 'ForceArea' && bodies[1].copy.template != 'walls'){
+            // console.log(bodies[1].copy.template)
+            this.ExplodeShape(bodies[1].copy, bodies[0].copy)
+            continue;
+        }
+        if( bodies[1].copy.template == 'ForceArea' && bodies[0].copy.template != 'walls') {
+            // console.log(bodies[0].copy.template)
+            this.ExplodeShape(bodies[0].copy, bodies[1].copy)
+            continue;
+        }
+
+        // console.log(bodies[0].copy.template + " " + bodies[1].copy.template)
+        if(bodies[0].copy.template == 'Bomb' && bodies[1].copy.template != 'WALL_TOP_TRIGGER'){
+            bodies[0].copy.Explode();
+            continue;
+        }
+        if( bodies[1].copy.template == 'Bomb' && bodies[0].copy.template != 'WALL_TOP_TRIGGER') {
+            bodies[1].copy.Explode();
+            continue;
+        }
+        
+        if(merge.includes(bodies[0].id)){
+            continue;
+        }
+        if(merge.includes(bodies[1].id)){
+            continue;
+        }
+
+
+        
+        // if(bodies[0].copy.template == 'walls' || bodies[1].copy.template == 'walls') {
+        //     continue;
+        // }
+        // if(bodies[0].isSensor || bodies[1].isSensor) {
+        //     continue;
+        // }
+        // if(bodies[0].copy.template == 'walls' || bodies[1].copy.template == 'walls') {
+        //     continue;
+        // }
+        // if(bodies[0].isSensor || bodies[1].isSensor) {
+        //     continue;
+        // }
+        // if(bodies[0].isStatic || bodies[1].isStatic) {
+        //     continue;
+        // }
+        // if(bodies[0].destroyed || bodies[1].destroyed) {
+        //     continue;
+        // }
+        // if(bodies[0] == undefined || bodies[1] == undefined) {
+        //     continue;
+        // }
+        // if(bodies[0] == null || bodies[1] == null) {
+        //     continue;
+        // }
+
+        if(bodies[0].copy.template == bodies[1].copy.template){
+            merge.push(bodies[0].id);
+            merge.push(bodies[1].id);
+
+            var pos1 = bodies[0].position;
+            var pos2 = bodies[1].position;
+            var pos = {
+                x : (pos1.x + pos2.x) / 2 ,
+                y : pos1.y > pos2.y ? pos1.y : pos2.y //(pos1.y + pos2.y) / 2
+            };
+            var curTex = Number.parseInt(bodies[0].copy.template);
+            var nexTex = (curTex + 1);
+
+            // console.log(bodies[0])
+            // console.log(bodies[1])
+            let shape1 = ct.templates.copy('MergePlaceholder', pos1.x, pos1.y);
+            let shape2 = ct.templates.copy('MergePlaceholder', pos2.x, pos2.y);
+            shape1.tex = "Mon_0" + curTex;
+            shape2.tex = "Mon_0" + curTex;
+            shape1.rotation = bodies[0].angle;
+            shape2.rotation = bodies[1].angle;
+
+            Matter.World.remove(ct.room.matterWorld, bodies[0]);
+            Matter.World.remove(ct.room.matterWorld, bodies[1]);
+            bodies[0].copy.kill = true;
+            bodies[1].copy.kill = true;
+
+            // this.score += curTex * 5;
+            let flyScore = ct.templates.copy('FlyScore', pos.x, pos.y);
+            flyScore.SCORE(stages[curTex].points);
+            sendMessage({
+                command: 'merge',
+                value: curTex
+                // score: this.score
+            });
+            if(this.Sound){
+                ct.sound.spawn('Sound_' + curTex);
+            }
+            let mergeParticle = ct.emitters.fire('Mon_Explode_' + curTex, pos.x, pos.y)
+
+            this.Move(shape1, pos);
+            this.Move(shape2, pos);
+
+            if(nexTex <= 9){  //bodies[0].copy.template != '6' && bodies[1].copy.template != '6'){
+                ct.u.wait(150)
+                .then(() => {
+                    let shape = this.SpawnShape(nexTex, pos.x, pos.y);
+                    shape.Vulnerable = true;
+                    mergeParticle.stop();
+                });
+            }
+            else{
+                ct.u.wait(150)
+                .then(() => {
+                    //this.SpawnShape(9, pos.x, pos.y);   
+                    mergeParticle.stop();
+                });
+            }
+        }        
+    }
+    // merge = [];
+}
+
+this.Move = (shape, pos) => {
+    ct.tween.add({
+        obj: shape,
+        fields: {
+            x: pos.x,
+            y: pos.y
+        },
+        duration: 150,
+        curve: ct.tween.easeOutQuart
+    }).then(() => {
+        shape.kill = true;
+    });
+}
+
+this.ExplodeShape = (shape, bomb) => {
+    let h = 0, v = 0;
+    if(shape.x < bomb.x){
+        h = -30;
+    }
+    else{
+        h = 30;
+    }
+    if(shape.y < bomb.y){
+        v = -30;
+    }
+    else{
+        // v = 70;
+        v = 0;
+    }
+    // console.log(shape + " " + v +" " + h)
+    ct.matter.launch(shape, h, v);
+    
+
+    // ct.u.wait(200).then(() => {
+    // })
+}
+
+this.PrimeBomb = () => {
+    this.BombPlay = true;
+    this.tempRand = this.rand;
+    this.rand = "Bomb";
+    // ct.templates.list['CurrentShape'][0].tex = "Bomb";
+    ct.templates.list['CurrentShape'][0]._tex.texture = this.GetTexture('bomb');
+
+    
+    this.Fuse = ct.emitters.append( ct.templates.list['CurrentShape'][0], 'Mon_Explode_Bomb_Fuse', {
+        position: {
+            x: 50,
+            y: -70
+        }
+    })
+    
+
+    if(this.Sound){
+        ct.sound.spawn('Sound_Fuse_Primed',{
+            loop:true,
+            volume:0.2
+        });
+    }
+}
+this.SwitchShape = () => {
+    this.tempRand = this.rand;
+    this.rand = this.NextRand;
+    this.NextRand = this.tempRand;
+    // ct.templates.list['CurrentShape'][0].tex = "Mon_0" + this.rand;
+    ct.templates.list['CurrentShape'][0]._tex.texture = this.GetTexture(this.rand);
+
+    if(this.Sound){
+        ct.sound.spawn('Sound_Switch');
+
+        sendMessage({
+            command: 'next',
+            value: this.NextRand
+            // score: this.score
+        });
+    }
+}
+this.ShareShape = () => {
+    ct.capture.screen("SHARE")
+}
+this.End = () => {
+    this.ended = true;
+    // console.log("END GAME");
+    ct.pixiApp.ticker.speed = 0.0
+    ct.room.matterEngine.timing.timeScale = 0.0
+    sendMessage({
+        command: 'full'
+    });
+}
+
+this.Restart = async () => {
+    ct.pixiApp.ticker.speed = 1
+    ct.room.matterEngine.timing.timeScale = 1
+    ct.sound.stop('Sound_BG')
+    await ct.rooms.restart();
+}
+}
+
+    },
+    isUi: false,
+    follow: false,
+    extends: {}
+}
+        
+ct.rooms.templates['WaitingRoom'] = {
+    name: 'WaitingRoom',
+    group: 'ungrouped',
+    width: 900,
+    height: 1289,
+    objects: JSON.parse('[{"x":906,"y":766.00292969,"opacity":1,"tint":16777215,"scale":{"x":0.5625,"y":16.56240845},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":-6,"y":766.00292969,"opacity":1,"tint":16777215,"scale":{"x":0.5625,"y":16.56240845},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":450,"y":1392,"opacity":1,"tint":16777215,"scale":{"x":14.8125,"y":3.75},"rotation":0,"exts":{},"customProperties":{},"template":"walls"},{"x":-106.5,"y":-36,"opacity":1,"tint":16777215,"scale":{"x":17.4375,"y":4.21875},"rotation":0,"exts":{},"customProperties":{},"template":"Placeholder"},{"x":450,"y":332,"opacity":1,"tint":16777215,"scale":{"x":14.8125,"y":0.125},"rotation":0,"exts":{},"customProperties":{},"template":"WALL_TOP_TRIGGER"}]'),
+    bgs: JSON.parse('[{"texture":"Minigame_bg_3","depth":0,"exts":{"movementX":0,"movementY":0,"parallaxX":1,"parallaxY":1,"repeat":"repeat-x","scaleX":1,"scaleY":1,"shiftX":0,"shiftY":245}}]'),
+    tiles: JSON.parse('[]'),
+    backgroundColor: '#7D93B5',
+    
+    onStep() {
+        
+    },
+    onDraw() {
+        
+    },
+    onLeave() {
+        
+    },
+    onCreate() {
+        
+    },
+    isUi: false,
+    follow: false,
+    extends: {}
+}
+        
+
+
+/**
+ * @namespace
+ */
+ct.styles = {
+    types: { },
+    /**
+     * Creates a new style with a given name.
+     * Technically, it just writes `data` to `ct.styles.types`
+     */
+    new(name, styleTemplate) {
+        ct.styles.types[name] = styleTemplate;
+        return styleTemplate;
+    },
+    /**
+     * Returns a style of a given name. The actual behavior strongly depends on `copy` parameter.
+     * @param {string} name The name of the style to load
+     * @param {boolean|Object} [copy] If not set, returns the source style object.
+     * Editing it will affect all new style calls.
+     * When set to `true`, will create a new object, which you can safely modify
+     * without affecting the source style.
+     * When set to an object, this will create a new object as well,
+     * augmenting it with given properties.
+     * @returns {object} The resulting style
+     */
+    get(name, copy) {
+        if (copy === true) {
+            return ct.u.ext({}, ct.styles.types[name]);
+        }
+        if (copy) {
+            return ct.u.ext(ct.u.ext({}, ct.styles.types[name]), copy);
+        }
+        return ct.styles.types[name];
+    }
+};
+
+
+
+/**
+ * @typedef ISimplePoint
+ * @property {number} x
+ * @property {number} y
+ */
+
+/**
+ * @typedef ITandemSettings
+ *
+ * @property {ISimplePoint} [scale] Optional scaling object with `x` and `y` parameters.
+ * @property {ISimplePoint} [position] Set this to additionally shift the emitter tandem relative
+ * to the copy it was attached to, or relative to the copy it follows.
+ * @property {number} [prewarmDelay] Optional; if less than 0, it will prewarm the emitter tandem,
+ * meaning that it will simulate a given number of seconds before
+ * showing particles in the world. If greater than 0, will postpone
+ * the effect for the specified number of seconds.
+ * @property {number} [tint] Optional tint to the whole effect.
+ * @property {number} [alpha] Optional opacity set to the whole effect.
+ * @property {number} [rotation] Optional rotation in radians.
+ * @property {number} [angle] Optional rotation in degrees.
+ * @property {boolean} [isUi] If set to true, will use the time scale of UI layers. This affects
+ * how an effect is simulated during slowmo effects and game pause.
+ * @property {number} [depth] The depth of the tandem. Defaults to Infinity
+ * (will overlay everything).
+ * @property {Room} [room] The room to attach the effect to.
+ * Defaults to the current main room (ct.room); has no effect if attached to a copy.
+ */
+
+/**
+ * A class for displaying and managing a collection of particle emitters.
+ *
+ * @property {boolean} frozen If set to true, the tandem will stop updating its emitters
+ * @property {Copy|DisplayObject} follow A copy to follow
+ * @extends PIXI.Container
+ */
+class EmitterTandem extends PIXI.Container {
+    /**
+     * Creates a new emitter tandem. This method should not be called directly;
+     * better use the methods of `ct.emitters`.
+     * @param {object} tandemData The template object of the tandem, as it was exported from ct.IDE.
+     * @param {ITandemSettings} opts Additional settings applied to the tandem
+     * @constructor
+     */
+    constructor(tandemData, opts) {
+        super();
+        this.emitters = [];
+        this.delayed = [];
+
+        for (const emt of tandemData) {
+            const inst = new PIXI.particles.Emitter(
+                this,
+                ct.res.getTexture(emt.texture),
+                emt.settings
+            );
+            const d = emt.settings.delay + opts.prewarmDelay;
+            if (d > 0) {
+                inst.emit = false;
+                this.delayed.push({
+                    value: d,
+                    emitter: inst
+                });
+            } else if (d < 0) {
+                inst.emit = true;
+                inst.update(-d);
+            } else {
+                inst.emit = true;
+            }
+            inst.initialDeltaPos = {
+                x: emt.settings.pos.x,
+                y: emt.settings.pos.y
+            };
+            this.emitters.push(inst);
+            inst.playOnce(() => {
+                this.emitters.splice(this.emitters.indexOf(inst), 1);
+            });
+        }
+        this.isUi = opts.isUi;
+        this.scale.x = opts.scale.x;
+        this.scale.y = opts.scale.y;
+        if (opts.rotation) {
+            this.rotation = opts.rotation;
+        } else if (opts.angle) {
+            this.angle = opts.angle;
+        }
+        this.deltaPosition = opts.position;
+        this.depth = opts.depth;
+        this.frozen = false;
+
+        if (this.isUi) {
+            ct.emitters.uiTandems.push(this);
+        } else {
+            ct.emitters.tandems.push(this);
+        }
+    }
+    /**
+     * A method for internal use; advances the particle simulation further
+     * according to either a UI ticker or ct.delta.
+     * @returns {void}
+     */
+    update() {
+        if (this.stopped) {
+            for (const emitter of this.emitters) {
+                if (!emitter.particleCount) {
+                    this.emitters.splice(this.emitters.indexOf(emitter), 1);
+                }
+            }
+        }
+        // eslint-disable-next-line no-underscore-dangle
+        if ((this.appendant && this.appendant._destroyed) || this.kill || !this.emitters.length) {
+            this.emit('done');
+            if (this.isUi) {
+                ct.emitters.uiTandems.splice(ct.emitters.uiTandems.indexOf(this), 1);
+            } else {
+                ct.emitters.tandems.splice(ct.emitters.tandems.indexOf(this), 1);
+            }
+            this.destroy();
+            return;
+        }
+        if (this.frozen) {
+            return;
+        }
+        const s = (this.isUi ? PIXI.Ticker.shared.elapsedMS : PIXI.Ticker.shared.deltaMS) / 1000;
+        for (const delayed of this.delayed) {
+            delayed.value -= s;
+            if (delayed.value <= 0) {
+                delayed.emitter.emit = true;
+                this.delayed.splice(this.delayed.indexOf(delayed), 1);
+            }
+        }
+        for (const emt of this.emitters) {
+            if (this.delayed.find(delayed => delayed.emitter === emt)) {
+                continue;
+            }
+            emt.update(s);
+        }
+        if (this.follow) {
+            this.updateFollow();
+        }
+    }
+    /**
+     * Stops spawning new particles, then destroys itself.
+     * Can be fired only once, otherwise it will log a warning.
+     * @returns {void}
+     */
+    stop() {
+        if (this.stopped) {
+            // eslint-disable-next-line no-console
+            console.trace('[ct.emitters] An attempt to stop an already stopped emitter tandem. Continuing…');
+            return;
+        }
+        this.stopped = true;
+        for (const emt of this.emitters) {
+            emt.emit = false;
+        }
+        this.delayed = [];
+    }
+    /**
+     * Stops spawning new particles, but continues simulation and allows to resume the effect later
+     * with `emitter.resume();`
+     * @returns {void}
+     */
+    pause() {
+        for (const emt of this.emitters) {
+            if (emt.maxParticles !== 0) {
+                emt.oldMaxParticles = emt.maxParticles;
+                emt.maxParticles = 0;
+            }
+        }
+    }
+    /**
+     * Resumes previously paused effect.
+     * @returns {void}
+     */
+    resume() {
+        for (const emt of this.emitters) {
+            emt.maxParticles = emt.oldMaxParticles || emt.maxParticles;
+        }
+    }
+    /**
+     * Removes all the particles from the tandem, but continues spawning new ones.
+     * @returns {void}
+     */
+    clear() {
+        for (const emt of this.emitters) {
+            emt.cleanup();
+        }
+    }
+
+    updateFollow() {
+        if (!this.follow) {
+            return;
+        }
+        if (this.follow.kill || !this.follow.scale) {
+            this.follow = null;
+            this.stop();
+            return;
+        }
+        const delta = ct.u.rotate(
+            this.deltaPosition.x * this.follow.scale.x,
+            this.deltaPosition.y * this.follow.scale.y,
+            this.follow.angle
+        );
+        for (const emitter of this.emitters) {
+            emitter.updateOwnerPos(this.follow.x + delta.x, this.follow.y + delta.y);
+            const ownDelta = ct.u.rotate(
+                emitter.initialDeltaPos.x * this.follow.scale.x,
+                emitter.initialDeltaPos.y * this.follow.scale.y,
+                this.follow.angle
+            );
+            emitter.updateSpawnPos(ownDelta.x, ownDelta.y);
+        }
+    }
+}
+
+(function emittersAddon() {
+    const defaultSettings = {
+        prewarmDelay: 0,
+        scale: {
+            x: 1,
+            y: 1
+        },
+        tint: 0xffffff,
+        alpha: 1,
+        position: {
+            x: 0,
+            y: 0
+        },
+        isUi: false,
+        depth: Infinity
+    };
+
+    /**
+     * @namespace
+     */
+    ct.emitters = {
+        /**
+         * A map of existing emitter templates.
+         * @type Array<object>
+         */
+        templates: [{
+    "Mon_Trail_0": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.8,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F6E6BA",
+                            "time": 0
+                        },
+                        {
+                            "value": "F6E6BA",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": true
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Trail_1": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.78,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "FFDC00",
+                            "time": 0
+                        },
+                        {
+                            "value": "FFDC00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": true
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 50
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Trail_2": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.79,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F76A2F",
+                            "time": 0
+                        },
+                        {
+                            "value": "F76A2F",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 30
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Trail_3": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.79,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "9AFA32",
+                            "time": 0
+                        },
+                        {
+                            "value": "9AFA32",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 30
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Trail_4": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.79,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "7AE292",
+                            "time": 0
+                        },
+                        {
+                            "value": "7AE292",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 30
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Explode_0": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 1,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F4C952",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "F4C952"
+                        },
+                        {
+                            "value": "F4C952",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 200,
+                            "time": 0
+                        },
+                        {
+                            "value": 100,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 20,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.01,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 1,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F6E6BA",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "F6E6BA"
+                        },
+                        {
+                            "value": "F6E6BA",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 200,
+                            "time": 0
+                        },
+                        {
+                            "value": 100,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 20,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01,
+                "minimumSpeedMultiplier": 0.01
+            }
+        }
+    ],
+    "Mon_Explode_1": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 1.2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "D2B607",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "D2B607"
+                        },
+                        {
+                            "value": "D2B607",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 250,
+                            "time": 0
+                        },
+                        {
+                            "value": 150,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.01,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 1.2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "FFDC00",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "FFDC00"
+                        },
+                        {
+                            "value": "FFDC00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 250,
+                            "time": 0
+                        },
+                        {
+                            "value": 150,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01,
+                "minimumSpeedMultiplier": 0.01
+            }
+        }
+    ],
+    "Mon_Explode_2": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "B03908",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "B03908"
+                        },
+                        {
+                            "value": "B03908",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 300,
+                            "time": 0
+                        },
+                        {
+                            "value": 200,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.09,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.12
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F76A2F",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "F76A2F"
+                        },
+                        {
+                            "value": "F76A2F",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 300,
+                            "time": 0
+                        },
+                        {
+                            "value": 200,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.12,
+                "minimumSpeedMultiplier": 0.11
+            }
+        }
+    ],
+    "Mon_Explode_3": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "2F8802",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "2F8802"
+                        },
+                        {
+                            "value": "2F8802",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 350,
+                            "time": 0
+                        },
+                        {
+                            "value": 200,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.26,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.25
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "9AFA32",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "9AFA32"
+                        },
+                        {
+                            "value": "9AFA32",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 350,
+                            "time": 0
+                        },
+                        {
+                            "value": 200,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.22,
+                "minimumSpeedMultiplier": 0.24
+            }
+        }
+    ],
+    "Mon_Explode_4": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "24946B",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "24946B"
+                        },
+                        {
+                            "value": "24946B",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 400,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.34,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.35
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "79E291",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "79E291"
+                        },
+                        {
+                            "value": "79E291",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 400,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.32,
+                "minimumSpeedMultiplier": 0.28
+            }
+        }
+    ],
+    "Mon_Explode_5": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "669CED",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "669CED"
+                        },
+                        {
+                            "value": "669CED",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 500,
+                            "time": 0
+                        },
+                        {
+                            "value": 400,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.41,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.45
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "7BF7ED",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "7BF7ED"
+                        },
+                        {
+                            "value": "7BF7ED",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 500,
+                            "time": 0
+                        },
+                        {
+                            "value": 400,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.46,
+                "minimumSpeedMultiplier": 0.35
+            }
+        }
+    ],
+    "Mon_Explode_6": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "5D53AC",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "5D53AC"
+                        },
+                        {
+                            "value": "5D53AC",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 600,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.56,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.55
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "3D88F7",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "3D88F7"
+                        },
+                        {
+                            "value": "3D88F7",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 590,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.56,
+                "minimumSpeedMultiplier": 0.51
+            }
+        }
+    ],
+    "Mon_Explode_7": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "8A0DC6",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "8A0DC6"
+                        },
+                        {
+                            "value": "8A0DC6",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 500,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.56,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.63
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "CE7AFF",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "CE7AFF"
+                        },
+                        {
+                            "value": "CE7AFF",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 500,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.66,
+                "minimumSpeedMultiplier": 0.58
+            }
+        }
+    ],
+    "Mon_Explode_8": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "6A029B",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "6A029B"
+                        },
+                        {
+                            "value": "6A029B",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 600,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 20,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.75,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.61
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "F777A1",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "F777A1"
+                        },
+                        {
+                            "value": "F777A1",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 500,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 20,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1200
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.6,
+                "minimumSpeedMultiplier": 0.66
+            }
+        }
+    ],
+    "Mon_Explode_9": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 4,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "0058FF",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "0058FF"
+                        },
+                        {
+                            "value": "0058FF",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 1000,
+                            "time": 0
+                        },
+                        {
+                            "value": 500,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 30,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -2500
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 1,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.85
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 4,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "B00036",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "B00036"
+                        },
+                        {
+                            "value": "B00036",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 800,
+                            "time": 0
+                        },
+                        {
+                            "value": 420,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 20,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 30,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -2500
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 18,
+                "minimumScaleMultiplier": 0.87,
+                "minimumSpeedMultiplier": 1
+            }
+        }
+    ],
+    "Mon_Trail_Bomb": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.8,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.5,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "696969",
+                            "time": 0
+                        },
+                        {
+                            "value": "F6F6F6",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 20,
+                            "time": 0
+                        },
+                        {
+                            "value": 20,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": true
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.01,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.49
+            }
+        }
+    ],
+    "Mon_Explode_Bomb": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 0.985
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "381200",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "381200"
+                        },
+                        {
+                            "value": "381200",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 800,
+                            "time": 0
+                        },
+                        {
+                            "value": 500,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 0,
+                "emitterLifetime": 0,
+                "maxParticles": 50,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1400
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 200,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumSpeedMultiplier": 0.78,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.63
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.2,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "FF8C00",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "FF8C00"
+                        },
+                        {
+                            "value": "FF8C00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 600,
+                            "time": 0
+                        },
+                        {
+                            "value": 300,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 30,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -1000
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.66,
+                "minimumSpeedMultiplier": 0.75
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 1,
+                            "time": 0.5
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 3,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.3,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "EEFF00",
+                            "time": 0
+                        },
+                        {
+                            "value": "EEFF00",
+                            "time": 0.5
+                        },
+                        {
+                            "value": "EEFF00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 200,
+                            "time": 0
+                        },
+                        {
+                            "value": 100,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 10,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 10,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": -800
+                },
+                "addAtBack": false,
+                "spawnType": "burst",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "minimumScaleMultiplier": 0.68,
+                "particleSpacing": 36
+            }
+        },
+        {
+            "texture": "Confetti_04",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 1,
+                            "time": 0.5
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.15000000000000002,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.03999999999999998,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "474747",
+                            "time": 0
+                        },
+                        {
+                            "value": "474747",
+                            "time": 0.5
+                        },
+                        {
+                            "value": "474747",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "multiply",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 400,
+                            "time": 0
+                        },
+                        {
+                            "value": 100,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 15,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 15,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 800
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01,
+                "minimumSpeedMultiplier": 0.05
+            }
+        },
+        {
+            "texture": "Star_11",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.685,
+                            "time": 0.2
+                        },
+                        {
+                            "time": 0.6,
+                            "value": 0.0050000000000000044
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.2,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "ffffff",
+                            "time": 0
+                        },
+                        {
+                            "value": "ffffff",
+                            "time": 0.2
+                        },
+                        {
+                            "time": 0.6,
+                            "value": "FFFFFF"
+                        },
+                        {
+                            "value": "ffffff",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 45
+                },
+                "rotationAcceleration": 30,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 2,
+                "spawnChance": 1,
+                "particlesPerWave": 10,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 10,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 0
+                },
+                "addAtBack": false,
+                "spawnType": "point",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 32
+                },
+                "delay": 0,
+                "particleSpacing": 36,
+                "minimumScaleMultiplier": 0.49,
+                "noRotation": false
+            }
+        }
+    ],
+    "Mon_Explode_Bomb_Fuse": [
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0.015000000000000013,
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": 1
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.4,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.1,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "FF8C00",
+                            "time": 0
+                        },
+                        {
+                            "time": 0.4,
+                            "value": "FF8C00"
+                        },
+                        {
+                            "value": "FF8C00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 150,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.1
+                },
+                "frequency": 0.001,
+                "spawnChance": 1,
+                "particlesPerWave": 1,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 10,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 96
+                },
+                "addAtBack": false,
+                "spawnType": "circle",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 1,
+                    "minR": 100
+                },
+                "delay": 0,
+                "particleSpacing": 24,
+                "minimumScaleMultiplier": 0.01,
+                "minimumSpeedMultiplier": 0.01
+            }
+        },
+        {
+            "texture": "Mon-Part-Circle01",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 1,
+                            "time": 0.5
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.4,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.1,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "EEFF00",
+                            "time": 0
+                        },
+                        {
+                            "value": "EEFF00",
+                            "time": 0.5
+                        },
+                        {
+                            "value": "EEFF00",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "normal",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 150,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 0
+                },
+                "rotationAcceleration": 0,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.1
+                },
+                "frequency": 0.001,
+                "spawnChance": 1,
+                "particlesPerWave": 23,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 15,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 100
+                },
+                "addAtBack": false,
+                "spawnType": "circle",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 1,
+                    "minR": 100
+                },
+                "delay": 0,
+                "minimumScaleMultiplier": 0.01,
+                "particleSpacing": 15.652173913043478,
+                "minimumSpeedMultiplier": 0.01
+            }
+        },
+        {
+            "texture": "Star_11",
+            "settings": {
+                "alpha": {
+                    "list": [
+                        {
+                            "value": 0,
+                            "time": 0
+                        },
+                        {
+                            "value": 0.685,
+                            "time": 0.2
+                        },
+                        {
+                            "time": 0.6,
+                            "value": 0.0050000000000000044
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "scale": {
+                    "list": [
+                        {
+                            "value": 0.1,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "color": {
+                    "list": [
+                        {
+                            "value": "FFE100",
+                            "time": 0
+                        },
+                        {
+                            "value": "FFE100",
+                            "time": 0.2
+                        },
+                        {
+                            "time": 0.6,
+                            "value": "FFE100"
+                        },
+                        {
+                            "value": "ffffff",
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "blendMode": "screen",
+                "speed": {
+                    "list": [
+                        {
+                            "value": 150,
+                            "time": 0
+                        },
+                        {
+                            "value": 0,
+                            "time": 1
+                        }
+                    ],
+                    "isStepped": false
+                },
+                "startRotation": {
+                    "min": 0,
+                    "max": 360
+                },
+                "rotationSpeed": {
+                    "min": 0,
+                    "max": 45
+                },
+                "rotationAcceleration": 30,
+                "lifetime": {
+                    "min": 0.5,
+                    "max": 0.5
+                },
+                "frequency": 0.001,
+                "spawnChance": 0.35,
+                "particlesPerWave": 2,
+                "angleStart": 270,
+                "emitterLifetime": 0,
+                "maxParticles": 2,
+                "maxSpeed": 0,
+                "pos": {
+                    "x": 0,
+                    "y": 0
+                },
+                "acceleration": {
+                    "x": 0,
+                    "y": 100
+                },
+                "addAtBack": false,
+                "spawnType": "circle",
+                "spawnCircle": {
+                    "x": 0,
+                    "y": 0,
+                    "r": 1,
+                    "minR": 100
+                },
+                "delay": 0,
+                "particleSpacing": 180,
+                "minimumScaleMultiplier": 0.01,
+                "noRotation": false,
+                "minimumSpeedMultiplier": 0.01
+            }
+        }
+    ]
+}][0] || {},
+        /**
+         * A list of all the emitters that are simulated in UI time scale.
+         * @type Array<EmitterTandem>
+         */
+        uiTandems: [],
+        /**
+         * A list of all the emitters that are simulated in a regular game loop.
+         * @type Array<EmitterTandem>
+         */
+        tandems: [],
+        /**
+         * Creates a new emitter tandem in the world at the given position.
+         * @param {string} name The name of the tandem template, as it was named in ct.IDE.
+         * @param {number} x The x coordinate of the new tandem.
+         * @param {number} y The y coordinate of the new tandem.
+         * @param {ITandemSettings} [settings] Additional configs for the created tandem.
+         * @return {EmitterTandem} The newly created tandem.
+         */
+        fire(name, x, y, settings) {
+            if (!(name in ct.emitters.templates)) {
+                throw new Error(`[ct.emitters] An attempt to create a non-existent emitter ${name}.`);
+            }
+            const opts = Object.assign({}, defaultSettings, settings);
+            const tandem = new EmitterTandem(ct.emitters.templates[name], opts);
+            tandem.x = x;
+            tandem.y = y;
+            if (!opts.room) {
+                ct.room.addChild(tandem);
+                tandem.isUi = ct.room.isUi;
+            } else {
+                opts.room.addChild(tandem);
+                tandem.isUi = opts.room.isUi;
+            }
+            return tandem;
+        },
+        /**
+         * Creates a new emitter tandem and attaches it to the given copy
+         * (or to any other DisplayObject).
+         * @param {Copy|PIXI.DisplayObject} parent The parent of the created tandem.
+         * @param {string} name The name of the tandem template.
+         * @param {ITandemSettings} [settings] Additional options for the created tandem.
+         * @returns {EmitterTandem} The newly created emitter tandem.
+         */
+        append(parent, name, settings) {
+            if (!(name in ct.emitters.templates)) {
+                throw new Error(`[ct.emitters] An attempt to create a non-existent emitter ${name}.`);
+            }
+            const opts = Object.assign({}, defaultSettings, settings);
+            const tandem = new EmitterTandem(ct.emitters.templates[name], opts);
+            if (opts.position) {
+                tandem.x = opts.position.x;
+                tandem.y = opts.position.y;
+            }
+            tandem.appendant = parent;
+            parent.addChild(tandem);
+            return tandem;
+        },
+        /**
+         * Creates a new emitter tandem in the world, and configs it so it will follow a given copy.
+         * This includes handling position, scale, and rotation.
+         * @param {Copy|PIXI.DisplayObject} parent The copy to follow.
+         * @param {string} name The name of the tandem template.
+         * @param {ITandemSettings} [settings] Additional options for the created tandem.
+         * @returns {EmitterTandem} The newly created emitter tandem.
+         */
+        follow(parent, name, settings) {
+            if (!(name in ct.emitters.templates)) {
+                throw new Error(`[ct.emitters] An attempt to create a non-existent emitter ${name}.`);
+            }
+            const opts = Object.assign({}, defaultSettings, settings);
+            const tandem = new EmitterTandem(ct.emitters.templates[name], opts);
+            tandem.follow = parent;
+            tandem.updateFollow();
+            if (!('getRoom' in parent)) {
+                ct.room.addChild(tandem);
+            } else {
+                parent.getRoom().addChild(tandem);
+            }
+            return tandem;
+        }
+    };
+
+    PIXI.Ticker.shared.add(() => {
+        for (const tandem of ct.emitters.uiTandems) {
+            tandem.update();
+        }
+        for (const tandem of ct.emitters.tandems) {
+            tandem.update();
+        }
+    });
+})();
+/**
+ * @extends {PIXI.AnimatedSprite}
+ * @class
+ * @property {string} template The name of the template from which the copy was created
+ * @property {IShapeTemplate} shape The collision shape of a copy
+ * @property {number} depth The relative position of a copy in a drawing stack.
+ * Higher values will draw the copy on top of those with lower ones
+ * @property {number} xprev The horizontal location of a copy in the previous frame
+ * @property {number} yprev The vertical location of a copy in the previous frame
+ * @property {number} xstart The starting location of a copy,
+ * meaning the point where it was created — either by placing it in a room with ct.IDE
+ * or by calling `ct.templates.copy`.
+ * @property {number} ystart The starting location of a copy,
+ * meaning the point where it was created — either by placing it in a room with ct.IDE
+ * or by calling `ct.templates.copy`.
+ * @property {number} hspeed The horizontal speed of a copy
+ * @property {number} vspeed The vertical speed of a copy
+ * @property {number} gravity The acceleration that pulls a copy at each frame
+ * @property {number} gravityDir The direction of acceleration that pulls a copy at each frame
+ * @property {number} depth The position of a copy in draw calls
+ * @property {boolean} kill If set to `true`, the copy will be destroyed by the end of a frame.
+ * @property {number} timer1 Time for the next run of the 1st timer, in seconds.
+ * @property {number} timer2 Time for the next run of the 2nd timer, in seconds.
+ * @property {number} timer3 Time for the next run of the 3rd timer, in seconds.
+ * @property {number} timer4 Time for the next run of the 4th timer, in seconds.
+ * @property {number} timer5 Time for the next run of the 5th timer, in seconds.
+ * @property {number} timer6 Time for the next run of the 6th timer, in seconds.
+ */
+const Copy = (function Copy() {
+    const textureAccessor = Symbol('texture');
+    const zeroDirectionAccessor = Symbol('zeroDirection');
+    const hspeedAccessor = Symbol('hspeed');
+    const vspeedAccessor = Symbol('vspeed');
+    let uid = 0;
+    class Copy extends PIXI.AnimatedSprite {
+        /**
+         * Creates an instance of Copy.
+         * @param {string} template The name of the template to copy
+         * @param {number} [x] The x coordinate of a new copy. Defaults to 0.
+         * @param {number} [y] The y coordinate of a new copy. Defaults to 0.
+         * @param {object} [exts] An optional object with additional properties
+         * that will exist prior to a copy's OnCreate event
+         * @param {PIXI.DisplayObject|Room} [container] A container to set as copy's parent
+         * before its OnCreate event. Defaults to ct.room.
+         * @memberof Copy
+         */
+        // eslint-disable-next-line complexity, max-lines-per-function
+        constructor(template, x, y, exts, container) {
+            container = container || ct.room;
+            var t;
+            if (template) {
+                if (!(template in ct.templates.templates)) {
+                    throw new Error(`[ct.templates] An attempt to create a copy of a non-existent template \`${template}\` detected. A typo?`);
+                }
+                t = ct.templates.templates[template];
+                if (t.texture && t.texture !== '-1') {
+                    const textures = ct.res.getTexture(t.texture);
+                    super(textures);
+                    this[textureAccessor] = t.texture;
+                    this.anchor.x = textures[0].defaultAnchor.x;
+                    this.anchor.y = textures[0].defaultAnchor.y;
+                } else {
+                    const emptyRect = new PIXI.Rectangle(0, 0, t.width || 1, t.height || 1);
+                    super([new PIXI.Texture(PIXI.Texture.EMPTY, emptyRect)]);
+                    this.anchor.x = t.anchorX || 0;
+                    this.anchor.y = t.anchorY || 0;
+                }
+                this.template = template;
+                this.parent = container;
+                this.blendMode = t.blendMode || PIXI.BLEND_MODES.NORMAL;
+                this.loop = t.loopAnimation;
+                this.animationSpeed = t.animationFPS / 60;
+                if (t.visible === false) { // ignore nullish values
+                    this.visible = false;
+                }
+                if (t.playAnimationOnStart) {
+                    this.play();
+                }
+                if (t.extends) {
+                    ct.u.ext(this, t.extends);
+                }
+            } else {
+                super([PIXI.Texture.EMPTY]);
+            }
+            // it is defined in main.js
+            // eslint-disable-next-line no-undef
+            this[copyTypeSymbol] = true;
+            this.position.set(x || 0, y || 0);
+            this.xprev = this.xstart = this.x;
+            this.yprev = this.ystart = this.y;
+            this[hspeedAccessor] = 0;
+            this[vspeedAccessor] = 0;
+            this[zeroDirectionAccessor] = 0;
+            this.speed = this.direction = this.gravity = 0;
+            this.gravityDir = 90;
+            this.depth = 0;
+            this.timer1 = this.timer2 = this.timer3 = this.timer4 = this.timer5 = this.timer6 = 0;
+            if (exts) {
+                ct.u.ext(this, exts);
+                if (exts.scaleX) {
+                    this.scale.x = exts.scaleX;
+                }
+                if (exts.scaleY) {
+                    this.scale.y = exts.scaleY;
+                }
+            }
+            this.uid = ++uid;
+            if (template) {
+                ct.u.ext(this, {
+                    template,
+                    depth: t.depth,
+                    onStep: t.onStep,
+                    onDraw: t.onDraw,
+                    onCreate: t.onCreate,
+                    onDestroy: t.onDestroy,
+                    shape: ct.res.getTextureShape(t.texture || -1)
+                });
+                if (exts && exts.depth !== void 0) {
+                    this.depth = exts.depth;
+                }
+                if (ct.templates.list[template]) {
+                    ct.templates.list[template].push(this);
+                } else {
+                    ct.templates.list[template] = [this];
+                }
+                this.onBeforeCreateModifier();
+                ct.templates.templates[template].onCreate.apply(this);
+            }
+            return this;
+        }
+
+        /**
+         * The name of the current copy's texture, or -1 for an empty texture.
+         * @param {string} value The name of the new texture
+         * @type {(string|number)}
+         */
+        set tex(value) {
+            if (this[textureAccessor] === value) {
+                return value;
+            }
+            var {playing} = this;
+            this.textures = ct.res.getTexture(value);
+            this[textureAccessor] = value;
+            this.shape = ct.res.getTextureShape(value);
+            this.anchor.x = this.textures[0].defaultAnchor.x;
+            this.anchor.y = this.textures[0].defaultAnchor.y;
+            if (playing) {
+                this.play();
+            }
+            return value;
+        }
+        get tex() {
+            return this[textureAccessor];
+        }
+
+        get speed() {
+            return Math.hypot(this.hspeed, this.vspeed);
+        }
+        /**
+         * The speed of a copy that is used in `this.move()` calls
+         * @param {number} value The new speed value
+         * @type {number}
+         */
+        set speed(value) {
+            if (value === 0) {
+                this[zeroDirectionAccessor] = this.direction;
+                this.hspeed = this.vspeed = 0;
+                return;
+            }
+            if (this.speed === 0) {
+                const restoredDir = this[zeroDirectionAccessor];
+                this[hspeedAccessor] = value * Math.cos(restoredDir * Math.PI / 180);
+                this[vspeedAccessor] = value * Math.sin(restoredDir * Math.PI / 180);
+                return;
+            }
+            var multiplier = value / this.speed;
+            this.hspeed *= multiplier;
+            this.vspeed *= multiplier;
+        }
+        get hspeed() {
+            return this[hspeedAccessor];
+        }
+        set hspeed(value) {
+            if (this.vspeed === 0 && value === 0) {
+                this[zeroDirectionAccessor] = this.direction;
+            }
+            this[hspeedAccessor] = value;
+            return value;
+        }
+        get vspeed() {
+            return this[vspeedAccessor];
+        }
+        set vspeed(value) {
+            if (this.hspeed === 0 && value === 0) {
+                this[zeroDirectionAccessor] = this.direction;
+            }
+            this[vspeedAccessor] = value;
+            return value;
+        }
+        get direction() {
+            if (this.speed === 0) {
+                return this[zeroDirectionAccessor];
+            }
+            return (Math.atan2(this.vspeed, this.hspeed) * 180 / Math.PI + 360) % 360;
+        }
+        /**
+         * The moving direction of the copy, in degrees, starting with 0 at the right side
+         * and going with 90 facing upwards, 180 facing left, 270 facing down.
+         * This parameter is used by `this.move()` call.
+         * @param {number} value New direction
+         * @type {number}
+         */
+        set direction(value) {
+            this[zeroDirectionAccessor] = value;
+            if (this.speed > 0) {
+                var speed = this.speed;
+                this.hspeed = speed * Math.cos(value * Math.PI / 180);
+                this.vspeed = speed * Math.sin(value * Math.PI / 180);
+            }
+            return value;
+        }
+
+        /**
+         * Performs a movement step, reading such parameters as `gravity`, `speed`, `direction`.
+         * @returns {void}
+         */
+        move() {
+            if (this.gravity) {
+                this.hspeed += this.gravity * ct.delta * Math.cos(this.gravityDir * Math.PI / 180);
+                this.vspeed += this.gravity * ct.delta * Math.sin(this.gravityDir * Math.PI / 180);
+            }
+            this.x += this.hspeed * ct.delta;
+            this.y += this.vspeed * ct.delta;
+        }
+        /**
+         * Adds a speed vector to the copy, accelerating it by a given delta speed
+         * in a given direction.
+         * @param {number} spd Additive speed
+         * @param {number} dir The direction in which to apply additional speed
+         * @returns {void}
+         */
+        addSpeed(spd, dir) {
+            this.hspeed += spd * Math.cos(dir * Math.PI / 180);
+            this.vspeed += spd * Math.sin(dir * Math.PI / 180);
+        }
+
+        /**
+         * Returns the room that owns the current copy
+         * @returns {Room} The room that owns the current copy
+         */
+        getRoom() {
+            let parent = this.parent;
+            while (!(parent instanceof Room)) {
+                parent = parent.parent;
+            }
+            return parent;
+        }
+
+        // eslint-disable-next-line class-methods-use-this
+        onBeforeCreateModifier() {
+            // Filled by ct.IDE and catmods
+            if (this.matterEnable) {
+    ct.matter.onCreate(this);
+}
+
+        }
+    }
+    return Copy;
+})();
+
+(function ctTemplateAddon(ct) {
+    const onCreateModifier = function () {
+        this.$chashes = ct.place.getHashes(this);
+for (const hash of this.$chashes) {
+    if (!(hash in ct.place.grid)) {
+        ct.place.grid[hash] = [this];
+    } else {
+        ct.place.grid[hash].push(this);
+    }
+}
+if ([false][0] && this instanceof ct.templates.Copy) {
+    this.$cDebugText = new PIXI.Text('Not initialized', {
+        fill: 0xffffff,
+        dropShadow: true,
+        dropShadowDistance: 2,
+        fontSize: [][0] || 16
+    });
+    this.$cDebugCollision = new PIXI.Graphics();
+    this.addChild(this.$cDebugCollision, this.$cDebugText);
+}
+
+    };
+
+    /**
+     * An object with properties and methods for manipulating templates and copies,
+     * mainly for finding particular copies and creating new ones.
+     * @namespace
+     */
+    ct.templates = {
+        Copy,
+        /**
+         * An object that contains arrays of copies of all templates.
+         * @type {Object.<string,Array<Copy>>}
+         */
+        list: {
+            BACKGROUND: [],
+            TILEMAP: []
+        },
+        /**
+         * A map of all the templates of templates exported from ct.IDE.
+         * @type {object}
+         */
+        templates: { },
+        /**
+         * Creates a new copy of a given template inside a specific room.
+         * @param {string} template The name of the template to use
+         * @param {number} [x] The x coordinate of a new copy. Defaults to 0.
+         * @param {number} [y] The y coordinate of a new copy. Defaults to 0.
+         * @param {Room} [room] The room to which add the copy.
+         * Defaults to the current room.
+         * @param {object} [exts] An optional object which parameters will be applied
+         * to the copy prior to its OnCreate event.
+         * @returns {Copy} the created copy.
+         */
+        copyIntoRoom(template, x = 0, y = 0, room, exts) {
+            // An advanced constructor. Returns a Copy
+            if (!room || !(room instanceof Room)) {
+                throw new Error(`Attempt to spawn a copy of template ${template} inside an invalid room. Room's value provided: ${room}`);
+            }
+            const obj = new Copy(template, x, y, exts);
+            room.addChild(obj);
+            ct.stack.push(obj);
+            onCreateModifier.apply(obj);
+            return obj;
+        },
+        /**
+         * Creates a new copy of a given template inside the current root room.
+         * A shorthand for `ct.templates.copyIntoRoom(template, x, y, ct.room, exts)`
+         * @param {string} template The name of the template to use
+         * @param {number} [x] The x coordinate of a new copy. Defaults to 0.
+         * @param {number} [y] The y coordinate of a new copy. Defaults to 0.
+         * @param {object} [exts] An optional object which parameters will be applied
+         * to the copy prior to its OnCreate event.
+         * @returns {Copy} the created copy.
+         */
+        copy(template, x = 0, y = 0, exts) {
+            return ct.templates.copyIntoRoom(template, x, y, ct.room, exts);
+        },
+        /**
+         * Applies a function to each copy in the current room
+         * @param {Function} func The function to apply
+         * @returns {void}
+         */
+        each(func) {
+            for (const copy of ct.stack) {
+                if (!(copy instanceof Copy)) {
+                    continue; // Skip backgrounds and tile layers
+                }
+                func.apply(copy, this);
+            }
+        },
+        /**
+         * Applies a function to a given object (e.g. to a copy)
+         * @param {Copy} obj The copy to perform function upon.
+         * @param {Function} function The function to be applied.
+         */
+        withCopy(obj, func) {
+            func.apply(obj, this);
+        },
+        /**
+         * Applies a function to every copy of the given template name
+         * @param {string} template The name of the template to perform function upon.
+         * @param {Function} function The function to be applied.
+         */
+        withTemplate(template, func) {
+            for (const copy of ct.templates.list[template]) {
+                func.apply(copy, this);
+            }
+        },
+        /**
+         * Checks whether there are any copies of this template's name.
+         * Will throw an error if you pass an invalid template name.
+         * @param {string} template The name of a template to check.
+         * @returns {boolean} Returns `true` if at least one copy exists in a room;
+         * `false` otherwise.
+         */
+        exists(template) {
+            if (!(template in ct.templates.templates)) {
+                throw new Error(`[ct.templates] ct.templates.exists: There is no such template ${template}.`);
+            }
+            return ct.templates.list[template].length > 0;
+        },
+        /*
+         * ⚠ Actual typings for this is in src\typedefs\ct.js\ct.templates.d.ts ⚠
+         * Checks whether a given object exists in game's world.
+         * Intended to be applied to copies, but may be used with other PIXI entities.
+         * @param {Copy|PIXI.DisplayObject|any} obj The copy which existence needs to be checked.
+         * @returns {boolean} Returns `true` if a copy exists; `false` otherwise.
+         */
+        valid(obj) {
+            if (obj instanceof Copy) {
+                return !obj.kill;
+            }
+            if (obj instanceof PIXI.DisplayObject) {
+                return Boolean(obj.position);
+            }
+            return Boolean(obj);
+        },
+        /*
+         * ⚠ Actual typings for this is in src\typedefs\ct.js\ct.templates.d.ts ⚠
+         * Checks whether a given object is a ct.js copy.
+         * @param {any} obj The object which needs to be checked.
+         * @returns {boolean} Returns `true` if the passed object is a copy; `false` otherwise.
+         */
+        isCopy(obj) {
+            return obj instanceof Copy;
+        }
+    };
+
+    
+ct.templates.templates["walls"] = {
+    depth: 20,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "wall",
+    onStep: function () {
+        /* template walls — core_OnStep (On frame start event) */
+{
+this.move();
+this.kill = false;
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        /* template walls — core_OnDestroy (On destroy event) */
+{
+console.log("CONTINUE")
+}
+
+    },
+    onCreate: function () {
+        /* template walls — core_OnCreate (On create event) */
+{
+
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterStatic": true,
+    "matterDensity": 9999,
+    "matterFriction": 0.4,
+    "matterRestitution": 0.2,
+    "matterConstraint": "none"
+}
+};
+ct.templates.list['walls'] = [];
+        
+ct.templates.templates["1"] = {
+    depth: 1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 2,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_01",
+    onStep: function () {
+        /* template 1 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 1 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 1 — core_OnCreate (On create event) */
+{
+
+
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+ct.u.wait(ct.room.TRAIL_TIME)
+.then(() => {
+    if(this.trail){
+        this.trail.pause();
+    }
+})
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['1'] = [];
+        
+ct.templates.templates["2"] = {
+    depth: 1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_02",
+    onStep: function () {
+        /* template 2 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 2 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 2 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+ct.u.wait(ct.room.TRAIL_TIME)
+.then(() => {
+    if(this.trail){
+        this.trail.pause();
+    }
+})
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['2'] = [];
+        
+ct.templates.templates["3"] = {
+    depth: 1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_03",
+    onStep: function () {
+        /* template 3 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 3 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 3 — core_OnCreate (On create event) */
+{
+
+
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+ct.u.wait(ct.room.TRAIL_TIME)
+.then(() => {
+    if(this.trail){
+        this.trail.pause();
+    }
+})
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['3'] = [];
+        
+ct.templates.templates["4"] = {
+    depth: 1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_04",
+    onStep: function () {
+        /* template 4 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 4 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 4 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+ct.u.wait(ct.room.TRAIL_TIME)
+.then(() => {
+    if(this.trail){
+        this.trail.pause();
+    }
+})
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    // console.log("DIE TIMER TREIGGER")
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        // console.log("DIE TIMER END")
+        // console.log(this.dieTimer)
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['4'] = [];
+        
+ct.templates.templates["5"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_05",
+    onStep: function () {
+        /* template 5 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 5 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 5 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['5'] = [];
+        
+ct.templates.templates["6"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_06",
+    onStep: function () {
+        /* template 6 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 6 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 6 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+
+this.CollsionSound = 0;
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['6'] = [];
+        
+ct.templates.templates["NextShape"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    
+    onStep: function () {
+        /* template NextShape — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        /* template NextShape — core_OnDraw (On frame end event) */
+{
+// this.scale.set(2,2);
+
+if(ct.room.NextRand != undefined){
+    // this.tex = ct.room.NextRand.toString();
+
+    // this.Base.setTexture(ct.res.getTexture(ct.room.NextRand.toString(), 0));
+
+    this.Base.texture = ct.room.GetTexture(ct.room.NextRand);
+    
+}
+}
+
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template NextShape — core_OnCreate (On create event) */
+{
+const skewStyle = new PIXI.TextStyle({
+    fontFamily: 'sans-serif',
+    // dropShadow: true,
+    // dropShadowAlpha: 0.8,
+    // dropShadowAngle: 2,
+    // dropShadowBlur: 4,
+    // dropShadowColor: '0x111111',
+    // dropShadowDistance: 8,
+    fill: ['#000000'],
+    // stroke: '#000000',
+    fontSize: 30,
+    // fontWeight: 'bolder',
+    // lineJoin: 'round',
+    // strokeThickness: 4,
+});
+
+this.label = new PIXI.Text('NEXT', skewStyle);
+this.label.anchor.set(0.5);
+this.label.position.x -= 120;
+this.addChild(this.label);
+
+
+this.Base = new PIXI.Sprite();
+this.Base.anchor.set(0.5);
+
+this.addChild(this.Base)
+}
+
+    },
+    extends: {}
+};
+ct.templates.list['NextShape'] = [];
+        
+ct.templates.templates["CurrentShape"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    
+    onStep: function () {
+        /* template CurrentShape — core_OnStep (On frame start event) */
+{
+this.move();
+}
+/* template CurrentShape — core_OnActionDown (OnActionDown event) */
+
+if (ct.actions['Press'].down) {
+    let value = ct.actions['Press'].value;
+    
+if (!ct.room.Press || !this.X_BOUNDS || !detectMob()) return;
+
+this.y = ct.room.FLOOR_HEIGHT ;
+
+this.deltaX = ct.room.lastPosX - ct.pointer.x;
+console.log("PRESS DOWN " + this.deltaX + " " + ct.room.lastPosX + " " + ct.pointer.x);
+this.x = ct.u.clamp(this.X_BOUNDS.L, this.x - this.deltaX , this.X_BOUNDS.R);
+
+ct.room.lastPosX = ct.pointer.x;
+
+}
+/* template CurrentShape — core_OnActionRelease (OnActionRelease event) */
+
+if (ct.actions['Press'].released) {
+    
+ct.room.Press = false;
+
+console.log("RELEASE")
+
+
+}
+
+    },
+    onDraw: function () {
+        /* template CurrentShape — core_OnDraw (On frame end event) */
+{
+if (!this.X_BOUNDS || detectMob()) return
+
+
+this.x =  ct.u.clamp(this.X_BOUNDS.L, ct.pointer.x || 444, this.X_BOUNDS.R);
+
+}
+
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template CurrentShape — core_OnCreate (On create event) */
+{
+
+ct.room.lastPosX = 0;
+this._scale = 900;
+
+
+this.pointer = new PIXI.Sprite(ct.res.getTexture('pointer', 0));
+this.pointer.y += 180;
+
+this.addChild(this.pointer);
+
+// this.pointer.visible = false;
+
+ct.u.wait(100).then(() => {
+    if(ct.room.NextRand != undefined){
+        this._tex = new PIXI.Sprite(ct.room.GetTexture(ct.room.rand));
+        this.addChild(this._tex);
+    }
+    this.X_BOUNDS = ct.room.X_BOUNDS(ct.room.rand)
+});
+
+
+
+
+// const pointer = ct.templates.copy('pointer');
+// pointer.y += 200;
+// this.addChild(pointer);
+}
+
+    },
+    extends: {}
+};
+ct.templates.list['CurrentShape'] = [];
+        
+ct.templates.templates["MergePlaceholder"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    
+    onStep: function () {
+        /* template MergePlaceholder — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        
+    },
+    extends: {}
+};
+ct.templates.list['MergePlaceholder'] = [];
+        
+ct.templates.templates["Score"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    
+    onStep: function () {
+        /* template Score — core_OnStep (On frame start event) */
+{
+this.move();
+
+}
+
+    },
+    onDraw: function () {
+        /* template Score — core_OnDraw (On frame end event) */
+{
+this.label.text = ct.room.score;
+}
+
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template Score — core_OnCreate (On create event) */
+{
+const skewStyle = new PIXI.TextStyle({
+    fontFamily: 'sans-serif',
+    dropShadow: true,
+    dropShadowAlpha: 0.8,
+    dropShadowAngle: 2.1,
+    dropShadowBlur: 6,
+    dropShadowColor: '0x808080',
+    dropShadowDistance: 10,
+    fill: ['#ffffff'],
+    // stroke: '#000000',
+    fontSize: 80,
+    fontWeight: 'bolder',
+    lineJoin: 'round',
+    // strokeThickness: 8,
+});
+
+this.label = new PIXI.Text('0', skewStyle);
+this.label.anchor.set(0,0.5);
+// this.label.interactive = true;
+// this.label.buttonMode = true;
+
+// this.label.on('pointerdown', () => { 
+//     console.log("pointerdown")
+// })
+
+this.addChild(this.label);
+}
+
+    },
+    extends: {}
+};
+ct.templates.list['Score'] = [];
+        
+ct.templates.templates["7"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_07",
+    onStep: function () {
+        /* template 7 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 7 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 7 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+
+this.CollsionSound = 0;
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['7'] = [];
+        
+ct.templates.templates["8"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_08",
+    onStep: function () {
+        /* template 8 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 8 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+/* template 8 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+
+this.CollsionSound = 0
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['8'] = [];
+        
+ct.templates.templates["9"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: true,
+    loopAnimation: false,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_09",
+    onStep: function () {
+        /* template 9 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 9 — core_OnCreate (On create event) */
+{
+this.Vulnerable = false;
+
+ct.u.wait(ct.room.INVLULERABLE_TIME).then(() => {
+    this.Vulnerable = true;
+})
+
+
+this.CollsionSound = 0;
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+/* template 9 — core_OnAnimationComplete (OnAnimationComplete event) */
+
+this.onComplete = (function () {
+    
+ct.u.wait(ct.random.range(200, 400)).then(() => {
+    this.gotoAndStop(0);
+})
+ct.u.wait(ct.random.range(1600, 2000)).then(() => {
+    this.play();
+})
+
+}).bind(this);
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['9'] = [];
+        
+ct.templates.templates["0"] = {
+    depth: 1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "Mon_00",
+    onStep: function () {
+        /* template 0 — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template 0 — core_OnCreate (On create event) */
+{
+
+this.Vulnerable = false;
+ct.u.wait(ct.room.INVLULERABLE_TIME)
+.then(() => {
+    this.Vulnerable = true;
+})
+
+this.CollsionSound = 0;
+ct.u.wait(ct.room.TRAIL_TIME)
+.then(() => {
+    if(this.trail){
+        this.trail.pause();
+    }
+})
+
+this.dieTimer = false;
+this.dieTimerTrigger = () => {
+    ct.u.wait(ct.room.WARNING_TIME).then(() => {
+        if(this.dieTimer){
+            ct.room.End();
+        }
+    })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterRestitution": 0.2,
+    "matterFriction": 0.4,
+    "matterDensity": 0
+}
+};
+ct.templates.list['0'] = [];
+        
+ct.templates.templates["Minigame_bg"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "Minigame_bg_3",
+    onStep: function () {
+        /* template Minigame_bg — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        
+    },
+    extends: {}
+};
+ct.templates.list['Minigame_bg'] = [];
+        
+ct.templates.templates["Placeholder"] = {
+    depth: -1,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "Placeholder",
+    onStep: function () {
+        /* template Placeholder — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        
+    },
+    extends: {}
+};
+ct.templates.list['Placeholder'] = [];
+        
+ct.templates.templates["Bomb"] = {
+    depth: 5,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "Bomb",
+    onStep: function () {
+        /* template Bomb — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        /* template Bomb — core_OnDestroy (On destroy event) */
+{
+// ct.emitters.fire('FX_Burst', this.xprev, this.yprev, {
+//     tint: 0xFF85DA
+// });
+}
+
+    },
+    onCreate: function () {
+        /* template Bomb — core_OnCreate (On create event) */
+{
+
+sendMessage({
+    command: 'bombDroped'
+});
+
+if(ct.room.Sound){
+    ct.sound.spawn('Sound_BombDrop');
+}
+
+ct.room.Fuse.stop();
+const fuseEmitter = ct.emitters.append(this, 'Mon_Explode_Bomb_Fuse', {
+    position: {
+        x: 55,
+        y: -80
+    }
+})
+
+this.Exploded = false;
+this.Explode = () => {
+    if(this.Exploded) return;
+
+    this.Exploded = true;
+
+    ct.templates.copy('ImpactArea', this.x, this.y)
+    const forceArea = ct.templates.copy('ForceArea', this.x, this.y)
+    forceArea.alpha = 0.4;
+
+    ct.sound.stop('Sound_Fuse_Primed');
+    ct.sound.stop('Sound_BombDrop');
+    if(ct.room.Sound){
+        ct.sound.spawn('Sound_Explode', {
+            volume:0.5
+        });
+    }
+    
+    const xplode = ct.emitters.fire('Mon_Explode_Bomb', this.x, this.y);
+
+    ct.u.wait(100).then(()=>{
+        xplode.pause();
+        fuseEmitter.pause();
+        this.kill = true;
+    })
+}
+ct.matter.launch(this, 0, 10)
+// this.scale.set(2)
+}
+
+    },
+    extends: {
+    "matterEnable": true
+}
+};
+ct.templates.list['Bomb'] = [];
+        
+ct.templates.templates["WALL_TOP_TRIGGER"] = {
+    depth: 20,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "wall",
+    onStep: function () {
+        /* template WALL_TOP_TRIGGER — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        /* template WALL_TOP_TRIGGER — core_OnDraw (On frame end event) */
+{
+this.Flickering();
+}
+
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template WALL_TOP_TRIGGER — core_OnCreate (On create event) */
+{
+
+this.flicker = false;
+this.alpha = 0.1;
+// this.tint = 0xffffff;
+
+let flag = false;
+this.Flickering = () => {
+    if(flag) return;
+    if(!this.flicker) return;
+
+    flag = true;
+
+    this.tint = 0xff0000;
+    ct.tween.add({
+        obj: this,
+        fields: {
+            alpha: this.alpha == 1 ? 0.1 : 1
+        },
+        duration : 100
+    })
+    .then(() => {
+        flag = false;
+
+        if(this.alpha != 1){
+           
+            this.tint = 0xffffff; 
+            this.flicker = false;
+        }
+    })
+    // ct.u.wait(100).then(() => {
+    //     this.tint = this.tint == 0xffffff ? 0xff0000 : 0xffffff;
+    //     // Flickering();
+    //     flag = false;
+
+    //     if(this.tint == 0xffffff){
+    //         this.flicker = false;
+    //     }
+    // })
+}
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterStatic": true,
+    "matterDensity": 0,
+    "matterFriction": 0.4,
+    "matterRestitution": 0.2,
+    "matterConstraint": "none",
+    "matterSensor": true
+}
+};
+ct.templates.list['WALL_TOP_TRIGGER'] = [];
+        
+ct.templates.templates["ImpactArea"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "ImpactArea",
+    onStep: function () {
+        /* template ImpactArea — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template ImpactArea — core_OnCreate (On create event) */
+{
+ct.u.wait(200).then(() =>{
+    this.kill = true;
+})
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterStatic": true,
+    "matterSensor": true
+}
+};
+ct.templates.list['ImpactArea'] = [];
+        
+ct.templates.templates["ForceArea"] = {
+    depth: 0,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    texture: "forceArea",
+    onStep: function () {
+        /* template ForceArea — core_OnStep (On frame start event) */
+{
+this.move();
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template ForceArea — core_OnCreate (On create event) */
+{
+ct.u.wait(200).then(() =>{
+    this.kill = true;
+})
+}
+
+    },
+    extends: {
+    "matterEnable": true,
+    "matterStatic": true,
+    "matterSensor": true
+}
+};
+ct.templates.list['ForceArea'] = [];
+        
+ct.templates.templates["FlyScore"] = {
+    depth: 20,
+    blendMode: PIXI.BLEND_MODES.NORMAL,
+    animationFPS: 30,
+    playAnimationOnStart: false,
+    loopAnimation: true,
+    visible: true,
+    group: "ungrouped",
+    
+    onStep: function () {
+        /* template FlyScore — core_OnStep (On frame start event) */
+{
+this.move();
+
+}
+
+    },
+    onDraw: function () {
+        
+    },
+    onDestroy: function () {
+        
+    },
+    onCreate: function () {
+        /* template FlyScore — core_OnCreate (On create event) */
+{
+const skewStyle = new PIXI.TextStyle({
+    fontFamily: 'sans-serif',
+    dropShadow: true,
+    dropShadowAlpha: 0.8,
+    dropShadowAngle: 2.1,
+    dropShadowBlur: 6,
+    dropShadowColor: '0x808080',
+    dropShadowDistance: 10,
+    fill: ['#ffffff'],
+    // stroke: '#000000',
+    fontSize: 80,
+    fontWeight: 'bolder',
+    lineJoin: 'round',
+    // strokeThickness: 8,
+});
+this.label = new PIXI.Text('0', skewStyle);
+this.label.anchor.set(0.5);
+// this.label.interactive = true;
+// this.label.buttonMode = true;
+
+// this.label.on('pointerdown', () => { 
+//     console.log("pointerdown")
+// })
+
+this.scale.set(0);
+
+this.addChild(this.label);
+this.SCORE = (score) =>{
+    this.label.text = "+" + score;
+
+    ct.tween.add({
+        obj: this.scale,
+        fields: {
+            x: 1,
+            y: 1
+        },
+        duration: 200
+    }).then(() => {
+        ct.tween.add({
+        obj: this,
+        fields: {
+            alpha: 0
+        },
+        duration: 200
+    }).then(() => {
+        
+    })
+    })
+
+    ct.tween.add({
+        obj: this.position,
+        fields: {
+            y: this.y - 300
+        },
+        duration: 500,
+        curve: ct.tween.easeOutQuart
+    }).then(() => {
+        this.kill = true;
+    });
+}
+
+}
+
+    },
+    extends: {}
+};
+ct.templates.list['FlyScore'] = [];
+        
+    
+
+    ct.templates.beforeStep = function beforeStep() {
+        
+    };
+    ct.templates.afterStep = function afterStep() {
+        
+    };
+    ct.templates.beforeDraw = function beforeDraw() {
+        if ([false][0] && this instanceof ct.templates.Copy) {
+    const inverse = this.transform.localTransform.clone().invert();
+    this.$cDebugCollision.transform.setFromMatrix(inverse);
+    this.$cDebugCollision.position.set(0, 0);
+    this.$cDebugText.transform.setFromMatrix(inverse);
+    this.$cDebugText.position.set(0, 0);
+
+    const newtext = `Partitions: ${this.$chashes.join(', ')}
+CGroup: ${this.cgroup || 'unset'}
+Shape: ${(this._shape && this._shape.__type) || 'unused'}`;
+    if (this.$cDebugText.text !== newtext) {
+        this.$cDebugText.text = newtext;
+    }
+    this.$cDebugCollision
+    .clear();
+    ct.place.drawDebugGraphic.apply(this);
+    this.$cHadCollision = false;
+}
+
+    };
+    ct.templates.afterDraw = function afterDraw() {
+        /* eslint-disable no-underscore-dangle */
+if ((this.transform && (this.transform._localID !== this.transform._currentLocalID)) ||
+    this.x !== this.xprev ||
+    this.y !== this.yprev
+) {
+    delete this._shape;
+    const oldHashes = this.$chashes || [];
+    this.$chashes = ct.place.getHashes(this);
+    for (const hash of oldHashes) {
+        if (this.$chashes.indexOf(hash) === -1) {
+            ct.place.grid[hash].splice(ct.place.grid[hash].indexOf(this), 1);
+        }
+    }
+    for (const hash of this.$chashes) {
+        if (oldHashes.indexOf(hash) === -1) {
+            if (!(hash in ct.place.grid)) {
+                ct.place.grid[hash] = [this];
+            } else {
+                ct.place.grid[hash].push(this);
+            }
+        }
+    }
+}
+if (this.matterEnable) {
+    this.rotation = this.matterBody.angle;
+    this.x = this.matterBody.position.x;
+    this.y = this.matterBody.position.y;
+    //this.speed = this.matterBody.speed;
+    this.hspeed = this.matterBody.velocity.x;
+    this.vspeed = this.matterBody.velocity.y;
+    //this.direction = ct.u.pdn(this.hspeed, this.vspeed);
+}
+
+    };
+    ct.templates.onDestroy = function onDestroy() {
+        if (this.$chashes) {
+    for (const hash of this.$chashes) {
+        ct.place.grid[hash].splice(ct.place.grid[hash].indexOf(this), 1);
+    }
+}
+if (this.matterEnable) {
+    Matter.World.remove(ct.room.matterWorld, this.matterBody);
+}
+
+    };
+})(ct);
+/**
+ * @extends {PIXI.TilingSprite}
+ * @property {number} shiftX How much to shift the texture horizontally, in pixels.
+ * @property {number} shiftY How much to shift the texture vertically, in pixels.
+ * @property {number} movementX The speed at which the background's texture moves by X axis,
+ * wrapping around its area. The value is measured in pixels per frame, and takes
+ * `ct.delta` into account.
+ * @property {number} movementY The speed at which the background's texture moves by Y axis,
+ * wrapping around its area. The value is measured in pixels per frame, and takes
+ * `ct.delta` into account.
+ * @property {number} parallaxX A value that makes background move faster
+ * or slower relative to other objects. It is often used to create an effect of depth.
+ * `1` means regular movement, values smaller than 1
+ * will make it move slower and make an effect that a background is placed farther away from camera;
+ * values larger than 1 will do the opposite, making the background appear closer than the rest
+ * of object.
+ * This property is for horizontal movement.
+ * @property {number} parallaxY A value that makes background move faster
+ * or slower relative to other objects. It is often used to create an effect of depth.
+ * `1` means regular movement, values smaller than 1
+ * will make it move slower and make an effect that a background is placed farther away from camera;
+ * values larger than 1 will do the opposite, making the background appear closer than the rest
+ * of object.
+ * This property is for vertical movement.
+ * @class
+ */
+class Background extends PIXI.TilingSprite {
+    constructor(texName, frame = 0, depth = 0, exts = {}) {
+        var width = ct.camera.width,
+            height = ct.camera.height;
+        const texture = texName instanceof PIXI.Texture ?
+            texName :
+            ct.res.getTexture(texName, frame || 0);
+        if (exts.repeat === 'no-repeat' || exts.repeat === 'repeat-x') {
+            height = texture.height * (exts.scaleY || 1);
+        }
+        if (exts.repeat === 'no-repeat' || exts.repeat === 'repeat-y') {
+            width = texture.width * (exts.scaleX || 1);
+        }
+        super(texture, width, height);
+        if (!ct.backgrounds.list[texName]) {
+            ct.backgrounds.list[texName] = [];
+        }
+        ct.backgrounds.list[texName].push(this);
+        ct.templates.list.BACKGROUND.push(this);
+        ct.stack.push(this);
+        this.anchor.x = this.anchor.y = 0;
+        this.depth = depth;
+        this.shiftX = this.shiftY = this.movementX = this.movementY = 0;
+        this.parallaxX = this.parallaxY = 1;
+        if (exts) {
+            ct.u.extend(this, exts);
+        }
+        if (this.scaleX) {
+            this.tileScale.x = Number(this.scaleX);
+        }
+        if (this.scaleY) {
+            this.tileScale.y = Number(this.scaleY);
+        }
+        this.reposition();
+    }
+    onStep() {
+        this.shiftX += ct.delta * this.movementX;
+        this.shiftY += ct.delta * this.movementY;
+    }
+    /**
+     * Updates the position of this background.
+     */
+    reposition() {
+        const cameraBounds = this.isUi ?
+            {
+                x: 0, y: 0, width: ct.camera.width, height: ct.camera.height
+            } :
+            ct.camera.getBoundingBox();
+        const dx = ct.camera.x - ct.camera.width / 2,
+              dy = ct.camera.y - ct.camera.height / 2;
+        if (this.repeat !== 'repeat-x' && this.repeat !== 'no-repeat') {
+            this.y = cameraBounds.y;
+            this.tilePosition.y = -this.y - dy * (this.parallaxY - 1) + this.shiftY;
+            this.height = cameraBounds.height + 1;
+        } else {
+            this.y = this.shiftY + cameraBounds.y * (this.parallaxY - 1);
+        }
+        if (this.repeat !== 'repeat-y' && this.repeat !== 'no-repeat') {
+            this.x = cameraBounds.x;
+            this.tilePosition.x = -this.x - dx * (this.parallaxX - 1) + this.shiftX;
+            this.width = cameraBounds.width + 1;
+        } else {
+            this.x = this.shiftX + cameraBounds.x * (this.parallaxX - 1);
+        }
+    }
+    onDraw() {
+        this.reposition();
+    }
+    static onCreate() {
+        void 0;
+    }
+    static onDestroy() {
+        void 0;
+    }
+    get isUi() {
+        return this.parent ? Boolean(this.parent.isUi) : false;
+    }
+}
+/**
+ * @namespace
+ */
+ct.backgrounds = {
+    Background,
+    list: {},
+    /**
+     * @returns {Background} The created background
+     */
+    add(texName, frame = 0, depth = 0, container = ct.room) {
+        if (!texName) {
+            throw new Error('[ct.backgrounds] The texName argument is required.');
+        }
+        const bg = new Background(texName, frame, depth);
+        container.addChild(bg);
+        return bg;
+    }
+};
+ct.templates.Background = Background;
+
+/**
+ * @extends {PIXI.Container}
+ * @class
+ */
+class Tilemap extends PIXI.Container {
+    /**
+     * @param {object} template A template object that contains data about depth
+     * and tile placement. It is usually used by ct.IDE.
+     */
+    constructor(template) {
+        super();
+        this.pixiTiles = [];
+        if (template) {
+            this.depth = template.depth;
+            this.tiles = template.tiles.map(tile => ({
+                ...tile
+            }));
+            if (template.extends) {
+                Object.assign(this, template.extends);
+            }
+            for (let i = 0, l = template.tiles.length; i < l; i++) {
+                const tile = template.tiles[i];
+                const textures = ct.res.getTexture(tile.texture);
+                const sprite = new PIXI.Sprite(textures[tile.frame]);
+                sprite.anchor.x = textures[0].defaultAnchor.x;
+                sprite.anchor.y = textures[0].defaultAnchor.y;
+                sprite.shape = textures.shape;
+                sprite.scale.set(tile.scale.x, tile.scale.y);
+                sprite.rotation = tile.rotation;
+                sprite.alpha = tile.opacity;
+                sprite.tint = tile.tint;
+                sprite.x = tile.x;
+                sprite.y = tile.y;
+                this.addChild(sprite);
+                this.pixiTiles.push(sprite);
+                this.tiles[i].sprite = sprite;
+            }
+        } else {
+            this.tiles = [];
+        }
+        ct.templates.list.TILEMAP.push(this);
+    }
+    /**
+     * Adds a tile to the tilemap. Will throw an error if a tilemap is cached.
+     * @param {string} textureName The name of the texture to use
+     * @param {number} x The horizontal location of the tile
+     * @param {number} y The vertical location of the tile
+     * @param {number} [frame] The frame to pick from the source texture. Defaults to 0.
+     * @returns {PIXI.Sprite} The created tile
+     */
+    addTile(textureName, x, y, frame = 0) {
+        if (this.cached) {
+            throw new Error('[ct.tiles] Adding tiles to cached tilemaps is forbidden. Create a new tilemap, or add tiles before caching the tilemap.');
+        }
+        const texture = ct.res.getTexture(textureName, frame);
+        const sprite = new PIXI.Sprite(texture);
+        sprite.x = x;
+        sprite.y = y;
+        sprite.shape = texture.shape;
+        this.tiles.push({
+            texture: textureName,
+            frame,
+            x,
+            y,
+            width: sprite.width,
+            height: sprite.height,
+            sprite
+        });
+        this.addChild(sprite);
+        this.pixiTiles.push(sprite);
+        return sprite;
+    }
+    /**
+     * Enables caching on this tileset, freezing it and turning it
+     * into a series of bitmap textures. This proides great speed boost,
+     * but prevents further editing.
+     */
+    cache(chunkSize = 1024) {
+        if (this.cached) {
+            throw new Error('[ct.tiles] Attempt to cache an already cached tilemap.');
+        }
+
+        // Divide tiles into a grid of larger cells so that we can cache these cells as
+        const bounds = this.getLocalBounds();
+        const cols = Math.ceil(bounds.width / chunkSize),
+              rows = Math.ceil(bounds.height / chunkSize);
+        this.cells = [];
+        for (let y = 0; y < rows; y++) {
+            for (let x = 0; x < cols; x++) {
+                const cell = new PIXI.Container();
+                this.cells.push(cell);
+            }
+        }
+        for (let i = 0, l = this.tiles.length; i < l; i++) {
+            const tile = this.children[0],
+                  x = Math.floor((tile.x - bounds.x) / chunkSize),
+                  y = Math.floor((tile.y - bounds.y) / chunkSize);
+            this.cells[y * cols + x].addChild(tile);
+        }
+        this.removeChildren();
+
+        // Filter out empty cells, cache filled ones
+        for (let i = 0, l = this.cells.length; i < l; i++) {
+            if (this.cells[i].children.length === 0) {
+                this.cells.splice(i, 1);
+                i--;
+                l--;
+                continue;
+            }
+            this.addChild(this.cells[i]);
+            this.cells[i].cacheAsBitmap = true;
+        }
+
+        this.cached = true;
+    }
+    /**
+     * Enables caching on this tileset, freezing it and turning it
+     * into a series of bitmap textures. This proides great speed boost,
+     * but prevents further editing.
+     *
+     * This version packs tiles into rhombus-shaped chunks, and sorts them
+     * from top to bottom. This fixes seam issues for isometric games.
+     */
+    cacheDiamond(chunkSize = 1024) {
+        if (this.cached) {
+            throw new Error('[ct.tiles] Attempt to cache an already cached tilemap.');
+        }
+
+        this.cells = [];
+        this.diamondCellMap = {};
+        for (let i = 0, l = this.tiles.length; i < l; i++) {
+            const tile = this.children[0];
+            const [xNormalized, yNormalized] = ct.u.rotate(tile.x, tile.y * 2, -45);
+            const x = Math.floor(xNormalized / chunkSize),
+                  y = Math.floor(yNormalized / chunkSize),
+                  key = `${x}:${y}`;
+            if (!(key in this.diamondCellMap)) {
+                const chunk = new PIXI.Container();
+                chunk.chunkX = x;
+                chunk.chunkY = y;
+                this.diamondCellMap[key] = chunk;
+                this.cells.push(chunk);
+            }
+            this.diamondCellMap[key].addChild(tile);
+        }
+        this.removeChildren();
+
+        this.cells.sort((a, b) => {
+            const maxA = Math.max(a.chunkY, a.chunkX),
+                  maxB = Math.max(b.chunkY, b.chunkX);
+            if (maxA === maxB) {
+                return b.chunkX - a.chunkX;
+            }
+            return maxA - maxB;
+        });
+
+        for (let i = 0, l = this.cells.length; i < l; i++) {
+            this.addChild(this.cells[i]);
+            this.cells[i].cacheAsBitmap = true;
+        }
+
+        this.cached = true;
+    }
+}
+ct.templates.Tilemap = Tilemap;
+
+/**
+ * @namespace
+ */
+ct.tilemaps = {
+    /**
+     * Creates a new tilemap at a specified depth, and adds it to the main room (ct.room).
+     * @param {number} [depth] The depth of a newly created tilemap. Defaults to 0.
+     * @returns {Tilemap} The created tilemap.
+     */
+    create(depth = 0) {
+        const tilemap = new Tilemap();
+        tilemap.depth = depth;
+        ct.room.addChild(tilemap);
+        return tilemap;
+    },
+    /**
+     * Adds a tile to the specified tilemap. It is the same as
+     * calling `tilemap.addTile(textureName, x, y, frame).
+     * @param {Tilemap} tilemap The tilemap to modify.
+     * @param {string} textureName The name of the texture to use.
+     * @param {number} x The horizontal location of the tile.
+     * @param {number} y The vertical location of the tile.
+     * @param {number} [frame] The frame to pick from the source texture. Defaults to 0.
+     * @returns {PIXI.Sprite} The created tile
+     */
+    addTile(tilemap, textureName, x, y, frame = 0) {
+        return tilemap.addTile(textureName, x, y, frame);
+    },
+    /**
+     * Enables caching on this tileset, freezing it and turning it
+     * into a series of bitmap textures. This proides great speed boost,
+     * but prevents further editing.
+     *
+     * This is the same as calling `tilemap.cache();`
+     *
+     * @param {Tilemap} tilemap The tilemap which needs to be cached.
+     * @param {number} chunkSize The size of one chunk.
+     */
+    cache(tilemap, chunkSize) {
+        tilemap.cache(chunkSize);
+    },
+    /**
+     * Enables caching on this tileset, freezing it and turning it
+     * into a series of bitmap textures. This proides great speed boost,
+     * but prevents further editing.
+     *
+     * This version packs tiles into rhombus-shaped chunks, and sorts them
+     * from top to bottom. This fixes seam issues for isometric games.
+     * Note that tiles should be placed on a flat plane for the proper sorting.
+     * If you need an effect of elevation, consider shifting each tile with
+     * tile.pivot.y property.
+     *
+     * This is the same as calling `tilemap.cacheDiamond();`
+     *
+     * @param {Tilemap} tilemap The tilemap which needs to be cached.
+     * @param {number} chunkSize The size of one chunk.
+     */
+    cacheDiamond(tilemap, chunkSize) {
+        tilemap.cacheDiamond(chunkSize);
+    }
+};
+
+/**
+ * This class represents a camera that is used by ct.js' cameras.
+ * Usually you won't create new instances of it, but if you need, you can substitute
+ * ct.camera with a new one.
+ *
+ * @extends {PIXI.DisplayObject}
+ * @class
+ *
+ * @property {number} x The real x-coordinate of the camera.
+ * It does not have a screen shake effect applied, as well as may differ from `targetX`
+ * if the camera is in transition.
+ * @property {number} y The real y-coordinate of the camera.
+ * It does not have a screen shake effect applied, as well as may differ from `targetY`
+ * if the camera is in transition.
+ * @property {number} width The width of the unscaled shown region.
+ * This is the base, unscaled value. Use ct.camera.scale.x to get a scaled version.
+ * To change this value, see `ct.width` property.
+ * @property {number} height The width of the unscaled shown region.
+ * This is the base, unscaled value. Use ct.camera.scale.y to get a scaled version.
+ * To change this value, see `ct.height` property.
+ * @property {number} targetX The x-coordinate of the target location.
+ * Moving it instead of just using the `x` parameter will trigger the drift effect.
+ * @property {number} targetY The y-coordinate of the target location.
+ * Moving it instead of just using the `y` parameter will trigger the drift effect.
+ *
+ * @property {Copy|false} follow If set, the camera will follow the given copy.
+ * @property {boolean} followX Works if `follow` is set to a copy.
+ * Enables following in X axis. Set it to `false` and followY to `true`
+ * to limit automatic camera movement to vertical axis.
+ * @property {boolean} followY Works if `follow` is set to a copy.
+ * Enables following in Y axis. Set it to `false` and followX to `true`
+ * to limit automatic camera movement to horizontal axis.
+ * @property {number|null} borderX Works if `follow` is set to a copy.
+ * Sets the frame inside which the copy will be kept, in game pixels.
+ * Can be set to `null` so the copy is set to the center of the screen.
+ * @property {number|null} borderY Works if `follow` is set to a copy.
+ * Sets the frame inside which the copy will be kept, in game pixels.
+ * Can be set to `null` so the copy is set to the center of the screen.
+ * @property {number} shiftX Displaces the camera horizontally
+ * but does not change x and y parameters.
+ * @property {number} shiftY Displaces the camera vertically
+ * but does not change x and y parameters.
+ * @property {number} drift Works if `follow` is set to a copy.
+ * If set to a value between 0 and 1, it will make camera movement smoother
+ *
+ * @property {number} shake The current power of a screen shake effect,
+ * relative to the screen's max side (100 is 100% of screen shake).
+ * If set to 0 or less, it, disables the effect.
+ * @property {number} shakePhase The current phase of screen shake oscillation.
+ * @property {number} shakeDecay The amount of `shake` units substracted in a second.
+ * Default is 5.
+ * @property {number} shakeFrequency The base frequency of the screen shake effect.
+ * Default is 50.
+ * @property {number} shakeX A multiplier applied to the horizontal screen shake effect.
+ * Default is 1.
+ * @property {number} shakeY A multiplier applied to the vertical screen shake effect.
+ * Default is 1.
+ * @property {number} shakeMax The maximum possible value for the `shake` property
+ * to protect players from losing their monitor, in `shake` units. Default is 10.
+ */
+const Camera = (function Camera() {
+    const shakeCamera = function shakeCamera(camera, delta) {
+        const sec = delta / (PIXI.Ticker.shared.maxFPS || 60);
+        camera.shake -= sec * camera.shakeDecay;
+        camera.shake = Math.max(0, camera.shake);
+        if (camera.shakeMax) {
+            camera.shake = Math.min(camera.shake, camera.shakeMax);
+        }
+        const phaseDelta = sec * camera.shakeFrequency;
+        camera.shakePhase += phaseDelta;
+        // no logic in these constants
+        // They are used to desync fluctuations and remove repetitive circular movements
+        camera.shakePhaseX += phaseDelta * (1 + Math.sin(camera.shakePhase * 0.1489) * 0.25);
+        camera.shakePhaseY += phaseDelta * (1 + Math.sin(camera.shakePhase * 0.1734) * 0.25);
+    };
+    const followCamera = function followCamera(camera) {
+        // eslint-disable-next-line max-len
+        const bx = camera.borderX === null ? camera.width / 2 : Math.min(camera.borderX, camera.width / 2),
+              // eslint-disable-next-line max-len
+              by = camera.borderY === null ? camera.height / 2 : Math.min(camera.borderY, camera.height / 2);
+        const tl = camera.uiToGameCoord(bx, by),
+              br = camera.uiToGameCoord(camera.width - bx, camera.height - by);
+
+        if (camera.followX) {
+            if (camera.follow.x < tl.x - camera.interpolatedShiftX) {
+                camera.targetX = camera.follow.x - bx + camera.width / 2;
+            } else if (camera.follow.x > br.x - camera.interpolatedShiftX) {
+                camera.targetX = camera.follow.x + bx - camera.width / 2;
+            }
+        }
+        if (camera.followY) {
+            if (camera.follow.y < tl.y - camera.interpolatedShiftY) {
+                camera.targetY = camera.follow.y - by + camera.height / 2;
+            } else if (camera.follow.y > br.y - camera.interpolatedShiftY) {
+                camera.targetY = camera.follow.y + by - camera.height / 2;
+            }
+        }
+    };
+    const restrictInRect = function restrictInRect(camera) {
+        if (camera.minX !== void 0) {
+            const boundary = camera.minX + camera.width * camera.scale.x * 0.5;
+            camera.x = Math.max(boundary, camera.x);
+            camera.targetX = Math.max(boundary, camera.targetX);
+        }
+        if (camera.maxX !== void 0) {
+            const boundary = camera.maxX - camera.width * camera.scale.x * 0.5;
+            camera.x = Math.min(boundary, camera.x);
+            camera.targetX = Math.min(boundary, camera.targetX);
+        }
+        if (camera.minY !== void 0) {
+            const boundary = camera.minY + camera.height * camera.scale.y * 0.5;
+            camera.y = Math.max(boundary, camera.y);
+            camera.targetY = Math.max(boundary, camera.targetY);
+        }
+        if (camera.maxY !== void 0) {
+            const boundary = camera.maxY - camera.height * camera.scale.y * 0.5;
+            camera.y = Math.min(boundary, camera.y);
+            camera.targetY = Math.min(boundary, camera.targetY);
+        }
+    };
+    class Camera extends PIXI.DisplayObject {
+        constructor(x, y, w, h) {
+            super();
+            this.follow = this.rotate = false;
+            this.followX = this.followY = true;
+            this.targetX = this.x = x;
+            this.targetY = this.y = y;
+            this.z = 500;
+            this.width = w || 1920;
+            this.height = h || 1080;
+            this.shiftX = this.shiftY = this.interpolatedShiftX = this.interpolatedShiftY = 0;
+            this.borderX = this.borderY = null;
+            this.drift = 0;
+
+            this.shake = 0;
+            this.shakeDecay = 5;
+            this.shakeX = this.shakeY = 1;
+            this.shakeFrequency = 50;
+            this.shakePhase = this.shakePhaseX = this.shakePhaseY = 0;
+            this.shakeMax = 10;
+
+            this.getBounds = this.getBoundingBox;
+        }
+
+        get scale() {
+            return this.transform.scale;
+        }
+        set scale(value) {
+            if (typeof value === 'number') {
+                value = {
+                    x: value,
+                    y: value
+                };
+            }
+            this.transform.scale.copyFrom(value);
+        }
+
+        /**
+         * Moves the camera to a new position. It will have a smooth transition
+         * if a `drift` parameter is set.
+         * @param {number} x New x coordinate
+         * @param {number} y New y coordinate
+         * @returns {void}
+         */
+        moveTo(x, y) {
+            this.targetX = x;
+            this.targetY = y;
+        }
+
+        /**
+         * Moves the camera to a new position. Ignores the `drift` value.
+         * @param {number} x New x coordinate
+         * @param {number} y New y coordinate
+         * @returns {void}
+         */
+        teleportTo(x, y) {
+            this.targetX = this.x = x;
+            this.targetY = this.y = y;
+            this.shakePhase = this.shakePhaseX = this.shakePhaseY = 0;
+            this.interpolatedShiftX = this.shiftX;
+            this.interpolatedShiftY = this.shiftY;
+        }
+
+        /**
+         * Updates the position of the camera
+         * @param {number} delta A delta value between the last two frames.
+         * This is usually ct.delta.
+         * @returns {void}
+         */
+        update(delta) {
+            shakeCamera(this, delta);
+            // Check if we've been following a copy that is now killed
+            if (this.follow && this.follow.kill) {
+                this.follow = false;
+            }
+            // Autofollow the first copy of the followed template, set in the room's settings
+            if (!this.follow && ct.room.follow) {
+                this.follow = ct.templates.list[ct.room.follow][0];
+            }
+            // Follow copies around
+            if (this.follow && ('x' in this.follow) && ('y' in this.follow)) {
+                followCamera(this);
+            }
+
+            // The speed of drift movement
+            const speed = this.drift ? Math.min(1, (1 - this.drift) * delta) : 1;
+            // Perform drift motion
+            this.x = this.targetX * speed + this.x * (1 - speed);
+            this.y = this.targetY * speed + this.y * (1 - speed);
+
+            // Off-center shifts drift, too
+            this.interpolatedShiftX = this.shiftX * speed + this.interpolatedShiftX * (1 - speed);
+            this.interpolatedShiftY = this.shiftY * speed + this.interpolatedShiftY * (1 - speed);
+
+            restrictInRect(this);
+
+            // Recover from possible calculation errors
+            this.x = this.x || 0;
+            this.y = this.y || 0;
+        }
+
+        /**
+         * Returns the current camera position plus the screen shake effect.
+         * @type {number}
+         */
+        get computedX() {
+            // eslint-disable-next-line max-len
+            const dx = (Math.sin(this.shakePhaseX) + Math.sin(this.shakePhaseX * 3.1846) * 0.25) / 1.25;
+            // eslint-disable-next-line max-len
+            const x = this.x + dx * this.shake * Math.max(this.width, this.height) / 100 * this.shakeX;
+            return x + this.interpolatedShiftX;
+        }
+        /**
+         * Returns the current camera position plus the screen shake effect.
+         * @type {number}
+         */
+        get computedY() {
+            // eslint-disable-next-line max-len
+            const dy = (Math.sin(this.shakePhaseY) + Math.sin(this.shakePhaseY * 2.8948) * 0.25) / 1.25;
+            // eslint-disable-next-line max-len
+            const y = this.y + dy * this.shake * Math.max(this.width, this.height) / 100 * this.shakeY;
+            return y + this.interpolatedShiftY;
+        }
+
+        /**
+         * Returns the position of the left edge where the visible rectangle ends,
+         * in game coordinates.
+         * This can be used for UI positioning in game coordinates.
+         * This does not count for rotations, though.
+         * For rotated and/or scaled viewports, see `getTopLeftCorner`
+         * and `getBottomLeftCorner` methods.
+         * @returns {number} The location of the left edge.
+         * @type {number}
+         * @readonly
+         */
+        get left() {
+            return this.computedX - (this.width / 2) * this.scale.x;
+        }
+        /**
+         * Returns the position of the top edge where the visible rectangle ends,
+         * in game coordinates.
+         * This can be used for UI positioning in game coordinates.
+         * This does not count for rotations, though.
+         * For rotated and/or scaled viewports, see `getTopLeftCorner`
+         * and `getTopRightCorner` methods.
+         * @returns {number} The location of the top edge.
+         * @type {number}
+         * @readonly
+         */
+        get top() {
+            return this.computedY - (this.height / 2) * this.scale.y;
+        }
+        /**
+         * Returns the position of the right edge where the visible rectangle ends,
+         * in game coordinates.
+         * This can be used for UI positioning in game coordinates.
+         * This does not count for rotations, though.
+         * For rotated and/or scaled viewports, see `getTopRightCorner`
+         * and `getBottomRightCorner` methods.
+         * @returns {number} The location of the right edge.
+         * @type {number}
+         * @readonly
+         */
+        get right() {
+            return this.computedX + (this.width / 2) * this.scale.x;
+        }
+        /**
+         * Returns the position of the bottom edge where the visible rectangle ends,
+         * in game coordinates. This can be used for UI positioning in game coordinates.
+         * This does not count for rotations, though.
+         * For rotated and/or scaled viewports, see `getBottomLeftCorner`
+         * and `getBottomRightCorner` methods.
+         * @returns {number} The location of the bottom edge.
+         * @type {number}
+         * @readonly
+         */
+        get bottom() {
+            return this.computedY + (this.height / 2) * this.scale.y;
+        }
+
+        /**
+         * Translates a point from UI space to game space.
+         * @param {number} x The x coordinate in UI space.
+         * @param {number} y The y coordinate in UI space.
+         * @returns {PIXI.Point} A pair of new `x` and `y` coordinates.
+         */
+        uiToGameCoord(x, y) {
+            const modx = (x - this.width / 2) * this.scale.x,
+                  mody = (y - this.height / 2) * this.scale.y;
+            const result = ct.u.rotate(modx, mody, this.angle);
+            return new PIXI.Point(
+                result.x + this.computedX,
+                result.y + this.computedY
+            );
+        }
+
+        /**
+         * Translates a point from game space to UI space.
+         * @param {number} x The x coordinate in game space.
+         * @param {number} y The y coordinate in game space.
+         * @returns {PIXI.Point} A pair of new `x` and `y` coordinates.
+         */
+        gameToUiCoord(x, y) {
+            const relx = x - this.computedX,
+                  rely = y - this.computedY;
+            const unrotated = ct.u.rotate(relx, rely, -this.angle);
+            return new PIXI.Point(
+                unrotated.x / this.scale.x + this.width / 2,
+                unrotated.y / this.scale.y + this.height / 2
+            );
+        }
+        /**
+         * Gets the position of the top-left corner of the viewport in game coordinates.
+         * This is useful for positioning UI elements in game coordinates,
+         * especially with rotated viewports.
+         * @returns {PIXI.Point} A pair of `x` and `y` coordinates.
+         */
+        getTopLeftCorner() {
+            return this.uiToGameCoord(0, 0);
+        }
+
+        /**
+         * Gets the position of the top-right corner of the viewport in game coordinates.
+         * This is useful for positioning UI elements in game coordinates,
+         * especially with rotated viewports.
+         * @returns {PIXI.Point} A pair of `x` and `y` coordinates.
+         */
+        getTopRightCorner() {
+            return this.uiToGameCoord(this.width, 0);
+        }
+
+        /**
+         * Gets the position of the bottom-left corner of the viewport in game coordinates.
+         * This is useful for positioning UI elements in game coordinates,
+         * especially with rotated viewports.
+         * @returns {PIXI.Point} A pair of `x` and `y` coordinates.
+         */
+        getBottomLeftCorner() {
+            return this.uiToGameCoord(0, this.height);
+        }
+
+        /**
+         * Gets the position of the bottom-right corner of the viewport in game coordinates.
+         * This is useful for positioning UI elements in game coordinates,
+         * especially with rotated viewports.
+         * @returns {PIXI.Point} A pair of `x` and `y` coordinates.
+         */
+        getBottomRightCorner() {
+            return this.uiToGameCoord(this.width, this.height);
+        }
+
+        /**
+         * Returns the bounding box of the camera.
+         * Useful for rotated viewports when something needs to be reliably covered by a rectangle.
+         * @returns {PIXI.Rectangle} The bounding box of the camera.
+         */
+        getBoundingBox() {
+            const bb = new PIXI.Bounds();
+            const tl = this.getTopLeftCorner(),
+                  tr = this.getTopRightCorner(),
+                  bl = this.getBottomLeftCorner(),
+                  br = this.getBottomRightCorner();
+            bb.addPoint(new PIXI.Point(tl.x, tl.y));
+            bb.addPoint(new PIXI.Point(tr.x, tr.y));
+            bb.addPoint(new PIXI.Point(bl.x, bl.y));
+            bb.addPoint(new PIXI.Point(br.x, br.y));
+            return bb.getRectangle();
+        }
+
+        /**
+         * Checks whether a given object (or any Pixi's DisplayObject)
+         * is potentially visible, meaning that its bounding box intersects
+         * the camera's bounding box.
+         * @param {PIXI.DisplayObject} copy An object to check for.
+         * @returns {boolean} `true` if an object is visible, `false` otherwise.
+         */
+        contains(copy) {
+            // `true` skips transforms recalculations, boosting performance
+            const bounds = copy.getBounds(true);
+            return bounds.right > 0 &&
+                bounds.left < this.width * this.scale.x &&
+                bounds.bottom > 0 &&
+                bounds.top < this.width * this.scale.y;
+        }
+
+        /**
+         * Realigns all the copies in a room so that they distribute proportionally
+         * to a new camera size based on their `xstart` and `ystart` coordinates.
+         * Will throw an error if the given room is not in UI space (if `room.isUi` is not `true`).
+         * You can skip the realignment for some copies
+         * if you set their `skipRealign` parameter to `true`.
+         * @param {Room} room The room which copies will be realigned.
+         * @returns {void}
+         */
+        realign(room) {
+            if (!room.isUi) {
+                throw new Error('[ct.camera] An attempt to realing a room that is not in UI space. The room in question is', room);
+            }
+            const w = (ct.rooms.templates[room.name].width || 1),
+                  h = (ct.rooms.templates[room.name].height || 1);
+            for (const copy of room.children) {
+                if (!('xstart' in copy) || copy.skipRealign) {
+                    continue;
+                }
+                copy.x = copy.xstart / w * this.width;
+                copy.y = copy.ystart / h * this.height;
+            }
+        }
+        /**
+         * This will align all non-UI layers in the game according to the camera's transforms.
+         * This is automatically called internally, and you will hardly ever use it.
+         * @returns {void}
+         */
+        manageStage() {
+            const px = this.computedX,
+                  py = this.computedY,
+                  sx = 1 / (isNaN(this.scale.x) ? 1 : this.scale.x),
+                  sy = 1 / (isNaN(this.scale.y) ? 1 : this.scale.y);
+            for (const item of ct.stage.children) {
+                if (!item.isUi && item.pivot) {
+                    item.x = -this.width / 2;
+                    item.y = -this.height / 2;
+                    item.pivot.x = px;
+                    item.pivot.y = py;
+                    item.scale.x = sx;
+                    item.scale.y = sy;
+                    item.angle = -this.angle;
+                }
+            }
+        }
+    }
+    return Camera;
+})(ct);
+void Camera;
+
+(function timerAddon() {
+    const ctTimerTime = Symbol('time');
+    const ctTimerRoomUid = Symbol('roomUid');
+    const ctTimerTimeLeftOriginal = Symbol('timeLeftOriginal');
+    const promiseResolve = Symbol('promiseResolve');
+    const promiseReject = Symbol('promiseReject');
+
+    /**
+     * @property {boolean} isUi Whether the timer uses ct.deltaUi or not.
+     * @property {string|false} name The name of the timer
+     */
+    class CtTimer {
+        /**
+         * An object for holding a timer
+         *
+         * @param {number} timeMs The length of the timer, **in milliseconds**
+         * @param {string|false} [name=false] The name of the timer
+         * @param {boolean} [uiDelta=false] If `true`, it will use `ct.deltaUi` for counting time.
+         * if `false`, it will use `ct.delta` for counting time.
+         */
+        constructor(timeMs, name = false, uiDelta = false) {
+            this[ctTimerRoomUid] = ct.room.uid || null;
+            this.name = name && name.toString();
+            this.isUi = uiDelta;
+            this[ctTimerTime] = 0;
+            this[ctTimerTimeLeftOriginal] = timeMs;
+            this.timeLeft = this[ctTimerTimeLeftOriginal];
+            this.promise = new Promise((resolve, reject) => {
+                this[promiseResolve] = resolve;
+                this[promiseReject] = reject;
+            });
+            this.rejected = false;
+            this.done = false;
+            this.settled = false;
+            ct.timer.timers.add(this);
+        }
+
+        /**
+         * Attaches callbacks for the resolution and/or rejection of the Promise.
+         *
+         * @param {Function} onfulfilled The callback to execute when the Promise is resolved.
+         * @param {Function} [onrejected] The callback to execute when the Promise is rejected.
+         * @returns {Promise} A Promise for the completion of which ever callback is executed.
+         */
+        then(...args) {
+            return this.promise.then(...args);
+        }
+        /**
+         * Attaches a callback for the rejection of the Promise.
+         *
+         * @param {Function} [onrejected] The callback to execute when the Promise is rejected.
+         * @returns {Promise} A Promise for the completion of which ever callback is executed.
+         */
+        catch(onrejected) {
+            return this.promise.catch(onrejected);
+        }
+
+        /**
+         * The time passed on this timer, in seconds
+         * @type {number}
+         */
+        get time() {
+            return this[ctTimerTime] * 1000 / ct.speed;
+        }
+        set time(newTime) {
+            this[ctTimerTime] = newTime / 1000 * ct.speed;
+        }
+
+        /**
+         * Updates the timer. **DONT CALL THIS UNLESS YOU KNOW WHAT YOU ARE DOING**
+         *
+         * @returns {void}
+         * @private
+         */
+        update() {
+            // Not something that would normally happen,
+            // but do check whether this timer was not automatically removed
+            if (this.rejected === true || this.done === true) {
+                this.remove();
+                return;
+            }
+            this[ctTimerTime] += this.isUi ? ct.deltaUi : ct.delta;
+            if (ct.room.uid !== this[ctTimerRoomUid] && this[ctTimerRoomUid] !== null) {
+                this.reject({
+                    info: 'Room switch',
+                    from: 'ct.timer'
+                }); // Reject if the room was switched
+            }
+
+            // If the timer is supposed to end
+            if (this.timeLeft !== 0) {
+                this.timeLeft = this[ctTimerTimeLeftOriginal] - this.time;
+                if (this.timeLeft <= 0) {
+                    this.resolve();
+                }
+            }
+        }
+
+        /**
+         * Instantly triggers the timer and calls the callbacks added through `then` method.
+         * @returns {void}
+         */
+        resolve() {
+            if (this.settled) {
+                return;
+            }
+            this.done = true;
+            this.settled = true;
+            this[promiseResolve]();
+            this.remove();
+        }
+        /**
+         * Stops the timer with a given message by rejecting a Promise object.
+         * @param {any} message The value to pass to the `catch` callback
+         * @returns {void}
+         */
+        reject(message) {
+            if (this.settled) {
+                return;
+            }
+            this.rejected = true;
+            this.settled = true;
+            this[promiseReject](message);
+            this.remove();
+        }
+        /**
+         * Removes the timer from ct.js game loop. This timer will not trigger.
+         * @returns {void}
+         */
+        remove() {
+            ct.timer.timers.delete(this);
+        }
+    }
+    window.CtTimer = CtTimer;
+
+    /**
+     * Timer utilities
+     * @namespace
+     */
+    ct.timer = {
+        /**
+         * A set with all the active timers.
+         * @type Set<CtTimer>
+         */
+        timers: new Set(),
+        counter: 0,
+        /**
+         * Adds a new timer with a given name
+         *
+         * @param {number} timeMs The length of the timer, **in milliseconds**
+         * @param {string|false} [name=false] The name of the timer, which you use
+         * to access it from `ct.timer.timers`.
+         * @returns {CtTimer} The timer
+         */
+        add(timeMs, name = false) {
+            return new CtTimer(timeMs, name, false);
+        },
+        /**
+         * Adds a new timer with a given name that runs in a UI time scale
+         *
+         * @param {number} timeMs The length of the timer, **in milliseconds**
+         * @param {string|false} [name=false] The name of the timer, which you use
+         * to access it from `ct.timer.timers`.
+         * @returns {CtTimer} The timer
+         */
+        addUi(timeMs, name = false) {
+            return new CtTimer(timeMs, name, true);
+        },
+        /**
+         * Updates the timers. **DONT CALL THIS UNLESS YOU KNOW WHAT YOU ARE DOING**
+         *
+         * @returns {void}
+         * @private
+         */
+        updateTimers() {
+            for (const timer of this.timers) {
+                timer.update();
+            }
+        }
+    };
+})();
+if (document.fonts) { for (const font of document.fonts) { font.load(); }}/**
+ * @typedef ICtPlaceRectangle
+ * @property {number} [x1] The left side of the rectangle.
+ * @property {number} [y1] The upper side of the rectangle.
+ * @property {number} [x2] The right side of the rectangle.
+ * @property {number} [y2] The bottom side of the rectangle.
+ * @property {number} [x] The left side of the rectangle.
+ * @property {number} [y] The upper side of the rectangle.
+ * @property {number} [width] The right side of the rectangle.
+ * @property {number} [height] The bottom side of the rectangle.
+ */
+/**
+ * @typedef ICtPlaceLineSegment
+ * @property {number} x1 The horizontal coordinate of the starting point of the ray.
+ * @property {number} y1 The vertical coordinate of the starting point of the ray.
+ * @property {number} x2 The horizontal coordinate of the ending point of the ray.
+ * @property {number} y2 The vertical coordinate of the ending point of the ray.
+ */
+/**
+ * @typedef ICtPlaceCircle
+ * @property {number} x The horizontal coordinate of the circle's center.
+ * @property {number} y The vertical coordinate of the circle's center.
+ * @property {number} radius The radius of the circle.
+ */
+/* eslint-disable no-underscore-dangle */
+/* global SSCD */
+/* eslint prefer-destructuring: 0 */
+(function ctPlace(ct) {
+    const circlePrecision = 16;
+    const debugMode = [false][0];
+
+    const getSSCDShapeFromRect = function (obj) {
+        const {shape} = obj,
+              position = new SSCD.Vector(obj.x, obj.y);
+        if (obj.angle === 0) {
+            position.x -= obj.scale.x > 0 ?
+                (shape.left * obj.scale.x) :
+                (-obj.scale.x * shape.right);
+            position.y -= obj.scale.y > 0 ?
+                (shape.top * obj.scale.y) :
+                (-shape.bottom * obj.scale.y);
+            return new SSCD.Rectangle(
+                position,
+                new SSCD.Vector(
+                    Math.abs((shape.left + shape.right) * obj.scale.x),
+                    Math.abs((shape.bottom + shape.top) * obj.scale.y)
+                )
+            );
+        }
+        const upperLeft = ct.u.rotate(
+            -shape.left * obj.scale.x,
+            -shape.top * obj.scale.y, obj.angle
+        );
+        const bottomLeft = ct.u.rotate(
+            -shape.left * obj.scale.x,
+            shape.bottom * obj.scale.y, obj.angle
+        );
+        const bottomRight = ct.u.rotate(
+            shape.right * obj.scale.x,
+            shape.bottom * obj.scale.y, obj.angle
+        );
+        const upperRight = ct.u.rotate(
+            shape.right * obj.scale.x,
+            -shape.top * obj.scale.y, obj.angle
+        );
+        return new SSCD.LineStrip(position, [
+            new SSCD.Vector(upperLeft.x, upperLeft.y),
+            new SSCD.Vector(bottomLeft.x, bottomLeft.y),
+            new SSCD.Vector(bottomRight.x, bottomRight.y),
+            new SSCD.Vector(upperRight.x, upperRight.y)
+        ], true);
+    };
+
+    const getSSCDShapeFromCircle = function (obj) {
+        const {shape} = obj,
+              position = new SSCD.Vector(obj.x, obj.y);
+        if (Math.abs(obj.scale.x) === Math.abs(obj.scale.y)) {
+            return new SSCD.Circle(position, shape.r * Math.abs(obj.scale.x));
+        }
+        const vertices = [];
+        for (let i = 0; i < circlePrecision; i++) {
+            const point = [
+                ct.u.ldx(shape.r * obj.scale.x, 360 / circlePrecision * i),
+                ct.u.ldy(shape.r * obj.scale.y, 360 / circlePrecision * i)
+            ];
+            if (obj.angle !== 0) {
+                const {x, y} = ct.u.rotate(point[0], point[1], obj.angle);
+                vertices.push(new SSCD.Vector(x, y));
+            } else {
+                vertices.push(new SSCD.Vector(point[0], point[1]));
+            }
+        }
+        return new SSCD.LineStrip(position, vertices, true);
+    };
+
+    const getSSCDShapeFromStrip = function (obj) {
+        const {shape} = obj,
+              position = new SSCD.Vector(obj.x, obj.y);
+        const vertices = [];
+        if (obj.angle !== 0) {
+            for (const point of shape.points) {
+                const {x, y} = ct.u.rotate(
+                    point.x * obj.scale.x,
+                    point.y * obj.scale.y, obj.angle
+                );
+                vertices.push(new SSCD.Vector(x, y));
+            }
+        } else {
+            for (const point of shape.points) {
+                vertices.push(new SSCD.Vector(point.x * obj.scale.x, point.y * obj.scale.y));
+            }
+        }
+        return new SSCD.LineStrip(position, vertices, Boolean(shape.closedStrip));
+    };
+
+    const getSSCDShapeFromLine = function (obj) {
+        const {shape} = obj;
+        if (obj.angle !== 0) {
+            const {x: x1, y: y1} = ct.u.rotate(
+                shape.x1 * obj.scale.x,
+                shape.y1 * obj.scale.y,
+                obj.angle
+            );
+            const {x: x2, y: y2} = ct.u.rotate(
+                shape.x2 * obj.scale.x,
+                shape.y2 * obj.scale.y,
+                obj.angle
+            );
+            return new SSCD.Line(
+                new SSCD.Vector(
+                    obj.x + x1,
+                    obj.y + y1
+                ),
+                new SSCD.Vector(
+                    x2 - x1,
+                    y2 - y1
+                )
+            );
+        }
+        return new SSCD.Line(
+            new SSCD.Vector(
+                obj.x + shape.x1 * obj.scale.x,
+                obj.y + shape.y1 * obj.scale.y
+            ),
+            new SSCD.Vector(
+                (shape.x2 - shape.x1) * obj.scale.x,
+                (shape.y2 - shape.y1) * obj.scale.y
+            )
+        );
+    };
+
+    /**
+     * Gets SSCD shapes from object's shape field and its transforms.
+     */
+    var getSSCDShape = function (obj) {
+        switch (obj.shape.type) {
+        case 'rect':
+            return getSSCDShapeFromRect(obj);
+        case 'circle':
+            return getSSCDShapeFromCircle(obj);
+        case 'strip':
+            return getSSCDShapeFromStrip(obj);
+        case 'line':
+            return getSSCDShapeFromLine(obj);
+        default:
+            return new SSCD.Circle(new SSCD.Vector(obj.x, obj.y), 0);
+        }
+    };
+
+    // Premade filter predicates to avoid function creation and memory bloat during the game loop.
+    const templateNameFilter = (target, other, template) => other.template === template;
+    const cgroupFilter = (target, other, cgroup) => !cgroup || cgroup === other.cgroup;
+
+    // Core collision-checking method that accepts various filtering predicates
+    // and a variable partitioning grid.
+
+    // eslint-disable-next-line max-params
+    const genericCollisionQuery = function (
+        target,
+        customX,
+        customY,
+        partitioningGrid,
+        queryAll,
+        filterPredicate,
+        filterVariable
+    ) {
+        const oldx = target.x,
+              oldy = target.y;
+        const shapeCashed = target._shape;
+        let hashes, results;
+        // Apply arbitrary location to the checked object
+        if (customX !== void 0 && (oldx !== customX || oldy !== customY)) {
+            target.x = customX;
+            target.y = customY;
+            target._shape = getSSCDShape(target);
+            hashes = ct.place.getHashes(target);
+        } else {
+            hashes = target.$chashes || ct.place.getHashes(target);
+            target._shape = target._shape || getSSCDShape(target);
+        }
+        if (queryAll) {
+            results = [];
+        }
+        // Get all the known objects in close proximity to the tested object,
+        // sourcing from the passed partitioning grid.
+        for (const hash of hashes) {
+            const array = partitioningGrid[hash];
+            // Such partition cell is absent
+            if (!array) {
+                continue;
+            }
+            for (const obj of array) {
+                // Skip checks against the tested object itself.
+                if (obj === target) {
+                    continue;
+                }
+                // Filter out objects
+                if (!filterPredicate(target, obj, filterVariable)) {
+                    continue;
+                }
+                // Check for collision between two objects
+                if (ct.place.collide(target, obj)) {
+                    // Singular pick; return the collided object immediately.
+                    if (!queryAll) {
+                        // Return the object back to its old position.
+                        // Skip SSCD shape re-calculation.
+                        if (oldx !== target.x || oldy !== target.y) {
+                            target.x = oldx;
+                            target.y = oldy;
+                            target._shape = shapeCashed;
+                        }
+                        return obj;
+                    }
+                    // Multiple pick; push the collided object into an array.
+                    if (!results.includes(obj)) {
+                        results.push(obj);
+                    }
+                }
+            }
+        }
+        // Return the object back to its old position.
+        // Skip SSCD shape re-calculation.
+        if (oldx !== target.x || oldy !== target.y) {
+            target.x = oldx;
+            target.y = oldy;
+            target._shape = shapeCashed;
+        }
+        if (!queryAll) {
+            return false;
+        }
+        return results;
+    };
+
+    ct.place = {
+        m: 1, // direction modifier in ct.place.go,
+        gridX: [1024][0] || 512,
+        gridY: [1024][0] || 512,
+        grid: {},
+        tileGrid: {},
+        getHashes(copy) {
+            var hashes = [];
+            var x = Math.round(copy.x / ct.place.gridX),
+                y = Math.round(copy.y / ct.place.gridY),
+                dx = Math.sign(copy.x - ct.place.gridX * x),
+                dy = Math.sign(copy.y - ct.place.gridY * y);
+            hashes.push(`${x}:${y}`);
+            if (dx) {
+                hashes.push(`${x + dx}:${y}`);
+                if (dy) {
+                    hashes.push(`${x + dx}:${y + dy}`);
+                }
+            }
+            if (dy) {
+                hashes.push(`${x}:${y + dy}`);
+            }
+            return hashes;
+        },
+        /**
+         * Applied to copies in the debug mode. Draws a collision shape
+         * @this Copy
+         * @param {boolean} [absolute] Whether to use room coordinates
+         * instead of coordinates relative to the copy.
+         * @returns {void}
+         */
+        drawDebugGraphic(absolute) {
+            const shape = this._shape || getSSCDShape(this);
+            const g = this.$cDebugCollision;
+            const inverse = this.transform.localTransform.clone().invert();
+            this.$cDebugCollision.transform.setFromMatrix(inverse);
+            this.$cDebugCollision.position.set(0, 0);
+            let color = 0x00ffff;
+            if (this instanceof Copy) {
+                color = 0x0066ff;
+            } else if (this instanceof PIXI.Sprite) {
+                color = 0x6600ff;
+            }
+            if (this.$cHadCollision) {
+                color = 0x00ff00;
+            }
+            g.lineStyle(2, color);
+            if (shape instanceof SSCD.Rectangle) {
+                const pos = shape.get_position(),
+                      size = shape.get_size();
+                g.beginFill(color, 0.1);
+                if (!absolute) {
+                    g.drawRect(pos.x - this.x, pos.y - this.y, size.x, size.y);
+                } else {
+                    g.drawRect(pos.x, pos.y, size.x, size.y);
+                }
+                g.endFill();
+            } else if (shape instanceof SSCD.LineStrip) {
+                if (!absolute) {
+                    g.moveTo(shape.__points[0].x, shape.__points[0].y);
+                    for (let i = 1; i < shape.__points.length; i++) {
+                        g.lineTo(shape.__points[i].x, shape.__points[i].y);
+                    }
+                } else {
+                    g.moveTo(shape.__points[0].x + this.x, shape.__points[0].y + this.y);
+                    for (let i = 1; i < shape.__points.length; i++) {
+                        g.lineTo(shape.__points[i].x + this.x, shape.__points[i].y + this.y);
+                    }
+                }
+            } else if (shape instanceof SSCD.Circle && shape.get_radius() > 0) {
+                g.beginFill(color, 0.1);
+                if (!absolute) {
+                    g.drawCircle(0, 0, shape.get_radius());
+                } else {
+                    g.drawCircle(this.x, this.y, shape.get_radius());
+                }
+                g.endFill();
+            } else if (shape instanceof SSCD.Line) {
+                if (!absolute) {
+                    g.moveTo(
+                        shape.__position.x,
+                        shape.__position.y
+                    ).lineTo(
+                        shape.__position.x + shape.__dest.x,
+                        shape.__position.y + shape.__dest.y
+                    );
+                } else {
+                    const p1 = shape.get_p1();
+                    const p2 = shape.get_p2();
+                    g.moveTo(p1.x, p1.y)
+                    .lineTo(p2.x, p2.y);
+                }
+            } else if (!absolute) { // Treat as a point
+                g.moveTo(-16, -16)
+                .lineTo(16, 16)
+                .moveTo(-16, 16)
+                .lineTo(16, -16);
+            } else {
+                g.moveTo(-16 + this.x, -16 + this.y)
+                .lineTo(16 + this.x, 16 + this.y)
+                .moveTo(-16 + this.x, 16 + this.y)
+                .lineTo(16 + this.x, -16 + this.y);
+            }
+        },
+        collide(c1, c2) {
+            // ct.place.collide(<c1: Copy, c2: Copy>)
+            // Test collision between two copies
+            c1._shape = c1._shape || getSSCDShape(c1);
+            c2._shape = c2._shape || getSSCDShape(c2);
+            if (c1._shape.__type === 'strip' ||
+                c2._shape.__type === 'strip' ||
+                c1._shape.__type === 'complex' ||
+                c2._shape.__type === 'complex'
+            ) {
+                const aabb1 = c1._shape.get_aabb(),
+                      aabb2 = c2._shape.get_aabb();
+                if (!aabb1.intersects(aabb2)) {
+                    return false;
+                }
+            }
+            if (SSCD.CollisionManager.test_collision(c1._shape, c2._shape)) {
+                if ([false][0]) {
+                    c1.$cHadCollision = true;
+                    c2.$cHadCollision = true;
+                }
+                return true;
+            }
+            return false;
+        },
+        /**
+         * Determines if the place in (x,y) is occupied by any copies or tiles.
+         * Optionally can take 'cgroup' as a filter for obstacles'
+         * collision group (not shape type).
+         *
+         * @param {Copy} me The object to check collisions on.
+         * @param {number} [x] The x coordinate to check, as if `me` was placed there.
+         * @param {number} [y] The y coordinate to check, as if `me` was placed there.
+         * @param {String} [cgroup] The collision group to check against
+         * @returns {Copy|Array<Copy>} The collided copy, or an array of all the detected collisions
+         * (if `multiple` is `true`)
+         */
+        occupied(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            const copies = genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                false,
+                cgroupFilter, cgroup
+            );
+            // Was any suitable copy found? Return it immediately and skip the query for tiles.
+            if (copies) {
+                return copies;
+            }
+            // Return query result for tiles.
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.tileGrid,
+                false,
+                cgroupFilter, cgroup
+            );
+        },
+        occupiedMultiple(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            const copies = genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                true,
+                cgroupFilter, cgroup
+            );
+            const tiles = genericCollisionQuery(
+                target, x, y,
+                ct.place.tileGrid,
+                true,
+                cgroupFilter, cgroup
+            );
+            return copies.concat(tiles);
+        },
+        free(me, x, y, cgroup) {
+            return !ct.place.occupied(me, x, y, cgroup);
+        },
+        meet(target, x, y, templateName) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                templateName = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                false,
+                templateNameFilter, templateName
+            );
+        },
+        meetMultiple(target, x, y, templateName) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                templateName = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                true,
+                templateNameFilter, templateName
+            );
+        },
+        copies(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                false,
+                cgroupFilter, cgroup
+            );
+        },
+        copiesMultiple(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.grid,
+                true,
+                cgroupFilter, cgroup
+            );
+        },
+        tiles(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.tileGrid,
+                false,
+                cgroupFilter, cgroup
+            );
+        },
+        tilesMultiple(target, x, y, cgroup) {
+            if (typeof y !== 'number') {
+                // No arbitrary location was passed, rewrite arguments w/o them.
+                cgroup = x;
+                x = void 0;
+                y = void 0;
+            }
+            return genericCollisionQuery(
+                target, x, y,
+                ct.place.tileGrid,
+                true,
+                cgroupFilter, cgroup
+            );
+        },
+        lastdist: null,
+        nearest(x, y, templateName) {
+            // ct.place.nearest(x: number, y: number, templateName: string)
+            const copies = ct.templates.list[templateName];
+            if (copies.length > 0) {
+                var dist = Math.hypot(x - copies[0].x, y - copies[0].y);
+                var inst = copies[0];
+                for (const copy of copies) {
+                    if (Math.hypot(x - copy.x, y - copy.y) < dist) {
+                        dist = Math.hypot(x - copy.x, y - copy.y);
+                        inst = copy;
+                    }
+                }
+                ct.place.lastdist = dist;
+                return inst;
+            }
+            return false;
+        },
+        furthest(x, y, template) {
+            // ct.place.furthest(<x: number, y: number, template: Template>)
+            const templates = ct.templates.list[template];
+            if (templates.length > 0) {
+                var dist = Math.hypot(x - templates[0].x, y - templates[0].y);
+                var inst = templates[0];
+                for (const copy of templates) {
+                    if (Math.hypot(x - copy.x, y - copy.y) > dist) {
+                        dist = Math.hypot(x - copy.x, y - copy.y);
+                        inst = copy;
+                    }
+                }
+                ct.place.lastdist = dist;
+                return inst;
+            }
+            return false;
+        },
+        enableTilemapCollisions(tilemap, exactCgroup) {
+            const cgroup = exactCgroup || tilemap.cgroup;
+            if (tilemap.addedCollisions) {
+                throw new Error('[ct.place] The tilemap already has collisions enabled.');
+            }
+            tilemap.cgroup = cgroup;
+            // Prebake hashes and SSCD shapes for all the tiles
+            for (const pixiSprite of tilemap.pixiTiles) {
+                // eslint-disable-next-line no-underscore-dangle
+                pixiSprite._shape = getSSCDShape(pixiSprite);
+                pixiSprite.cgroup = cgroup;
+                pixiSprite.$chashes = ct.place.getHashes(pixiSprite);
+                /* eslint max-depth: 0 */
+                for (const hash of pixiSprite.$chashes) {
+                    if (!(hash in ct.place.tileGrid)) {
+                        ct.place.tileGrid[hash] = [pixiSprite];
+                    } else {
+                        ct.place.tileGrid[hash].push(pixiSprite);
+                    }
+                }
+                pixiSprite.depth = tilemap.depth;
+            }
+            if (debugMode) {
+                for (const pixiSprite of tilemap.pixiTiles) {
+                    pixiSprite.$cDebugCollision = new PIXI.Graphics();
+                    ct.place.drawDebugGraphic.apply(pixiSprite, [false]);
+                    pixiSprite.addChild(pixiSprite.$cDebugCollision);
+                }
+            }
+            tilemap.addedCollisions = true;
+        },
+        moveAlong(me, dir, length, cgroup, precision) {
+            if (!length) {
+                return false;
+            }
+            if (typeof cgroup === 'number') {
+                precision = cgroup;
+                cgroup = void 0;
+            }
+            precision = Math.abs(precision || 1);
+            if (length < 0) {
+                length *= -1;
+                dir += 180;
+            }
+            var dx = Math.cos(dir * Math.PI / 180) * precision,
+                dy = Math.sin(dir * Math.PI / 180) * precision;
+            while (length > 0) {
+                if (length < 1) {
+                    dx *= length;
+                    dy *= length;
+                }
+                const occupied = ct.place.occupied(me, me.x + dx, me.y + dy, cgroup);
+                if (!occupied) {
+                    me.x += dx;
+                    me.y += dy;
+                    delete me._shape;
+                } else {
+                    return occupied;
+                }
+                length--;
+            }
+            return false;
+        },
+        moveByAxes(me, dx, dy, cgroup, precision) {
+            if (dx === dy === 0) {
+                return false;
+            }
+            if (typeof cgroup === 'number') {
+                precision = cgroup;
+                cgroup = void 0;
+            }
+            const obstacles = {
+                x: false,
+                y: false
+            };
+            precision = Math.abs(precision || 1);
+            while (Math.abs(dx) > precision) {
+                const occupied =
+                    ct.place.occupied(me, me.x + Math.sign(dx) * precision, me.y, cgroup);
+                if (!occupied) {
+                    me.x += Math.sign(dx) * precision;
+                    dx -= Math.sign(dx) * precision;
+                } else {
+                    obstacles.x = occupied;
+                    break;
+                }
+            }
+            while (Math.abs(dy) > precision) {
+                const occupied =
+                    ct.place.occupied(me, me.x, me.y + Math.sign(dy) * precision, cgroup);
+                if (!occupied) {
+                    me.y += Math.sign(dy) * precision;
+                    dy -= Math.sign(dy) * precision;
+                } else {
+                    obstacles.y = occupied;
+                    break;
+                }
+            }
+            // A fraction of precision may be left but completely reachable; jump to this point.
+            if (Math.abs(dx) < precision) {
+                if (ct.place.free(me, me.x + dx, me.y, cgroup)) {
+                    me.x += dx;
+                }
+            }
+            if (Math.abs(dy) < precision) {
+                if (ct.place.free(me, me.x, me.y + dy, cgroup)) {
+                    me.y += dy;
+                }
+            }
+            if (!obstacles.x && !obstacles.y) {
+                return false;
+            }
+            return obstacles;
+        },
+        go(me, x, y, length, cgroup) {
+            // ct.place.go(<me: Copy, x: number, y: number, length: number>[, cgroup: String])
+            // tries to reach the target with a simple obstacle avoidance algorithm
+
+            // if we are too close to the destination, exit
+            if (ct.u.pdc(me.x, me.y, x, y) < length) {
+                if (ct.place.free(me, x, y, cgroup)) {
+                    me.x = x;
+                    me.y = y;
+                    delete me._shape;
+                }
+                return;
+            }
+            var dir = ct.u.pdn(me.x, me.y, x, y);
+
+            //if there are no obstackles in front of us, go forward
+            let projectedX = me.x + ct.u.ldx(length, dir),
+                projectedY = me.y + ct.u.ldy(length, dir);
+            if (ct.place.free(me, projectedX, projectedY, cgroup)) {
+                me.x = projectedX;
+                me.y = projectedY;
+                delete me._shape;
+                me.dir = dir;
+            // otherwise, try to change direction by 30...60...90 degrees.
+            // Direction changes over time (ct.place.m).
+            } else {
+                for (var i = -1; i <= 1; i += 2) {
+                    for (var j = 30; j < 150; j += 30) {
+                        projectedX = me.x + ct.u.ldx(length, dir + j * ct.place.m * i);
+                        projectedY = me.y + ct.u.ldy(length, dir + j * ct.place.m * i);
+                        if (ct.place.free(me, projectedX, projectedY, cgroup)) {
+                            me.x = projectedX;
+                            me.y = projectedY;
+                            delete me._shape;
+                            me.dir = dir + j * ct.place.m * i;
+                            return;
+                        }
+                    }
+                }
+            }
+        },
+        traceCustom(shape, oversized, cgroup, getAll) {
+            const results = [];
+            if (debugMode) {
+                shape.$cDebugCollision = ct.place.debugTraceGraphics;
+                ct.place.drawDebugGraphic.apply(shape, [true]);
+            }
+            // Oversized tracing shapes won't work with partitioning table, and thus
+            // will need to loop over all the copies and tiles in the room.
+            // Non-oversized shapes can use plain ct.place.occupied.
+            if (!oversized) {
+                if (getAll) {
+                    return ct.place.occupiedMultiple(shape, cgroup);
+                }
+                return ct.place.occupied(shape, cgroup);
+            }
+            // Oversized shapes.
+            // Loop over all the copies in the room.
+            for (const copy of ct.stack) {
+                if (!cgroup || copy.cgroup === cgroup) {
+                    if (ct.place.collide(shape, copy)) {
+                        if (getAll) {
+                            results.push(copy);
+                        } else {
+                            return copy;
+                        }
+                    }
+                }
+            }
+            // Additionally, loop over all the tilesets and their tiles.
+            for (const tilemap of ct.templates.list.TILEMAP) {
+                if (!tilemap.addedCollisions) {
+                    continue;
+                }
+                if (cgroup && tilemap.cgroup !== cgroup) {
+                    continue;
+                }
+                for (const tile of tilemap.pixiTiles) {
+                    if (ct.place.collide(shape, tile)) {
+                        if (getAll) {
+                            results.push(tile);
+                        } else {
+                            return tile;
+                        }
+                    }
+                }
+            }
+            if (!getAll) {
+                return false;
+            }
+            return results;
+        },
+        /**
+         * Tests for intersections with a line segment.
+         * If `getAll` is set to `true`, returns all the copies that intersect
+         * the line segment; otherwise, returns the first one that fits the conditions.
+         *
+         * @param {ICtPlaceLineSegment} line An object that describes the line segment.
+         * @param {string} [cgroup] An optional collision group to trace against.
+         * If omitted, will trace through all the copies in the current room.
+         * @param {boolean} [getAll] Whether to return all the intersections (true),
+         * or return the first one.
+         * @returns {Copy|Array<Copy>}
+         */
+        traceLine(line, cgroup, getAll) {
+            let oversized = false;
+            if (Math.abs(line.x1 - line.x2) > ct.place.gridX) {
+                oversized = true;
+            } else if (Math.abs(line.y1 - line.y2) > ct.place.gridY) {
+                oversized = true;
+            }
+            const shape = {
+                x: line.x1,
+                y: line.y1,
+                scale: {
+                    x: 1, y: 1
+                },
+                rotation: 0,
+                angle: 0,
+                shape: {
+                    type: 'line',
+                    x1: 0,
+                    y1: 0,
+                    x2: line.x2 - line.x1,
+                    y2: line.y2 - line.y1
+                }
+            };
+            const result = ct.place.traceCustom(shape, oversized, cgroup, getAll);
+            if (getAll) {
+                // An approximate sorting by distance
+                result.sort(function sortCopies(a, b) {
+                    var dist1, dist2;
+                    dist1 = ct.u.pdc(line.x1, line.y1, a.x, a.y);
+                    dist2 = ct.u.pdc(line.x1, line.y1, b.x, b.y);
+                    return dist1 - dist2;
+                });
+            }
+            return result;
+        },
+        /**
+         * Tests for intersections with a filled rectangle.
+         * If `getAll` is set to `true`, returns all the copies that intersect
+         * the rectangle; otherwise, returns the first one that fits the conditions.
+         *
+         * @param {ICtPlaceRectangle} rect An object that describes the line segment.
+         * @param {string} [cgroup] An optional collision group to trace against.
+         * If omitted, will trace through all the copies in the current room.
+         * @param {boolean} [getAll] Whether to return all the intersections (true),
+         * or return the first one.
+         * @returns {Copy|Array<Copy>}
+         */
+        traceRect(rect, cgroup, getAll) {
+            let oversized = false;
+            rect = { // Copy the object
+                ...rect
+            };
+            // Turn x1, x2, y1, y2 into x, y, width, and height
+            if ('x1' in rect) {
+                rect.x = rect.x1;
+                rect.y = rect.y1;
+                rect.width = rect.x2 - rect.x1;
+                rect.height = rect.y2 - rect.y1;
+            }
+            if (Math.abs(rect.width) > ct.place.gridX || Math.abs(rect.height) > ct.place.gridY) {
+                oversized = true;
+            }
+            const shape = {
+                x: rect.x,
+                y: rect.y,
+                scale: {
+                    x: 1, y: 1
+                },
+                rotation: 0,
+                angle: 0,
+                shape: {
+                    type: 'rect',
+                    left: 0,
+                    top: 0,
+                    right: rect.width,
+                    bottom: rect.height
+                }
+            };
+            return ct.place.traceCustom(shape, oversized, cgroup, getAll);
+        },
+        /**
+         * Tests for intersections with a filled circle.
+         * If `getAll` is set to `true`, returns all the copies that intersect
+         * the circle; otherwise, returns the first one that fits the conditions.
+         *
+         * @param {ICtPlaceCircle} rect An object that describes the line segment.
+         * @param {string} [cgroup] An optional collision group to trace against.
+         * If omitted, will trace through all the copies in the current room.
+         * @param {boolean} [getAll] Whether to return all the intersections (true),
+         * or return the first one.
+         * @returns {Copy|Array<Copy>}
+         */
+        traceCircle(circle, cgroup, getAll) {
+            let oversized = false;
+            if (circle.radius * 2 > ct.place.gridX || circle.radius * 2 > ct.place.gridY) {
+                oversized = true;
+            }
+            const shape = {
+                x: circle.x,
+                y: circle.y,
+                scale: {
+                    x: 1, y: 1
+                },
+                rotation: 0,
+                angle: 0,
+                shape: {
+                    type: 'circle',
+                    r: circle.radius
+                }
+            };
+            return ct.place.traceCustom(shape, oversized, cgroup, getAll);
+        },
+        /**
+         * Tests for intersections with a polyline. It is a hollow shape made
+         * of connected line segments. The shape is not closed unless you add
+         * the closing point by yourself.
+         * If `getAll` is set to `true`, returns all the copies that intersect
+         * the polyline; otherwise, returns the first one that fits the conditions.
+         *
+         * @param {Array<IPoint>} polyline An array of objects with `x` and `y` properties.
+         * @param {string} [cgroup] An optional collision group to trace against.
+         * If omitted, will trace through all the copies in the current room.
+         * @param {boolean} [getAll] Whether to return all the intersections (true),
+         * or return the first one.
+         * @returns {Copy|Array<Copy>}
+         */
+        tracePolyline(polyline, cgroup, getAll) {
+            const shape = {
+                x: 0,
+                y: 0,
+                scale: {
+                    x: 1, y: 1
+                },
+                rotation: 0,
+                angle: 0,
+                shape: {
+                    type: 'strip',
+                    points: polyline
+                }
+            };
+            return ct.place.traceCustom(shape, true, cgroup, getAll);
+        },
+        /**
+         * Tests for intersections with a point.
+         * If `getAll` is set to `true`, returns all the copies that intersect
+         * the point; otherwise, returns the first one that fits the conditions.
+         *
+         * @param {object} point An object with `x` and `y` properties.
+         * @param {string} [cgroup] An optional collision group to trace against.
+         * If omitted, will trace through all the copies in the current room.
+         * @param {boolean} [getAll] Whether to return all the intersections (true),
+         * or return the first one.
+         * @returns {Copy|Array<Copy>}
+         */
+        tracePoint(point, cgroup, getAll) {
+            const shape = {
+                x: point.x,
+                y: point.y,
+                scale: {
+                    x: 1, y: 1
+                },
+                rotation: 0,
+                angle: 0,
+                shape: {
+                    type: 'point'
+                }
+            };
+            return ct.place.traceCustom(shape, false, cgroup, getAll);
+        }
+    };
+    // Aliases
+    ct.place.traceRectange = ct.place.traceRect;
+    // a magic procedure which tells 'go' function to change its direction
+    setInterval(function switchCtPlaceGoDirection() {
+        ct.place.m *= -1;
+    }, 789);
+})(ct);
+
+(function fittoscreen(ct) {
+    document.body.style.overflow = 'hidden';
+    var canv = ct.pixiApp.view;
+    const positionCanvas = function positionCanvas(mode, scale) {
+        if (mode === 'fastScale' || mode === 'fastScaleInteger') {
+            canv.style.transform = `translate(-50%, -50%) scale(${scale})`;
+            canv.style.position = 'absolute';
+            canv.style.top = '50%';
+            canv.style.left = '50%';
+        } else if (mode === 'expandViewport' || mode === 'expand' || mode === 'scaleFill') {
+            canv.style.position = 'static';
+            canv.style.top = 'unset';
+            canv.style.left = 'unset';
+        } else if (mode === 'scaleFit') {
+            canv.style.transform = 'translate(-50%, -50%)';
+            canv.style.position = 'absolute';
+            canv.style.top = '50%';
+            canv.style.left = '50%';
+        }
+    };
+    var resize = function resize() {
+        const {mode} = ct.fittoscreen;
+        const pixelScaleModifier = ct.highDensity ? (window.devicePixelRatio || 1) : 1;
+        const kw = window.innerWidth / ct.roomWidth,
+              kh = window.innerHeight / ct.roomHeight;
+        let k = Math.min(kw, kh);
+        if (mode === 'fastScaleInteger') {
+            k = k < 1 ? k : Math.floor(k);
+        }
+        var canvasWidth, canvasHeight,
+            cameraWidth, cameraHeight;
+        if (mode === 'expandViewport' || mode === 'expand') {
+            canvasWidth = Math.ceil(window.innerWidth * pixelScaleModifier);
+            canvasHeight = Math.ceil(window.innerHeight * pixelScaleModifier);
+            cameraWidth = window.innerWidth;
+            cameraHeight = window.innerHeight;
+        } else if (mode === 'fastScale' || mode === 'fastScaleInteger') {
+            canvasWidth = Math.ceil(ct.roomWidth * pixelScaleModifier);
+            canvasHeight = Math.ceil(ct.roomHeight * pixelScaleModifier);
+            cameraWidth = ct.roomWidth;
+            cameraHeight = ct.roomHeight;
+        } else if (mode === 'scaleFit' || mode === 'scaleFill') {
+            if (mode === 'scaleFill') {
+                canvasWidth = Math.ceil(ct.roomWidth * kw * pixelScaleModifier);
+                canvasHeight = Math.ceil(ct.roomHeight * kh * pixelScaleModifier);
+                cameraWidth = window.innerWidth / k;
+                cameraHeight = window.innerHeight / k;
+            } else { // scaleFit
+                canvasWidth = Math.ceil(ct.roomWidth * k * pixelScaleModifier);
+                canvasHeight = Math.ceil(ct.roomHeight * k * pixelScaleModifier);
+                cameraWidth = ct.roomWidth;
+                cameraHeight = ct.roomHeight;
+            }
+        }
+
+        ct.pixiApp.renderer.resize(canvasWidth, canvasHeight);
+        if (mode !== 'scaleFill' && mode !== 'scaleFit') {
+            ct.pixiApp.stage.scale.x = ct.pixiApp.stage.scale.y = pixelScaleModifier;
+        } else {
+            ct.pixiApp.stage.scale.x = ct.pixiApp.stage.scale.y = pixelScaleModifier * k;
+        }
+        canv.style.width = Math.ceil(canvasWidth / pixelScaleModifier) + 'px';
+        canv.style.height = Math.ceil(canvasHeight / pixelScaleModifier) + 'px';
+        if (ct.camera) {
+            ct.camera.width = cameraWidth;
+            ct.camera.height = cameraHeight;
+        }
+        positionCanvas(mode, k);
+    };
+    var toggleFullscreen = function () {
+        try {
+            // Are we in Electron?
+            const win = require('electron').remote.BrowserWindow.getFocusedWindow();
+            win.setFullScreen(!win.isFullScreen());
+            return;
+        } catch (e) {
+            void e; // Continue with web approach
+        }
+        var canvas = document.fullscreenElement ||
+                     document.webkitFullscreenElement ||
+                     document.mozFullScreenElement ||
+                     document.msFullscreenElement,
+            requester = document.getElementById('ct'),
+            request = requester.requestFullscreen ||
+                      requester.webkitRequestFullscreen ||
+                      requester.mozRequestFullScreen ||
+                      requester.msRequestFullscreen,
+            exit = document.exitFullscreen ||
+                   document.webkitExitFullscreen ||
+                   document.mozCancelFullScreen ||
+                   document.msExitFullscreen;
+        if (!canvas) {
+            var promise = request.call(requester);
+            if (promise) {
+                promise
+                .catch(function fullscreenError(err) {
+                    console.error('[ct.fittoscreen]', err);
+                });
+            }
+        } else if (exit) {
+            exit.call(document);
+        }
+    };
+    window.addEventListener('resize', resize);
+    ct.fittoscreen = resize;
+    ct.fittoscreen.toggleFullscreen = toggleFullscreen;
+    var $mode = 'scaleFit';
+    Object.defineProperty(ct.fittoscreen, 'mode', {
+        configurable: false,
+        enumerable: true,
+        set(value) {
+            $mode = value;
+        },
+        get() {
+            return $mode;
+        }
+    });
+    ct.fittoscreen.mode = $mode;
+    ct.fittoscreen.getIsFullscreen = function getIsFullscreen() {
+        try {
+            // Are we in Electron?
+            const win = require('electron').remote.BrowserWindow.getFocusedWindow;
+            return win.isFullScreen;
+        } catch (e) {
+            void e; // Continue with web approach
+        }
+        return document.fullscreen || document.webkitIsFullScreen || document.mozFullScreen;
+    };
+})(ct);
+
+(function mountCtPointer(ct) {
+    const keyPrefix = 'pointer.';
+    const setKey = function (key, value) {
+        ct.inputs.registry[keyPrefix + key] = value;
+    };
+    const getKey = function (key) {
+        return ct.inputs.registry[keyPrefix + key];
+    };
+    const buttonMappings = {
+        Primary: 1,
+        Middle: 4,
+        Secondary: 2,
+        ExtraOne: 8,
+        ExtraTwo: 16,
+        Eraser: 32
+    };
+    var lastPanNum = 0,
+        lastPanX = 0,
+        lastPanY = 0,
+        lastScaleDistance = 0,
+        lastAngle = 0;
+
+    // updates Action system's input methods for singular, double and triple pointers
+    var countPointers = () => {
+        setKey('Any', ct.pointer.down.length > 0 ? 1 : 0);
+        setKey('Double', ct.pointer.down.length > 1 ? 1 : 0);
+        setKey('Triple', ct.pointer.down.length > 2 ? 1 : 0);
+    };
+    // returns a new object with the necessary information about a pointer event
+    var copyPointer = e => {
+        const rect = ct.pixiApp.view.getBoundingClientRect();
+        const xui = (e.clientX - rect.left) / rect.width * ct.camera.width,
+              yui = (e.clientY - rect.top) / rect.height * ct.camera.height;
+        const positionGame = ct.u.uiToGameCoord(xui, yui);
+        const pointer = {
+            id: e.pointerId,
+            x: positionGame.x,
+            y: positionGame.y,
+            clientX: e.clientX,
+            clientY: e.clientY,
+            xui: xui,
+            yui: yui,
+            xprev: positionGame.x,
+            yprev: positionGame.y,
+            buttons: e.buttons,
+            xuiprev: xui,
+            yuiprev: yui,
+            pressure: e.pressure,
+            tiltX: e.tiltX,
+            tiltY: e.tiltY,
+            twist: e.twist,
+            type: e.pointerType,
+            width: e.width / rect.width * ct.camera.width,
+            height: e.height / rect.height * ct.camera.height
+        };
+        return pointer;
+    };
+    var updatePointer = (pointer, e) => {
+        const rect = ct.pixiApp.view.getBoundingClientRect();
+        const xui = (e.clientX - rect.left) / rect.width * ct.camera.width,
+              yui = (e.clientY - rect.top) / rect.height * ct.camera.height;
+        const positionGame = ct.u.uiToGameCoord(xui, yui);
+        Object.assign(pointer, {
+            x: positionGame.x,
+            y: positionGame.y,
+            xui: xui,
+            yui: yui,
+            clientX: e.clientX,
+            clientY: e.clientY,
+            pressure: e.pressure,
+            buttons: e.buttons,
+            tiltX: e.tiltX,
+            tiltY: e.tiltY,
+            twist: e.twist,
+            width: e.width / rect.width * ct.camera.width,
+            height: e.height / rect.height * ct.camera.height
+        });
+    };
+    var writePrimary = function (pointer) {
+        Object.assign(ct.pointer, {
+            x: pointer.x,
+            y: pointer.y,
+            xui: pointer.xui,
+            yui: pointer.yui,
+            pressure: pointer.pressure,
+            buttons: pointer.buttons,
+            tiltX: pointer.tiltX,
+            tiltY: pointer.tiltY,
+            twist: pointer.twist
+        });
+    };
+
+    var handleHoverStart = function (e) {
+        window.focus();
+        const pointer = copyPointer(e);
+        ct.pointer.hover.push(pointer);
+        if (e.isPrimary) {
+            writePrimary(pointer);
+        }
+    };
+    var handleHoverEnd = function (e) {
+        const pointer = ct.pointer.hover.find(p => p.id === e.pointerId);
+        if (pointer) {
+            pointer.invalid = true;
+            ct.pointer.hover.splice(ct.pointer.hover.indexOf(pointer), 1);
+        }
+        // Handles mouse pointers that were dragged out of the ct.js frame while pressing,
+        // as they don't trigger pointercancel or such
+        const downId = ct.pointer.down.findIndex(p => p.id === e.pointerId);
+        if (downId !== -1) {
+            ct.pointer.down.splice(downId, 1);
+        }
+    };
+    var handleMove = function (e) {
+        if (![false][0]) {
+            e.preventDefault();
+        }
+        let pointerHover = ct.pointer.hover.find(p => p.id === e.pointerId);
+        if (!pointerHover) {
+            // Catches hover events that started before the game has loaded
+            handleHoverStart(e);
+            pointerHover = ct.pointer.hover.find(p => p.id === e.pointerId);
+        }
+        const pointerDown = ct.pointer.down.find(p => p.id === e.pointerId);
+        if (!pointerHover && !pointerDown) {
+            return;
+        }
+        if (pointerHover) {
+            updatePointer(pointerHover, e);
+        }
+        if (pointerDown) {
+            updatePointer(pointerDown, e);
+        }
+        if (e.isPrimary) {
+            writePrimary(pointerHover || pointerDown);
+        }
+    };
+    var handleDown = function (e) {
+        if (![false][0]) {
+            e.preventDefault();
+        }
+        ct.pointer.type = e.pointerType;
+        const pointer = copyPointer(e);
+        ct.pointer.down.push(pointer);
+        countPointers();
+        if (e.isPrimary) {
+            writePrimary(pointer);
+        }
+    };
+    var handleUp = function (e) {
+        if (![false][0]) {
+            e.preventDefault();
+        }
+        const pointer = ct.pointer.down.find(p => p.id === e.pointerId);
+        if (pointer) {
+            ct.pointer.released.push(pointer);
+        }
+        if (ct.pointer.down.indexOf(pointer) !== -1) {
+            ct.pointer.down.splice(ct.pointer.down.indexOf(pointer), 1);
+        }
+        countPointers();
+    };
+    var handleWheel = function handleWheel(e) {
+        setKey('Wheel', ((e.wheelDelta || -e.detail) < 0) ? -1 : 1);
+        if (![false][0]) {
+            e.preventDefault();
+        }
+    };
+
+    let locking = false;
+    const genericCollisionCheck = function genericCollisionCheck(
+        copy,
+        specificPointer,
+        set,
+        uiSpace
+    ) {
+        if (locking) {
+            return false;
+        }
+        for (const pointer of set) {
+            if (specificPointer && pointer.id !== specificPointer.id) {
+                continue;
+            }
+            if (ct.place.collide(copy, {
+                x: uiSpace ? pointer.xui : pointer.x,
+                y: uiSpace ? pointer.yui : pointer.y,
+                scale: {
+                    x: 1,
+                    y: 1
+                },
+                angle: 0,
+                shape: {
+                    type: 'rect',
+                    top: pointer.height / 2,
+                    bottom: pointer.height / 2,
+                    left: pointer.width / 2,
+                    right: pointer.width / 2
+                }
+            })) {
+                return pointer;
+            }
+        }
+        return false;
+    };
+    // Triggers on every mouse press event to capture pointer after it was released by a user,
+    // e.g. after the window was blurred
+    const pointerCapturer = function pointerCapturer() {
+        if (!document.pointerLockElement && !document.mozPointerLockElement) {
+            const request = document.body.requestPointerLock || document.body.mozRequestPointerLock;
+            request.apply(document.body);
+        }
+    };
+    const capturedPointerMove = function capturedPointerMove(e) {
+        const rect = ct.pixiApp.view.getBoundingClientRect();
+        const dx = e.movementX / rect.width * ct.camera.width,
+              dy = e.movementY / rect.height * ct.camera.height;
+        ct.pointer.xlocked += dx;
+        ct.pointer.ylocked += dy;
+        ct.pointer.xmovement = dx;
+        ct.pointer.ymovement = dy;
+    };
+
+    ct.pointer = {
+        setupListeners() {
+            document.addEventListener('pointerenter', handleHoverStart, false);
+            document.addEventListener('pointerout', handleHoverEnd, false);
+            document.addEventListener('pointerleave', handleHoverEnd, false);
+            document.addEventListener('pointerdown', handleDown, false);
+            document.addEventListener('pointerup', handleUp, false);
+            document.addEventListener('pointercancel', handleUp, false);
+            document.addEventListener('pointermove', handleMove, false);
+            document.addEventListener('wheel', handleWheel, {
+                passive: false
+            });
+            document.addEventListener('DOMMouseScroll', handleWheel, {
+                passive: false
+            });
+            document.addEventListener('contextmenu', e => {
+                if (![false][0]) {
+                    e.preventDefault();
+                }
+            });
+        },
+        hover: [],
+        down: [],
+        released: [],
+        x: 0,
+        y: 0,
+        xprev: 0,
+        yprev: 0,
+        xui: 0,
+        yui: 0,
+        xuiprev: 0,
+        yuiprev: 0,
+        xlocked: 0,
+        ylocked: 0,
+        xmovement: 0,
+        ymovement: 0,
+        pressure: 1,
+        buttons: 0,
+        tiltX: 0,
+        tiltY: 0,
+        twist: 0,
+        width: 1,
+        height: 1,
+        type: null,
+        clear() {
+            ct.pointer.down.length = 0;
+            ct.pointer.hover.length = 0;
+            ct.pointer.clearReleased();
+            countPointers();
+        },
+        clearReleased() {
+            ct.pointer.released.length = 0;
+        },
+        collides(copy, pointer, checkReleased) {
+            var set = checkReleased ? ct.pointer.released : ct.pointer.down;
+            return genericCollisionCheck(copy, pointer, set, false);
+        },
+        collidesUi(copy, pointer, checkReleased) {
+            var set = checkReleased ? ct.pointer.released : ct.pointer.down;
+            return genericCollisionCheck(copy, pointer, set, true);
+        },
+        hovers(copy, pointer) {
+            return genericCollisionCheck(copy, pointer, ct.pointer.hover, false);
+        },
+        hoversUi(copy, pointer) {
+            return genericCollisionCheck(copy, pointer, ct.pointer.hover, true);
+        },
+        isButtonPressed(button, pointer) {
+            if (!pointer) {
+                return Boolean(getKey(button));
+            }
+            // eslint-disable-next-line no-bitwise
+            return (pointer.buttons & buttonMappings[button]) === button ? 1 : 0;
+        },
+        updateGestures() {
+            let x = 0,
+                y = 0;
+            const rect = ct.pixiApp.view.getBoundingClientRect();
+            // Get the middle point of all the pointers
+            for (const event of ct.pointer.down) {
+                x += (event.clientX - rect.left) / rect.width;
+                y += (event.clientY - rect.top) / rect.height;
+            }
+            x /= ct.pointer.down.length;
+            y /= ct.pointer.down.length;
+
+            let angle = 0,
+                distance = lastScaleDistance;
+            if (ct.pointer.down.length > 1) {
+                const events = [
+                    ct.pointer.down[0],
+                    ct.pointer.down[1]
+                ].sort((a, b) => a.id - b.id);
+                angle = ct.u.pdn(
+                    events[0].x,
+                    events[0].y,
+                    events[1].x,
+                    events[1].y
+                );
+                distance = ct.u.pdc(
+                    events[0].x,
+                    events[0].y,
+                    events[1].x,
+                    events[1].y
+                );
+            }
+            if (lastPanNum === ct.pointer.down.length) {
+                if (ct.pointer.down.length > 1) {
+                    setKey('DeltaRotation', (ct.u.degToRad(ct.u.deltaDir(lastAngle, angle))));
+                    setKey('DeltaPinch', distance / lastScaleDistance - 1);
+                } else {
+                    setKey('DeltaPinch', 0);
+                    setKey('DeltaRotation', 0);
+                }
+                if (!ct.pointer.down.length) {
+                    setKey('PanX', 0);
+                    setKey('PanY', 0);
+                } else {
+                    setKey('PanX', x - lastPanX);
+                    setKey('PanY', y - lastPanY);
+                }
+            } else {
+                // skip gesture updates to avoid shaking on new presses
+                lastPanNum = ct.pointer.down.length;
+                setKey('DeltaPinch', 0);
+                setKey('DeltaRotation', 0);
+                setKey('PanX', 0);
+                setKey('PanY', 0);
+            }
+            lastPanX = x;
+            lastPanY = y;
+            lastAngle = angle;
+            lastScaleDistance = distance;
+
+            for (const button in buttonMappings) {
+                setKey(button, 0);
+                for (const pointer of ct.pointer.down) {
+                    // eslint-disable-next-line no-bitwise
+                    if ((pointer.buttons & buttonMappings[button]) === buttonMappings[button]) {
+                        setKey(button, 1);
+                    }
+                }
+            }
+        },
+        lock() {
+            if (locking) {
+                return;
+            }
+            locking = true;
+            ct.pointer.xlocked = ct.pointer.xui;
+            ct.pointer.ylocked = ct.pointer.yui;
+            const request = document.body.requestPointerLock || document.body.mozRequestPointerLock;
+            request.apply(document.body);
+            document.addEventListener('click', pointerCapturer);
+            document.addEventListener('pointermove', capturedPointerMove);
+        },
+        unlock() {
+            if (!locking) {
+                return;
+            }
+            locking = false;
+            if (document.pointerLockElement || document.mozPointerLockElement) {
+                (document.exitPointerLock || document.mozExitPointerLock)();
+            }
+            document.removeEventListener('click', pointerCapturer);
+            document.removeEventListener('pointermove', capturedPointerMove);
+        },
+        get locked() {
+            // Do not return the Document object
+            return Boolean(document.pointerLockElement || document.mozPointerLockElement);
+        }
+    };
+    setKey('Wheel', 0);
+    if ([false][0]) {
+        ct.pointer.lock();
+    }
+})(ct);
+
+(function ctKeyboard() {
+    var keyPrefix = 'keyboard.';
+    var setKey = function (key, value) {
+        ct.inputs.registry[keyPrefix + key] = value;
+    };
+
+    ct.keyboard = {
+        string: '',
+        lastKey: '',
+        lastCode: '',
+        alt: false,
+        shift: false,
+        ctrl: false,
+        clear() {
+            delete ct.keyboard.lastKey;
+            delete ct.keyboard.lastCode;
+            ct.keyboard.string = '';
+            ct.keyboard.alt = false;
+            ct.keyboard.shift = false;
+            ct.keyboard.ctrl = false;
+        },
+        check: [],
+        onDown(e) {
+            ct.keyboard.shift = e.shiftKey;
+            ct.keyboard.alt = e.altKey;
+            ct.keyboard.ctrl = e.ctrlKey;
+            ct.keyboard.lastKey = e.key;
+            ct.keyboard.lastCode = e.code;
+            if (e.code) {
+                setKey(e.code, 1);
+            } else {
+                setKey('Unknown', 1);
+            }
+            if (e.key) {
+                if (e.key.length === 1) {
+                    ct.keyboard.string += e.key;
+                } else if (e.key === 'Backspace') {
+                    ct.keyboard.string = ct.keyboard.string.slice(0, -1);
+                } else if (e.key === 'Enter') {
+                    ct.keyboard.string = '';
+                }
+            }
+            e.preventDefault();
+        },
+        onUp(e) {
+            ct.keyboard.shift = e.shiftKey;
+            ct.keyboard.alt = e.altKey;
+            ct.keyboard.ctrl = e.ctrlKey;
+            if (e.code) {
+                setKey(e.code, 0);
+            } else {
+                setKey('Unknown', 0);
+            }
+            e.preventDefault();
+        }
+    };
+
+    if (document.addEventListener) {
+        document.addEventListener('keydown', ct.keyboard.onDown, false);
+        document.addEventListener('keyup', ct.keyboard.onUp, false);
+    } else {
+        document.attachEvent('onkeydown', ct.keyboard.onDown);
+        document.attachEvent('onkeyup', ct.keyboard.onUp);
+    }
+})();
+
+(function(global) {
+    'use strict';
+  
+    var nativeKeyboardEvent = ('KeyboardEvent' in global);
+    if (!nativeKeyboardEvent)
+      global.KeyboardEvent = function KeyboardEvent() { throw TypeError('Illegal constructor'); };
+  
+    [
+      ['DOM_KEY_LOCATION_STANDARD', 0x00], // Default or unknown location
+      ['DOM_KEY_LOCATION_LEFT', 0x01], // e.g. Left Alt key
+      ['DOM_KEY_LOCATION_RIGHT', 0x02], // e.g. Right Alt key
+      ['DOM_KEY_LOCATION_NUMPAD', 0x03], // e.g. Numpad 0 or +
+    ].forEach(function(p) { if (!(p[0] in global.KeyboardEvent)) global.KeyboardEvent[p[0]] = p[1]; });
+  
+    var STANDARD = global.KeyboardEvent.DOM_KEY_LOCATION_STANDARD,
+        LEFT = global.KeyboardEvent.DOM_KEY_LOCATION_LEFT,
+        RIGHT = global.KeyboardEvent.DOM_KEY_LOCATION_RIGHT,
+        NUMPAD = global.KeyboardEvent.DOM_KEY_LOCATION_NUMPAD;
+  
+    //--------------------------------------------------------------------
+    //
+    // Utilities
+    //
+    //--------------------------------------------------------------------
+  
+    function contains(s, ss) { return String(s).indexOf(ss) !== -1; }
+  
+    var os = (function() {
+      if (contains(navigator.platform, 'Win')) { return 'win'; }
+      if (contains(navigator.platform, 'Mac')) { return 'mac'; }
+      if (contains(navigator.platform, 'CrOS')) { return 'cros'; }
+      if (contains(navigator.platform, 'Linux')) { return 'linux'; }
+      if (contains(navigator.userAgent, 'iPad') || contains(navigator.platform, 'iPod') || contains(navigator.platform, 'iPhone')) { return 'ios'; }
+      return '';
+    } ());
+  
+    var browser = (function() {
+      if (contains(navigator.userAgent, 'Chrome/')) { return 'chrome'; }
+      if (contains(navigator.vendor, 'Apple')) { return 'safari'; }
+      if (contains(navigator.userAgent, 'MSIE')) { return 'ie'; }
+      if (contains(navigator.userAgent, 'Gecko/')) { return 'moz'; }
+      if (contains(navigator.userAgent, 'Opera/')) { return 'opera'; }
+      return '';
+    } ());
+  
+    var browser_os = browser + '-' + os;
+  
+    function mergeIf(baseTable, select, table) {
+      if (browser_os === select || browser === select || os === select) {
+        Object.keys(table).forEach(function(keyCode) {
+          baseTable[keyCode] = table[keyCode];
+        });
+      }
+    }
+  
+    function remap(o, key) {
+      var r = {};
+      Object.keys(o).forEach(function(k) {
+        var item = o[k];
+        if (key in item) {
+          r[item[key]] = item;
+        }
+      });
+      return r;
+    }
+  
+    function invert(o) {
+      var r = {};
+      Object.keys(o).forEach(function(k) {
+        r[o[k]] = k;
+      });
+      return r;
+    }
+  
+    //--------------------------------------------------------------------
+    //
+    // Generic Mappings
+    //
+    //--------------------------------------------------------------------
+  
+    // "keyInfo" is a dictionary:
+    //   code: string - name from UI Events KeyboardEvent code Values
+    //     https://w3c.github.io/uievents-code/
+    //   location (optional): number - one of the DOM_KEY_LOCATION values
+    //   keyCap (optional): string - keyboard label in en-US locale
+    // USB code Usage ID from page 0x07 unless otherwise noted (Informative)
+  
+    // Map of keyCode to keyInfo
+    var keyCodeToInfoTable = {
+      // 0x01 - VK_LBUTTON
+      // 0x02 - VK_RBUTTON
+      0x03: { code: 'Cancel' }, // [USB: 0x9b] char \x0018 ??? (Not in D3E)
+      // 0x04 - VK_MBUTTON
+      // 0x05 - VK_XBUTTON1
+      // 0x06 - VK_XBUTTON2
+      0x06: { code: 'Help' }, // [USB: 0x75] ???
+      // 0x07 - undefined
+      0x08: { code: 'Backspace' }, // [USB: 0x2a] Labelled Delete on Macintosh keyboards.
+      0x09: { code: 'Tab' }, // [USB: 0x2b]
+      // 0x0A-0x0B - reserved
+      0X0C: { code: 'Clear' }, // [USB: 0x9c] NumPad Center (Not in D3E)
+      0X0D: { code: 'Enter' }, // [USB: 0x28]
+      // 0x0E-0x0F - undefined
+  
+      0x10: { code: 'Shift' },
+      0x11: { code: 'Control' },
+      0x12: { code: 'Alt' },
+      0x13: { code: 'Pause' }, // [USB: 0x48]
+      0x14: { code: 'CapsLock' }, // [USB: 0x39]
+      0x15: { code: 'KanaMode' }, // [USB: 0x88]
+      0x16: { code: 'Lang1' }, // [USB: 0x90]
+      // 0x17: VK_JUNJA
+      // 0x18: VK_FINAL
+      0x19: { code: 'Lang2' }, // [USB: 0x91]
+      // 0x1A - undefined
+      0x1B: { code: 'Escape' }, // [USB: 0x29]
+      0x1C: { code: 'Convert' }, // [USB: 0x8a]
+      0x1D: { code: 'NonConvert' }, // [USB: 0x8b]
+      0x1E: { code: 'Accept' }, // [USB: ????]
+      0x1F: { code: 'ModeChange' }, // [USB: ????]
+  
+      0x20: { code: 'Space' }, // [USB: 0x2c]
+      0x21: { code: 'PageUp' }, // [USB: 0x4b]
+      0x22: { code: 'PageDown' }, // [USB: 0x4e]
+      0x23: { code: 'End' }, // [USB: 0x4d]
+      0x24: { code: 'Home' }, // [USB: 0x4a]
+      0x25: { code: 'ArrowLeft' }, // [USB: 0x50]
+      0x26: { code: 'ArrowUp' }, // [USB: 0x52]
+      0x27: { code: 'ArrowRight' }, // [USB: 0x4f]
+      0x28: { code: 'ArrowDown' }, // [USB: 0x51]
+      0x29: { code: 'Select' }, // (Not in D3E)
+      0x2A: { code: 'Print' }, // (Not in D3E)
+      0x2B: { code: 'Execute' }, // [USB: 0x74] (Not in D3E)
+      0x2C: { code: 'PrintScreen' }, // [USB: 0x46]
+      0x2D: { code: 'Insert' }, // [USB: 0x49]
+      0x2E: { code: 'Delete' }, // [USB: 0x4c]
+      0x2F: { code: 'Help' }, // [USB: 0x75] ???
+  
+      0x30: { code: 'Digit0', keyCap: '0' }, // [USB: 0x27] 0)
+      0x31: { code: 'Digit1', keyCap: '1' }, // [USB: 0x1e] 1!
+      0x32: { code: 'Digit2', keyCap: '2' }, // [USB: 0x1f] 2@
+      0x33: { code: 'Digit3', keyCap: '3' }, // [USB: 0x20] 3#
+      0x34: { code: 'Digit4', keyCap: '4' }, // [USB: 0x21] 4$
+      0x35: { code: 'Digit5', keyCap: '5' }, // [USB: 0x22] 5%
+      0x36: { code: 'Digit6', keyCap: '6' }, // [USB: 0x23] 6^
+      0x37: { code: 'Digit7', keyCap: '7' }, // [USB: 0x24] 7&
+      0x38: { code: 'Digit8', keyCap: '8' }, // [USB: 0x25] 8*
+      0x39: { code: 'Digit9', keyCap: '9' }, // [USB: 0x26] 9(
+      // 0x3A-0x40 - undefined
+  
+      0x41: { code: 'KeyA', keyCap: 'a' }, // [USB: 0x04]
+      0x42: { code: 'KeyB', keyCap: 'b' }, // [USB: 0x05]
+      0x43: { code: 'KeyC', keyCap: 'c' }, // [USB: 0x06]
+      0x44: { code: 'KeyD', keyCap: 'd' }, // [USB: 0x07]
+      0x45: { code: 'KeyE', keyCap: 'e' }, // [USB: 0x08]
+      0x46: { code: 'KeyF', keyCap: 'f' }, // [USB: 0x09]
+      0x47: { code: 'KeyG', keyCap: 'g' }, // [USB: 0x0a]
+      0x48: { code: 'KeyH', keyCap: 'h' }, // [USB: 0x0b]
+      0x49: { code: 'KeyI', keyCap: 'i' }, // [USB: 0x0c]
+      0x4A: { code: 'KeyJ', keyCap: 'j' }, // [USB: 0x0d]
+      0x4B: { code: 'KeyK', keyCap: 'k' }, // [USB: 0x0e]
+      0x4C: { code: 'KeyL', keyCap: 'l' }, // [USB: 0x0f]
+      0x4D: { code: 'KeyM', keyCap: 'm' }, // [USB: 0x10]
+      0x4E: { code: 'KeyN', keyCap: 'n' }, // [USB: 0x11]
+      0x4F: { code: 'KeyO', keyCap: 'o' }, // [USB: 0x12]
+  
+      0x50: { code: 'KeyP', keyCap: 'p' }, // [USB: 0x13]
+      0x51: { code: 'KeyQ', keyCap: 'q' }, // [USB: 0x14]
+      0x52: { code: 'KeyR', keyCap: 'r' }, // [USB: 0x15]
+      0x53: { code: 'KeyS', keyCap: 's' }, // [USB: 0x16]
+      0x54: { code: 'KeyT', keyCap: 't' }, // [USB: 0x17]
+      0x55: { code: 'KeyU', keyCap: 'u' }, // [USB: 0x18]
+      0x56: { code: 'KeyV', keyCap: 'v' }, // [USB: 0x19]
+      0x57: { code: 'KeyW', keyCap: 'w' }, // [USB: 0x1a]
+      0x58: { code: 'KeyX', keyCap: 'x' }, // [USB: 0x1b]
+      0x59: { code: 'KeyY', keyCap: 'y' }, // [USB: 0x1c]
+      0x5A: { code: 'KeyZ', keyCap: 'z' }, // [USB: 0x1d]
+      0x5B: { code: 'MetaLeft', location: LEFT }, // [USB: 0xe3]
+      0x5C: { code: 'MetaRight', location: RIGHT }, // [USB: 0xe7]
+      0x5D: { code: 'ContextMenu' }, // [USB: 0x65] Context Menu
+      // 0x5E - reserved
+      0x5F: { code: 'Standby' }, // [USB: 0x82] Sleep
+  
+      0x60: { code: 'Numpad0', keyCap: '0', location: NUMPAD }, // [USB: 0x62]
+      0x61: { code: 'Numpad1', keyCap: '1', location: NUMPAD }, // [USB: 0x59]
+      0x62: { code: 'Numpad2', keyCap: '2', location: NUMPAD }, // [USB: 0x5a]
+      0x63: { code: 'Numpad3', keyCap: '3', location: NUMPAD }, // [USB: 0x5b]
+      0x64: { code: 'Numpad4', keyCap: '4', location: NUMPAD }, // [USB: 0x5c]
+      0x65: { code: 'Numpad5', keyCap: '5', location: NUMPAD }, // [USB: 0x5d]
+      0x66: { code: 'Numpad6', keyCap: '6', location: NUMPAD }, // [USB: 0x5e]
+      0x67: { code: 'Numpad7', keyCap: '7', location: NUMPAD }, // [USB: 0x5f]
+      0x68: { code: 'Numpad8', keyCap: '8', location: NUMPAD }, // [USB: 0x60]
+      0x69: { code: 'Numpad9', keyCap: '9', location: NUMPAD }, // [USB: 0x61]
+      0x6A: { code: 'NumpadMultiply', keyCap: '*', location: NUMPAD }, // [USB: 0x55]
+      0x6B: { code: 'NumpadAdd', keyCap: '+', location: NUMPAD }, // [USB: 0x57]
+      0x6C: { code: 'NumpadComma', keyCap: ',', location: NUMPAD }, // [USB: 0x85]
+      0x6D: { code: 'NumpadSubtract', keyCap: '-', location: NUMPAD }, // [USB: 0x56]
+      0x6E: { code: 'NumpadDecimal', keyCap: '.', location: NUMPAD }, // [USB: 0x63]
+      0x6F: { code: 'NumpadDivide', keyCap: '/', location: NUMPAD }, // [USB: 0x54]
+  
+      0x70: { code: 'F1' }, // [USB: 0x3a]
+      0x71: { code: 'F2' }, // [USB: 0x3b]
+      0x72: { code: 'F3' }, // [USB: 0x3c]
+      0x73: { code: 'F4' }, // [USB: 0x3d]
+      0x74: { code: 'F5' }, // [USB: 0x3e]
+      0x75: { code: 'F6' }, // [USB: 0x3f]
+      0x76: { code: 'F7' }, // [USB: 0x40]
+      0x77: { code: 'F8' }, // [USB: 0x41]
+      0x78: { code: 'F9' }, // [USB: 0x42]
+      0x79: { code: 'F10' }, // [USB: 0x43]
+      0x7A: { code: 'F11' }, // [USB: 0x44]
+      0x7B: { code: 'F12' }, // [USB: 0x45]
+      0x7C: { code: 'F13' }, // [USB: 0x68]
+      0x7D: { code: 'F14' }, // [USB: 0x69]
+      0x7E: { code: 'F15' }, // [USB: 0x6a]
+      0x7F: { code: 'F16' }, // [USB: 0x6b]
+  
+      0x80: { code: 'F17' }, // [USB: 0x6c]
+      0x81: { code: 'F18' }, // [USB: 0x6d]
+      0x82: { code: 'F19' }, // [USB: 0x6e]
+      0x83: { code: 'F20' }, // [USB: 0x6f]
+      0x84: { code: 'F21' }, // [USB: 0x70]
+      0x85: { code: 'F22' }, // [USB: 0x71]
+      0x86: { code: 'F23' }, // [USB: 0x72]
+      0x87: { code: 'F24' }, // [USB: 0x73]
+      // 0x88-0x8F - unassigned
+  
+      0x90: { code: 'NumLock', location: NUMPAD }, // [USB: 0x53]
+      0x91: { code: 'ScrollLock' }, // [USB: 0x47]
+      // 0x92-0x96 - OEM specific
+      // 0x97-0x9F - unassigned
+  
+      // NOTE: 0xA0-0xA5 usually mapped to 0x10-0x12 in browsers
+      0xA0: { code: 'ShiftLeft', location: LEFT }, // [USB: 0xe1]
+      0xA1: { code: 'ShiftRight', location: RIGHT }, // [USB: 0xe5]
+      0xA2: { code: 'ControlLeft', location: LEFT }, // [USB: 0xe0]
+      0xA3: { code: 'ControlRight', location: RIGHT }, // [USB: 0xe4]
+      0xA4: { code: 'AltLeft', location: LEFT }, // [USB: 0xe2]
+      0xA5: { code: 'AltRight', location: RIGHT }, // [USB: 0xe6]
+  
+      0xA6: { code: 'BrowserBack' }, // [USB: 0x0c/0x0224]
+      0xA7: { code: 'BrowserForward' }, // [USB: 0x0c/0x0225]
+      0xA8: { code: 'BrowserRefresh' }, // [USB: 0x0c/0x0227]
+      0xA9: { code: 'BrowserStop' }, // [USB: 0x0c/0x0226]
+      0xAA: { code: 'BrowserSearch' }, // [USB: 0x0c/0x0221]
+      0xAB: { code: 'BrowserFavorites' }, // [USB: 0x0c/0x0228]
+      0xAC: { code: 'BrowserHome' }, // [USB: 0x0c/0x0222]
+      0xAD: { code: 'AudioVolumeMute' }, // [USB: 0x7f]
+      0xAE: { code: 'AudioVolumeDown' }, // [USB: 0x81]
+      0xAF: { code: 'AudioVolumeUp' }, // [USB: 0x80]
+  
+      0xB0: { code: 'MediaTrackNext' }, // [USB: 0x0c/0x00b5]
+      0xB1: { code: 'MediaTrackPrevious' }, // [USB: 0x0c/0x00b6]
+      0xB2: { code: 'MediaStop' }, // [USB: 0x0c/0x00b7]
+      0xB3: { code: 'MediaPlayPause' }, // [USB: 0x0c/0x00cd]
+      0xB4: { code: 'LaunchMail' }, // [USB: 0x0c/0x018a]
+      0xB5: { code: 'MediaSelect' },
+      0xB6: { code: 'LaunchApp1' },
+      0xB7: { code: 'LaunchApp2' },
+      // 0xB8-0xB9 - reserved
+      0xBA: { code: 'Semicolon',  keyCap: ';' }, // [USB: 0x33] ;: (US Standard 101)
+      0xBB: { code: 'Equal', keyCap: '=' }, // [USB: 0x2e] =+
+      0xBC: { code: 'Comma', keyCap: ',' }, // [USB: 0x36] ,<
+      0xBD: { code: 'Minus', keyCap: '-' }, // [USB: 0x2d] -_
+      0xBE: { code: 'Period', keyCap: '.' }, // [USB: 0x37] .>
+      0xBF: { code: 'Slash', keyCap: '/' }, // [USB: 0x38] /? (US Standard 101)
+  
+      0xC0: { code: 'Backquote', keyCap: '`' }, // [USB: 0x35] `~ (US Standard 101)
+      // 0xC1-0xCF - reserved
+  
+      // 0xD0-0xD7 - reserved
+      // 0xD8-0xDA - unassigned
+      0xDB: { code: 'BracketLeft', keyCap: '[' }, // [USB: 0x2f] [{ (US Standard 101)
+      0xDC: { code: 'Backslash',  keyCap: '\\' }, // [USB: 0x31] \| (US Standard 101)
+      0xDD: { code: 'BracketRight', keyCap: ']' }, // [USB: 0x30] ]} (US Standard 101)
+      0xDE: { code: 'Quote', keyCap: '\'' }, // [USB: 0x34] '" (US Standard 101)
+      // 0xDF - miscellaneous/varies
+  
+      // 0xE0 - reserved
+      // 0xE1 - OEM specific
+      0xE2: { code: 'IntlBackslash',  keyCap: '\\' }, // [USB: 0x64] \| (UK Standard 102)
+      // 0xE3-0xE4 - OEM specific
+      0xE5: { code: 'Process' }, // (Not in D3E)
+      // 0xE6 - OEM specific
+      // 0xE7 - VK_PACKET
+      // 0xE8 - unassigned
+      // 0xE9-0xEF - OEM specific
+  
+      // 0xF0-0xF5 - OEM specific
+      0xF6: { code: 'Attn' }, // [USB: 0x9a] (Not in D3E)
+      0xF7: { code: 'CrSel' }, // [USB: 0xa3] (Not in D3E)
+      0xF8: { code: 'ExSel' }, // [USB: 0xa4] (Not in D3E)
+      0xF9: { code: 'EraseEof' }, // (Not in D3E)
+      0xFA: { code: 'Play' }, // (Not in D3E)
+      0xFB: { code: 'ZoomToggle' }, // (Not in D3E)
+      // 0xFC - VK_NONAME - reserved
+      // 0xFD - VK_PA1
+      0xFE: { code: 'Clear' } // [USB: 0x9c] (Not in D3E)
+    };
+  
+    // No legacy keyCode, but listed in D3E:
+  
+    // code: usb
+    // 'IntlHash': 0x070032,
+    // 'IntlRo': 0x070087,
+    // 'IntlYen': 0x070089,
+    // 'NumpadBackspace': 0x0700bb,
+    // 'NumpadClear': 0x0700d8,
+    // 'NumpadClearEntry': 0x0700d9,
+    // 'NumpadMemoryAdd': 0x0700d3,
+    // 'NumpadMemoryClear': 0x0700d2,
+    // 'NumpadMemoryRecall': 0x0700d1,
+    // 'NumpadMemoryStore': 0x0700d0,
+    // 'NumpadMemorySubtract': 0x0700d4,
+    // 'NumpadParenLeft': 0x0700b6,
+    // 'NumpadParenRight': 0x0700b7,
+  
+    //--------------------------------------------------------------------
+    //
+    // Browser/OS Specific Mappings
+    //
+    //--------------------------------------------------------------------
+  
+    mergeIf(keyCodeToInfoTable,
+            'moz', {
+              0x3B: { code: 'Semicolon', keyCap: ';' }, // [USB: 0x33] ;: (US Standard 101)
+              0x3D: { code: 'Equal', keyCap: '=' }, // [USB: 0x2e] =+
+              0x6B: { code: 'Equal', keyCap: '=' }, // [USB: 0x2e] =+
+              0x6D: { code: 'Minus', keyCap: '-' }, // [USB: 0x2d] -_
+              0xBB: { code: 'NumpadAdd', keyCap: '+', location: NUMPAD }, // [USB: 0x57]
+              0xBD: { code: 'NumpadSubtract', keyCap: '-', location: NUMPAD } // [USB: 0x56]
+            });
+  
+    mergeIf(keyCodeToInfoTable,
+            'moz-mac', {
+              0x0C: { code: 'NumLock', location: NUMPAD }, // [USB: 0x53]
+              0xAD: { code: 'Minus', keyCap: '-' } // [USB: 0x2d] -_
+            });
+  
+    mergeIf(keyCodeToInfoTable,
+            'moz-win', {
+              0xAD: { code: 'Minus', keyCap: '-' } // [USB: 0x2d] -_
+            });
+  
+    mergeIf(keyCodeToInfoTable,
+            'chrome-mac', {
+              0x5D: { code: 'MetaRight', location: RIGHT } // [USB: 0xe7]
+            });
+  
+    // Windows via Bootcamp (!)
+    if (0) {
+      mergeIf(keyCodeToInfoTable,
+              'chrome-win', {
+                0xC0: { code: 'Quote', keyCap: '\'' }, // [USB: 0x34] '" (US Standard 101)
+                0xDE: { code: 'Backslash',  keyCap: '\\' }, // [USB: 0x31] \| (US Standard 101)
+                0xDF: { code: 'Backquote', keyCap: '`' } // [USB: 0x35] `~ (US Standard 101)
+              });
+  
+      mergeIf(keyCodeToInfoTable,
+              'ie', {
+                0xC0: { code: 'Quote', keyCap: '\'' }, // [USB: 0x34] '" (US Standard 101)
+                0xDE: { code: 'Backslash',  keyCap: '\\' }, // [USB: 0x31] \| (US Standard 101)
+                0xDF: { code: 'Backquote', keyCap: '`' } // [USB: 0x35] `~ (US Standard 101)
+              });
+    }
+  
+    mergeIf(keyCodeToInfoTable,
+            'safari', {
+              0x03: { code: 'Enter' }, // [USB: 0x28] old Safari
+              0x19: { code: 'Tab' } // [USB: 0x2b] old Safari for Shift+Tab
+            });
+  
+    mergeIf(keyCodeToInfoTable,
+            'ios', {
+              0x0A: { code: 'Enter', location: STANDARD } // [USB: 0x28]
+            });
+  
+    mergeIf(keyCodeToInfoTable,
+            'safari-mac', {
+              0x5B: { code: 'MetaLeft', location: LEFT }, // [USB: 0xe3]
+              0x5D: { code: 'MetaRight', location: RIGHT }, // [USB: 0xe7]
+              0xE5: { code: 'KeyQ', keyCap: 'Q' } // [USB: 0x14] On alternate presses, Ctrl+Q sends this
+            });
+  
+    //--------------------------------------------------------------------
+    //
+    // Identifier Mappings
+    //
+    //--------------------------------------------------------------------
+  
+    // Cases where newer-ish browsers send keyIdentifier which can be
+    // used to disambiguate keys.
+  
+    // keyIdentifierTable[keyIdentifier] -> keyInfo
+  
+    var keyIdentifierTable = {};
+    if ('cros' === os) {
+      keyIdentifierTable['U+00A0'] = { code: 'ShiftLeft', location: LEFT };
+      keyIdentifierTable['U+00A1'] = { code: 'ShiftRight', location: RIGHT };
+      keyIdentifierTable['U+00A2'] = { code: 'ControlLeft', location: LEFT };
+      keyIdentifierTable['U+00A3'] = { code: 'ControlRight', location: RIGHT };
+      keyIdentifierTable['U+00A4'] = { code: 'AltLeft', location: LEFT };
+      keyIdentifierTable['U+00A5'] = { code: 'AltRight', location: RIGHT };
+    }
+    if ('chrome-mac' === browser_os) {
+      keyIdentifierTable['U+0010'] = { code: 'ContextMenu' };
+    }
+    if ('safari-mac' === browser_os) {
+      keyIdentifierTable['U+0010'] = { code: 'ContextMenu' };
+    }
+    if ('ios' === os) {
+      // These only generate keyup events
+      keyIdentifierTable['U+0010'] = { code: 'Function' };
+  
+      keyIdentifierTable['U+001C'] = { code: 'ArrowLeft' };
+      keyIdentifierTable['U+001D'] = { code: 'ArrowRight' };
+      keyIdentifierTable['U+001E'] = { code: 'ArrowUp' };
+      keyIdentifierTable['U+001F'] = { code: 'ArrowDown' };
+  
+      keyIdentifierTable['U+0001'] = { code: 'Home' }; // [USB: 0x4a] Fn + ArrowLeft
+      keyIdentifierTable['U+0004'] = { code: 'End' }; // [USB: 0x4d] Fn + ArrowRight
+      keyIdentifierTable['U+000B'] = { code: 'PageUp' }; // [USB: 0x4b] Fn + ArrowUp
+      keyIdentifierTable['U+000C'] = { code: 'PageDown' }; // [USB: 0x4e] Fn + ArrowDown
+    }
+  
+    //--------------------------------------------------------------------
+    //
+    // Location Mappings
+    //
+    //--------------------------------------------------------------------
+  
+    // Cases where newer-ish browsers send location/keyLocation which
+    // can be used to disambiguate keys.
+  
+    // locationTable[location][keyCode] -> keyInfo
+    var locationTable = [];
+    locationTable[LEFT] = {
+      0x10: { code: 'ShiftLeft', location: LEFT }, // [USB: 0xe1]
+      0x11: { code: 'ControlLeft', location: LEFT }, // [USB: 0xe0]
+      0x12: { code: 'AltLeft', location: LEFT } // [USB: 0xe2]
+    };
+    locationTable[RIGHT] = {
+      0x10: { code: 'ShiftRight', location: RIGHT }, // [USB: 0xe5]
+      0x11: { code: 'ControlRight', location: RIGHT }, // [USB: 0xe4]
+      0x12: { code: 'AltRight', location: RIGHT } // [USB: 0xe6]
+    };
+    locationTable[NUMPAD] = {
+      0x0D: { code: 'NumpadEnter', location: NUMPAD } // [USB: 0x58]
+    };
+  
+    mergeIf(locationTable[NUMPAD], 'moz', {
+      0x6D: { code: 'NumpadSubtract', location: NUMPAD }, // [USB: 0x56]
+      0x6B: { code: 'NumpadAdd', location: NUMPAD } // [USB: 0x57]
+    });
+    mergeIf(locationTable[LEFT], 'moz-mac', {
+      0xE0: { code: 'MetaLeft', location: LEFT } // [USB: 0xe3]
+    });
+    mergeIf(locationTable[RIGHT], 'moz-mac', {
+      0xE0: { code: 'MetaRight', location: RIGHT } // [USB: 0xe7]
+    });
+    mergeIf(locationTable[RIGHT], 'moz-win', {
+      0x5B: { code: 'MetaRight', location: RIGHT } // [USB: 0xe7]
+    });
+  
+  
+    mergeIf(locationTable[RIGHT], 'mac', {
+      0x5D: { code: 'MetaRight', location: RIGHT } // [USB: 0xe7]
+    });
+  
+    mergeIf(locationTable[NUMPAD], 'chrome-mac', {
+      0x0C: { code: 'NumLock', location: NUMPAD } // [USB: 0x53]
+    });
+  
+    mergeIf(locationTable[NUMPAD], 'safari-mac', {
+      0x0C: { code: 'NumLock', location: NUMPAD }, // [USB: 0x53]
+      0xBB: { code: 'NumpadAdd', location: NUMPAD }, // [USB: 0x57]
+      0xBD: { code: 'NumpadSubtract', location: NUMPAD }, // [USB: 0x56]
+      0xBE: { code: 'NumpadDecimal', location: NUMPAD }, // [USB: 0x63]
+      0xBF: { code: 'NumpadDivide', location: NUMPAD } // [USB: 0x54]
+    });
+  
+  
+    //--------------------------------------------------------------------
+    //
+    // Key Values
+    //
+    //--------------------------------------------------------------------
+  
+    // Mapping from `code` values to `key` values. Values defined at:
+    // https://w3c.github.io/uievents-key/
+    // Entries are only provided when `key` differs from `code`. If
+    // printable, `shiftKey` has the shifted printable character. This
+    // assumes US Standard 101 layout
+  
+    var codeToKeyTable = {
+      // Modifier Keys
+      ShiftLeft: { key: 'Shift' },
+      ShiftRight: { key: 'Shift' },
+      ControlLeft: { key: 'Control' },
+      ControlRight: { key: 'Control' },
+      AltLeft: { key: 'Alt' },
+      AltRight: { key: 'Alt' },
+      MetaLeft: { key: 'Meta' },
+      MetaRight: { key: 'Meta' },
+  
+      // Whitespace Keys
+      NumpadEnter: { key: 'Enter' },
+      Space: { key: ' ' },
+  
+      // Printable Keys
+      Digit0: { key: '0', shiftKey: ')' },
+      Digit1: { key: '1', shiftKey: '!' },
+      Digit2: { key: '2', shiftKey: '@' },
+      Digit3: { key: '3', shiftKey: '#' },
+      Digit4: { key: '4', shiftKey: '$' },
+      Digit5: { key: '5', shiftKey: '%' },
+      Digit6: { key: '6', shiftKey: '^' },
+      Digit7: { key: '7', shiftKey: '&' },
+      Digit8: { key: '8', shiftKey: '*' },
+      Digit9: { key: '9', shiftKey: '(' },
+      KeyA: { key: 'a', shiftKey: 'A' },
+      KeyB: { key: 'b', shiftKey: 'B' },
+      KeyC: { key: 'c', shiftKey: 'C' },
+      KeyD: { key: 'd', shiftKey: 'D' },
+      KeyE: { key: 'e', shiftKey: 'E' },
+      KeyF: { key: 'f', shiftKey: 'F' },
+      KeyG: { key: 'g', shiftKey: 'G' },
+      KeyH: { key: 'h', shiftKey: 'H' },
+      KeyI: { key: 'i', shiftKey: 'I' },
+      KeyJ: { key: 'j', shiftKey: 'J' },
+      KeyK: { key: 'k', shiftKey: 'K' },
+      KeyL: { key: 'l', shiftKey: 'L' },
+      KeyM: { key: 'm', shiftKey: 'M' },
+      KeyN: { key: 'n', shiftKey: 'N' },
+      KeyO: { key: 'o', shiftKey: 'O' },
+      KeyP: { key: 'p', shiftKey: 'P' },
+      KeyQ: { key: 'q', shiftKey: 'Q' },
+      KeyR: { key: 'r', shiftKey: 'R' },
+      KeyS: { key: 's', shiftKey: 'S' },
+      KeyT: { key: 't', shiftKey: 'T' },
+      KeyU: { key: 'u', shiftKey: 'U' },
+      KeyV: { key: 'v', shiftKey: 'V' },
+      KeyW: { key: 'w', shiftKey: 'W' },
+      KeyX: { key: 'x', shiftKey: 'X' },
+      KeyY: { key: 'y', shiftKey: 'Y' },
+      KeyZ: { key: 'z', shiftKey: 'Z' },
+      Numpad0: { key: '0' },
+      Numpad1: { key: '1' },
+      Numpad2: { key: '2' },
+      Numpad3: { key: '3' },
+      Numpad4: { key: '4' },
+      Numpad5: { key: '5' },
+      Numpad6: { key: '6' },
+      Numpad7: { key: '7' },
+      Numpad8: { key: '8' },
+      Numpad9: { key: '9' },
+      NumpadMultiply: { key: '*' },
+      NumpadAdd: { key: '+' },
+      NumpadComma: { key: ',' },
+      NumpadSubtract: { key: '-' },
+      NumpadDecimal: { key: '.' },
+      NumpadDivide: { key: '/' },
+      Semicolon: { key: ';', shiftKey: ':' },
+      Equal: { key: '=', shiftKey: '+' },
+      Comma: { key: ',', shiftKey: '<' },
+      Minus: { key: '-', shiftKey: '_' },
+      Period: { key: '.', shiftKey: '>' },
+      Slash: { key: '/', shiftKey: '?' },
+      Backquote: { key: '`', shiftKey: '~' },
+      BracketLeft: { key: '[', shiftKey: '{' },
+      Backslash: { key: '\\', shiftKey: '|' },
+      BracketRight: { key: ']', shiftKey: '}' },
+      Quote: { key: '\'', shiftKey: '"' },
+      IntlBackslash: { key: '\\', shiftKey: '|' }
+    };
+  
+    mergeIf(codeToKeyTable, 'mac', {
+      MetaLeft: { key: 'Meta' },
+      MetaRight: { key: 'Meta' }
+    });
+  
+    // Corrections for 'key' names in older browsers (e.g. FF36-, IE9, etc)
+    // https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent.key#Key_values
+    var keyFixTable = {
+      Add: '+',
+      Decimal: '.',
+      Divide: '/',
+      Subtract: '-',
+      Multiply: '*',
+      Spacebar: ' ',
+      Esc: 'Escape',
+      Nonconvert: 'NonConvert',
+      Left: 'ArrowLeft',
+      Up: 'ArrowUp',
+      Right: 'ArrowRight',
+      Down: 'ArrowDown',
+      Del: 'Delete',
+      Menu: 'ContextMenu',
+      MediaNextTrack: 'MediaTrackNext',
+      MediaPreviousTrack: 'MediaTrackPrevious',
+      SelectMedia: 'MediaSelect',
+      HalfWidth: 'Hankaku',
+      FullWidth: 'Zenkaku',
+      RomanCharacters: 'Romaji',
+      Crsel: 'CrSel',
+      Exsel: 'ExSel',
+      Zoom: 'ZoomToggle'
+    };
+  
+    //--------------------------------------------------------------------
+    //
+    // Exported Functions
+    //
+    //--------------------------------------------------------------------
+  
+  
+    var codeTable = remap(keyCodeToInfoTable, 'code');
+  
+    try {
+      var nativeLocation = nativeKeyboardEvent && ('location' in new KeyboardEvent(''));
+    } catch (_) {}
+  
+    function keyInfoForEvent(event) {
+      var keyCode = 'keyCode' in event ? event.keyCode : 'which' in event ? event.which : 0;
+      var keyInfo = (function(){
+        if (nativeLocation || 'keyLocation' in event) {
+          var location = nativeLocation ? event.location : event.keyLocation;
+          if (location && keyCode in locationTable[location]) {
+            return locationTable[location][keyCode];
+          }
+        }
+        if ('keyIdentifier' in event && event.keyIdentifier in keyIdentifierTable) {
+          return keyIdentifierTable[event.keyIdentifier];
+        }
+        if (keyCode in keyCodeToInfoTable) {
+          return keyCodeToInfoTable[keyCode];
+        }
+        return null;
+      }());
+  
+      // TODO: Track these down and move to general tables
+      if (0) {
+        // TODO: Map these for newerish browsers?
+        // TODO: iOS only?
+        // TODO: Override with more common keyIdentifier name?
+        switch (event.keyIdentifier) {
+        case 'U+0010': keyInfo = { code: 'Function' }; break;
+        case 'U+001C': keyInfo = { code: 'ArrowLeft' }; break;
+        case 'U+001D': keyInfo = { code: 'ArrowRight' }; break;
+        case 'U+001E': keyInfo = { code: 'ArrowUp' }; break;
+        case 'U+001F': keyInfo = { code: 'ArrowDown' }; break;
+        }
+      }
+  
+      if (!keyInfo)
+        return null;
+  
+      var key = (function() {
+        var entry = codeToKeyTable[keyInfo.code];
+        if (!entry) return keyInfo.code;
+        return (event.shiftKey && 'shiftKey' in entry) ? entry.shiftKey : entry.key;
+      }());
+  
+      return {
+        code: keyInfo.code,
+        key: key,
+        location: keyInfo.location,
+        keyCap: keyInfo.keyCap
+      };
+    }
+  
+    function queryKeyCap(code, locale) {
+      code = String(code);
+      if (!codeTable.hasOwnProperty(code)) return 'Undefined';
+      if (locale && String(locale).toLowerCase() !== 'en-us') throw Error('Unsupported locale');
+      var keyInfo = codeTable[code];
+      return keyInfo.keyCap || keyInfo.code || 'Undefined';
+    }
+  
+    if ('KeyboardEvent' in global && 'defineProperty' in Object) {
+      (function() {
+        function define(o, p, v) {
+          if (p in o) return;
+          Object.defineProperty(o, p, v);
+        }
+  
+        define(KeyboardEvent.prototype, 'code', { get: function() {
+          var keyInfo = keyInfoForEvent(this);
+          return keyInfo ? keyInfo.code : '';
+        }});
+  
+        // Fix for nonstandard `key` values (FF36-)
+        if ('key' in KeyboardEvent.prototype) {
+          var desc = Object.getOwnPropertyDescriptor(KeyboardEvent.prototype, 'key');
+          Object.defineProperty(KeyboardEvent.prototype, 'key', { get: function() {
+            var key = desc.get.call(this);
+            return keyFixTable.hasOwnProperty(key) ? keyFixTable[key] : key;
+          }});
+        }
+  
+        define(KeyboardEvent.prototype, 'key', { get: function() {
+          var keyInfo = keyInfoForEvent(this);
+          return (keyInfo && 'key' in keyInfo) ? keyInfo.key : 'Unidentified';
+        }});
+  
+        define(KeyboardEvent.prototype, 'location', { get: function() {
+          var keyInfo = keyInfoForEvent(this);
+          return (keyInfo && 'location' in keyInfo) ? keyInfo.location : STANDARD;
+        }});
+  
+        define(KeyboardEvent.prototype, 'locale', { get: function() {
+          return '';
+        }});
+      }());
+    }
+  
+    if (!('queryKeyCap' in global.KeyboardEvent))
+      global.KeyboardEvent.queryKeyCap = queryKeyCap;
+  
+    // Helper for IE8-
+    global.identifyKey = function(event) {
+      if ('code' in event)
+        return;
+  
+      var keyInfo = keyInfoForEvent(event);
+      event.code = keyInfo ? keyInfo.code : '';
+      event.key = (keyInfo && 'key' in keyInfo) ? keyInfo.key : 'Unidentified';
+      event.location = ('location' in event) ? event.location :
+        ('keyLocation' in event) ? event.keyLocation :
+        (keyInfo && 'location' in keyInfo) ? keyInfo.location : STANDARD;
+      event.locale = '';
+    };
+  
+  }(self));
+  
+/* global Howler Howl */
+(function ctHowler() {
+    ct.sound = {};
+    ct.sound.howler = Howler;
+    Howler.orientation(0, -1, 0, 0, 0, 1);
+    Howler.pos(0, 0, 0);
+    ct.sound.howl = Howl;
+
+    var defaultMaxDistance = [][0] || 2500;
+    ct.sound.useDepth = [false][0] === void 0 ?
+        false :
+        [false][0];
+    ct.sound.manageListenerPosition = [false][0] === void 0 ?
+        true :
+        [false][0];
+
+    /**
+     * Detects if a particular codec is supported in the system
+     * @param {string} type One of: "mp3", "mpeg", "opus", "ogg", "oga", "wav",
+     * "aac", "caf", m4a", "mp4", "weba", "webm", "dolby", "flac".
+     * @returns {boolean} true/false
+     */
+    ct.sound.detect = Howler.codecs;
+
+    /**
+     * Creates a new Sound object and puts it in resource object
+     *
+     * @param {string} name Sound's name
+     * @param {object} formats A collection of sound files of specified extension,
+     * in format `extension: path`
+     * @param {string} [formats.ogg] Local path to the sound in ogg format
+     * @param {string} [formats.wav] Local path to the sound in wav format
+     * @param {string} [formats.mp3] Local path to the sound in mp3 format
+     * @param {object} options An options object
+     *
+     * @returns {object} Sound's object
+     */
+    ct.sound.init = function init(name, formats, options) {
+        options = options || {};
+        var sounds = [];
+        if (formats.wav && formats.wav.slice(-4) === '.wav') {
+            sounds.push(formats.wav);
+        }
+        if (formats.mp3 && formats.mp3.slice(-4) === '.mp3') {
+            sounds.push(formats.mp3);
+        }
+        if (formats.ogg && formats.ogg.slice(-4) === '.ogg') {
+            sounds.push(formats.ogg);
+        }
+        // Do not use music preferences for ct.js debugger
+        var isMusic = !navigator.userAgent.startsWith('ct.js') && options.music;
+        var howl = new Howl({
+            src: sounds,
+            autoplay: false,
+            preload: !isMusic,
+            html5: isMusic,
+            loop: options.loop,
+            pool: options.poolSize || 5,
+
+            onload: function () {
+                if (!isMusic) {
+                    ct.res.soundsLoaded++;
+                }
+            },
+            onloaderror: function () {
+                ct.res.soundsError++;
+                howl.buggy = true;
+                console.error('[ct.sound.howler] Oh no! We couldn\'t load ' +
+                    (formats.wav || formats.mp3 || formats.ogg) + '!');
+            }
+        });
+        if (isMusic) {
+            ct.res.soundsLoaded++;
+        }
+        ct.res.sounds[name] = howl;
+    };
+
+    var set3Dparameters = (howl, opts, id) => {
+        howl.pannerAttr({
+            coneInnerAngle: opts.coneInnerAngle || 360,
+            coneOuterAngle: opts.coneOuterAngle || 360,
+            coneOuterGain: opts.coneOuterGain || 1,
+            distanceModel: opts.distanceModel || 'linear',
+            maxDistance: opts.maxDistance || defaultMaxDistance,
+            refDistance: opts.refDistance || 1,
+            rolloffFactor: opts.rolloffFactor || 1,
+            panningModel: opts.panningModel || 'HRTF'
+        }, id);
+    };
+    /**
+     * Spawns a new sound and plays it.
+     *
+     * @param {string} name The name of a sound to be played
+     * @param {object} [opts] Options object.
+     * @param {Function} [cb] A callback, which is called when the sound finishes playing
+     *
+     * @returns {number} The ID of the created sound. This can be passed to Howler methods.
+     */
+    ct.sound.spawn = function spawn(name, opts, cb) {
+        opts = opts || {};
+        if (typeof opts === 'function') {
+            cb = opts;
+            opts = {};
+        }
+        var howl = ct.res.sounds[name];
+        var id = howl.play();
+        if (opts.loop) {
+            howl.loop(true, id);
+        }
+        if (opts.volume !== void 0) {
+            howl.volume(opts.volume, id);
+        }
+        if (opts.rate !== void 0) {
+            howl.rate(opts.rate, id);
+        }
+        if (opts.x !== void 0 || opts.position) {
+            if (opts.x !== void 0) {
+                howl.pos(opts.x, opts.y || 0, opts.z || 0, id);
+            } else {
+                const copy = opts.position;
+                howl.pos(copy.x, copy.y, opts.z || (ct.sound.useDepth ? copy.depth : 0), id);
+            }
+            set3Dparameters(howl, opts, id);
+        }
+        if (cb) {
+            howl.once('end', cb, id);
+        }
+        return id;
+    };
+
+    /**
+     * Stops playback of a sound, resetting its time to 0.
+     *
+     * @param {string} name The name of a sound
+     * @param {number} [id] An optional ID of a particular sound
+     * @returns {void}
+     */
+    ct.sound.stop = function stop(name, id) {
+        if (ct.sound.playing(name, id)) {
+            ct.res.sounds[name].stop(id);
+        }
+    };
+
+    /**
+     * Pauses playback of a sound or group, saving the seek of playback.
+     *
+     * @param {string} name The name of a sound
+     * @param {number} [id] An optional ID of a particular sound
+     * @returns {void}
+     */
+    ct.sound.pause = function pause(name, id) {
+        ct.res.sounds[name].pause(id);
+    };
+
+    /**
+     * Resumes a given sound, e.g. after pausing it.
+     *
+     * @param {string} name The name of a sound
+     * @param {number} [id] An optional ID of a particular sound
+     * @returns {void}
+     */
+    ct.sound.resume = function resume(name, id) {
+        ct.res.sounds[name].play(id);
+    };
+    /**
+     * Returns whether a sound is currently playing,
+     * either an exact sound (found by its ID) or any sound of a given name.
+     *
+     * @param {string} name The name of a sound
+     * @param {number} [id] An optional ID of a particular sound
+     * @returns {boolean} `true` if the sound is playing, `false` otherwise.
+     */
+    ct.sound.playing = function playing(name, id) {
+        return ct.res.sounds[name].playing(id);
+    };
+    /**
+     * Preloads a sound. This is usually applied to music files before playing
+     * as they are not preloaded by default.
+     *
+     * @param {string} name The name of a sound
+     * @returns {void}
+     */
+    ct.sound.load = function load(name) {
+        ct.res.sounds[name].load();
+    };
+
+
+    /**
+     * Changes/returns the volume of the given sound.
+     *
+     * @param {string} name The name of a sound to affect.
+     * @param {number} [volume] The new volume from `0.0` to `1.0`.
+     * If empty, will return the existing volume.
+     * @param {number} [id] If specified, then only the given sound instance is affected.
+     *
+     * @returns {number} The current volume of the sound.
+     */
+    ct.sound.volume = function volume(name, volume, id) {
+        return ct.res.sounds[name].volume(volume, id);
+    };
+
+    /**
+     * Fades a sound to a given volume. Can affect either a specific instance or the whole group.
+     *
+     * @param {string} name The name of a sound to affect.
+     * @param {number} newVolume The new volume from `0.0` to `1.0`.
+     * @param {number} duration The duration of transition, in milliseconds.
+     * @param {number} [id] If specified, then only the given sound instance is affected.
+     *
+     * @returns {void}
+     */
+    ct.sound.fade = function fade(name, newVolume, duration, id) {
+        if (ct.sound.playing(name, id)) {
+            var howl = ct.res.sounds[name],
+                oldVolume = id ? howl.volume(id) : howl.volume;
+            try {
+                howl.fade(oldVolume, newVolume, duration, id);
+            } catch (e) {
+                // eslint-disable-next-line no-console
+                console.warn('Could not reliably fade a sound, reason:', e);
+                ct.sound.volume(name, newVolume, id);
+            }
+        }
+    };
+
+    /**
+     * Moves the 3D listener to a new position.
+     *
+     * @see https://github.com/goldfire/howler.js#posx-y-z
+     *
+     * @param {number} x The new x coordinate
+     * @param {number} y The new y coordinate
+     * @param {number} [z] The new z coordinate
+     *
+     * @returns {void}
+     */
+    ct.sound.moveListener = function moveListener(x, y, z) {
+        Howler.pos(x, y, z || 0);
+    };
+
+    /**
+     * Moves a 3D sound to a new location
+     *
+     * @param {string} name The name of a sound to move
+     * @param {number} id The ID of a particular sound.
+     * Pass `null` if you want to affect all the sounds of a given name.
+     * @param {number} x The new x coordinate
+     * @param {number} y The new y coordinate
+     * @param {number} [z] The new z coordinate
+     *
+     * @returns {void}
+     */
+    ct.sound.position = function position(name, id, x, y, z) {
+        if (ct.sound.playing(name, id)) {
+            var howl = ct.res.sounds[name],
+                oldPosition = howl.pos(id);
+            howl.pos(x, y, z || oldPosition[2], id);
+        }
+    };
+
+    /**
+     * Get/set the global volume for all sounds, relative to their own volume.
+     * @param {number} [volume] The new volume from `0.0` to `1.0`.
+     * If omitted, will return the current global volume.
+     *
+     * @returns {number} The current volume.
+     */
+    ct.sound.globalVolume = Howler.volume.bind(Howler);
+
+    ct.sound.exists = function exists(name) {
+        return (name in ct.res.sounds);
+    };
+})();
+
+/* eslint-disable no-mixed-operators */
+/* eslint-disable no-bitwise */
+ct.random = function random(x) {
+    return Math.random() * x;
+};
+ct.u.ext(ct.random, {
+    dice(...variants) {
+        return variants[Math.floor(Math.random() * variants.length)];
+    },
+    histogram(...histogram) {
+        const coeffs = [...histogram];
+        let sumCoeffs = 0;
+        for (let i = 0; i < coeffs.length; i++) {
+            sumCoeffs += coeffs[i];
+            if (i > 0) {
+                coeffs[i] += coeffs[i - 1];
+            }
+        }
+        const bucketPosition = Math.random() * sumCoeffs;
+        var i;
+        for (i = 0; i < coeffs.length; i++) {
+            if (coeffs[i] > bucketPosition) {
+                break;
+            }
+        }
+        return i / coeffs.length + Math.random() / coeffs.length;
+    },
+    optimistic(exp) {
+        return 1 - ct.random.pessimistic(exp);
+    },
+    pessimistic(exp) {
+        exp = exp || 2;
+        return Math.random() ** exp;
+    },
+    range(x1, x2) {
+        return x1 + Math.random() * (x2 - x1);
+    },
+    deg() {
+        return Math.random() * 360;
+    },
+    coord() {
+        return [Math.floor(Math.random() * ct.width), Math.floor(Math.random() * ct.height)];
+    },
+    chance(x, y) {
+        if (y) {
+            return (Math.random() * y < x);
+        }
+        return (Math.random() * 100 < x);
+    },
+    from(arr) {
+        return arr[Math.floor(Math.random() * arr.length)];
+    },
+    // Mulberry32, by bryc from https://stackoverflow.com/a/47593316
+    createSeededRandomizer(a) {
+        return function seededRandomizer() {
+            var t = a += 0x6D2B79F5;
+            t = Math.imul(t ^ t >>> 15, t | 1);
+            t ^= t + Math.imul(t ^ t >>> 7, t | 61);
+            return ((t ^ t >>> 14) >>> 0) / 4294967296;
+        };
+    }
+});
+{
+    const handle = {};
+    handle.currentRootRandomizer = ct.random.createSeededRandomizer(456852);
+    ct.random.seeded = function seeded() {
+        return handle.currentRootRandomizer();
+    };
+    ct.random.setSeed = function setSeed(seed) {
+        handle.currentRootRandomizer = ct.random.createSeededRandomizer(seed);
+    };
+    ct.random.setSeed(9323846264);
+}
+
+ct.matter = {
+    on(event, callback) {
+        Matter.Events.on(ct.room.matterEngine, event, callback);
+    },
+    off(event, callback) {
+        Matter.Events.off(ct.room.matterEngine, event, callback);
+    },
+
+    teleport(copy, x, y) {
+        Matter.Body.setPosition(copy.matterBody, {
+            x,
+            y
+        });
+        copy.x = x;
+        copy.y = y;
+    },
+    push(copy, forceX, forceY, fromX, fromY) {
+        if (fromX === void 0) {
+            Matter.Body.applyForce(copy.matterBody, copy.matterBody.position, {
+                x: forceX,
+                y: forceY
+            });
+        } else {
+            Matter.Body.applyForce(copy.matterBody, {
+                x: fromX,
+                y: fromY
+            }, {
+                x: forceX,
+                y: forceY
+            });
+        }
+    },
+    spin(copy, speed) {
+        Matter.Body.setAngularVelocity(copy.matterBody, ct.u.degToRad(speed));
+    },
+    rotate(copy, angle) {
+        Matter.Body.setAngle(copy.matterBody, ct.u.degToRad(angle));
+    },
+    rotateBy(copy, angle) {
+        Matter.Body.rotate(copy.matterBody, ct.u.degToRad(angle));
+    },
+    scale(copy, x, y) {
+        Matter.Body.scale(copy, x, y);
+        copy.scale.x = x;
+        copy.scale.y = y;
+    },
+    launch(copy, hspeed, vspeed) {
+        Matter.Body.setVelocity(copy.matterBody, {
+            x: hspeed,
+            y: vspeed
+        });
+    },
+
+    pin(copy) {
+        const constraint = Matter.Constraint.create({
+            bodyB: copy.matterBody,
+            pointA: {
+                x: copy.x,
+                y: copy.y
+            },
+            length: 0
+        });
+        Matter.World.add(ct.room.matterWorld, constraint);
+        return constraint;
+    },
+    tie(copy, position, stiffness = 0.05, damping = 0.05) {
+        const constraint = Matter.Constraint.create({
+            bodyB: copy.matterBody,
+            pointA: position,
+            pointB: {
+                x: 0,
+                y: 0
+            },
+            stiffness,
+            damping
+        });
+        Matter.World.add(ct.room.matterWorld, constraint);
+        return constraint;
+    },
+    rope(copy, length, stiffness = 0.05, damping = 0.05) {
+        const constraint = Matter.Constraint.create({
+            pointA: copy.position,
+            bodyB: copy.matterBody,
+            length,
+            stiffness,
+            damping
+        });
+        Matter.World.add(ct.room.matterWorld, constraint);
+        return constraint;
+    },
+    tieTogether(copy1, copy2, stiffness, damping) {
+        const constraint = Matter.Constraint.create({
+            bodyA: copy1.matterBody,
+            bodyB: copy2.matterBody,
+            stiffness,
+            damping
+        });
+        Matter.World.add(ct.room.matterWorld, constraint);
+        return constraint;
+    },
+    onCreate(copy) {
+        const options = {
+            isStatic: copy.matterStatic,
+            isSensor: copy.matterSensor,
+            restitution: copy.matterRestitution || 0.1,
+            friction: copy.matterFriction === void 0 ? 1 : copy.matterFriction,
+            frictionStatic: copy.matterFrictionStatic === void 0 ? 0.1 : copy.matterFrictionStatic,
+            frictionAir: copy.matterFrictionAir || 0.01,
+            density: copy.matterDensity || 0.001
+        };
+        if (copy.shape.type === 'rect') {
+            copy.matterBody = Matter.Bodies.rectangle(
+                copy.x - copy.shape.left,
+                copy.y - copy.shape.top,
+                copy.shape.left + copy.shape.right,
+                copy.shape.top + copy.shape.bottom,
+                options
+            );
+        }
+        if (copy.shape.type === 'circle') {
+            copy.matterBody = Matter.Bodies.circle(
+                copy.x,
+                copy.y,
+                copy.shape.r,
+                options
+            );
+        }
+        if (copy.shape.type === 'strip') {
+            const vertices = Matter.Vertices.create(copy.shape.points);
+            copy.matterBody = Matter.Bodies.fromVertices(copy.x, copy.y, vertices, options);
+        }
+
+        Matter.Body.setCentre(copy.matterBody, {
+            x: (copy.texture.defaultAnchor.x - 0.5) * copy.texture.width,
+            y: (copy.texture.defaultAnchor.y - 0.5) * copy.texture.height
+        }, true);
+        Matter.Body.setPosition(copy.matterBody, copy.position);
+        Matter.Body.setAngle(copy.matterBody, ct.u.degToRad(copy.angle));
+        Matter.Body.scale(copy.matterBody, copy.scale.x, copy.scale.y);
+
+        Matter.World.add(ct.room.matterWorld, copy.matterBody);
+        copy.matterBody.copy = copy;
+
+        if (copy.matterFixPivot && copy.matterFixPivot[0]) {
+            [copy.pivot.x] = copy.matterFixPivot;
+        }
+        if (copy.matterFixPivot && copy.matterFixPivot[1]) {
+            [, copy.pivot.y] = copy.matterFixPivot;
+        }
+
+        if (copy.matterConstraint === 'pinpoint') {
+            copy.constraint = ct.matter.pin(copy);
+        } else if (copy.matterConstraint === 'rope') {
+            copy.constraint = ct.matter.rope(
+                copy,
+                copy.matterRopeLength === 0 ? 64 : copy.matterRopeLength,
+                copy.matterRopeStiffness === 0 ? 0.05 : copy.matterRopeStiffness,
+                copy.matterRopeDamping === 0 ? 0.05 : copy.matterRopeDamping
+            );
+        }
+    },
+    createStaticTilemap(tilemap) {
+        const options = {
+            isStatic: true,
+            isSensor: false,
+            restitution: tilemap.matterRestitution || 0.1,
+            friction: tilemap.matterFriction === void 0 ? 1 : tilemap.matterFriction
+        };
+        for (const tile of tilemap.tiles) {
+            ct.matter.createStaticTile(tile, options);
+        }
+    },
+    createStaticTile(tile, options) {
+        const {shape} = tile.sprite;
+        if (shape.type === 'rect') {
+            tile.matterBody = Matter.Bodies.rectangle(
+                tile.x - shape.left,
+                tile.y - shape.top,
+                shape.left + shape.right,
+                shape.top + shape.bottom,
+                options
+            );
+        } else if (shape.type === 'circle') {
+            tile.matterBody = Matter.Bodies.circle(
+                tile.x,
+                tile.y,
+                shape.r,
+                options
+            );
+        } else if (shape.type === 'strip') {
+            const vertices = Matter.Vertices.create(shape.points);
+            tile.matterBody = Matter.Bodies.fromVertices(tile.x, tile.y, vertices, options);
+        }
+        Matter.Body.setCentre(tile.matterBody, {
+            x: (tile.sprite.texture.defaultAnchor.x - 0.5) * tile.sprite.texture.width,
+            y: (tile.sprite.texture.defaultAnchor.y - 0.5) * tile.sprite.texture.height
+        }, true);
+        Matter.Body.setPosition(tile.matterBody, tile.sprite.position);
+        Matter.World.add(ct.room.matterWorld, tile.matterBody);
+    },
+    getImpact(pair) {
+        const {bodyA, bodyB} = pair;
+        if (bodyA.isSensor || bodyB.isSensor) {
+            return 0;
+        }
+        // Because static objects are Infinity-ly heavy, and Infinity * 0 returns NaN,
+        // We should compute mass for static objects manually.
+        const massA = bodyA.mass === Infinity ? 0 : bodyA.mass,
+              massB = bodyB.mass === Infinity ? 0 : bodyB.mass;
+        const impact = /*(bodyA.mass + bodyB.mass) */ ct.u.pdc(
+            // This tells how much objects are moving in opposite directions
+            bodyA.velocity.x * massA,
+            bodyA.velocity.y * massA,
+            bodyB.velocity.x * massB,
+            bodyB.velocity.y * massB
+        );
+        return impact;
+    },
+    walkOverWithRulebook(rulebook, pairs) {
+        if (!pairs.length || !rulebook.length) {
+            return;
+        }
+        for (const pair of pairs) {
+            const impact = ct.matter.getImpact(pair);
+            const bodies = [pair.bodyA, pair.bodyB];
+            for (const body of bodies) {
+                if (!body.copy) {
+                    continue;
+                }
+                for (const rule of rulebook) {
+                    if (body.copy.template === rule.mainTemplate) {
+                        const otherBody = pair.bodyA === body ? pair.bodyB : pair.bodyA;
+                        // eslint-disable-next-line max-depth
+                        if (rule.any ||
+                            (otherBody.copy && rule.otherTemplate === otherBody.copy.template)) {
+                            rule.func.apply(body.copy, [otherBody.copy || otherBody.tile, impact]);
+                        }
+                    }
+                }
+            }
+        }
+    },
+    rulebookStart: [],
+    rulebookActive: [],
+    rulebookEnd: []
+};
+
+/* eslint-disable no-nested-ternary */
+/* global CtTimer */
+
+ct.tween = {
+    /**
+     * Creates a new tween effect and adds it to the game loop
+     *
+     * @param {Object} options An object with options:
+     * @param {Object|Copy} options.obj An object to animate. All objects are supported.
+     * @param {Object} options.fields A map with pairs `fieldName: newValue`.
+     * Values must be of numerical type.
+     * @param {Function} options.curve An interpolating function. You can write your own,
+     * or use default ones (see methods in `ct.tween`). The default one is `ct.tween.ease`.
+     * @param {Number} options.duration The duration of easing, in milliseconds.
+     * @param {Number} options.useUiDelta If true, use ct.deltaUi instead of ct.delta.
+     * The default is `false`.
+     * @param {boolean} options.silent If true, will not throw errors if the animation
+     * was interrupted.
+     *
+     * @returns {Promise} A promise which is resolved if the effect was fully played,
+     * or rejected if it was interrupted manually by code, room switching or instance kill.
+     * You can call a `stop()` method on this promise to interrupt it manually.
+     */
+    add(options) {
+        var tween = {
+            obj: options.obj,
+            fields: options.fields || {},
+            curve: options.curve || ct.tween.ease,
+            duration: options.duration || 1000,
+            timer: new CtTimer(this.duration, false, options.useUiDelta || false)
+        };
+        var promise = new Promise((resolve, reject) => {
+            tween.resolve = resolve;
+            tween.reject = reject;
+            tween.starting = {};
+            for (var field in tween.fields) {
+                tween.starting[field] = tween.obj[field] || 0;
+            }
+            ct.tween.tweens.push(tween);
+        });
+        if (options.silent) {
+            promise.catch(() => void 0);
+            tween.timer.catch(() => void 0);
+        }
+        promise.stop = function stop() {
+            tween.reject({
+                code: 0,
+                info: 'Stopped by game logic',
+                from: 'ct.tween'
+            });
+        };
+        return promise;
+    },
+    /**
+     * Linear interpolation.
+     * Here and below, these parameters are used:
+     *
+     * @param {Number} s Starting value
+     * @param {Number} d The change of value to transition to, the Delta
+     * @param {Number} a The current timing state, 0-1
+     * @returns {Number} Interpolated value
+     */
+    linear(s, d, a) {
+        return d * a + s;
+    },
+    ease(s, d, a) {
+        a *= 2;
+        if (a < 1) {
+            return d / 2 * a * a + s;
+        }
+        a--;
+        return -d / 2 * (a * (a - 2) - 1) + s;
+    },
+    easeInQuad(s, d, a) {
+        return d * a * a + s;
+    },
+    easeOutQuad(s, d, a) {
+        return -d * a * (a - 2) + s;
+    },
+    easeInCubic(s, d, a) {
+        return d * a * a * a + s;
+    },
+    easeOutCubic(s, d, a) {
+        a--;
+        return d * (a * a * a + 1) + s;
+    },
+    easeInOutCubic(s, d, a) {
+        a *= 2;
+        if (a < 1) {
+            return d / 2 * a * a * a + s;
+        }
+        a -= 2;
+        return d / 2 * (a * a * a + 2) + s;
+    },
+    easeInOutQuart(s, d, a) {
+        a *= 2;
+        if (a < 1) {
+            return d / 2 * a * a * a * a + s;
+        }
+        a -= 2;
+        return -d / 2 * (a * a * a * a - 2) + s;
+    },
+    easeInQuart(s, d, a) {
+        return d * a * a * a * a + s;
+    },
+    easeOutQuart(s, d, a) {
+        a--;
+        return -d * (a * a * a * a - 1) + s;
+    },
+    easeInCirc(s, d, a) {
+        return -d * (Math.sqrt(1 - a * a) - 1) + s;
+    },
+    easeOutCirc(s, d, a) {
+        a--;
+        return d * Math.sqrt(1 - a * a) + s;
+    },
+    easeInOutCirc(s, d, a) {
+        a *= 2;
+        if (a < 1) {
+            return -d / 2 * (Math.sqrt(1 - a * a) - 1) + s;
+        }
+        a -= 2;
+        return d / 2 * (Math.sqrt(1 - a * a) + 1) + s;
+    },
+    easeInBack(s, d, a) {
+        const c1 = 1.70158;
+        const c3 = c1 + 1;
+        var x = c3 * a * a * a - c1 * a * a;
+        return d * x + s;
+    },
+    easeOutBack(s, d, a) {
+        const c1 = 1.70158;
+        const c3 = c1 + 1;
+        var x = 1 + c3 * (a - 1) ** 3 + c1 * (a - 1) ** 2;
+        return d * x + s;
+    },
+    easeInOutBack(s, d, a) {
+        const c1 = 1.70158;
+        const c2 = c1 * 1.525;
+        var x = a < 0.5 ?
+            ((2 * a) ** 2 * ((c2 + 1) * 2 * a - c2)) / 2 :
+            ((2 * a - 2) ** 2 * ((c2 + 1) * (a * 2 - 2) + c2) + 2) / 2;
+        return d * x + s;
+    },
+    easeInElastic(s, d, a) {
+        const c4 = (2 * Math.PI) / 3;
+        var x = a === 0 ?
+            0 :
+            a === 1 ?
+                1 :
+                -(2 ** (10 * a - 10)) * Math.sin((a * 10 - 10.75) * c4);
+        return d * x + s;
+    },
+    easeOutElastic(s, d, a) {
+        const c4 = (2 * Math.PI) / 3;
+        var x = a === 0 ?
+            0 :
+            a === 1 ?
+                1 :
+                2 ** (-10 * a) * Math.sin((a * 10 - 0.75) * c4) + 1;
+        return d * x + s;
+    },
+    easeInOutElastic(s, d, a) {
+        const c5 = (2 * Math.PI) / 4.5;
+        var x = a === 0 ?
+            0 :
+            a === 1 ?
+                1 :
+                a < 0.5 ?
+                    -(2 ** (20 * a - 10) * Math.sin((20 * a - 11.125) * c5)) / 2 :
+                    (2 ** (-20 * a + 10) * Math.sin((20 * a - 11.125) * c5)) / 2 + 1;
+        return d * x + s;
+    },
+    easeOutBounce(s, d, a) {
+        const n1 = 7.5625;
+        const d1 = 2.75;
+        var x;
+        if (a < 1 / d1) {
+            x = n1 * a * a;
+        } else if (a < 2 / d1) {
+            x = n1 * (a -= 1.5 / d1) * a + 0.75;
+        } else if (a < 2.5 / d1) {
+            x = n1 * (a -= 2.25 / d1) * a + 0.9375;
+        } else {
+            x = n1 * (a -= 2.625 / d1) * a + 0.984375;
+        }
+        return d * x + s;
+    },
+    easeInBounce(s, d, a) {
+        const n1 = 7.5625;
+        const d1 = 2.75;
+        var x;
+        a = 1 - a;
+        if (a < 1 / d1) {
+            x = n1 * a * a;
+        } else if (a < 2 / d1) {
+            x = n1 * (a -= 1.5 / d1) * a + 0.75;
+        } else if (a < 2.5 / d1) {
+            x = n1 * (a -= 2.25 / d1) * a + 0.9375;
+        } else {
+            x = n1 * (a -= 2.625 / d1) * a + 0.984375;
+        }
+        return d * (1 - x) + s;
+    },
+    easeInOutBounce(s, d, a) {
+        const n1 = 7.5625;
+        const d1 = 2.75;
+        var x, b;
+        if (a < 0.5) {
+            b = 1 - 2 * a;
+        } else {
+            b = 2 * a - 1;
+        }
+        if (b < 1 / d1) {
+            x = n1 * b * b;
+        } else if (b < 2 / d1) {
+            x = n1 * (b -= 1.5 / d1) * b + 0.75;
+        } else if (b < 2.5 / d1) {
+            x = n1 * (b -= 2.25 / d1) * b + 0.9375;
+        } else {
+            x = n1 * (b -= 2.625 / d1) * b + 0.984375;
+        }
+        if (a < 0.5) {
+            x = (1 - b) / 1;
+        } else {
+            x = (1 + b) / 1;
+        }
+        return d * x + s;
+    },
+    tweens: [],
+    wait: ct.u.wait
+};
+ct.tween.easeInOutQuad = ct.tween.ease;
+
+/* Based on https://pixijs.io/pixi-filters/docs/PIXI.filters */
+/* Sandbox demo: https://pixijs.io/pixi-filters/tools/demo/ */
+
+(() => {
+  const filters = [
+    'Adjustment',
+    'AdvancedBloom',
+    'Ascii',
+    'Bevel',
+    'Bloom',
+    'BulgePinch',
+    'ColorMap',
+    'ColorOverlay',
+    'ColorReplace',
+    'Convolution',
+    'CrossHatch',
+    'CRT',
+    'Dot',
+    'DropShadow',
+    'Emboss',
+    'Glitch',
+    'Glow',
+    'Godray',
+    'KawaseBlur',
+    'MotionBlur',
+    'MultiColorReplace',
+    'OldFilm',
+    'Outline',
+    'Pixelate',
+    'RadialBlur',
+    'Reflection',
+    'RGBSplit',
+    'Shockwave',
+    'SimpleLightmap',
+    'TiltShift',
+    'Twist',
+    'ZoomBlur',
+    //Built-in filters
+    'Alpha',
+    'Blur',
+    'BlurPass',
+    'ColorMatrix',
+    'Displacement',
+    'FXAA',
+    'Noise'
+  ];
+
+  const addFilter = (target, fx) => {
+    if (!target.filters) {
+      target.filters = [fx];
+    } else {
+      target.filters.push(fx);
+    }
+    return fx;
+  };
+
+  const createFilter = (target, filter, ...args) => {
+    let fx;
+    let filterName = filter + 'Filter';
+    if (filterName === 'BlurPassFilter') {
+      filterName = 'BlurFilterPass';
+    }
+    if (args.length > 0) {
+      fx = new PIXI.filters[filterName](...args);
+    } else {
+      fx = new PIXI.filters[filterName]();
+    }
+    return addFilter(target, fx);
+  };
+
+  ct.filters = {};
+
+  for (const filter of filters) {
+    ct.filters['add' + filter] = (target, ...args) =>
+      createFilter(target, filter, ...args);
+  }
+
+  ct.filters.remove = (target, filter) => {
+    for (const f in target.filters) {
+      if (target.filters[f] === filter) {
+        target.filters.splice(f, 1);
+      }
+    }
+  };
+
+  ct.filters.custom = (target, vertex, fragment, uniforms) => {
+    const fx = new PIXI.Filter(vertex, fragment, uniforms);
+    return addFilter(target, fx);
+  }
+
+})();
+
+(function ctUlid(ct){
+
+	ct.ulid = {
+		randomizr(){
+			ct.ulid.rn = Math.random().toString(16).slice(-4); 
+			return ct.ulid.rn;
+		},
+		make(){
+			
+			ct.ulid.uuid = 
+			ct.ulid.randomizr()
+				+ ct.ulid.randomizr() 
+				+ '-' + 
+				ct.ulid.randomizr()
+				+ '-' + 
+				ct.ulid.randomizr()
+				+ '-' + 
+				ct.ulid.randomizr()
+				+ '-' + 
+				ct.ulid.randomizr()
+				+ ct.ulid.randomizr()
+				+ ct.ulid.randomizr();
+		
+			return ct.ulid.uuid;
+		},
+		crandomizr(number){
+			ct.ulid.rn = Math.random().toString(32).slice(-number); 
+			return ct.ulid.rn;
+		},
+		custom(){
+
+			ct.ulid.uuid = 
+			ct.ulid.crandomizr([8][0])
+			+'-'+
+			ct.ulid.crandomizr([4][0])
+			+'-'+
+			ct.ulid.crandomizr([4][0])
+			+'-'+
+			ct.ulid.crandomizr([4][0])
+			+'-'+
+			ct.ulid.crandomizr([12][0]);
+
+			return ct.ulid.uuid;
+		}
+
+	}
+
+})(ct);
+
+(function () {
+    var screenshots = 0;
+    const downloadTexture = function (canvas, name) {
+        if (name) {
+            name = name.toString();
+            if (!name.endsWith('.png')) {
+                name += '.png';
+            }
+        }
+        const a = document.createElement('a');
+        a.setAttribute('href', canvas.toDataURL('image/png'));
+        screenshots++;
+        a.setAttribute(
+            'download',
+            name || `${ct.meta.name || 'Screenshot'}_${screenshots}.png`
+        );
+        a.style.display = 'none';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    };
+    ct.capture = {
+        screen(name) {
+            const renderTexture = PIXI.RenderTexture.create({
+                width: ct.pixiApp.renderer.width,
+                height: ct.pixiApp.renderer.height
+            });
+            ct.pixiApp.renderer.render(ct.pixiApp.stage, renderTexture);
+            const canvas = ct.pixiApp.renderer.extract.canvas(renderTexture);
+            downloadTexture(canvas, name);
+        },
+        portion(x, y, width, height, name) {
+            const rec = new PIXI.Rectangle(x, y, width, height);
+            const renderTexture = PIXI.RenderTexture.create({
+                width: ct.pixiApp.renderer.width,
+                height: ct.pixiApp.renderer.height
+            });
+            ct.pixiApp.renderer.render(ct.pixiApp.stage, renderTexture);
+            renderTexture.frame = rec;
+            const canvas = ct.pixiApp.renderer.extract.canvas(renderTexture);
+            downloadTexture(canvas, name);
+        },
+        object(obj, name) {
+            const prevX = obj.x,
+                  prevY = obj.y;
+            obj.x = obj.y = 0;
+            const canvas = ct.pixiApp.renderer.extract.canvas(obj, obj.getBounds());
+            downloadTexture(canvas, name);
+            obj.x = prevX;
+            obj.y = prevY;
+        }
+    };
+})();
+/**
+ * @typedef {ITextureOptions}
+ * @property {} []
+ */
+
+(function resAddon(ct) {
+    const loadingScreen = document.querySelector('.ct-aLoadingScreen'),
+          loadingBar = loadingScreen.querySelector('.ct-aLoadingBar');
+    const dbFactory = window.dragonBones ? dragonBones.PixiFactory.factory : null;
+    /**
+     * A utility object that manages and stores textures and other entities
+     * @namespace
+     */
+    ct.res = {
+        sounds: {},
+        textures: {},
+        skeletons: {},
+        groups: [{"fonts":{"ungrouped":[]},"textures":{"ungrouped":["4","1","2","5","3","6","wall","Mon_02","Mon_04","Mon_08","Mon_03","Mon_05","Mon_01","Mon_06","Mon_09","Mon_07","Mon_00","Minigame_bg_3","Placeholder","Bomb","pointer","Mon-Part-Circle01","Star_11","Confetti_04","ImpactArea","forceArea"]},"styles":{"ungrouped":[]},"rooms":{"ungrouped":["GameScene","WaitingRoom"]},"templates":{"ungrouped":["walls","1","2","3","4","5","6","NextShape","CurrentShape","MergePlaceholder","Score","7","8","9","0","Minigame_bg","Placeholder","Bomb","WALL_TOP_TRIGGER","ImpactArea","ForceArea","FlyScore"]},"sounds":{"ungrouped":["Sound_0","Sound_1","Sound_2","Sound_3","Sound_4","Sound_5","Sound_6","Sound_7","Sound_8","Sound_9","Sound_BG","Sound_Switch","Sound_Explode","Sound_Fuse_Primed","Sound_BombDrop","Sound_MonDrop1","Sound_OnStart","Sound_Collision0","Sound_Collision1","Sound_Collision2"]},"emitterTandems":{"ungrouped":["Mon_Trail_0","Mon_Trail_1","Mon_Trail_2","Mon_Trail_3","Mon_Trail_4","Mon_Explode_0","Mon_Explode_1","Mon_Explode_2","Mon_Explode_3","Mon_Explode_4","Mon_Explode_5","Mon_Explode_6","Mon_Explode_7","Mon_Explode_8","Mon_Explode_9","Mon_Trail_Bomb","Mon_Explode_Bomb","Mon_Explode_Bomb_Fuse"]}}][0],
+        /**
+         * Loads and executes a script by its URL
+         * @param {string} url The URL of the script file, with its extension.
+         * Can be relative or absolute.
+         * @returns {Promise<void>}
+         * @async
+         */
+        loadScript(url = ct.u.required('url', 'ct.res.loadScript')) {
+            var script = document.createElement('script');
+            script.src = url;
+            const promise = new Promise((resolve, reject) => {
+                script.onload = () => {
+                    resolve();
+                };
+                script.onerror = () => {
+                    reject();
+                };
+            });
+            document.getElementsByTagName('head')[0].appendChild(script);
+            return promise;
+        },
+        /**
+         * Loads an individual image as a named ct.js texture.
+         * @param {string} url The path to the source image.
+         * @param {string} name The name of the resulting ct.js texture
+         * as it will be used in your code.
+         * @param {ITextureOptions} textureOptions Information about texture's axis
+         * and collision shape.
+         * @returns {Promise<Array<PIXI.Texture>>}
+         */
+        loadTexture(url = ct.u.required('url', 'ct.res.loadTexture'), name = ct.u.required('name', 'ct.res.loadTexture'), textureOptions = {}) {
+            const loader = new PIXI.Loader();
+            loader.add(url, url);
+            return new Promise((resolve, reject) => {
+                loader.load((loader, resources) => {
+                    resolve(resources);
+                });
+                loader.onError.add(() => {
+                    reject(new Error(`[ct.res] Could not load image ${url}`));
+                });
+            })
+            .then(resources => {
+                const tex = [resources[url].texture];
+                tex.shape = tex[0].shape = textureOptions.shape || {};
+                tex[0].defaultAnchor = new PIXI.Point(
+                    textureOptions.anchor.x || 0,
+                    textureOptions.anchor.x || 0
+                );
+                ct.res.textures[name] = tex;
+                return tex;
+            });
+        },
+        /**
+         * Loads a skeleton made in DragonBones into the game
+         * @param {string} ske Path to the _ske.json file that contains
+         * the armature and animations.
+         * @param {string} tex Path to the _tex.json file that describes the atlas
+         * with a skeleton's textures.
+         * @param {string} png Path to the _tex.png atlas that contains
+         * all the textures of the skeleton.
+         * @param {string} name The name of the skeleton as it will be used in ct.js game
+         */
+        loadDragonBonesSkeleton(ske, tex, png, name = ct.u.required('name', 'ct.res.loadDragonBonesSkeleton')) {
+            const dbf = dragonBones.PixiFactory.factory;
+            const loader = new PIXI.Loader();
+            loader
+                .add(ske, ske)
+                .add(tex, tex)
+                .add(png, png);
+            return new Promise((resolve, reject) => {
+                loader.load(() => {
+                    resolve();
+                });
+                loader.onError.add(() => {
+                    reject(new Error(`[ct.res] Could not load skeleton with _ske.json: ${ske}, _tex.json: ${tex}, _tex.png: ${png}.`));
+                });
+            }).then(() => {
+                dbf.parseDragonBonesData(loader.resources[ske].data);
+                dbf.parseTextureAtlasData(
+                    loader.resources[tex].data,
+                    loader.resources[png].texture
+                );
+                // eslint-disable-next-line id-blacklist
+                ct.res.skeletons[name] = loader.resources[ske].data;
+            });
+        },
+        /**
+         * Loads a Texture Packer compatible .json file with its source image,
+         * adding ct.js textures to the game.
+         * @param {string} url The path to the JSON file that describes the atlas' textures.
+         * @returns {Promise<Array<string>>} A promise that resolves into an array
+         * of all the loaded textures.
+         */
+        loadAtlas(url = ct.u.required('url', 'ct.res.loadAtlas')) {
+            const loader = new PIXI.Loader();
+            loader.add(url, url);
+            return new Promise((resolve, reject) => {
+                loader.load((loader, resources) => {
+                    resolve(resources);
+                });
+                loader.onError.add(() => {
+                    reject(new Error(`[ct.res] Could not load atlas ${url}`));
+                });
+            })
+            .then(resources => {
+                const sheet = resources[url].spritesheet;
+                for (const animation in sheet.animations) {
+                    const tex = sheet.animations[animation];
+                    const animData = sheet.data.animations;
+                    for (let i = 0, l = animData[animation].length; i < l; i++) {
+                        const a = animData[animation],
+                              f = a[i];
+                        tex[i].shape = sheet.data.frames[f].shape;
+                    }
+                    tex.shape = tex[0].shape || {};
+                    ct.res.textures[animation] = tex;
+                }
+                return Object.keys(sheet.animations);
+            });
+        },
+        /**
+         * Loads a bitmap font by its XML file.
+         * @param {string} url The path to the XML file that describes the bitmap fonts.
+         * @param {string} name The name of the font.
+         * @returns {Promise<string>} A promise that resolves into the font's name
+         * (the one you've passed with `name`).
+         */
+        loadBitmapFont(url = ct.u.required('url', 'ct.res.loadBitmapFont'), name = ct.u.required('name', 'ct.res.loadBitmapFont')) {
+            const loader = new PIXI.Loader();
+            loader.add(name, url);
+            return new Promise((resolve, reject) => {
+                loader.load((loader, resources) => {
+                    resolve(resources);
+                });
+                loader.onError.add(() => {
+                    reject(new Error(`[ct.res] Could not load bitmap font ${url}`));
+                });
+            });
+        },
+        loadGame() {
+            // !! This method is intended to be filled by ct.IDE and be executed
+            // exactly once at game startup. Don't put your code here.
+            const changeProgress = percents => {
+                loadingScreen.setAttribute('data-progress', percents);
+                loadingBar.style.width = percents + '%';
+            };
+
+            const atlases = [["./img/a0.json","./img/a1.json"]][0];
+            const tiledImages = [{}][0];
+            const sounds = [[{"name":"Sound_0","wav":false,"mp3":"./snd/Qq52Ld7JPj3wqL.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_1","wav":false,"mp3":"./snd/HqPzRRPdp39qMq.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_2","wav":false,"mp3":"./snd/FRBP3RDqBFpdJ4.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_3","wav":false,"mp3":"./snd/6B6NQDJQn6WrkR.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_4","wav":false,"mp3":"./snd/p7jnL9qTRKJ9jt.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_5","wav":false,"mp3":"./snd/PLnqj2z1pHFkh7.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_6","wav":false,"mp3":"./snd/9hkLG4Kh1Nb1Lk.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_7","wav":false,"mp3":"./snd/8FGRTnzB6pHdQK.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_8","wav":false,"mp3":"./snd/GkbGNJ5CwzW6T7.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_9","wav":false,"mp3":"./snd/k2k2RDRDTQbRdM.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_BG","wav":false,"mp3":"./snd/QMR7cDdHD763rP.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_Switch","wav":false,"mp3":"./snd/cNj6PCg7D2f5Qp.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_Explode","wav":false,"mp3":"./snd/FQf8zd45pkKLdj.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_Fuse_Primed","wav":false,"mp3":"./snd/LchjnPwDLg8rmd.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_BombDrop","wav":false,"mp3":"./snd/LL7mhMHt2bMmHL.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_MonDrop1","wav":false,"mp3":"./snd/pmDrPMT7cgF6Q6.mp3","ogg":false,"poolSize":2,"isMusic":false},{"name":"Sound_OnStart","wav":false,"mp3":"./snd/hHWMMBfM6n2pmh.mp3","ogg":false,"poolSize":1,"isMusic":false},{"name":"Sound_Collision0","wav":false,"mp3":"./snd/Lz534NjDqh2KPk.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_Collision1","wav":false,"mp3":"./snd/1FCj166hfrT7gf.mp3","ogg":false,"poolSize":5,"isMusic":false},{"name":"Sound_Collision2","wav":false,"mp3":"./snd/pmGRhBgr6G3k7C.mp3","ogg":false,"poolSize":5,"isMusic":false}]][0];
+            const bitmapFonts = [{}][0];
+            const dbSkeletons = [[]][0]; // DB means DragonBones
+
+            if (sounds.length && !ct.sound) {
+                throw new Error('[ct.res] No sound system found. Make sure you enable one of the `sound` catmods. If you don\'t need sounds, remove them from your ct.js project.');
+            }
+
+            const totalAssets = atlases.length;
+            let assetsLoaded = 0;
+            const loadingPromises = [];
+
+            loadingPromises.push(...atlases.map(atlas =>
+                ct.res.loadAtlas(atlas)
+                .then(texturesNames => {
+                    assetsLoaded++;
+                    changeProgress(assetsLoaded / totalAssets * 100);
+                    return texturesNames;
+                })));
+
+            for (const name in tiledImages) {
+                loadingPromises.push(ct.res.loadTexture(
+                    tiledImages[name].source,
+                    name,
+                    {
+                        anchor: tiledImages[name].anchor,
+                        shape: tiledImages[name].shape
+                    }
+                ));
+            }
+            for (const font in bitmapFonts) {
+                loadingPromises.push(ct.res.loadBitmapFont(bitmapFonts[font], font));
+            }
+            for (const skel of dbSkeletons) {
+                loadingPromises.push(ct.res.loadDragonBonesSkeleton(...skel));
+            }
+
+            for (const sound of sounds) {
+                ct.sound.init(sound.name, {
+                    wav: sound.wav || false,
+                    mp3: sound.mp3 || false,
+                    ogg: sound.ogg || false
+                }, {
+                    poolSize: sound.poolSize,
+                    music: sound.isMusic
+                });
+            }
+
+            /*@res@*/
+            
+
+            Promise.all(loadingPromises)
+            .then(() => {
+                Object.defineProperty(ct.templates.Copy.prototype, 'cgroup', {
+    set: function (value) {
+        this.$cgroup = value;
+    },
+    get: function () {
+        return this.$cgroup;
+    }
+});
+Object.defineProperty(ct.templates.Copy.prototype, 'moveContinuous', {
+    value: function (cgroup, precision) {
+        if (this.gravity) {
+            this.hspeed += this.gravity * ct.delta * Math.cos(this.gravityDir * Math.PI / 180);
+            this.vspeed += this.gravity * ct.delta * Math.sin(this.gravityDir * Math.PI / 180);
+        }
+        return ct.place.moveAlong(this, this.direction, this.speed * ct.delta, cgroup, precision);
+    }
+});
+Object.defineProperty(ct.templates.Copy.prototype, 'moveBullet', {
+    value: function (cgroup, precision) {
+        return this.moveContinuous(cgroup, precision);
+    }
+});
+
+Object.defineProperty(ct.templates.Copy.prototype, 'moveContinuousByAxes', {
+    value: function (cgroup, precision) {
+        if (this.gravity) {
+            this.hspeed += this.gravity * ct.delta * Math.cos(this.gravityDir * Math.PI / 180);
+            this.vspeed += this.gravity * ct.delta * Math.sin(this.gravityDir * Math.PI / 180);
+        }
+        return ct.place.moveByAxes(
+            this,
+            this.hspeed * ct.delta,
+            this.vspeed * ct.delta,
+            cgroup,
+            precision
+        );
+    }
+});
+Object.defineProperty(ct.templates.Copy.prototype, 'moveSmart', {
+    value: function (cgroup, precision) {
+        return this.moveContinuousByAxes(cgroup, precision);
+    }
+});
+
+Object.defineProperty(ct.templates.Tilemap.prototype, 'enableCollisions', {
+    value: function (cgroup) {
+        ct.place.enableTilemapCollisions(this, cgroup);
+    }
+});
+ct.pointer.setupListeners();
+
+                loadingScreen.classList.add('hidden');
+                ct.pixiApp.ticker.add(ct.loop);
+                ct.rooms.forceSwitch(ct.rooms.starting);
+            })
+            .catch(console.error);
+        },
+        /*
+         * Gets a pixi.js texture from a ct.js' texture name,
+         * so that it can be used in pixi.js objects.
+         * @param {string|-1} name The name of the ct.js texture, or -1 for an empty texture
+         * @param {number} [frame] The frame to extract
+         * @returns {PIXI.Texture|Array<PIXI.Texture>} If `frame` was specified,
+         * returns a single PIXI.Texture. Otherwise, returns an array
+         * with all the frames of this ct.js' texture.
+         *
+         * @note Formatted as a non-jsdoc comment as it requires a better ts declaration
+         * than the auto-generated one
+         */
+        getTexture(name, frame) {
+            if (frame === null) {
+                frame = void 0;
+            }
+            if (name === -1) {
+                if (frame !== void 0) {
+                    return PIXI.Texture.EMPTY;
+                }
+                return [PIXI.Texture.EMPTY];
+            }
+            if (!(name in ct.res.textures)) {
+                throw new Error(`Attempt to get a non-existent texture ${name}`);
+            }
+            const tex = ct.res.textures[name];
+            if (frame !== void 0) {
+                return tex[frame];
+            }
+            return tex;
+        },
+        /*
+         * Returns the collision shape of the given texture.
+         * @param {string|-1} name The name of the ct.js texture, or -1 for an empty collision shape
+         * @returns {object}
+         *
+         * @note Formatted as a non-jsdoc comment as it requires a better ts declaration
+         * than the auto-generated one
+         */
+        getTextureShape(name) {
+            if (name === -1) {
+                return {};
+            }
+            if (!(name in ct.res.textures)) {
+                throw new Error(`Attempt to get a shape of a non-existent texture ${name}`);
+            }
+            return ct.res.textures[name].shape;
+        },
+        /**
+         * Creates a DragonBones skeleton, ready to be added to your copies.
+         * @param {string} name The name of the skeleton asset
+         * @param {string} [skin] Optional; allows you to specify the used skin
+         * @returns {object} The created skeleton
+         */
+        makeSkeleton(name, skin) {
+            const r = ct.res.skeletons[name],
+                  skel = dbFactory.buildArmatureDisplay('Armature', r.name, skin);
+            skel.ctName = name;
+            skel.on(dragonBones.EventObject.SOUND_EVENT, function skeletonSound(event) {
+                if (ct.sound.exists(event.name)) {
+                    ct.sound.spawn(event.name);
+                } else {
+                    // eslint-disable-next-line no-console
+                    console.warn(`Skeleton ${skel.ctName} tries to play a non-existing sound ${event.name} at animation ${skel.animation.lastAnimationName}`);
+                }
+            });
+            return skel;
+        }
+    };
+
+    ct.res.loadGame();
+})(ct);
+
+/**
+ * A collection of content that was made inside ct.IDE.
+ * @type {any}
+ */
+ct.content = JSON.parse(["{}"][0] || '{}');
+
+var channel = new MessageChannel();
+var port1 = channel.port1;
+
+let hasMusic = false;
+let hasSound = true;
+
+port1.onmessage = onMessage;
+
+//HANDSHAKE
+window.addEventListener("message", initPort);
+
+function initPort(e) {
+    // if (e.origin !== "https://suika-solo.vercel.app" && e.origin !== "https://merzi.playzap.games" && e.origin!== 'http://localhost:5173') return;
+    
+    // console.log(e.data);
+    if (e.data === "init") 
+    {
+        // console.log(e.data);
+        window.parent.postMessage('initParent', '*', [channel.port2]);
+        
+        window.postMessage('initParent', '*', [channel.port2]);
+
+        window.ReactNativeWebView ? 
+            window.ReactNativeWebView.postMessage('initParent', '*', [channel.port2]) 
+            :
+            window.parent.postMessage('initParent', '*', [channel.port2]);
+        
+        ct.rooms.switch('GameScene');
+    } 
+    if (e.data === "stop") 
+    {
+        // console.log(e.data);
+        ct.rooms.switch('WaitingRoom');
+    } 
+    else 
+    {
+        var msgObj = e.data;
+        onMessage({
+            data: msgObj
+        });
+    }
+}
+
+// Handle messages received on port2
+function onMessage(e) {
+    // console.log(e)
+    // if (e.origin !== "https://suika-solo.vercel.app" && e.origin !== "https://merzi.playzap.games" && e.origin!== 'http://localhost:5173') return;
+    
+    try {
+
+        // console.log(e.data);
+        const data = JSON.parse(e.data)
+
+        if(data.command == "Reinit"){
+            hasMusic = data.music;
+            hasSound = data.sound;
+            ct.room.Restart()
+        }
+        else if(data.command == "Prime"){
+            ct.room.PrimeBomb()
+        }
+        else if(data.command == "Exchange"){
+            ct.room.SwitchShape();
+        }
+        else if(data.command == "Share"){
+            ct.room.ShareShape();
+        }
+
+        else if(data.command == "MuteMusic"){
+            ct.room.PauseBG();
+        }
+        else if(data.command == "UnmuteMusic"){
+            ct.room.ResumeBG();
+        }
+        else if(data.command == "MuteSound"){
+            ct.room.Sound = false;
+        }
+        else if(data == "UnmuteSound"){
+            ct.room.Sound = true;
+        }
+    }
+    catch{
+
+    }
+    // port2.postMessage("Message received by iframe");
+}
+function sendMessage (msg) {
+    if(port1){
+        port1.postMessage(JSON.stringify(msg));
+    }
+};
+
+;
+function addDropShadow(x = 0, y = 0, width, height, radius = 10,  options = {}) {
+  const opts = {
+    alpha: 0.2,
+    blur: 3,
+    color: 0x000000,
+    distanceX: 0,
+    distanceY: 2,
+    strength: 1,
+    quality: 4,
+    resolution:1,
+    ...options,
+  };
+  const shadow = new PIXI.Graphics();
+
+  shadow.beginFill(opts.color, opts.alpha);
+  shadow.drawRoundedRect(x + opts.distanceX, y + opts.distanceY, width, height, radius);
+  shadow.endFill();
+
+  shadow.pivot.x = shadow.width / 2;
+  shadow.pivot.y = shadow.height / 2;
+  shadow.filters = [new PIXI.filters.BlurFilter(opts.blur, opts.quality, opts.resolution)];
+
+  return shadow;
+
+};
+function detectMob() {
+    if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+        // true for mobile device
+        return true;
+    }
+    else{
+        return false;
+    }
+  }
+
+  ;
+const stages = [
+	{
+		name: 'Mon_00',
+		points: 4
+	},
+	{
+		name: 'Mon_01',
+		points: 7
+	},
+	{
+		name: 'Mon_02',
+		points: 13
+	},
+	{
+		name: 'Mon_03',
+		points: 18
+	},
+	{
+		name: 'Mon_04',
+		points: 23
+	},
+	{
+		name: 'Mon_05',
+		points: 27
+	},
+	{
+		name: 'Mon_06',
+		points: 33
+	},
+	{
+		name: 'Mon_07',
+		points: 45
+	},
+	{
+		name: 'Mon_08',
+		points: 56
+	},
+	{
+		name: 'Mon_09',
+		points: 70
+	}
+];;
